@@ -1,0 +1,2018 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Word Codex — Word Bank Builder</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+    <style>
+        /* ── reset & base ── */
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            margin: 0;
+            background:
+                radial-gradient(ellipse 900px 500px at 15% -10%, #2a3364 0%, transparent 60%),
+                radial-gradient(ellipse 700px 500px at 105% 10%, #26305e 0%, transparent 55%),
+                #161c37;
+            color: #f1ecdd;
+            font-family: 'Manrope', sans-serif;
+            min-height: 100vh;
+        }
+        ::selection {
+            background: #d4a24c;
+            color: #1c2344;
+        }
+
+        /* ── header ── */
+        header {
+            padding: 34px 28px 24px;
+            text-align: center;
+            border-bottom: 1px solid #2e3660;
+            position: relative;
+        }
+        header::before {
+            content: "❦";
+            display: block;
+            color: #8a723f;
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        h1 {
+            font-family: 'Cinzel', serif;
+            font-weight: 700;
+            font-size: clamp(26px, 4vw, 38px);
+            margin: 0 0 6px;
+            letter-spacing: .5px;
+            background: linear-gradient(180deg, #f6ecd0, #d4a24c);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+        header p {
+            color: #a9b0d4;
+            font-size: 13.5px;
+            margin: 0 auto;
+            max-width: 520px;
+            line-height: 1.6;
+        }
+        header code {
+            background: #2c3563;
+            border: 1px solid #3c4576;
+            padding: 1px 6px;
+            border-radius: 5px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 12px;
+            color: #d4a24c;
+        }
+
+        /* ── layout ── */
+        .layout {
+            max-width: 1180px;
+            margin: 0 auto;
+            padding: 26px 20px 60px;
+            display: grid;
+            grid-template-columns: 270px 1fr;
+            gap: 22px;
+        }
+        @media (max-width: 860px) {
+            .layout {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* ── sidebar: category dropdown ── */
+        .codex-spine {
+            background: #1c2344;
+            border: 1px solid #2e3660;
+            border-radius: 14px;
+            padding: 14px;
+            align-self: start;
+            position: sticky;
+            top: 16px;
+        }
+        .codex-spine h2 {
+            font-family: 'Cinzel', serif;
+            font-size: 13px;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            color: #6b73a0;
+            margin: 4px 6px 10px;
+        }
+
+        /* ── custom dropdown ── */
+        .cat-select-wrap {
+            position: relative;
+        }
+        .cat-select-wrap::after {
+            content: "▾";
+            position: absolute;
+            right: 14px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #6b73a0;
+            font-size: 12px;
+            pointer-events: none;
+        }
+        #catSelect {
+            width: 100%;
+            appearance: none;
+            -webkit-appearance: none;
+            background: #232a52;
+            border: 1px solid #2e3660;
+            border-radius: 10px;
+            padding: 11px 36px 11px 14px;
+            color: #f1ecdd;
+            font-family: 'Manrope', sans-serif;
+            font-size: 13.5px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: border-color .15s, background .15s;
+        }
+        #catSelect:hover,
+        #catSelect:focus {
+            border-color: #d4a24c;
+            background: #2c3563;
+            outline: none;
+        }
+        #catSelect option {
+            background: #1c2344;
+            color: #f1ecdd;
+            font-weight: 500;
+            padding: 4px 2px;
+        }
+        /* color dot next to the selected value (we'll use a small indicator) */
+        .cat-select-wrap .cat-indicator {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 10px;
+            font-size: 12.5px;
+            color: #a9b0d4;
+        }
+        .cat-select-wrap .cat-indicator .dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            flex: none;
+            box-shadow: 0 0 0 3px color-mix(in srgb, var(--dot-color, #d4a24c) 20%, transparent);
+        }
+
+        /* ── main panel ── */
+        .main-panel {
+            display: flex;
+            flex-direction: column;
+            gap: 18px;
+            min-width: 0;
+        }
+
+        .card {
+            background: #1c2344;
+            border: 1px solid #2e3660;
+            border-radius: 14px;
+            padding: 20px;
+        }
+        .card-title {
+            font-family: 'Cinzel', serif;
+            font-size: 17px;
+            font-weight: 600;
+            margin: 0 0 4px;
+            display: flex;
+            align-items: center;
+            gap: 9px;
+        }
+        .card-title .icon {
+            font-size: 20px;
+        }
+        .card-sub {
+            color: #a9b0d4;
+            font-size: 12.5px;
+            margin: 0 0 16px;
+            line-height: 1.5;
+        }
+
+        /* seeds */
+        .seed-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 7px;
+            margin-bottom: 12px;
+        }
+        .seed-chip {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            background: #232a52;
+            border: 1px solid #3c4576;
+            color: #f1ecdd;
+            border-radius: 999px;
+            padding: 5px 6px 5px 12px;
+            font-size: 12.5px;
+            font-weight: 500;
+        }
+        .seed-chip button {
+            background: #2c3563;
+            border: none;
+            color: #a9b0d4;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 11px;
+            line-height: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .seed-chip button:hover {
+            background: #c1583f;
+            color: #fff;
+        }
+
+        .seed-add {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 16px;
+        }
+        .seed-add input {
+            flex: 1;
+            background: #232a52;
+            border: 1px solid #3c4576;
+            color: #f1ecdd;
+            border-radius: 9px;
+            padding: 9px 12px;
+            font-size: 13px;
+            font-family: inherit;
+        }
+        .seed-add input:focus {
+            outline: none;
+            border-color: #8a723f;
+        }
+
+        /* buttons */
+        .btn {
+            border: 1px solid #3c4576;
+            background: #232a52;
+            color: #f1ecdd;
+            border-radius: 9px;
+            padding: 9px 16px;
+            font-family: inherit;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background .15s, border-color .15s, transform .1s;
+            white-space: nowrap;
+        }
+        .btn:hover {
+            background: #2c3563;
+        }
+        .btn:active {
+            transform: scale(.97);
+        }
+        .btn:disabled {
+            opacity: .45;
+            cursor: default;
+        }
+        .btn.gold {
+            background: linear-gradient(180deg, #e6c069, #d4a24c);
+            color: #1c2344;
+            border-color: #d4a24c;
+        }
+        .btn.gold:hover {
+            filter: brightness(1.06);
+        }
+        .btn.ghost {
+            background: transparent;
+        }
+        .btn.small {
+            padding: 6px 11px;
+            font-size: 12px;
+        }
+        .btn-row {
+            display: flex;
+            gap: 9px;
+            flex-wrap: wrap;
+        }
+
+        .status-line {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 12px;
+            color: #a9b0d4;
+            min-height: 16px;
+            margin: 2px 0 14px;
+        }
+        .status-line.err {
+            color: #c1583f;
+        }
+        .status-line.ok {
+            color: #7fa876;
+        }
+
+        /* stats */
+        .stats-bar {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 16px;
+        }
+        .stat-pill {
+            background: #232a52;
+            border: 1px solid #2e3660;
+            border-radius: 9px;
+            padding: 8px 14px;
+            font-size: 12px;
+            color: #a9b0d4;
+        }
+        .stat-pill b {
+            color: #f1ecdd;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 13px;
+        }
+
+        /* result cards */
+        .result-toolbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 12px;
+        }
+        .result-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 10px;
+        }
+        .word-card {
+            background: #232a52;
+            border: 1px solid #2e3660;
+            border-radius: 11px;
+            padding: 12px 13px;
+            display: flex;
+            gap: 10px;
+            align-items: flex-start;
+            transition: border-color .15s, background .15s;
+        }
+        .word-card.status-kept {
+            border-color: var(--cat-color, #d4a24c);
+            background: #2c3563;
+        }
+        .word-card.status-rejected {
+            border-color: #4a3540;
+            background: #1c2344;
+            opacity: .45;
+        }
+        .word-card .wc-status {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            flex: none;
+            margin-top: 1px;
+        }
+        .status-btn {
+            width: 22px;
+            height: 22px;
+            border-radius: 6px;
+            border: 1px solid #3c4576;
+            background: #1c2344;
+            color: #6b73a0;
+            font-size: 12px;
+            line-height: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            padding: 0;
+        }
+        .status-btn.keep:hover {
+            border-color: #7fa876;
+            color: #7fa876;
+        }
+        .status-btn.reject:hover {
+            border-color: #c1583f;
+            color: #c1583f;
+        }
+        .status-btn.keep.active {
+            background: #7fa876;
+            border-color: #7fa876;
+            color: #16311c;
+        }
+        .status-btn.reject.active {
+            background: #c1583f;
+            border-color: #c1583f;
+            color: #3a1810;
+        }
+        .word-card .wc-body {
+            flex: 1;
+            min-width: 0;
+        }
+        .word-card .wc-top {
+            display: flex;
+            align-items: baseline;
+            gap: 8px;
+            margin-bottom: 5px;
+            flex-wrap: wrap;
+        }
+        .word-card .wc-word {
+            font-family: 'JetBrains Mono', monospace;
+            font-weight: 700;
+            font-size: 14.5px;
+            letter-spacing: .5px;
+        }
+        .tier-select {
+            background: #1c2344;
+            border: 1px solid #3c4576;
+            color: #a9b0d4;
+            border-radius: 6px;
+            padding: 2px 7px;
+            font-size: 10.5px;
+            font-family: 'JetBrains Mono', monospace;
+            text-transform: uppercase;
+            cursor: pointer;
+        }
+        .word-card input[type="text"] {
+            width: 100%;
+            background: #1c2344;
+            border: 1px solid #3c4576;
+            color: #f1ecdd;
+            border-radius: 7px;
+            padding: 6px 9px;
+            font-size: 12px;
+            font-family: inherit;
+        }
+        .word-card input[type="text"]:focus {
+            outline: none;
+            border-color: #8a723f;
+        }
+
+        .wc-auto {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 9px;
+            font-weight: 700;
+            letter-spacing: .5px;
+            color: #1c2344;
+            background: #9b7fc4;
+            border-radius: 5px;
+            padding: 1px 5px;
+            cursor: help;
+        }
+
+        .wc-dict {
+            font-size: 11px;
+            cursor: default;
+        }
+
+        .wc-concept {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 9px;
+            font-weight: 700;
+            letter-spacing: .5px;
+            color: #1c2344;
+            background: #7fc4b0;
+            border-radius: 5px;
+            padding: 1px 5px;
+            cursor: default;
+        }
+
+        .wc-reason {
+            font-size: 11px;
+            cursor: help;
+            color: #6b73a0;
+        }
+
+        .dict-verify-toggle {
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+            margin-top: 10px;
+            font-size: 12px;
+            color: #a9b0d4;
+            line-height: 1.4;
+            cursor: pointer;
+        }
+        .dict-verify-toggle input {
+            margin-top: 2px;
+            accent-color: #d4a24c;
+            flex: none;
+        }
+
+        /* ── github push panel ── */
+        .gh-form {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-top: 12px;
+        }
+        @media (max-width: 560px) {
+            .gh-form { grid-template-columns: 1fr; }
+        }
+        .gh-field {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            font-size: 12px;
+            color: #a9b0d4;
+        }
+        .gh-field em {
+            color: #6b73a0;
+            font-style: normal;
+        }
+        .gh-field input {
+            background: #1c2344;
+            border: 1px solid #2e3660;
+            border-radius: 8px;
+            padding: 9px 10px;
+            color: #f1ecdd;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 12.5px;
+        }
+        .gh-field input:focus {
+            outline: none;
+            border-color: #d4a24c;
+        }
+
+        .wc-seed {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 10px;
+            color: #6b73a0;
+            background: #1c2344;
+            border: 1px solid #3c4576;
+            border-radius: 6px;
+            padding: 1px 6px;
+            white-space: nowrap;
+        }
+
+        /* seed analysis */
+        .seed-analysis {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            margin-bottom: 16px;
+        }
+        .sa-row {
+            display: grid;
+            grid-template-columns: 1fr 55px 70px 100px;
+            align-items: center;
+            gap: 10px;
+            background: #232a52;
+            border: 1px solid #2e3660;
+            border-radius: 9px;
+            padding: 8px 12px;
+            font-size: 12px;
+        }
+        .sa-row.head {
+            background: transparent;
+            border: none;
+            color: #6b73a0;
+            font-size: 10.5px;
+            text-transform: uppercase;
+            letter-spacing: .5px;
+            padding: 0 12px;
+        }
+        .sa-seed {
+            font-family: 'JetBrains Mono', monospace;
+            font-weight: 600;
+            color: #f1ecdd;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        .sa-num {
+            font-family: 'JetBrains Mono', monospace;
+            color: #a9b0d4;
+            text-align: center;
+        }
+        .sa-bar-wrap {
+            background: #1c2344;
+            border-radius: 5px;
+            height: 8px;
+            overflow: hidden;
+        }
+        .sa-bar {
+            height: 100%;
+            background: var(--cat-color, #d4a24c);
+            border-radius: 5px;
+        }
+
+        .empty-note {
+            color: #6b73a0;
+            font-size: 13px;
+            text-align: center;
+            padding: 40px 20px;
+            border: 1px dashed #3c4576;
+            border-radius: 11px;
+        }
+
+        /* export */
+        textarea {
+            width: 100%;
+            min-height: 90px;
+            background: #232a52;
+            border: 1px solid #3c4576;
+            color: #a9b0d4;
+            border-radius: 9px;
+            padding: 11px 13px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 11.5px;
+            line-height: 1.5;
+            resize: vertical;
+        }
+        textarea:focus {
+            outline: none;
+            border-color: #8a723f;
+        }
+        .export-out textarea {
+            min-height: 160px;
+            color: #f1ecdd;
+        }
+
+        .tag-note {
+            font-size: 11.5px;
+            color: #6b73a0;
+            line-height: 1.6;
+            margin-top: 10px;
+        }
+
+        .info-box {
+            background: #232a52;
+            border: 1px solid #2e3660;
+            border-radius: 9px;
+            padding: 12px 14px;
+            margin: 10px 0 6px;
+            font-size: 12px;
+            color: #a9b0d4;
+            line-height: 1.6;
+        }
+        .info-box strong {
+            color: #f1ecdd;
+        }
+
+        footer {
+            text-align: center;
+            color: #6b73a0;
+            font-size: 11.5px;
+            padding: 20px;
+        }
+
+        /* ── active category accent on the card itself ── */
+        .card.accent {
+            border-left: 4px solid var(--cat-color, #d4a24c);
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>The Word Codex</h1>
+        <p>An external scribe's desk for <em>Kingdoms &amp; Words</em>. Pick a category, gather related words from the free <code>api.datamuse.com</code>, review each entry, then export a ready-to-paste block for the game's <code>WORDS</code> object.</p>
+    </header>
+
+    <div class="layout">
+        <!-- sidebar: category dropdown -->
+        <aside class="codex-spine">
+            <h2>Category</h2>
+            <div class="cat-select-wrap">
+                <select id="catSelect"></select>
+                <div class="cat-indicator" id="catIndicator">
+                    <span class="dot" id="catDot" style="--dot-color:#d4a24c;"></span>
+                    <span id="catLabelInline">Metals</span>
+                </div>
+            </div>
+        </aside>
+
+        <main class="main-panel">
+
+            <section class="card accent" id="seedCard" style="--cat-color:#d4a24c;">
+                <h3 class="card-title"><span class="icon" id="catIconLabel">⛏️</span><span id="catNameLabel">Metals</span></h3>
+                <p class="card-sub">Search terms sent to Datamuse. Defaults are tuned to this category — add your own to dig further, or remove ones that drift off-topic. 20 seeds means a richer bank, but gathering runs seed-by-seed, so a full pass can take fifteen seconds or so — the status line below tracks progress.</p>
+                <div class="seed-row" id="seedRow"></div>
+                <div class="seed-add">
+                    <input type="text" id="seedInput" placeholder='Add a search term, e.g. "forge"' />
+                    <button class="btn" id="addSeedBtn">Add</button>
+                </div>
+                <div class="btn-row">
+                    <button class="btn gold" id="fetchBtn">🔎 Gather words</button>
+                    <button class="btn ghost" id="resetSeedsBtn">Reset to defaults</button>
+                </div>
+                <label class="dict-verify-toggle">
+                    <input type="checkbox" id="conceptRescueToggle" checked />
+                    <span>Rescue near-misses via word association (checks Datamuse's related-word data for words the keyword check alone would drop)</span>
+                </label>
+                <label class="dict-verify-toggle">
+                    <input type="checkbox" id="dictVerifyToggle" checked />
+                    <span>Verify with a free dictionary API after gathering (slower, catches non-words &amp; strengthens relevance)</span>
+                </label>
+                <div class="status-line" id="statusLine"></div>
+                <button class="btn small ghost" id="skipConceptBtn" style="display:none;margin-top:6px;">Skip association check, use results as-is</button>
+                <button class="btn small ghost" id="skipDictBtn" style="display:none;margin-top:6px;">Skip verification, use results as-is</button>
+            </section>
+
+            <section class="card" id="resultsCard" style="display:none;">
+                <h3 class="card-title"><span class="icon">📜</span>Results</h3>
+                <div class="stats-bar" id="statsBar"></div>
+                <div class="result-toolbar">
+                    <div class="btn-row">
+                        <button class="btn small" id="selAllBtn">Keep all</button>
+                        <button class="btn small" id="selNoneBtn">Clear all</button>
+                        <button class="btn small" id="autoReviewBtn">Auto-review ✨</button>
+                        <button class="btn small" id="clearAutoBtn">Clear Auto</button>
+                        <button class="btn small" id="seedAnalysisBtn">Seed analysis ▾</button>
+                    </div>
+                    <div class="btn-row">
+                        <button class="btn small gold" id="exportBtn">Export selected →</button>
+                        <button class="btn small" id="exportJsonBtn">Export JSON (for AI hints) →</button>
+                    </div>
+                </div>
+                <!-- info box about auto-review criteria -->
+                <div class="info-box" id="autoInfo" style="display:none;">
+                    <strong>Auto‑review criteria:</strong> 
+                    Relevance score based on keyword/stem matches, morphological relations (prefixes/suffixes), relational phrases in definitions (e.g., "related to [category]"), strong phrases ("used for", "made of"), close spelling (edit distance scaled to word length), and domain tags. 
+                    Scientific domains (<code>biology, chemistry, physics…</code>) are trusted, unless that same domain is in this category's own avoid list. 
+                    Words scoring ≥2 are <span style="color:#7fa876;">kept</span>, ≤‑1 are <span style="color:#c1583f;">rejected</span>, others stay <span style="color:#a9b0d4;">pending</span>. 
+                    Hover the ℹ️ icon to see the exact reason.
+                    <br><br>
+                    <strong>Magic</strong> and <strong>Royalty &amp; Court</strong> are flagged as ambiguity-prone: auto-review can still auto-reject clear misses, but never auto-approves a "kept" for them — those are always left pending for a manual ✓, even with a high score.
+                </div>
+                <div class="seed-analysis" id="seedAnalysis" style="display:none;"></div>
+                <div class="result-grid" id="resultGrid"></div>
+            </section>
+
+            <section class="card">
+                <h3 class="card-title"><span class="icon">📚</span>Existing bank (optional)</h3>
+                <p class="card-sub">Paste the words already in this category's <code>list</code> in the game file — one per line, or the whole JS block. Anything matching will be skipped automatically when you gather new words.</p>
+                <textarea id="existingBank" placeholder="IRON&#10;GOLD&#10;TIN&#10;...or paste the whole {word:&quot;IRON&quot;, ...} block, either works."></textarea>
+            </section>
+
+            <section class="card" id="exportCard" style="display:none;">
+                <h3 class="card-title"><span class="icon">📋</span>Export block</h3>
+                <p class="card-sub">Formatted exactly like the entries already in <code>WORDS</code>. Copy this and paste it inside the matching category's <code>list:[ ... ]</code> array.</p>
+                <div class="export-out">
+                    <textarea id="exportOut" readonly></textarea>
+                </div>
+                <div class="btn-row" style="margin-top:10px;">
+                    <button class="btn gold small" id="copyBtn">Copy to clipboard</button>
+                    <button class="btn small" id="downloadBtn">Download .txt</button>
+                </div>
+            </section>
+
+            <section class="card" id="githubCard">
+                <h3 class="card-title"><span class="icon">🚀</span>Push to GitHub &amp; generate hints</h3>
+                <p class="card-sub">
+                    Uploads the kept words as <code>approved_words.json</code> to your repo, then triggers the
+                    <code>Generate Hints</code> Actions workflow, which calls Gemini using the
+                    <code>GEMINI_API_KEY</code> stored in <strong>GitHub Secrets</strong> — that key never touches
+                    this page. The token below only needs repo contents + Actions write access, is used only to
+                    talk directly to <code>api.github.com</code> from your browser, and is kept solely in this
+                    browser's local storage.
+                </p>
+                <div class="gh-form">
+                    <label class="gh-field">
+                        <span>Repository <em>(owner/name)</em></span>
+                        <input type="text" id="ghRepo" placeholder="yourname/word-codex" autocomplete="off" />
+                    </label>
+                    <label class="gh-field">
+                        <span>Branch</span>
+                        <input type="text" id="ghBranch" placeholder="main" autocomplete="off" />
+                    </label>
+                    <label class="gh-field">
+                        <span>Workflow file</span>
+                        <input type="text" id="ghWorkflow" placeholder="generate-hints.yml" autocomplete="off" />
+                    </label>
+                    <label class="gh-field">
+                        <span>Fine-grained PAT <em>(Contents: write, Actions: write)</em></span>
+                        <input type="password" id="ghToken" placeholder="github_pat_…" autocomplete="off" />
+                    </label>
+                </div>
+                <div class="btn-row" style="margin-top:12px;">
+                    <button class="btn gold small" id="ghPushBtn">Upload &amp; run workflow →</button>
+                    <button class="btn small ghost" id="ghForgetBtn">Forget saved token</button>
+                </div>
+                <div class="status-line" id="ghStatusLine"></div>
+            </section>
+
+        </main>
+    </div>
+
+    <footer>Word gathering runs entirely in your browser against Datamuse's public, keyless API. The GitHub panel above is the only part of this page that sends data elsewhere — and only when you click its button.</footer>
+
+    <script>
+        /* ============================= CATEGORY DATA ============================= */
+        const CATEGORIES = {
+            metals: { label: "Metals", icon: "⛏️", color: "#8a94b8", seeds: ["metal", "ore", "alloy", "smithing",
+                    "mineral", "iron", "steel", "forge", "blacksmith", "bronze", "copper", "gold", "silver",
+                    "mining", "metallurgy", "smelting", "ingot", "anvil", "mine shaft", "tin"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "military", "anatomy"
+                ] },
+            food: { label: "Food", icon: "🍲", color: "#d99a5b", seeds: ["food", "meal", "cooking", "side dish",
+                    "ingredient", "kitchen", "recipe", "baking", "spice", "feast", "meat", "vegetable", "fruit",
+                    "bread", "soup", "stew", "farming", "nutrition", "cuisine", "pantry"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "anatomy", "medicine", "zoology", "nautical"
+                ] },
+            grain: { label: "Grain", icon: "🌾", color: "#c9a63f", seeds: ["grain", "wheat", "harvest",
+                    "grain crop", "flour", "barley", "oats", "rye", "corn", "rice", "grain mill", "milling",
+                    "farming", "field", "sheaf", "thresh", "agriculture", "seed grain", "bushel", "granary"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "zoology", "medicine", "nautical"
+                ] },
+            animals: { label: "Animals", icon: "🐑", color: "#7fa876", seeds: ["animal", "livestock", "wildlife",
+                    "creature", "beast", "mammal", "bird", "fish", "reptile", "insect", "predator", "herd",
+                    "flock", "pet", "hunting", "prey", "breed", "species", "zoo", "herding"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "medicine", "pathology", "mathematics"
+                ] },
+            magic: { label: "Magic", icon: "🔮", color: "#9b7fc4", requiresHumanApproval: true, seeds: ["magic", "spell", "sorcery",
+                    "enchantment", "ritual", "wizard", "witch", "potion", "curse", "magic charm", "mystic",
+                    "occult", "arcane", "alchemy", "supernatural", "conjure", "incantation", "rune",
+                    "divination", "mysticism"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "medicine", "anatomy", "mathematics", "geometry", "nautical", "zoology",
+                    "sports", "physics"
+                ] },
+            cloth: { label: "Cloth", icon: "🧵", color: "#c77dab", seeds: ["cloth", "fabric", "textile",
+                    "weaving", "garment", "sewing thread", "yarn", "sewing", "tailor", "wool", "cotton", "silk",
+                    "knitting", "embroidery", "loom", "dye", "spinning", "sewing needle", "stitch", "clothing"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "medicine", "nautical", "mathematics", "zoology"
+                ] },
+            sea: { label: "Sea", icon: "🎣", color: "#5b9bc4", seeds: ["sea", "ocean", "fishing", "boat",
+                    "coast", "fish", "ship", "sailing", "harbor", "ocean wave", "tide", "marine", "nautical",
+                    "fisherman", "shore", "beach", "harbor dock", "anchor", "ocean current", "maritime"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "medicine", "mathematics", "anatomy"
+                ] },
+            stone: { label: "Stone", icon: "🪨", color: "#9c9484", seeds: ["stone", "rock", "quarry",
+                    "masonry", "building", "brick", "stone wall", "construction", "mason", "granite", "marble",
+                    "boulder", "cliff", "mountain", "cave", "architecture", "foundation", "mortar", "chisel",
+                    "carve"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "medicine", "zoology", "nautical", "mathematics"
+                ] },
+            herbs: { label: "Herbs", icon: "🌿", color: "#a3a15c", seeds: ["herb", "plant", "remedy", "spice",
+                    "medicine", "herbal tea", "healing", "botanical", "garden", "flower", "plant root",
+                    "plant leaf", "tonic", "apothecary", "herbal", "cure", "treatment", "ointment",
+                    "seasoning", "aromatic"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "nautical", "zoology", "mathematics", "geometry"
+                ] },
+            nature: { label: "Nature", icon: "🌲", color: "#4a8f7f", seeds: ["nature", "forest", "wilderness",
+                    "landscape", "outdoors", "mountain", "river", "lake", "valley", "tree", "meadow", "wild",
+                    "ecosystem", "environment", "natural", "scenery", "terrain", "countryside", "woodland",
+                    "earth"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "medicine", "mathematics", "nautical"
+                ] },
+            war: { label: "War & Defense", icon: "⚔️", color: "#8f3d35", seeds: ["war", "battle", "military",
+                    "combat", "weapon", "soldier", "army", "fight", "warrior", "sword", "shield", "siege",
+                    "conflict", "defense", "attack", "strategy", "troop", "warfare", "fortress", "victory"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "mathematics", "geometry", "ophthalmology", "organic chemistry", "zoology"
+                ] },
+            royalty: { label: "Royalty & Court", icon: "👑", color: "#5c4a8f", requiresHumanApproval: true, seeds: ["royalty", "king",
+                    "kingdom", "noble", "monarchy", "queen", "prince", "princess", "throne", "royal crown",
+                    "palace", "royal court", "aristocracy", "nobility", "ruler", "empire", "dynasty", "reign",
+                    "sovereign", "majesty"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "medicine", "mathematics", "geometry", "nautical", "zoology", "anatomy"
+                ] },
+            music: { label: "Music", icon: "🎻", color: "#3f8fa3", seeds: ["music", "song", "instrument",
+                    "melody", "musical sound", "singing", "orchestra", "music band", "rhythm", "harmony",
+                    "composer", "musician", "concert", "musical tune", "lyrics", "symphony", "opera", "choir",
+                    "dance", "musical performance"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "medicine", "mathematics", "nautical", "zoology", "anatomy"
+                ] },
+            weather: { label: "Weather", icon: "🌦️", color: "#8aa8b8", seeds: ["weather", "storm", "climate",
+                    "rain", "sky", "wind", "snow", "thunder", "cloud", "temperature", "weather season",
+                    "forecast", "atmosphere", "humidity", "sunshine", "precipitation", "hurricane", "tornado",
+                    "frost", "meteorology"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "medicine", "mathematics", "zoology", "nautical"
+                ] },
+            stars: { label: "Stars & Omens", icon: "🌌", color: "#4a3f7a", seeds: ["starlight", "astronomy", "night sky",
+                    "cosmos", "celestial body", "planet", "galaxy", "universe", "moon", "comet", "constellation",
+                    "telescope", "outer space", "orbit", "astrology", "zodiac", "nebula", "meteor", "stargazing",
+                    "lunar eclipse", "solar eclipse"
+                ], avoidDomains: ["surname", "initialism", "acronym", "software", "internet", "poker",
+                    "card games", "anatomy", "zoology", "medicine", "pathology", "mathematics", "geometry",
+                    "nautical", "ophthalmology", "organic chemistry", "science fiction"
+                ],
+                // Substring roots (not whole-word) for this category — lets the relevance check catch
+                // compounds and derived forms (STARBURST, MOONLIT, ASTROLOGER…) that the seed-derived
+                // whole-word keyword list alone would miss. Kept separate from `seeds` because these are
+                // deliberately partial fragments, not search terms to send to Datamuse.
+                themeStems: ["star", "light", "lum", "phot", "astro", "cosm", "nova", "sol", "lun", "sun", "moon",
+                    "sky", "night", "dark", "glow", "shin", "radia", "glitter", "twilight", "dawn", "dusk",
+                    "celest", "nebula", "comet", "planet", "galax", "constellat", "meteor", "eclipse", "aurora",
+                    "orbit", "gravit", "stellar", "pulsar", "quasar", "redshift", "parallax", "zodiac",
+                    "equinox", "solstice", "eclipt", "meridian", "azimuth", "telescop", "cosmolog", "astrophys",
+                    "astronaut", "astronom", "satellite", "cosmonaut", "sidereal", "astrolog", "horoscop",
+                    "tarot", "fortune", "fate", "omen", "portent", "prophec", "divinat", "oracle", "occult",
+                    "mystic", "mancy", "mantic", "auspic", "saturnine", "jovial", "mercur", "benignant",
+                    "malignant", "scope", "lens", "prism", "binocul", "magnif", "aperture", "optic"]
+                },
+        };
+
+        let activeCat = "metals";
+        let activeSeeds = [...CATEGORIES[activeCat].seeds];
+        let results = []; // {word, clue, tier, status: 'pending'|'kept'|'rejected', sourceSeed, autoDecided, _decisionReason, _relevanceScore}
+
+        /* ============================= SAFETY FILTERS ============================= */
+        const UNSAFE_DEF_MARKERS = [
+            'vulgar', 'offensive', 'slur', 'derogatory', 'ethnic slur', 'obscene', 'profane',
+            'sexual', 'penis', 'vagina', 'intercourse', 'ejaculat', 'masturbat', 'orgasm',
+            'cocaine', 'heroin', 'marijuana', 'narcotic', 'drug slang',
+            'racial', 'racist', 'contempt', 'disparaging', 'pejorative'
+        ];
+
+        function cleanDatamuseDef(raw) {
+            if (!raw) return null;
+            const txt = raw.includes('\t') ? raw.split('\t')[1] : raw;
+            if (!txt) return null;
+            const trimmed = txt.trim();
+            if (trimmed.length < 4 || trimmed.length > 80) return null;
+            return trimmed.charAt(0).toUpperCase() + trimmed.slice(1).replace(/\.$/, '');
+        }
+
+        function isSafeCandidate(entry, defText) {
+            if ((entry.tags || []).includes('prop')) return false;
+            const lower = defText.toLowerCase();
+            return !UNSAFE_DEF_MARKERS.some(marker => lower.includes(marker));
+        }
+
+        /* ============================= DOMAIN-DRIFT FILTER ============================= */
+        function defDomainTags(defText) {
+            const m = defText.match(/^\(([^)]+)\)/);
+            if (!m) return [];
+            return m[1].toLowerCase().split(',').map(t => t.trim());
+        }
+        function isDefDomainAvoided(defText, avoidDomains) {
+            if (!avoidDomains || avoidDomains.length === 0) return false;
+            const tags = defDomainTags(defText);
+            if (tags.length === 0) return false;
+            return tags.some(tag => avoidDomains.some(avoid => tag.includes(avoid)));
+        }
+
+        /* ============================= ENHANCED AUTO-REVIEW WITH SCORING ============================= */
+        const STOPWORDS = new Set(["a","an","the","of","in","on","at","to","for","and","or",
+            "with","by","is","are","was","were","be","been","its","it's","this","that","as",
+            "such","body","related"]);
+
+        function categoryKeywords(cat) {
+            const words = new Set();
+            (cat.seeds || []).forEach(seed => {
+                seed.toLowerCase().split(/\s+/).forEach(w => {
+                    w = w.replace(/[^a-z]/g, '');
+                    if (w.length >= 4 && !STOPWORDS.has(w)) words.add(w);
+                });
+            });
+            cat.label.toLowerCase().split(/\s+/).forEach(w => {
+                w = w.replace(/[^a-z]/g, '');
+                if (w.length >= 4 && !STOPWORDS.has(w)) words.add(w);
+            });
+            return words;
+        }
+
+        const SOFT_OFF_TAGS = ["informal", "slang", "colloquial", "figuratively", "chiefly informal",
+            "childish", "dated", "euphemistic", "derogatory", "vulgar", "text messaging"];
+
+        const SCIENCE_DOMAINS = ['biology', 'chemistry', 'physics', 'astronomy', 'geology', 'botany', 'zoology', 'ecology', 'meteorology', 'oceanography'];
+
+        function wordMatchesTheme(word, clue, cat, keywords) {
+            const haystack = (word + ' ' + clue).toLowerCase();
+            for (const kw of keywords) {
+                if (new RegExp('\\b' + kw + '\\b').test(haystack)) return true;
+            }
+            const stems = cat.themeStems || [];
+            for (const stem of stems) {
+                if (haystack.includes(stem)) return true;
+            }
+            return false;
+        }
+
+        const GENERIC_WORDS = new Set(['thing', 'object', 'item', 'stuff', 'something', 'anything', 'everything', 'one', 'person', 'people', 'man', 'woman']);
+
+        function levenshteinDistance(a, b) {
+            const m = a.length, n = b.length;
+            const dp = Array.from({ length: m + 1 }, (_, i) => Array(n + 1).fill(0));
+            for (let i = 0; i <= m; i++) dp[i][0] = i;
+            for (let j = 0; j <= n; j++) dp[0][j] = j;
+            for (let i = 1; i <= m; i++) {
+                for (let j = 1; j <= n; j++) {
+                    dp[i][j] = Math.min(
+                        dp[i-1][j] + 1,
+                        dp[i][j-1] + 1,
+                        dp[i-1][j-1] + (a[i-1] === b[j-1] ? 0 : 1)
+                    );
+                }
+            }
+            return dp[m][n];
+        }
+
+        function hasMorphologicalRelation(word, keywords) {
+            const lower = word.toLowerCase();
+            const suffixPatterns = ['ing', 'ed', 'er', 'or', 'tion', 'ness', 'ment', 'able', 'ible', 'ous', 'al', 'ial', 'ic', 'ical', 'ive', 'ative', 'itive', 'ful', 'less', 'ly', 'ity'];
+            const prefixPatterns = ['un', 're', 'pre', 'post', 'anti', 'co', 'dis', 'mis', 'over', 'under'];
+
+            for (const suffix of suffixPatterns) {
+                if (lower.endsWith(suffix)) {
+                    const stem = lower.slice(0, -suffix.length);
+                    if (stem.length >= 3) {
+                        for (const kw of keywords) {
+                            if (kw === stem || kw.startsWith(stem) || stem.startsWith(kw)) return true;
+                        }
+                    }
+                }
+            }
+            for (const prefix of prefixPatterns) {
+                if (lower.startsWith(prefix)) {
+                    const stem = lower.slice(prefix.length);
+                    if (stem.length >= 3) {
+                        for (const kw of keywords) {
+                            if (kw === stem || kw.startsWith(stem) || stem.startsWith(kw)) return true;
+                        }
+                    }
+                }
+            }
+            return false;
+        }
+
+        const RELATIONAL_PHRASES = ['related to', 'pertaining to', 'of or relating to', 'used in', 'associated with', 'in the context of', 'concerned with', 'dealing with'];
+        const STRONG_PHRASES = ['used for', 'made of', 'consisting of', 'characteristic of', 'a type of', 'a kind of'];
+
+        function definitionHasRelationalPhrase(clue, catLabel, strong = false) {
+            const phrases = strong ? STRONG_PHRASES : RELATIONAL_PHRASES;
+            const lower = clue.toLowerCase();
+            const catWords = catLabel.toLowerCase().split(/\s+/).filter(w => w.length > 2 && w !== '&');
+            for (const phrase of phrases) {
+                const idx = lower.indexOf(phrase);
+                if (idx !== -1) {
+                    const after = lower.slice(idx + phrase.length).trim().split(/\s+/);
+                    for (const word of catWords) {
+                        if (after.some(a => a.includes(word) || word.includes(a))) return true;
+                    }
+                }
+            }
+            return false;
+        }
+
+        function hasCloseMatch(word, keywords) {
+            const lower = word.toLowerCase();
+            // Scale the allowed edit distance to word length. A flat ≤2 threshold is far too
+            // loose for short words — e.g. "moon" (4 letters) is distance 1 from "noon" and
+            // distance 2 from "moot", neither of which has anything to do with the category.
+            // Longer words have more room for a coincidental edit or two before the match
+            // becomes meaningless, so the threshold grows slowly with length.
+            const maxDist = lower.length <= 5 ? 1 : (lower.length <= 8 ? 2 : 3);
+            for (const kw of keywords) {
+                if (levenshteinDistance(lower, kw) <= maxDist) return true;
+            }
+            return false;
+        }
+
+        // Compute a relevance score and return { verdict: 'kept'|'rejected'|null, reason: string, score: number }
+        function scoreWord(r, cat, keywords) {
+            let score = 0;
+            let reasons = [];
+
+            // 1. Generic words → strong negative
+            if (GENERIC_WORDS.has(r.word.toLowerCase())) {
+                return { verdict: 'rejected', reason: 'Generic word', score: -10 };
+            }
+
+            // 2. Theme match (keywords or stems)
+            if (wordMatchesTheme(r.word, r.clue, cat, keywords)) {
+                score += 3;
+                reasons.push('theme match');
+            }
+
+            // 3. Morphological relation
+            if (hasMorphologicalRelation(r.word, keywords)) {
+                score += 2;
+                reasons.push('morphological');
+            }
+
+            // 4. Relational phrase (normal)
+            if (definitionHasRelationalPhrase(r.clue, cat.label, false)) {
+                score += 2;
+                reasons.push('relational phrase');
+            }
+
+            // 5. Strong phrase
+            if (definitionHasRelationalPhrase(r.clue, cat.label, true)) {
+                score += 3;
+                reasons.push('strong phrase');
+            }
+
+            // 6. Close match (Levenshtein)
+            if (hasCloseMatch(r.word, keywords)) {
+                score += 1;
+                reasons.push('close spelling');
+            }
+
+            // 7. Domain tags (avoidance)
+            const tags = defDomainTags(r.clue);
+            let hasAvoid = false;
+            if (tags.some(tag => (cat.avoidDomains || []).some(avoid => tag.includes(avoid)))) {
+                score -= 3;
+                hasAvoid = true;
+                reasons.push('avoided domain');
+            }
+
+            // 8. Soft off tags (if no other positive signals)
+            if (tags.some(tag => SOFT_OFF_TAGS.some(soft => tag.includes(soft)))) {
+                if (score < 2) {
+                    score -= 2;
+                    reasons.push('soft off-tag');
+                }
+            }
+
+            // 9. Science domains bonus — but only for tags this category hasn't already flagged as
+            // avoidDomains. Some categories (e.g. "magic" avoiding "physics", "food" avoiding
+            // "zoology") intentionally exclude a domain that's also in SCIENCE_DOMAINS; without this
+            // guard, that domain got -3 for the avoidance and +2 for the science bonus in the same
+            // pass, blunting the exclusion the category explicitly asked for.
+            if (!hasAvoid && tags.some(tag => SCIENCE_DOMAINS.some(sci => tag.includes(sci)))) {
+                score += 2;
+                reasons.push('science domain');
+            }
+
+            // 10. Safety: if unsafe, reject outright
+            if (!isSafeCandidate({ tags: [] }, r.clue)) {
+                return { verdict: 'rejected', reason: 'unsafe content', score: -10 };
+            }
+
+            // Decision
+            let verdict = null;
+            if (score >= 2) verdict = 'kept';
+            else if (score <= -1) verdict = 'rejected';
+            else verdict = null;
+
+            const reason = reasons.length ? reasons.join(', ') : 'no strong signals';
+            return { verdict, reason, score };
+        }
+
+        function runAutoReview() {
+            const cat = CATEGORIES[activeCat];
+            const keywords = categoryKeywords(cat);
+            const restrictedCat = !!cat.requiresHumanApproval;
+            let decided = 0;
+            let suggested = 0;
+            results.forEach(r => {
+                if (r.status !== 'pending') return;
+                let { verdict, reason, score } = scoreWord(r, cat, keywords);
+
+                // For categories flagged as ambiguity-prone (e.g. magic, royalty), auto-review may
+                // still auto-reject clear misses, but never auto-approves a "kept" — that always
+                // needs a human click. The word is left pending with the score/reason shown so the
+                // reviewer can decide fast instead of scoring it from scratch.
+                if (restrictedCat && verdict === 'kept') {
+                    r._decisionReason = reason + ` (score ${score} — needs manual approval for this category)`;
+                    r._relevanceScore = score;
+                    suggested++;
+                    return;
+                }
+
+                if (verdict) {
+                    r.status = verdict;
+                    r.autoDecided = true;
+                    r._decisionReason = reason;
+                    r._relevanceScore = score;
+                    decided++;
+                } else {
+                    // keep pending, but store the reason and score for display
+                    r._decisionReason = reason + ` (score ${score})`;
+                    r._relevanceScore = score;
+                }
+            });
+            renderResults();
+            renderSeedAnalysis();
+            const statusEl = document.getElementById('statusLine');
+            if (restrictedCat) {
+                statusEl.textContent = `Auto-review rejected ${decided} clear miss${decided === 1 ? '' : 'es'}`
+                    + (suggested > 0 ? ` and flagged ${suggested} likely match${suggested === 1 ? '' : 'es'} for your manual approval (score shown via ℹ️) — this category always needs a human ✓.` : '.');
+            } else {
+                statusEl.textContent = decided > 0
+                    ? `Auto-review marked ${decided} word${decided === 1 ? '' : 's'} — check the AUTO-tagged cards and adjust any it got wrong.`
+                    : `Auto-review didn't find any confident matches among the pending words — review manually.`;
+            }
+            statusEl.className = 'status-line ok';
+            // show info box
+            document.getElementById('autoInfo').style.display = 'block';
+        }
+
+        function tierForLength(len) {
+            if (len <= 4) return "easy";
+            if (len <= 6) return "medium";
+            if (len <= 9) return "hard";
+            return "legendary";
+        }
+
+        /* ============================= EXISTING-BANK PARSING ============================= */
+        function parseExistingBank(raw) {
+            const set = new Set();
+            const quoted = raw.match(/word\s*:\s*"([A-Za-z]+)"/g);
+            if (quoted) {
+                quoted.forEach(m => {
+                    const w = m.match(/"([A-Za-z]+)"/)[1];
+                    set.add(w.toUpperCase());
+                });
+            }
+            raw.split(/[\n,]/).forEach(line => {
+                const w = line.trim().replace(/[^A-Za-z]/g, '');
+                if (w.length >= 3) set.add(w.toUpperCase());
+            });
+            return set;
+        }
+
+        /* ============================= DATAMUSE FETCH ============================= */
+        async function fetchOneSeed(seed, existing, seenSoFar) {
+            const url =
+            `https://api.datamuse.com/words?ml=${encodeURIComponent(seed)}&md=d&max=1000`;
+            const controller = new AbortController();
+            const timeout = setTimeout(() => controller.abort(), 12000);
+            let res;
+            try {
+                res = await fetch(url, { signal: controller.signal });
+            } finally {
+                clearTimeout(timeout);
+            }
+            if (!res.ok) throw new Error('Datamuse request failed: ' + res.status);
+            const data = await res.json();
+            const cat = CATEGORIES[activeCat] || {};
+            const avoidDomains = cat.avoidDomains || [];
+            const keywords = categoryKeywords(cat);
+            const found = [];
+            const nearMisses = [];
+            for (const entry of data) {
+                const word = (entry.word || '').toUpperCase();
+                if (!/^[A-Z]{3,13}$/.test(word)) continue;
+                if (existing.has(word)) continue;
+                if (seenSoFar.has(word)) continue;
+                const allDefs = (entry.defs || []).map(cleanDatamuseDef).filter(Boolean);
+                if (allDefs.length === 0) continue;
+                const onDomainDefs = allDefs.filter(d => !isDefDomainAvoided(d, avoidDomains));
+                if (onDomainDefs.length === 0) continue;
+                let clue = null;
+                for (const d of onDomainDefs) {
+                    // A domain tag alone (hasUsableTag) or membership in the generic SCIENCE_DOMAINS
+                    // list (isScience) used to be enough to accept a definition as this category's
+                    // clue — but neither actually checks that the domain has anything to do with the
+                    // category. That let unrelated definitions slip in: "(countable)" is a grammar
+                    // tag, not a domain; "(geology)"/"(biology)"/"(graphical user interface)" are real
+                    // domains but irrelevant to e.g. "Stars & Omens". wordMatchesTheme (literal
+                    // keyword/stem overlap with the category) is the only signal that actually proves
+                    // relevance, so it's now the sole admission criterion — a domain tag no longer
+                    // substitutes for it.
+                    if (wordMatchesTheme(word, d, cat, keywords)) { clue = d; break; }
+                }
+                if (!clue) {
+                    if (!isSafeCandidate(entry, onDomainDefs[0])) continue;
+                    // Keep every candidate definition (not just the first) so that IF this word
+                    // later gets rescued via word-association, the rescue step can pick whichever
+                    // definition actually carries some thematic content instead of being stuck with
+                    // an arbitrary, possibly unrelated, first definition.
+                    nearMisses.push({ word, clue: onDomainDefs[0], defs: onDomainDefs, tier: tierForLength(word.length), status: 'pending', sourceSeed: seed });
+                    continue;
+                }
+                if (!isSafeCandidate(entry, clue)) continue;
+                seenSoFar.add(word);
+                found.push({ word, clue, tier: tierForLength(word.length), status: 'pending', sourceSeed: seed });
+            }
+            return { found, nearMisses };
+        }
+
+        /* ============================= FREE DICTIONARY VERIFICATION ============================= */
+        const DICT_API_BASE = 'https://api.dictionaryapi.dev/api/v2/entries/en/';
+        const DICT_LOOKUP_TIMEOUT_MS = 4000;
+
+        async function lookupFreeDictionary(word) {
+            const controller = new AbortController();
+            const timer = setTimeout(() => controller.abort(), DICT_LOOKUP_TIMEOUT_MS);
+            try {
+                const res = await fetch(DICT_API_BASE + encodeURIComponent(word.toLowerCase()), { signal: controller.signal });
+                if (res.status === 404) return { found: false, defs: [] };
+                if (!res.ok) return { found: null, defs: [] };
+                const data = await res.json();
+                const defs = [];
+                (data[0] && data[0].meanings || []).forEach(m => {
+                    (m.definitions || []).forEach(d => { if (d.definition) defs.push(d.definition); });
+                });
+                return { found: true, defs };
+            } catch (_) {
+                return { found: null, defs: [] };
+            } finally {
+                clearTimeout(timer);
+            }
+        }
+
+        async function verifyCandidatesWithDictionary(candidates, cat, keywords, onProgress, shouldCancel) {
+            const CONCURRENCY = 8;
+            let nextIdx = 0;
+            let done = 0;
+            async function worker() {
+                while (nextIdx < candidates.length) {
+                    if (shouldCancel && shouldCancel()) return;
+                    const idx = nextIdx++;
+                    const r = candidates[idx];
+                    const hadDomainTag = defDomainTags(r.clue).length > 0;
+                    const hadThemeMatch = wordMatchesTheme(r.word, r.clue, cat, keywords);
+                    const wasLexicallyTrusted = hadDomainTag || hadThemeMatch;
+                    const info = await lookupFreeDictionary(r.word);
+                    if (info.found === false && !wasLexicallyTrusted) {
+                        r._dictReject = true;
+                    } else if (info.found) {
+                        r._dictConfirmed = info.defs.some(d => wordMatchesTheme(r.word, d, cat, keywords));
+                    }
+                    done++;
+                    if (onProgress) onProgress(done, candidates.length);
+                }
+            }
+            await Promise.all(Array.from({ length: Math.min(CONCURRENCY, candidates.length) }, worker));
+        }
+
+        /* ============================= TRIGGER-WORD RESCUE (Datamuse) ============================= */
+        const DATAMUSE_TRIGGERS_URL = 'https://api.datamuse.com/words';
+        const ASSOC_TIMEOUT_MS = 6000;
+
+        function assocAnchors(cat) {
+            const anchors = [];
+            (cat.label || '').toLowerCase().split(/\s+/).forEach(w => {
+                w = w.replace(/[^a-z]/g, '');
+                if (w.length >= 3) anchors.push(w);
+            });
+            (cat.seeds || []).forEach(seed => {
+                const s = seed.toLowerCase().trim();
+                if (/^[a-z]+$/.test(s) && s.length >= 3) anchors.push(s);
+            });
+            return [...new Set(anchors)].slice(0, 3);
+        }
+
+        async function fetchTriggerWords(anchor) {
+            const controller = new AbortController();
+            const timer = setTimeout(() => controller.abort(), ASSOC_TIMEOUT_MS);
+            try {
+                const url = `${DATAMUSE_TRIGGERS_URL}?rel_trg=${encodeURIComponent(anchor)}&max=1000`;
+                const res = await fetch(url, { signal: controller.signal });
+                if (!res.ok) return null;
+                const data = await res.json();
+                const map = new Map();
+                data.forEach((entry, i) => {
+                    if (entry.word) map.set(entry.word.toLowerCase(), entry.score || (1000 - i));
+                });
+                return map;
+            } catch (_) {
+                return null;
+            } finally {
+                clearTimeout(timer);
+            }
+        }
+
+        // Scores a single candidate definition's textual relevance to the category, reusing the
+        // same partial signals as scoreWord (minus the generic-word/unsafe checks, which are
+        // word-level and already handled elsewhere). Used only during rescue, where — by
+        // definition — none of a word's definitions passed the strict wordMatchesTheme bar during
+        // initial discovery, so this looks for weaker-but-real textual evidence instead.
+        function scoreDefinitionForRescue(word, defText, cat, keywords) {
+            let score = 0;
+            if (wordMatchesTheme(word, defText, cat, keywords)) score += 3;
+            if (hasMorphologicalRelation(word, keywords)) score += 2;
+            if (definitionHasRelationalPhrase(defText, cat.label, false)) score += 2;
+            if (definitionHasRelationalPhrase(defText, cat.label, true)) score += 3;
+            if (hasCloseMatch(word, keywords)) score += 1;
+            const tags = defDomainTags(defText);
+            const avoidHit = tags.some(t => (cat.avoidDomains || []).some(a => t.includes(a)));
+            if (avoidHit) score -= 3;
+            if (!avoidHit && tags.some(t => SCIENCE_DOMAINS.some(s => t.includes(s)))) score += 2;
+            return score;
+        }
+
+        async function rescueNearMissesWithTriggers(nearMisses, cat, onProgress, shouldCancel) {
+            const anchors = assocAnchors(cat);
+            if (anchors.length === 0 || nearMisses.length === 0) return { rescued: [], reachable: null };
+
+            const maps = [];
+            for (const anchor of anchors) {
+                if (shouldCancel && shouldCancel()) return { rescued: [], reachable: null };
+                const m = await fetchTriggerWords(anchor);
+                if (m) maps.push(m);
+            }
+            if (maps.length === 0) return { rescued: [], reachable: false };
+
+            const keywords = categoryKeywords(cat);
+            const rescued = [];
+            let done = 0;
+            for (const r of nearMisses) {
+                if (shouldCancel && shouldCancel()) break;
+                const wordLower = r.word.toLowerCase();
+                let bestAssocScore = 0;
+                let hit = false;
+                for (const m of maps) {
+                    if (m.has(wordLower)) { hit = true; bestAssocScore = Math.max(bestAssocScore, m.get(wordLower)); }
+                }
+                if (hit) {
+                    // Word-association alone isn't enough — it only proves the WORD is
+                    // contextually associated with the category, not that the CLUE we'd show
+                    // for it means anything to a player. Search every definition Datamuse gave
+                    // us for this word and require at least one with a positive relevance score
+                    // before rescuing; otherwise we'd be exporting a real word paired with a
+                    // clue that gives no legitimate hint (e.g. "BULL" defined as "to polish
+                    // boots" in a Stars & Omens category). This makes the rescue fully automatic
+                    // and content-driven — no manual judgment call needed per word.
+                    const candidateDefs = (r.defs && r.defs.length) ? r.defs : [r.clue];
+                    let bestDef = null;
+                    let bestDefScore = -Infinity;
+                    for (const d of candidateDefs) {
+                        const s = scoreDefinitionForRescue(r.word, d, cat, keywords);
+                        if (s > bestDefScore) { bestDefScore = s; bestDef = d; }
+                    }
+                    if (bestDef !== null && bestDefScore > 0) {
+                        r.clue = bestDef;
+                        r._assocRescued = true;
+                        r._assocScore = bestAssocScore;
+                        r._clueRelevanceScore = bestDefScore;
+                        rescued.push(r);
+                    }
+                    // else: word is associated but no definition we have can back it up with a
+                    // legible clue — dropped rather than exported with a misleading one.
+                }
+                done++;
+                if (onProgress) onProgress(done, nearMisses.length);
+            }
+            return { rescued, reachable: true };
+        }
+
+        async function gatherWords() {
+            const statusEl = document.getElementById('statusLine');
+            const fetchBtn = document.getElementById('fetchBtn');
+            if (activeSeeds.length === 0) {
+                statusEl.textContent = "Add at least one search term first.";
+                statusEl.className = "status-line err";
+                return;
+            }
+            fetchBtn.disabled = true;
+            const existing = parseExistingBank(document.getElementById('existingBank').value);
+            const seenSoFar = new Set();
+            const all = [];
+            const allNearMisses = [];
+            const nearMissSeen = new Set();
+            for (let i = 0; i < activeSeeds.length; i++) {
+                statusEl.textContent = `Searching "${activeSeeds[i]}"… (${i + 1}/${activeSeeds.length})`;
+                statusEl.className = "status-line";
+                try {
+                    const { found, nearMisses } = await fetchOneSeed(activeSeeds[i], existing, seenSoFar);
+                    all.push(...found);
+                    for (const nm of nearMisses) {
+                        if (nearMissSeen.has(nm.word) || seenSoFar.has(nm.word)) continue;
+                        nearMissSeen.add(nm.word);
+                        allNearMisses.push(nm);
+                    }
+                } catch (err) {
+                    console.error(`Failed on seed "${activeSeeds[i]}":`, err);
+                    statusEl.textContent =
+                        `Couldn't reach Datamuse for "${activeSeeds[i]}" — check your connection. Continuing with the rest…`;
+                    statusEl.className = "status-line err";
+                }
+            }
+            results = all;
+            if (results.length === 0 && allNearMisses.length === 0) {
+                fetchBtn.disabled = false;
+                statusEl.textContent = "No new words found — try different or additional search terms.";
+                statusEl.className = "status-line err";
+                document.getElementById('resultsCard').style.display = 'none';
+                return;
+            }
+
+            const cat = CATEGORIES[activeCat];
+            let rescuedCount = 0;
+            let assocUnreachable = false;
+
+            const conceptToggle = document.getElementById('conceptRescueToggle');
+            if (conceptToggle && conceptToggle.checked && allNearMisses.length > 0) {
+                fetchBtn.disabled = true;
+                let cancelled = false;
+                const skipBtn = document.getElementById('skipConceptBtn');
+                const onSkipClick = () => { cancelled = true; };
+                skipBtn.style.display = '';
+                skipBtn.addEventListener('click', onSkipClick);
+
+                statusEl.textContent = `Checking ${allNearMisses.length} near-miss word(s) for association with the category…`;
+                statusEl.className = "status-line";
+                try {
+                    const { rescued, reachable } = await rescueNearMissesWithTriggers(allNearMisses, cat, (done, total) => {
+                        if (cancelled) return;
+                        statusEl.textContent = `Checking associations… (${done}/${total}) — click Skip to stop`;
+                        statusEl.className = "status-line";
+                    }, () => cancelled);
+                    rescuedCount = rescued.length;
+                    assocUnreachable = reachable === false;
+                    results = results.concat(rescued);
+                } catch (err) {
+                    console.error('Trigger-word rescue failed:', err);
+                    assocUnreachable = true;
+                }
+                skipBtn.removeEventListener('click', onSkipClick);
+                skipBtn.style.display = 'none';
+            }
+
+            if (results.length === 0) {
+                fetchBtn.disabled = false;
+                statusEl.textContent = "No new words found — try different or additional search terms.";
+                statusEl.className = "status-line err";
+                document.getElementById('resultsCard').style.display = 'none';
+                return;
+            }
+
+            const dictToggle = document.getElementById('dictVerifyToggle');
+            let removedByDict = 0;
+            let dictCancelled = false;
+            if (dictToggle && dictToggle.checked) {
+                fetchBtn.disabled = true;
+                const keywords = categoryKeywords(cat);
+
+                const skipBtn = document.getElementById('skipDictBtn');
+                const onSkipClick = () => { dictCancelled = true; };
+                skipBtn.style.display = '';
+                skipBtn.addEventListener('click', onSkipClick);
+
+                const etaSec = Math.ceil(results.length / 8 * 0.5);
+                statusEl.textContent = `Verifying ${results.length} word(s) with a free dictionary… (~${etaSec}s, or click Skip below)`;
+                statusEl.className = "status-line";
+
+                try {
+                    await verifyCandidatesWithDictionary(results, cat, keywords, (done, total) => {
+                        if (dictCancelled) return;
+                        statusEl.textContent = `Verifying with free dictionary… (${done}/${total}) — click Skip to stop and keep current results`;
+                        statusEl.className = "status-line";
+                    }, () => dictCancelled);
+                } catch (err) {
+                    console.error('Dictionary verification failed:', err);
+                }
+
+                skipBtn.removeEventListener('click', onSkipClick);
+                skipBtn.style.display = 'none';
+
+                const before = results.length;
+                results = results.filter(r => !r._dictReject);
+                removedByDict = before - results.length;
+            }
+
+            fetchBtn.disabled = false;
+            if (results.length === 0) {
+                statusEl.textContent = "Dictionary check removed every candidate — try different search terms.";
+                statusEl.className = "status-line err";
+                document.getElementById('resultsCard').style.display = 'none';
+                return;
+            }
+
+            const notes = [];
+            if (assocUnreachable) notes.push("couldn't reach Datamuse for the association check — no near-misses could be checked");
+            else if (rescuedCount > 0) notes.push(`association check rescued ${rescuedCount} near-miss word${rescuedCount === 1 ? '' : 's'}`);
+            if (removedByDict > 0) notes.push(`dictionary check dropped ${removedByDict} that weren't real standalone words`);
+            if (dictCancelled) notes.push('dictionary check skipped partway — not every word was verified');
+            statusEl.textContent =
+                `Found ${results.length} candidate word${results.length === 1 ? '' : 's'} across ${activeSeeds.length} search term${activeSeeds.length === 1 ? '' : 's'}` +
+                (notes.length ? ` (${notes.join('; ')}).` : '.');
+            statusEl.className = assocUnreachable ? "status-line err" : "status-line ok";
+            renderResults();
+            renderSeedAnalysis();
+        }
+
+        /* ============================= RENDERING ============================= */
+        function renderCategoryDropdown() {
+            const select = document.getElementById('catSelect');
+            select.innerHTML = '';
+            Object.entries(CATEGORIES).forEach(([key, c]) => {
+                const opt = document.createElement('option');
+                opt.value = key;
+                opt.textContent = `${c.icon} ${c.label}`;
+                if (key === activeCat) opt.selected = true;
+                select.appendChild(opt);
+            });
+            updateCategoryIndicator();
+            const c = CATEGORIES[activeCat];
+            document.getElementById('seedCard').style.setProperty('--cat-color', c.color);
+            document.getElementById('seedCard').classList.add('accent');
+        }
+
+        function updateCategoryIndicator() {
+            const c = CATEGORIES[activeCat];
+            document.getElementById('catDot').style.setProperty('--dot-color', c.color);
+            document.getElementById('catLabelInline').textContent = c.label;
+        }
+
+        function renderSeedCard() {
+            const c = CATEGORIES[activeCat];
+            document.getElementById('catIconLabel').textContent = c.icon;
+            document.getElementById('catNameLabel').textContent = c.label;
+            document.getElementById('seedCard').style.setProperty('--cat-color', c.color);
+
+            const row = document.getElementById('seedRow');
+            row.innerHTML = activeSeeds.map((s, i) => `
+            <span class="seed-chip">${s}<button data-idx="${i}" title="Remove">✕</button></span>
+          `).join('');
+            row.querySelectorAll('button').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    activeSeeds.splice(parseInt(btn.dataset.idx), 1);
+                    renderSeedCard();
+                });
+            });
+        }
+
+        function renderResults() {
+            document.getElementById('resultsCard').style.display = 'block';
+            document.getElementById('resultsCard').style.setProperty('--cat-color', CATEGORIES[activeCat].color);
+            const keptCount = results.filter(r => r.status === 'kept').length;
+            const rejectedCount = results.filter(r => r.status === 'rejected').length;
+            const pendingCount = results.length - keptCount - rejectedCount;
+            document.getElementById('statsBar').innerHTML = `
+            <div class="stat-pill">Found <b>${results.length}</b></div>
+            <div class="stat-pill">Kept <b id="keptCount">${keptCount}</b></div>
+            <div class="stat-pill">Rejected <b id="rejectedCount">${rejectedCount}</b></div>
+            <div class="stat-pill">Pending <b id="pendingCount">${pendingCount}</b></div>
+            <div class="stat-pill">Category <b>${CATEGORIES[activeCat].label}</b></div>
+          `;
+            const grid = document.getElementById('resultGrid');
+            if (results.length === 0) {
+                grid.innerHTML = `<div class="empty-note">No results to show yet.</div>`;
+                return;
+            }
+            grid.innerHTML = results.map((r, i) => `
+            <div class="word-card status-${r.status}" style="--cat-color:${CATEGORIES[activeCat].color}" data-idx="${i}">
+              <div class="wc-status">
+                <button class="status-btn keep${r.status === 'kept' ? ' active' : ''}" data-idx="${i}" data-action="kept" title="Keep">✓</button>
+                <button class="status-btn reject${r.status === 'rejected' ? ' active' : ''}" data-idx="${i}" data-action="rejected" title="Reject">✕</button>
+              </div>
+              <div class="wc-body">
+                <div class="wc-top">
+                  <span class="wc-word">${r.word}</span>
+                  ${r.autoDecided ? `<span class="wc-auto" title="Auto-decided — verify this one">AUTO</span>` : ''}
+                  ${r._decisionReason ? `<span class="wc-reason" title="${r._decisionReason} (score ${r._relevanceScore ?? '?'})">ℹ️</span>` : ''}
+                  ${r._dictConfirmed ? '<span class="wc-dict" title="A free-dictionary definition also matched this category">📖</span>' : ''}
+                  ${r._assocRescued ? `<span class="wc-concept" title="Rescued via word-association (score ${r._assocScore}) — best available definition scored ${r._clueRelevanceScore} for topical relevance">🔗</span>` : ''}
+                  <span class="wc-seed" title="Source seed">${r.sourceSeed || '—'}</span>
+                  <select class="tier-select" data-idx="${i}">
+                    <option value="easy"${r.tier === 'easy' ? ' selected' : ''}>easy</option>
+                    <option value="medium"${r.tier === 'medium' ? ' selected' : ''}>medium</option>
+                    <option value="hard"${r.tier === 'hard' ? ' selected' : ''}>hard</option>
+                    <option value="legendary"${r.tier === 'legendary' ? ' selected' : ''}>legendary</option>
+                  </select>
+                </div>
+                <input type="text" class="res-clue" data-idx="${i}" value="${r.clue.replace(/"/g, '&quot;')}">
+              </div>
+            </div>
+          `).join('');
+
+            grid.querySelectorAll('.status-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    const idx = parseInt(btn.dataset.idx);
+                    const action = btn.dataset.action;
+                    results[idx].status = results[idx].status === action ? 'pending' : action;
+                    delete results[idx].autoDecided;
+                    renderResults();
+                    renderSeedAnalysis();
+                });
+            });
+            grid.querySelectorAll('.tier-select').forEach(sel => {
+                sel.addEventListener('change', () => {
+                    results[parseInt(sel.dataset.idx)].tier = sel.value;
+                });
+            });
+            grid.querySelectorAll('.res-clue').forEach(inp => {
+                inp.addEventListener('input', () => {
+                    results[parseInt(inp.dataset.idx)].clue = inp.value;
+                });
+            });
+        }
+
+        function renderSeedAnalysis() {
+            const box = document.getElementById('seedAnalysis');
+            if (box.style.display === 'none') return;
+            const bySeed = {};
+            results.forEach(r => {
+                const s = r.sourceSeed || '(unknown)';
+                if (!bySeed[s]) bySeed[s] = { total: 0, kept: 0, rejected: 0 };
+                bySeed[s].total++;
+                if (r.status === 'kept') bySeed[s].kept++;
+                if (r.status === 'rejected') bySeed[s].rejected++;
+            });
+            const rows = Object.entries(bySeed)
+                .map(([seed, v]) => {
+                    const reviewed = v.kept + v.rejected;
+                    return { seed, total: v.total, kept: v.kept, reviewed, pct: reviewed > 0 ? v.kept / reviewed : null };
+                })
+                .sort((a, b) => {
+                    if (a.pct === null && b.pct === null) return b.total - a.total;
+                    if (a.pct === null) return 1;
+                    if (b.pct === null) return -1;
+                    return b.pct - a.pct || b.total - a.total;
+                });
+            const catColor = CATEGORIES[activeCat].color;
+            const head = `
+            <div class="sa-row head">
+              <span>Seed</span><span>Found</span><span>Reviewed</span><span>Kept %</span>
+            </div>`;
+            const body = rows.map(r => `
+            <div class="sa-row">
+              <span class="sa-seed" title="${r.seed}">${r.seed}</span>
+              <span class="sa-num">${r.total}</span>
+              <span class="sa-num">${r.reviewed}/${r.total}</span>
+              ${r.pct === null
+                ? `<span class="sa-num" style="text-align:left;color:#6b73a0;">not reviewed yet</span>`
+                : `<div class="sa-bar-wrap"><div class="sa-bar" style="--cat-color:${catColor}; width:${Math.round(r.pct*100)}%"></div></div>`}
+            </div>`).join('');
+            box.innerHTML = head + body + `
+            <p class="tag-note">"Kept %" = kept ÷ (kept + rejected) among words you've actually reviewed for that seed — words you haven't touched yet don't count either way. Mark a few words ✓/✕ per seed to get a real signal.</p>`;
+        }
+
+        /* ============================= EXPORT ============================= */
+        function buildExportBlock() {
+            const chosen = results.filter(r => r.status === 'kept' && r.clue.trim());
+            return chosen.map(r =>
+                `      {word:"${r.word}", tier:"${r.tier}", clue:"${r.clue.trim().replace(/"/g, '\\"')}"},`
+            ).join('\n');
+        }
+
+        // Kept words only, no clue — main.py's fetch_hints_for_words() reads this file and fills
+        // in "hint" per word using Gemini, instead of asking the model to invent both word and
+        // hint from scratch. Only the fields the AI hint-generation step actually needs.
+        function buildJsonExport() {
+            const chosen = results.filter(r => r.status === 'kept');
+            return JSON.stringify(chosen.map(r => ({
+                word: r.word,
+                category: activeCat,
+                tier: r.tier,
+                sourceSeed: r.sourceSeed || null
+            })), null, 2);
+        }
+
+        /* ============================= EVENTS ============================= */
+        document.getElementById('catSelect').addEventListener('change', (e) => {
+            activeCat = e.target.value;
+            activeSeeds = [...CATEGORIES[activeCat].seeds];
+            results = [];
+            document.getElementById('resultsCard').style.display = 'none';
+            document.getElementById('exportCard').style.display = 'none';
+            document.getElementById('statusLine').textContent = '';
+            document.getElementById('statusLine').className = 'status-line';
+            document.getElementById('autoInfo').style.display = 'none';
+            renderCategoryDropdown();
+            renderSeedCard();
+        });
+
+        document.getElementById('addSeedBtn').addEventListener('click', () => {
+            const inp = document.getElementById('seedInput');
+            const val = inp.value.trim().toLowerCase();
+            if (val && !activeSeeds.includes(val)) {
+                activeSeeds.push(val);
+                inp.value = '';
+                renderSeedCard();
+            }
+        });
+        document.getElementById('seedInput').addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') { e.preventDefault();
+                document.getElementById('addSeedBtn').click(); }
+        });
+        document.getElementById('resetSeedsBtn').addEventListener('click', () => {
+            activeSeeds = [...CATEGORIES[activeCat].seeds];
+            renderSeedCard();
+        });
+        document.getElementById('fetchBtn').addEventListener('click', gatherWords);
+        document.getElementById('selAllBtn').addEventListener('click', () => {
+            results.forEach(r => r.status = 'kept');
+            renderResults();
+            renderSeedAnalysis();
+        });
+        document.getElementById('selNoneBtn').addEventListener('click', () => {
+            results.forEach(r => { r.status = 'pending'; delete r.autoDecided; });
+            renderResults();
+            renderSeedAnalysis();
+        });
+        document.getElementById('autoReviewBtn').addEventListener('click', runAutoReview);
+        document.getElementById('clearAutoBtn').addEventListener('click', () => {
+            results.forEach(r => {
+                if (r.autoDecided) {
+                    r.status = 'pending';
+                    delete r.autoDecided;
+                }
+            });
+            renderResults();
+            renderSeedAnalysis();
+            document.getElementById('statusLine').textContent = 'Cleared all auto-decisions.';
+            document.getElementById('statusLine').className = 'status-line';
+        });
+        document.getElementById('seedAnalysisBtn').addEventListener('click', () => {
+            const box = document.getElementById('seedAnalysis');
+            const btn = document.getElementById('seedAnalysisBtn');
+            const showing = box.style.display !== 'none';
+            box.style.display = showing ? 'none' : 'flex';
+            btn.textContent = showing ? 'Seed analysis ▾' : 'Seed analysis ▴';
+            if (!showing) renderSeedAnalysis();
+        });
+        let lastExportFormat = 'js'; // 'js' | 'json' — controls download extension/mime type
+
+        document.getElementById('exportBtn').addEventListener('click', () => {
+            const block = buildExportBlock();
+            const exportCard = document.getElementById('exportCard');
+            const out = document.getElementById('exportOut');
+            lastExportFormat = 'js';
+            if (!block) {
+                out.value = "No words selected — check the ones you'd like to export first.";
+            } else {
+                out.value = block;
+            }
+            exportCard.style.display = 'block';
+            exportCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+
+        document.getElementById('exportJsonBtn').addEventListener('click', () => {
+            const json = buildJsonExport();
+            const exportCard = document.getElementById('exportCard');
+            const out = document.getElementById('exportOut');
+            lastExportFormat = 'json';
+            const chosenCount = results.filter(r => r.status === 'kept').length;
+            out.value = chosenCount === 0
+                ? "No words selected — check the ones you'd like to export first."
+                : json;
+            exportCard.style.display = 'block';
+            exportCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+        document.getElementById('copyBtn').addEventListener('click', async () => {
+            const out = document.getElementById('exportOut');
+            try {
+                await navigator.clipboard.writeText(out.value);
+                const btn = document.getElementById('copyBtn');
+                const original = btn.textContent;
+                btn.textContent = 'Copied ✓';
+                setTimeout(() => btn.textContent = original, 1500);
+            } catch (_) {
+                out.select();
+                document.execCommand('copy');
+            }
+        });
+        document.getElementById('downloadBtn').addEventListener('click', () => {
+            const out = document.getElementById('exportOut').value;
+            const isJson = lastExportFormat === 'json';
+            const blob = new Blob([out], { type: isJson ? 'application/json' : 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = isJson
+                ? `${activeCat}-approved_words.json`
+                : `${activeCat}-word-bank.txt`;
+            a.click();
+            URL.revokeObjectURL(url);
+        });
+
+        /* ============================= GITHUB PUSH & RUN ============================= */
+        // Only the fine-grained PAT lives in localStorage — it never leaves this browser
+        // except in Authorization headers sent straight to api.github.com. The Gemini key
+        // is never present here at all; it lives only in GitHub Secrets and is read by
+        // main.js inside the Actions runner.
+        const GH_STORAGE = {
+            repo: 'wordCodex.gh.repo',
+            branch: 'wordCodex.gh.branch',
+            workflow: 'wordCodex.gh.workflow',
+            token: 'wordCodex.gh.token',
+        };
+
+        function ghLoadSaved() {
+            document.getElementById('ghRepo').value = localStorage.getItem(GH_STORAGE.repo) || '';
+            document.getElementById('ghBranch').value = localStorage.getItem(GH_STORAGE.branch) || 'main';
+            document.getElementById('ghWorkflow').value = localStorage.getItem(GH_STORAGE.workflow) || 'generate-hints.yml';
+            document.getElementById('ghToken').value = localStorage.getItem(GH_STORAGE.token) || '';
+        }
+
+        function ghSetStatus(msg, kind) {
+            const line = document.getElementById('ghStatusLine');
+            line.textContent = msg;
+            line.className = 'status-line' + (kind ? ' ' + kind : '');
+        }
+
+        function b64EncodeUnicode(str) {
+            // btoa only handles Latin1 — encode UTF-8 bytes first so non-ASCII hints/words survive.
+            return btoa(unescape(encodeURIComponent(str)));
+        }
+
+        async function ghApiRequest(url, token, options = {}) {
+            const res = await fetch(url, {
+                ...options,
+                headers: {
+                    'Accept': 'application/vnd.github+json',
+                    'Authorization': `Bearer ${token}`,
+                    'X-GitHub-Api-Version': '2022-11-28',
+                    ...(options.headers || {}),
+                },
+            });
+            return res;
+        }
+
+        document.getElementById('ghForgetBtn').addEventListener('click', () => {
+            localStorage.removeItem(GH_STORAGE.token);
+            document.getElementById('ghToken').value = '';
+            ghSetStatus('Saved token cleared from this browser.', '');
+        });
+
+        document.getElementById('ghPushBtn').addEventListener('click', async () => {
+            const btn = document.getElementById('ghPushBtn');
+            const repo = document.getElementById('ghRepo').value.trim();
+            const branch = document.getElementById('ghBranch').value.trim() || 'main';
+            const workflow = document.getElementById('ghWorkflow').value.trim() || 'generate-hints.yml';
+            const token = document.getElementById('ghToken').value.trim();
+
+            if (!/^[^\/\s]+\/[^\/\s]+$/.test(repo)) {
+                ghSetStatus('Enter the repo as owner/name, e.g. yourname/word-codex.', 'err');
+                return;
+            }
+            if (!token) {
+                ghSetStatus('Paste a fine-grained GitHub token first (Contents: write, Actions: write).', 'err');
+                return;
+            }
+            const chosenCount = results.filter(r => r.status === 'kept').length;
+            if (chosenCount === 0) {
+                ghSetStatus("No words selected — check the ones you'd like to export first.", 'err');
+                return;
+            }
+
+            // Remember non-secret fields immediately; remember the token only on a successful call
+            // below, so a mistyped token never gets persisted.
+            localStorage.setItem(GH_STORAGE.repo, repo);
+            localStorage.setItem(GH_STORAGE.branch, branch);
+            localStorage.setItem(GH_STORAGE.workflow, workflow);
+
+            const json = buildJsonExport();
+            const [owner, name] = repo.split('/');
+            const filePath = 'approved_words.json';
+
+            btn.disabled = true;
+            try {
+                ghSetStatus('Checking for an existing approved_words.json…', '');
+                const getUrl = `https://api.github.com/repos/${owner}/${name}/contents/${filePath}?ref=${encodeURIComponent(branch)}`;
+                const getRes = await ghApiRequest(getUrl, token);
+
+                let sha = undefined;
+                if (getRes.status === 200) {
+                    const existing = await getRes.json();
+                    sha = existing.sha;
+                } else if (getRes.status !== 404) {
+                    const errBody = await getRes.json().catch(() => ({}));
+                    throw new Error(`Couldn't read existing file (${getRes.status}): ${errBody.message || getRes.statusText}`);
+                }
+
+                ghSetStatus(sha ? 'Updating approved_words.json…' : 'Creating approved_words.json…', '');
+                const putUrl = `https://api.github.com/repos/${owner}/${name}/contents/${filePath}`;
+                const putRes = await ghApiRequest(putUrl, token, {
+                    method: 'PUT',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        message: `chore: update ${filePath} from Word Codex (${activeCat}, ${chosenCount} words)`,
+                        content: b64EncodeUnicode(json),
+                        branch,
+                        ...(sha ? { sha } : {}),
+                    }),
+                });
+                if (!putRes.ok) {
+                    const errBody = await putRes.json().catch(() => ({}));
+                    throw new Error(`Upload failed (${putRes.status}): ${errBody.message || putRes.statusText}`);
+                }
+
+                ghSetStatus('Triggering the Generate Hints workflow…', '');
+                const dispatchUrl = `https://api.github.com/repos/${owner}/${name}/actions/workflows/${encodeURIComponent(workflow)}/dispatches`;
+                const dispatchRes = await ghApiRequest(dispatchUrl, token, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        ref: branch,
+                        inputs: {
+                            input_file: filePath,
+                            output_file: 'unique_word_puzzles_with_hints.json.gz',
+                        },
+                    }),
+                });
+                if (!dispatchRes.ok) {
+                    const errBody = await dispatchRes.json().catch(() => ({}));
+                    throw new Error(`Couldn't start the workflow (${dispatchRes.status}): ${errBody.message || dispatchRes.statusText}`);
+                }
+
+                // Only saved once every call above actually succeeded with this token.
+                localStorage.setItem(GH_STORAGE.token, token);
+
+                const actionsUrl = `https://github.com/${owner}/${name}/actions`;
+                ghSetStatus(`✅ Uploaded ${chosenCount} words and started the workflow — track it at ${actionsUrl}`, 'ok');
+            } catch (e) {
+                ghSetStatus(`❌ ${e.message}`, 'err');
+            } finally {
+                btn.disabled = false;
+            }
+        });
+
+        /* ============================= INIT ============================= */
+        renderCategoryDropdown();
+        renderSeedCard();
+        ghLoadSaved();
+    </script>
+</body>
+</html>

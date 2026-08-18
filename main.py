@@ -49,7 +49,7 @@ def fetch_batch_puzzles(category, difficulty, count=20):
         print(f"⚠️ خطأ أثناء جلب بيانات ({category} - {difficulty}): {e}")
         return []
 
-def generate_50k_unique_puzzles(target_count=50000):
+def generate_50k_unique_puzzles(target_count=100):
     unique_words = set() # لضمان عدم تكرار أي كلمة إطلاقاً
     all_puzzles = []
     file_name = "unique_word_puzzles_50k.json.gz"

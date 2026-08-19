@@ -47,7 +47,9 @@ if (!API_KEY) {
   );
 }
 
-const MODEL = "gemini-2.5-flash";
+// يمكن تجاوزه بمتغير بيئة GEMINI_MODEL بدون تعديل الكود، لأن Google تغيّر/توقف
+// أسماء الموديلات بين فترة وأخرى (زي ما صار مع gemini-2.5-flash).
+const MODEL = process.env.GEMINI_MODEL || "gemini-3.6-flash";
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
 
 const BATCH_SIZE = 25;
@@ -202,6 +204,7 @@ async function generateHintsForApprovedWords(inputPath, outputPath, batchSize = 
     log.info("✅ كل الكلمات المعتمدة لديها تلميح بالفعل — لا شيء لتوليده.");
     return;
   }
+  const puzzleCountBefore = puzzles.length;
 
   log.info(
     `🚀 بدء توليد تلميحات لـ ${totalRemaining} كلمة عبر ${remainingByCombo.size} تركيبة (فئة/مستوى)...`
@@ -277,6 +280,16 @@ async function generateHintsForApprovedWords(inputPath, outputPath, batchSize = 
   }
 
   log.info(`🎉 اكتمل توليد التلميحات! الإجمالي: ${puzzles.length} لغز في: ${outputPath}`);
+
+  // لو ما اتولّد ولا تلميح واحد رغم وجود كلمات معتمدة، هذا فشل حقيقي (موديل غير متاح،
+  // مفتاح خاطئ، خ إلخ) — نرمي خطأ بدل الخروج بهدوء، عشان الـ workflow يفشل بوضوح
+  // ولا يوصل لخطوة الـ commit بملف مخرجات ما انكتب أصلاً.
+  if (puzzles.length === puzzleCountBefore) {
+    throw new Error(
+      "لم يتم توليد أي تلميح جديد رغم وجود كلمات معتمدة بانتظار التوليد — راجع رسائل الخطأ أعلاه " +
+        "(الأسباب الشائعة: اسم موديل غير متاح/موقوف، أو GEMINI_API_KEY غير صحيح)."
+    );
+  }
 }
 
 // ---------------------------------------------------------------------------

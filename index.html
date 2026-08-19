@@ -791,15 +791,15 @@
                 <div class="gh-form">
                     <label class="gh-field">
                         <span>Repository <em>(owner/name)</em></span>
-                        <input type="text" id="ghRepo" placeholder="yourname/word-codex" autocomplete="off" />
+                        <input type="text" id="ghRepo" placeholder="yourname/word-codex" value="manou18/puzzle-bank-generator" autocomplete="off" />
                     </label>
                     <label class="gh-field">
                         <span>Branch</span>
-                        <input type="text" id="ghBranch" placeholder="main" autocomplete="off" />
+                        <input type="text" id="ghBranch" placeholder="main" value="main" autocomplete="off" />
                     </label>
                     <label class="gh-field">
                         <span>Workflow file</span>
-                        <input type="text" id="ghWorkflow" placeholder="generate-hints.yml" autocomplete="off" />
+                        <input type="text" id="ghWorkflow" placeholder="generate-hints.yml" value="generate-hints.yml" autocomplete="off" />
                     </label>
                     <label class="gh-field">
                         <span>Fine-grained PAT <em>(Contents: write, Actions: write)</em></span>
@@ -2046,7 +2046,7 @@
         };
 
         function ghLoadSaved() {
-            document.getElementById('ghRepo').value = localStorage.getItem(GH_STORAGE.repo) || '';
+            document.getElementById('ghRepo').value = localStorage.getItem(GH_STORAGE.repo) || 'manou18/puzzle-bank-generator';
             document.getElementById('ghBranch').value = localStorage.getItem(GH_STORAGE.branch) || 'main';
             document.getElementById('ghWorkflow').value = localStorage.getItem(GH_STORAGE.workflow) || 'generate-hints.yml';
             document.getElementById('ghToken').value = localStorage.getItem(GH_STORAGE.token) || '';

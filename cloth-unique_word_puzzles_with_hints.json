@@ -198,5 +198,405 @@
     "word": "shirting",
     "hint": "Light to medium weight cotton material milled primarily for button-down tops.",
     "sourceSeed": "fabric"
+  },
+  {
+    "id": 26,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "textile",
+    "hint": "Woven or knitted flexible goods produced by manufacturing.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 27,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "material",
+    "hint": "Substance from which items or attire are constructed.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 28,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "webbing",
+    "hint": "Strong, closely braided strap used for bearing heavy loads.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 29,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "apparel",
+    "hint": "Attire or wearables designed to cover the body.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 30,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "garment",
+    "hint": "An individual article of clothing.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 31,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "fabrics",
+    "hint": "Woven or felted flexible goods used in furnishings and wear.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 32,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "tissues",
+    "hint": "Fine, delicate woven gauzes or thin absorbent paper sheets.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 33,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "drapery",
+    "hint": "Hanging curtains or patterned folds of decorative window covering.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 34,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "sheeting",
+    "hint": "Broad plain-woven cotton used primarily for bed coverings.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 35,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "facecloth",
+    "hint": "Small square toweling piece used specifically for cleansing one's head or cheeks.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 36,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "garments",
+    "hint": "Multiple articles of clothing considered collectively.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 37,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "haircloth",
+    "hint": "Stiff, scratchy weave made from equine mane or tail fibers.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 38,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "oilskin",
+    "hint": "Heavy waterproof cotton treated with linseeds to repel water.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 39,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "sailcloth",
+    "hint": "Canvas-like durable weave designed to catch wind on nautical vessels.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 40,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "diapering",
+    "hint": "Geometric repeating diamond pattern used in traditional embroidery.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 41,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "washcloth",
+    "hint": "Small square absorbent rag used for personal hygiene in a bath.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 42,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "drugget",
+    "hint": "Coarse, durable wool blend used historically as a cheap floor runner.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 43,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "bobbinet",
+    "hint": "Machine-made hexagonal mesh used in lace-making and veils.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 44,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "dustcloth",
+    "hint": "Soft rag used for wiping grime off furniture and surfaces.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 45,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "textiles",
+    "hint": "Manufactured flexible items composed of a network of natural or synthetic fibers.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 46,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "thonging",
+    "hint": "Narrow strips of leather used for lacing or binding items together.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 47,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "kerchief",
+    "hint": "Triangular or square piece of square-cut wear worn over the head or neck.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 48,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "cambric",
+    "hint": "Lightweight, closely woven plain-cotton weave often used for embroidery.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 49,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "cashmere",
+    "hint": "Extremely soft wool obtained from downy undercoats of Himalayan goats.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 50,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "horsehair",
+    "hint": "Coarse fiber derived from equine tails, used for upholstery padding.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 51,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "stroking",
+    "hint": "Gentle smoothing or aligning of fabric pile and fibers during finishing.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 52,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "loomworks",
+    "hint": "Facilities or manufacturing sites dedicated to industrial textile weaving.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 53,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "filature",
+    "hint": "An establishment where raw silk strands are reeled from cocoons.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 54,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "jacquard",
+    "hint": "Elaborate figure-patterned fabric created using a specialized shed mechanism.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 55,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "spandex",
+    "hint": "Synthetic polyurethane fiber renowned for its exceptional elasticity.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 56,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "velours",
+    "hint": "Plush fabric featuring a dense cut pile similar to velvet.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 57,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "bengaline",
+    "hint": "A durable woven textile characterized by prominent transverse ribbed cords.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 58,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "curtain",
+    "hint": "Hanging drapery used to shield windows or partition interior spaces.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 59,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "ingrain",
+    "hint": "Textile produced from yarn that was dyed prior to the weaving process.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 60,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "handloom",
+    "hint": "Manual frame operated without automated power to interlace strands.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 61,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "threading",
+    "hint": "The act of passing lengthwise strands through heddles and reeds.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 62,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "worming",
+    "hint": "Wrapping fine cord into rope grooves prior to binding in marine canvas preparation.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 63,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "drawloom",
+    "hint": "Historic frame equipped with harness cords to raise selected warp strands for intricate motifs.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 64,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "basketry",
+    "hint": "Pattern of interlacing rigid or flexible fibers resembling woven containers.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 65,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "drafting",
+    "hint": "Drawing out and attenuating unspun roving before applying twist.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 66,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "tackler",
+    "hint": "A specialist responsible for setting up and maintaining weaving machinery.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 67,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "braidwork",
+    "hint": "Decorative textile trims formed by plaiting three or more strands together.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 68,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "waulking",
+    "hint": "Traditional Scottish process of beating woven tweed to shrink and thicken it.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 69,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "moulinage",
+    "hint": "Silk-throwing technique of twisting raw filaments together into strand.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 70,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "mousing",
+    "hint": "Wrapping turns of yarn around a hook gap to prevent unhooking.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 71,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "leadwork",
+    "hint": "Weighted hem construction designed to keep heavy drapes hanging straight.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 72,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "slackener",
+    "hint": "Device on a frame that temporarily reduces warp tension during shed opening.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 73,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "pirning",
+    "hint": "Winding spun yarn onto a shuttle bobbin or quill for insertion.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 74,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "linkwork",
+    "hint": "Flexible textile structure formed by interlocking metallic or cord rings.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 75,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "diagonal",
+    "hint": "A twill weave characterized by distinct slanting rib lines.",
+    "sourceSeed": "weaving"
   }
 ]

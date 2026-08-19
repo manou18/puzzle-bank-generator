@@ -5830,5 +5830,599 @@
     "category": "cloth",
     "tier": "legendary",
     "sourceSeed": "broadcloth"
+  },
+  {
+    "word": "SOFTENER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "mercerization"
+  },
+  {
+    "word": "FINISH",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "mercerization"
+  },
+  {
+    "word": "CONDITIONER",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "mercerization"
+  },
+  {
+    "word": "CELLUCOTTON",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "mercerization"
+  },
+  {
+    "word": "LEATHEROID",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "mercerization"
+  },
+  {
+    "word": "DRESSWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "TAILORISM",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "DESIGNERWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "TAILORAGE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "TAILORHOOD",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "TAILORSHIP",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "TAILORY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "GARMENTING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "LADIESWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "OVERDRESS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "WINTERDRESS",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "BRIDALWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "PASSEMENT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "BUSINESSWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "STAGEWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "DROGUET",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "WEDDINGWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "BRIDEWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "ROBING",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "OCCASIONWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "BUSKING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "POCKETING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "APPARELLING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "MANTLING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "VESTING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "CASUALWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "BREASTWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "dressmaking"
+  },
+  {
+    "word": "NEEDLET",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "needlepoint"
+  },
+  {
+    "word": "POINTELLE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "needlepoint"
+  },
+  {
+    "word": "TENTERHOOK",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "needlepoint"
+  },
+  {
+    "word": "SPIDERWORK",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "needlepoint"
+  },
+  {
+    "word": "PADDING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "upholstery"
+  },
+  {
+    "word": "LAMPAS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "upholstery"
+  },
+  {
+    "word": "BOOK",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "upholstery"
+  },
+  {
+    "word": "RUG",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "upholstery"
+  },
+  {
+    "word": "NETHERWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "BOTTOMWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "UNDERTUNIC",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "UNDERHOSE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "OVERWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "BEDWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "UNDERBREECHES",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "DRAWERS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "UNDERROBE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "UNDERBLOUSE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "BATHWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "UNDERCOLLAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "NETHERLING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "INFANTWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "NURSINGWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "OVERTUNIC",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "OVERTROUSERS",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "CLUBWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "INFANTSWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "RIDINGWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "CHILDRENSWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "TEENWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "LOINSKIN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "SKINTIGHTS",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "BOYSWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "UNDERKIMONO",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "NURSEWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "UNDERLINING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "APPARELING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "GYMWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "OUTDOORWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "BOARDWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "HOUSEWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "TENNISWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "SWADDLING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "underclothing"
+  },
+  {
+    "word": "PINTUCKING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "pincushion"
+  },
+  {
+    "word": "PINTUCK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "pincushion"
+  },
+  {
+    "word": "PINCHECK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "pincushion"
+  },
+  {
+    "word": "PINA",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "pincushion"
+  },
+  {
+    "word": "PREEN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "pincushion"
+  },
+  {
+    "word": "CUSHIONS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "pincushion"
+  },
+  {
+    "word": "TASSEL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "pincushion"
+  },
+  {
+    "word": "TURBAN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "pincushion"
+  },
+  {
+    "word": "TURBANS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "pincushion"
+  },
+  {
+    "word": "TRAYCLOTH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tablecloth"
+  },
+  {
+    "word": "TOILET",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "tablecloth"
+  },
+  {
+    "word": "RUNNER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "tablecloth"
+  },
+  {
+    "word": "HORSECLOTH",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "tablecloth"
+  },
+  {
+    "word": "TAPET",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "tablecloth"
+  },
+  {
+    "word": "SADDLECLOTH",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "tablecloth"
+  },
+  {
+    "word": "UMBRELLA",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tablecloth"
+  },
+  {
+    "word": "BEDSHEET",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tablecloth"
+  },
+  {
+    "word": "SHADECLOTH",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "tablecloth"
+  },
+  {
+    "word": "BACKDROP",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tablecloth"
+  },
+  {
+    "word": "BEDROBE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tablecloth"
+  },
+  {
+    "word": "NETHERFRONT",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "tablecloth"
+  },
+  {
+    "word": "HEADCOVERING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "tablecloth"
+  },
+  {
+    "word": "NEEDLEWOMAN",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "needlework"
+  },
+  {
+    "word": "RUCK",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "needlework"
   }
 ]

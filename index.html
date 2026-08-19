@@ -533,6 +533,19 @@
             border-color: #d4a24c;
         }
 
+        /* ── resumable session banner ── */
+        .resume-banner {
+            background: #2c2542;
+            border: 1px solid #6b5a2e;
+            border-left: 4px solid #d4a24c;
+            border-radius: 10px;
+            padding: 14px 16px;
+            margin-bottom: 18px;
+            font-size: 13px;
+            color: #f1ecdd;
+            line-height: 1.5;
+        }
+
         .wc-seed {
             font-family: 'JetBrains Mono', monospace;
             font-size: 10px;
@@ -684,6 +697,14 @@
 
         <main class="main-panel">
 
+            <div class="resume-banner" id="resumeBanner" style="display:none;">
+                <span id="resumeBannerText"></span>
+                <div class="btn-row" style="margin-top:8px;">
+                    <button class="btn small gold" id="resumeBtn">Resume</button>
+                    <button class="btn small ghost" id="discardResumeBtn">Discard</button>
+                </div>
+            </div>
+
             <section class="card accent" id="seedCard" style="--cat-color:#d4a24c;">
                 <h3 class="card-title"><span class="icon" id="catIconLabel">⛏️</span><span id="catNameLabel">Metals</span></h3>
                 <p class="card-sub">Search terms sent to Datamuse. Defaults are tuned to this category — add your own to dig further, or remove ones that drift off-topic. 20 seeds means a richer bank, but gathering runs seed-by-seed, so a full pass can take fifteen seconds or so — the status line below tracks progress.</p>
@@ -760,7 +781,7 @@
             <section class="card" id="githubCard">
                 <h3 class="card-title"><span class="icon">🚀</span>Push to GitHub &amp; generate hints</h3>
                 <p class="card-sub">
-                    Uploads the kept words as <code>approved_words.json</code> to your repo, then triggers the
+                    Uploads the kept words as <code>&lt;category&gt;-approved_words.json</code> to your repo, then triggers the
                     <code>Generate Hints</code> Actions workflow, which calls Gemini using the
                     <code>GEMINI_API_KEY</code> stored in <strong>GitHub Secrets</strong> — that key never touches
                     this page. The token below only needs repo contents + Actions write access, is used only to
@@ -1285,6 +1306,128 @@
             return { found, nearMisses };
         }
 
+        /* ============================= WAKE LOCK & RESUMABLE DICTIONARY CHECK =============================
+           The dictionary-verification pass below is the slow, per-word network step the whole
+           gather flow has to wait on. Two separate problems can interrupt it on mobile:
+           1) the screen locks, the tab gets backgrounded/throttled, and things stall — a Screen
+              Wake Lock keeps the display (and therefore the tab) awake while it's running.
+           2) the page is actually reloaded or reopened partway through (tab discarded by the OS,
+              accidental navigation) — nothing in memory survives that, so progress is checkpointed
+              to localStorage as it goes and can be resumed instead of starting over. */
+        let wakeLock = null;
+        let wakeLockWanted = false;
+
+        async function requestWakeLock() {
+            if (!('wakeLock' in navigator)) return;
+            try {
+                wakeLock = await navigator.wakeLock.request('screen');
+                wakeLock.addEventListener('release', () => { wakeLock = null; });
+            } catch (_) {
+                // Not fatal — e.g. unsupported browser, battery saver mode. The dictionary check
+                // still runs and checkpoints itself either way, it just can't prevent the screen
+                // from locking on this device.
+            }
+        }
+        function releaseWakeLock() {
+            wakeLockWanted = false;
+            if (wakeLock) { wakeLock.release().catch(() => {}); wakeLock = null; }
+        }
+        document.addEventListener('visibilitychange', () => {
+            if (wakeLockWanted && document.visibilityState === 'visible') requestWakeLock();
+        });
+
+        const DICT_CHECKPOINT_KEY = 'wordCodex.dictCheckpoint';
+        function saveDictCheckpoint(cat, seeds, resultsSnapshot) {
+            try {
+                localStorage.setItem(DICT_CHECKPOINT_KEY, JSON.stringify({ cat, seeds, results: resultsSnapshot }));
+            } catch (_) { /* storage full/unavailable — resume just won't be offered later */ }
+        }
+        function clearDictCheckpoint() {
+            try { localStorage.removeItem(DICT_CHECKPOINT_KEY); } catch (_) {}
+        }
+        function loadDictCheckpoint() {
+            try {
+                const raw = localStorage.getItem(DICT_CHECKPOINT_KEY);
+                return raw ? JSON.parse(raw) : null;
+            } catch (_) { return null; }
+        }
+
+        function checkForResumableSession() {
+            const cp = loadDictCheckpoint();
+            if (!cp || !cp.results || !cp.results.length) return;
+            const remaining = cp.results.filter(r => !r._dictChecked).length;
+            if (remaining === 0) { clearDictCheckpoint(); return; }
+            const catLabel = (CATEGORIES[cp.cat] && CATEGORIES[cp.cat].label) || cp.cat;
+            document.getElementById('resumeBannerText').textContent =
+                `Found an interrupted dictionary check for "${catLabel}" — ${remaining} of ${cp.results.length} word(s) still need verifying.`;
+            document.getElementById('resumeBanner').style.display = 'block';
+        }
+
+        async function resumeDictVerification() {
+            const statusEl = document.getElementById('statusLine');
+            const fetchBtn = document.getElementById('fetchBtn');
+            const cat = CATEGORIES[activeCat];
+            const keywords = categoryKeywords(cat);
+            const remaining = results.filter(r => !r._dictChecked);
+
+            if (remaining.length === 0) {
+                clearDictCheckpoint();
+                results = results.filter(r => !r._dictReject);
+                statusEl.textContent = `Resumed — the dictionary check had already finished for all ${results.length} word(s).`;
+                statusEl.className = "status-line ok";
+                renderResults();
+                renderSeedAnalysis();
+                return;
+            }
+
+            fetchBtn.disabled = true;
+            wakeLockWanted = true;
+            await requestWakeLock();
+
+            let dictCancelled = false;
+            const skipBtn = document.getElementById('skipDictBtn');
+            const onSkipClick = () => { dictCancelled = true; };
+            skipBtn.style.display = '';
+            skipBtn.addEventListener('click', onSkipClick);
+
+            statusEl.textContent = `Resuming dictionary check — ${remaining.length} word(s) left…`;
+            statusEl.className = "status-line";
+
+            let lastCheckpointAt = 0;
+            try {
+                await verifyCandidatesWithDictionary(remaining, cat, keywords, (done, total) => {
+                    if (!dictCancelled) {
+                        statusEl.textContent = `Verifying with free dictionary… (${done}/${total} remaining) — click Skip to stop and keep current results`;
+                        statusEl.className = "status-line";
+                    }
+                    const now = Date.now();
+                    if (now - lastCheckpointAt > 1000 || done === total) {
+                        lastCheckpointAt = now;
+                        saveDictCheckpoint(activeCat, activeSeeds, results);
+                    }
+                }, () => dictCancelled);
+            } catch (err) {
+                console.error('Resumed dictionary verification failed:', err);
+            }
+
+            skipBtn.removeEventListener('click', onSkipClick);
+            skipBtn.style.display = 'none';
+            fetchBtn.disabled = false;
+            releaseWakeLock();
+            clearDictCheckpoint();
+
+            const before = results.length;
+            results = results.filter(r => !r._dictReject);
+            const removed = before - results.length;
+            statusEl.textContent =
+                `Resumed and finished verifying — ${results.length} word(s) kept` +
+                (removed ? ` (dictionary check dropped ${removed} that weren't real standalone words)` : '') +
+                (dictCancelled ? '. Skipped partway — not every word was verified.' : '.');
+            statusEl.className = "status-line ok";
+            renderResults();
+            renderSeedAnalysis();
+        }
+
         /* ============================= FREE DICTIONARY VERIFICATION ============================= */
         const DICT_API_BASE = 'https://api.dictionaryapi.dev/api/v2/entries/en/';
         const DICT_LOOKUP_TIMEOUT_MS = 4000;
@@ -1327,6 +1470,7 @@
                     } else if (info.found) {
                         r._dictConfirmed = info.defs.some(d => wordMatchesTheme(r.word, d, cat, keywords));
                     }
+                    r._dictChecked = true;
                     done++;
                     if (onProgress) onProgress(done, candidates.length);
                 }
@@ -1446,6 +1590,16 @@
         }
 
         async function gatherWords() {
+            wakeLockWanted = true;
+            await requestWakeLock();
+            try {
+                await gatherWordsInner();
+            } finally {
+                releaseWakeLock();
+            }
+        }
+
+        async function gatherWordsInner() {
             const statusEl = document.getElementById('statusLine');
             const fetchBtn = document.getElementById('fetchBtn');
             if (activeSeeds.length === 0) {
@@ -1542,11 +1696,22 @@
                 statusEl.textContent = `Verifying ${results.length} word(s) with a free dictionary… (~${etaSec}s, or click Skip below)`;
                 statusEl.className = "status-line";
 
+                // Checkpointed immediately, before the first network round-trip even lands, so a
+                // reload/tab-discard in the first second or two still has something to resume from.
+                saveDictCheckpoint(activeCat, activeSeeds, results);
+                let lastCheckpointAt = Date.now();
+
                 try {
                     await verifyCandidatesWithDictionary(results, cat, keywords, (done, total) => {
-                        if (dictCancelled) return;
-                        statusEl.textContent = `Verifying with free dictionary… (${done}/${total}) — click Skip to stop and keep current results`;
-                        statusEl.className = "status-line";
+                        if (!dictCancelled) {
+                            statusEl.textContent = `Verifying with free dictionary… (${done}/${total}) — click Skip to stop and keep current results`;
+                            statusEl.className = "status-line";
+                        }
+                        const now = Date.now();
+                        if (now - lastCheckpointAt > 1000 || done === total) {
+                            lastCheckpointAt = now;
+                            saveDictCheckpoint(activeCat, activeSeeds, results);
+                        }
                     }, () => dictCancelled);
                 } catch (err) {
                     console.error('Dictionary verification failed:', err);
@@ -1554,6 +1719,7 @@
 
                 skipBtn.removeEventListener('click', onSkipClick);
                 skipBtn.style.display = 'none';
+                clearDictCheckpoint();
 
                 const before = results.length;
                 results = results.filter(r => !r._dictReject);
@@ -1945,11 +2111,11 @@
 
             const json = buildJsonExport();
             const [owner, name] = repo.split('/');
-            const filePath = 'approved_words.json';
+            const filePath = `${activeCat}-approved_words.json`;
 
             btn.disabled = true;
             try {
-                ghSetStatus('Checking for an existing approved_words.json…', '');
+                ghSetStatus(`Checking for an existing ${filePath}…`, '');
                 const getUrl = `https://api.github.com/repos/${owner}/${name}/contents/${filePath}?ref=${encodeURIComponent(branch)}`;
                 const getRes = await ghApiRequest(getUrl, token);
 
@@ -1962,7 +2128,7 @@
                     throw new Error(`Couldn't read existing file (${getRes.status}): ${errBody.message || getRes.statusText}`);
                 }
 
-                ghSetStatus(sha ? 'Updating approved_words.json…' : 'Creating approved_words.json…', '');
+                ghSetStatus(sha ? `Updating ${filePath}…` : `Creating ${filePath}…`, '');
                 const putUrl = `https://api.github.com/repos/${owner}/${name}/contents/${filePath}`;
                 const putRes = await ghApiRequest(putUrl, token, {
                     method: 'PUT',
@@ -1988,7 +2154,7 @@
                         ref: branch,
                         inputs: {
                             input_file: filePath,
-                            output_file: 'unique_word_puzzles_with_hints.json.gz',
+                            output_file: `${activeCat}-unique_word_puzzles_with_hints.json.gz`,
                         },
                     }),
                 });
@@ -2009,10 +2175,29 @@
             }
         });
 
+        document.getElementById('resumeBtn').addEventListener('click', async () => {
+            const cp = loadDictCheckpoint();
+            if (!cp) return;
+            document.getElementById('resumeBanner').style.display = 'none';
+            activeCat = cp.cat;
+            activeSeeds = (cp.seeds && cp.seeds.length) ? cp.seeds : [...CATEGORIES[activeCat].seeds];
+            results = cp.results;
+            renderCategoryDropdown();
+            renderSeedCard();
+            document.getElementById('resultsCard').style.display = 'block';
+            renderResults();
+            await resumeDictVerification();
+        });
+        document.getElementById('discardResumeBtn').addEventListener('click', () => {
+            clearDictCheckpoint();
+            document.getElementById('resumeBanner').style.display = 'none';
+        });
+
         /* ============================= INIT ============================= */
         renderCategoryDropdown();
         renderSeedCard();
         ghLoadSaved();
+        checkForResumableSession();
     </script>
 </body>
 </html>

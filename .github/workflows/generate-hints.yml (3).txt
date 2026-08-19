@@ -1,0 +1,78 @@
+name: Generate Hints
+
+# يُشغَّل يدوياً من index.html عبر GitHub API (workflow_dispatch) بعد رفع
+# approved_words.json، أو يدوياً من تبويب Actions مباشرة.
+on:
+  workflow_dispatch:
+    inputs:
+      input_file:
+        description: "ملف الكلمات المعتمدة"
+        required: false
+        default: "approved_words.json"
+      output_file:
+        description: "ملف المخرجات (JSON عادي، قابل للقراءة والمقارنة على GitHub)"
+        required: false
+        default: "unique_word_puzzles_with_hints.json"
+      model:
+        description: "اسم موديل Gemini (اتركه فاضي لاستخدام الافتراضي بـ main.js)"
+        required: false
+        default: ""
+
+# يحتاج صلاحية كتابة عشان يقدر يعمل commit للنتيجة النهائية داخل الريبو.
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-hints
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate hints via Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ github.event.inputs.model }}
+        run: |
+          node main.js \
+            --input "${{ github.event.inputs.input_file }}" \
+            --output "${{ github.event.inputs.output_file }}"
+
+      - name: Upload log as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: puzzle-generation-log
+          path: puzzle_generation.log
+          if-no-files-found: ignore
+
+      - name: Commit generated hints back to the repo
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          OUTPUT_FILE="${{ github.event.inputs.output_file }}"
+
+          # main.js يفشل (exit != 0) لو ما اتولّد ولا تلميح، فملف المخرجات ممكن يكون
+          # غير موجود أصلاً — نتحقق قبل git add عشان ما نطيح بـ exit 128 زي قبل.
+          if [ ! -f "$OUTPUT_FILE" ]; then
+            echo "⚠️ $OUTPUT_FILE غير موجود — التوليد فشل أو ما أنتج شيء. راجع خطوة 'Generate hints via Gemini' أعلاه. تخطي الـ commit."
+            exit 0
+          fi
+
+          git add "$OUTPUT_FILE"
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: regenerate hints ($OUTPUT_FILE)"
+            git push
+          fi

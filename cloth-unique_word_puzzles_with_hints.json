@@ -1798,5 +1798,461 @@
     "word": "gastroraphy",
     "hint": "Medical term for the surgical suturing of a perforated stomach wall.",
     "sourceSeed": "sewing"
+  },
+  {
+    "id": 226,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "tablecloth",
+    "hint": "Spread over a dining surface to protect it and enhance aesthetics during meals.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 227,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "microfiber",
+    "hint": "Synthetic material composed of extremely thin threads, prized for high absorbency and dust collection.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 228,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "broadcloth",
+    "hint": "Dense, smooth-faced woven textile traditionally made of wool or cotton with a tight weave.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 229,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "flannelette",
+    "hint": "Soft, nap-surfaced cotton weave crafted to imitate warmer, woolly bedding textiles.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 230,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "waistcloth",
+    "hint": "Traditional garment wrapped around the midsection, common in tropical regions under various regional names.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 231,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "overgarment",
+    "hint": "Outer layer worn above standard attire to shield against cold or foul weather.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 232,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "marquisette",
+    "hint": "Sheer, lightweight leno-weave fabric often utilized for delicate curtains or evening veils.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 233,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "tablecloths",
+    "hint": "Multiple protective spreads used across dining surfaces for banquets or formal dining settings.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 234,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "housecloth",
+    "hint": "Coarse rag or textile designated specifically for domestic scrubbing and heavy domestic chores.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 235,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "blanketing",
+    "hint": "Heavy woven wool or synthetic material designed to provide thermal insulation as bedding or horse covers.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 236,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "floorcloth",
+    "hint": "Heavy canvas painted and oiled, serving as a durable, cleanable ground covering before linoleum.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 237,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "clothmaker",
+    "hint": "Artisan or industrial producer responsible for transforming raw spun fibers into finished woven textiles.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 238,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "chinchilla",
+    "hint": "Heavy wool fabric with a tufted, nubby surface, named after a South American rodent famous for dense fur.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 239,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "clothescare",
+    "hint": "Maintenance routines involving laundering, pressing, and mending to preserve personal attire.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 240,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "cottonwear",
+    "hint": "Attire constructed entirely from natural seed-hair fibers of the genus Gossypium.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 241,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "herringbone",
+    "hint": "Distinctive V-shaped twill pattern resembling the skeletal structure of a common sea fish.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 242,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "mackintosh",
+    "hint": "Waterproof rubberized outer coat famously named after its Scottish chemist inventor.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 243,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "embroidery",
+    "hint": "Ornamental craft of decorating textiles using a needle to apply thread, yarn, or beads.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 244,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "interlinings",
+    "hint": "Hidden structural layers inserted between outer fabric and interior backing to add body or insulation.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 245,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "pillowcase",
+    "hint": "Fabric sleeve designed to slip over head-resting bedding cushions for hygiene and comfort.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 246,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "tailorcraft",
+    "hint": "Specialized trade of custom-fitting, cutting, and sewing bespoke suit attire.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 247,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "trousering",
+    "hint": "Sturdy woolen or worsted fabric manufactured specifically for making slacks and pants.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 248,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "garmenture",
+    "hint": "Archaic or literary term referring collectively to attire, coverings, or apparel.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 249,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "contexture",
+    "hint": "Structural composition or interlacing arrangement of threads within a woven weave.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 250,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "fleeceware",
+    "hint": "Soft, brushed-synthetic apparel designed for lightweight thermal outdoor gear.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 251,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "sweatsuits",
+    "hint": "Two-piece athletic ensembles typically crafted from fleece or French terry for exercise or relaxation.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 252,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "womenswear",
+    "hint": "Apparels and garments designed specifically for adult female attire lines.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 253,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "overclothes",
+    "hint": "Protective outer garments worn above one's primary attire during inclement weather.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 254,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "comfortwear",
+    "hint": "Garments prioritizing ease and soft fabrics, tailored for home relaxation.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 255,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "leatherwear",
+    "hint": "Apparel fashioned from tanned animal hides, such as durable jackets and trousers.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 256,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "overclothing",
+    "hint": "Layered outer garments designed to cover standard attire for warmth or protection.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 257,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "informalwear",
+    "hint": "Casual attire suitable for non-official occasions and everyday relaxing activities.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 258,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "fashionwear",
+    "hint": "Stylish, trend-focused attire designed for display on runways and high-end markets.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 259,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "leisurewear",
+    "hint": "Garments designed for off-duty hours, sports events, or informal social gatherings.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 260,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "schoolwear",
+    "hint": "Uniforms or dress code garments prescribed for students attending academic institutions.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 261,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "countrywear",
+    "hint": "Durable attire designed for rural field sports, equestrian pursuits, and estate living.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 262,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "formalwear",
+    "hint": "Elegant attire such as tuxedos and ball gowns required for black-tie dress codes.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 263,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "habilatory",
+    "hint": "Pertaining to clothes or the act of dressing; an archaic descriptive term for attire.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 264,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "houndstooth",
+    "hint": "A classic duotone textile pattern of broken checks resembling canine teeth motifs.",
+    "sourceSeed": "handkerchief"
+  },
+  {
+    "id": 265,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "nehallewars",
+    "hint": "A historical Indian woven cotton fabric, traditionally produced around Delhi.",
+    "sourceSeed": "haberdashery"
+  },
+  {
+    "id": 266,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "microfleece",
+    "hint": "Extremely thin, synthetic polyester fabric valued for lightweight thermal insulation.",
+    "sourceSeed": "flannelette"
+  },
+  {
+    "id": 267,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "tuftaffeta",
+    "hint": "A historic variant of smooth woven silk decorated with raised pile dots or pile stripes.",
+    "sourceSeed": "flannelette"
+  },
+  {
+    "id": 268,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "seerbetties",
+    "hint": "Historical Indian striped or check cotton-and-silk textiles traded during the colonial era.",
+    "sourceSeed": "seersucker"
+  },
+  {
+    "id": 269,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "cruisewear",
+    "hint": "High-end resort apparel designed for warm-weather vacations and boat travel.",
+    "sourceSeed": "seersucker"
+  },
+  {
+    "id": 270,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "sweatshirting",
+    "hint": "A heavy knitted cotton fabric with a brushed back side, commonly used for hoodies.",
+    "sourceSeed": "seersucker"
+  },
+  {
+    "id": 271,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "springwear",
+    "hint": "Light, transitional garments designed for the temperate climate after winter ends.",
+    "sourceSeed": "seersucker"
+  },
+  {
+    "id": 272,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "perpetuana",
+    "hint": "A durable, glossy wool fabric popular in the 17th century, prized for its longevity.",
+    "sourceSeed": "seersucker"
+  },
+  {
+    "id": 273,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "doublecloth",
+    "hint": "A complex textile woven using two sets of warp and weft threads bound together.",
+    "sourceSeed": "broadcloth"
+  },
+  {
+    "id": 274,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "hammercloth",
+    "hint": "An ornamental cover traditionally draped over the driver's box seat of a horse coach.",
+    "sourceSeed": "broadcloth"
+  },
+  {
+    "id": 275,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "monkscloth",
+    "hint": "A heavy, coarse basket-weave cotton textile frequently chosen for Swedish weaving craft.",
+    "sourceSeed": "broadcloth"
+  },
+  {
+    "id": 276,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "brocatelle",
+    "hint": "Heavy jacquard-like fabric featuring raised floral or arabesque patterns on a satin ground, historically used in upholstery.",
+    "sourceSeed": "broadcloth"
+  },
+  {
+    "id": 277,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "undercloth",
+    "hint": "A layer of textile worn beneath outer garments or applied underneath upholstery for support.",
+    "sourceSeed": "broadcloth"
+  },
+  {
+    "id": 278,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "nettlecloth",
+    "hint": "Historic textile woven from the fibrous stems of a stinging plant, utilized as a substitute for linen or cotton.",
+    "sourceSeed": "broadcloth"
+  },
+  {
+    "id": 279,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "needlecord",
+    "hint": "Very fine-piled ribbed cotton textile featuring extremely narrow parallel wales.",
+    "sourceSeed": "broadcloth"
+  },
+  {
+    "id": 280,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "dreadnought",
+    "hint": "Dense, heavy woolen textile named after a formidable battleship, designed to withstand severe weather.",
+    "sourceSeed": "broadcloth"
+  },
+  {
+    "id": 281,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "hearsecloth",
+    "hint": "Dark, solemn textile traditionally draped over a casket or tomb during funeral rites.",
+    "sourceSeed": "broadcloth"
+  },
+  {
+    "id": 282,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "sleeveless",
+    "hint": "Descriptive of upper garments crafted entirely without arms or shoulder coverings.",
+    "sourceSeed": "broadcloth"
   }
 ]

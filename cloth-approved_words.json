@@ -6424,5 +6424,203 @@
     "category": "cloth",
     "tier": "easy",
     "sourceSeed": "needlework"
+  },
+  {
+    "word": "RIDE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "spin"
+  },
+  {
+    "word": "WALK",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "spin"
+  },
+  {
+    "word": "SPINNINGS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spin"
+  },
+  {
+    "word": "UNSPUN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "spin"
+  },
+  {
+    "word": "JIGGERING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spin"
+  },
+  {
+    "word": "TWISTS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "spin"
+  },
+  {
+    "word": "UNSPOOL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spin"
+  },
+  {
+    "word": "GREASE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "spin"
+  },
+  {
+    "word": "FLOATER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spin"
+  },
+  {
+    "word": "OUTSPIN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spin"
+  },
+  {
+    "word": "LOCK",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "zipper"
+  },
+  {
+    "word": "SCREWGATE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "zipper"
+  },
+  {
+    "word": "JIGGER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "zipper"
+  },
+  {
+    "word": "TOGGLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "zipper"
+  },
+  {
+    "word": "SNOWSUIT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "zipper"
+  },
+  {
+    "word": "STRAP",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "zipper"
+  },
+  {
+    "word": "TACKS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "zipper"
+  },
+  {
+    "word": "LAWNS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "shears"
+  },
+  {
+    "word": "SCRIBBLER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "shears"
+  },
+  {
+    "word": "FILE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "shears"
+  },
+  {
+    "word": "PLUCKER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "shears"
+  },
+  {
+    "word": "SLICKEM",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "shears"
+  },
+  {
+    "word": "SILKER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "shears"
+  },
+  {
+    "word": "WOLF",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "shears"
+  },
+  {
+    "word": "CHEESER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "shears"
+  },
+  {
+    "word": "WOOLCOMB",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "shears"
+  },
+  {
+    "word": "SHORTWOOL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "shears"
+  },
+  {
+    "word": "SHEER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "shears"
+  },
+  {
+    "word": "WOOLFELL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "shears"
+  },
+  {
+    "word": "PUFF",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "quilt"
+  },
+  {
+    "word": "ZIBELINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "quilt"
+  },
+  {
+    "word": "SWAG",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "quilt"
+  },
+  {
+    "word": "LAYETTE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "quilt"
   }
 ]

@@ -6622,5 +6622,263 @@
     "category": "cloth",
     "tier": "hard",
     "sourceSeed": "quilt"
+  },
+  {
+    "word": "SLING",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "twill"
+  },
+  {
+    "word": "TWILLBACKING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "twill"
+  },
+  {
+    "word": "PINWALE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "twill"
+  },
+  {
+    "word": "WHIPCORD",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "twill"
+  },
+  {
+    "word": "RADZIMIR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "twill"
+  },
+  {
+    "word": "SURAH",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "twill"
+  },
+  {
+    "word": "SWANSKIN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "twill"
+  },
+  {
+    "word": "CALAMANCO",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "twill"
+  },
+  {
+    "word": "DRILLING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "twill"
+  },
+  {
+    "word": "SASH",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "twill"
+  },
+  {
+    "word": "BEARGRASS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "flax"
+  },
+  {
+    "word": "HECKLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "flax"
+  },
+  {
+    "word": "SCUTCHER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "flax"
+  },
+  {
+    "word": "SHIVE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "flax"
+  },
+  {
+    "word": "STUPE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "flax"
+  },
+  {
+    "word": "WILLOW",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "flax"
+  },
+  {
+    "word": "RUFFLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "hem"
+  },
+  {
+    "word": "SELVAGE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "hem"
+  },
+  {
+    "word": "FLOUNCE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "hem"
+  },
+  {
+    "word": "HEMSTITCHED",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "hem"
+  },
+  {
+    "word": "OVERLOCK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "hem"
+  },
+  {
+    "word": "SASHES",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "hem"
+  },
+  {
+    "word": "SHORT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "hem"
+  },
+  {
+    "word": "SLEEVES",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "hem"
+  },
+  {
+    "word": "MUFFLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cuff"
+  },
+  {
+    "word": "PANNUSCORIUM",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cuff"
+  },
+  {
+    "word": "PORTMANTEAU",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cuff"
+  },
+  {
+    "word": "LINGEL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cuff"
+  },
+  {
+    "word": "PINCH",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "collar"
+  },
+  {
+    "word": "CROWN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "collar"
+  },
+  {
+    "word": "NECKPIECE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "collar"
+  },
+  {
+    "word": "GORGET",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "collar"
+  },
+  {
+    "word": "STRAPS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "collar"
+  },
+  {
+    "word": "SHOULDER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "collar"
+  },
+  {
+    "word": "HALTERNECK",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "collar"
+  },
+  {
+    "word": "NECKWARMER",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "collar"
+  },
+  {
+    "word": "OVERFALL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "collar"
+  },
+  {
+    "word": "ARMSCYE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "collar"
+  },
+  {
+    "word": "CHESTPIECE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "collar"
+  },
+  {
+    "word": "WRAPOVER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "collar"
+  },
+  {
+    "word": "SHRUG",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "collar"
+  },
+  {
+    "word": "COWL",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "collar"
+  },
+  {
+    "word": "GAITER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "collar"
   }
 ]

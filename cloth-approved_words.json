@@ -1,0 +1,5288 @@
+[
+  {
+    "word": "TEXTILE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "FABRIC",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "MATERIAL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "TOILE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "LINEN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "WEBBING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "WEAVE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "GOWN",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "ROBE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "APPAREL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "TISSUE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "GARMENT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "DRESS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "ATTIRE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "TABLECLOTH",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "TENT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "WIPE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CROCK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "RAG",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "FABRICS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "TISSUES",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "DRAPERY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "WOOL",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "SILK",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "COTTON",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "MUSLIN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "GAUZE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "SHEETING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "WOOLEN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "FACECLOTH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "GARMENTS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "HAIRCLOTH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "OILSKIN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "MICROFIBER",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "BROADCLOTH",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "SAILCLOTH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "DIAPERING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "WASHCLOTH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CAMLET",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "DRUGGET",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "FLANNELETTE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "BOBBINET",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "DUSTCLOTH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "WAISTCLOTH",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "TEXTILES",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "OVERGARMENT",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "FLEECE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "THONGING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "VELOUR",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CARPET",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "MARQUISETTE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "DRAPE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "KERCHIEF",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "TABLECLOTHS",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CAMBRIC",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "FIBER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "FIBRE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "HOUSECLOTH",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "BLANKETING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CASHMERE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "HORSEHAIR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "FLOORCLOTH",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "LINSEY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "WEAVING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CLOTHWORK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "COAT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "YARN",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CARPETING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "WEAR",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "ELASTIC",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "KNIT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CLOTHMAKER",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CHINCHILLA",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "LINNEN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "WOOLLENS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CLOTHESCARE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "VESTIARY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "FLOCK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "TWILL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "GABARDINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CHENILLE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "LYCRA",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "BUMP",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "MIXTURE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "GINGHAM",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "HATTING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "FUSTIAN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "SACKING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "TEXTURE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "WOOLWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CARDING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CLOATH",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "VELVETEEN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "VOILE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "COTTONWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CREPE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "PRINT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "SERGE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "SUEDE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "TARTAN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "DRAPET",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "ALPACA",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "ARRAY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "BAGGING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "BATIK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "BATISTE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "BIB",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "BLUE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "BUCKSKIN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CAMELHAIR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CANOPY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CAPARISON",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CARD",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CLOTHIER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "COATING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CRINOLINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "DACRON",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "DAMASK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "DENIM",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "DOESKIN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "DRAPER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "DUFFEL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "ETAMINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "FRIEZE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "FRILL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "HEM",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "HERRINGBONE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "HOMESPUN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "IRON",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "JACONET",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "KHAKI",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "KNEE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "LAMBSKIN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "LAP",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "LAWN",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "LEG",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "LINT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "LUSTRING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "MACKINAW",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "MACKINTOSH",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "MERINO",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "MOIRE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "NAMETAPE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "NANKEEN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "NECKTIE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "PANEL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "PIN",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "PLEAT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "CLOTH",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "FRAME",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "WEFT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "PATTERN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "CLOTHING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "BREAST",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "SOFTENERS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "SEWING",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "EMBROIDERY",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "INTERLININGS",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "FABRICK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "PILLOWCASE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "COTTONS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "CORDUROY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "DRAPES",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "TAFFETA",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "TULLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "FIBERS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "POLYESTER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "COUTURE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "SUITING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "FAILLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "GROGRAM",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "FURNITURE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "CLADDING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "TAILORCRAFT",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "LOOM",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "DRAP",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "FIGURE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "STADE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "LIST",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "TROUSERING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "FOLKWEAVE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "DYERY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "SHIRTING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "GARMENTURE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "VISCOSE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "STITCH",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "CHECK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "LANIFICE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "FALDING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "TRICOT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "FIBRANNE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "AGUISE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "CLOTHYARD",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "DUCK",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "WOOF",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "VEST",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "CONTEXTURE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "DOBBY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "FOULARD",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "REGATTA",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "VESTITURE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "VESTMENT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "CASSIMERE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "DRILL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "FLEECEWARE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "CIRE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "WALE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "GARB",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "CASSINETTE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "TAILORING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "MATTING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "TATTERS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "CLOTHES",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "REMNANT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "THICKSET",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "FURRING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "RUSSET",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "FACING",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "WORSTED",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "EYELET",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "MITRE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "ORLON",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "PILE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "TWEED",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "AERTEX",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "CHAMBRAY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "CRIMPER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "DELAINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "DIAPER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "DUNGAREE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "DYESTUFF",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "FIBREGLASS",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "GEORGETTE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "GROSGRAIN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "HOPSACK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "HOPSACKING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "KNITTED",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "MOLESKIN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "PAISLEY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "REPELLENT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "fabric"
+  },
+  {
+    "word": "SPINNING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "FIBRES",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "TEXTURY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "WATERWORK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "TRICOTINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "THREAD",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "KNITTING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "TWILLING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "WEFTAGE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "STRAND",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "FIBROLINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "WOVEN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "FILAMENT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "CHAIN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "BATTING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "TINSEL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "ROCK",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "BROADLOOM",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "TRICOLETTE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "FELTING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "FLOSS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "WOOLENET",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "WOOLWORK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "TICKING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "THREADMAKING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "WIRECLOTH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "SENNIT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "THRUM",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "COGWARE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "KERSEYMERE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "FINGERING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "LINE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "TATTING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "TWIRE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "TEMPLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "GRAINLINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "HAIRSTRING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "STROKING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "KNOP",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "HANDLOOMING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "LOOMWORKS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "BIAS",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "POLYVISCOSE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "FILATURE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "JACQUARD",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "SETT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "MILL",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "SHAGGY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "SPANDEX",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "TENTER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "VELOURS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "BENGALINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "BOTTOM",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "CERISE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "COMB",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "COMBER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "CURTAIN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "DRAFT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "HACKLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "INGRAIN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "textile"
+  },
+  {
+    "word": "HANDLOOM",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "THREADING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "WORMING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "BASKETWEAVING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "DRAWLOOM",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "BASKETRY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "DRAFTING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "LEASE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "WEAVER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "WOOLWORKING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "TACKLER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "SLEY",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "BRAIDWORK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "WAULKING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "MOULINAGE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "LEASH",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "MOUSING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "LEADWORK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "RICE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "WINDER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "SLACKENER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "SCRIBBLING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "WINCH",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "PIRNING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "BOBBINWORK",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "LINKWORK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "WIRE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "BIER",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "YARNWINDLE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "DIAGONAL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "INTERWEAVE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "SQUALLY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "TABBY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "TRAM",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "TWIST",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "ARANEA",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "ARANEUS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "BONE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "BRILLIANT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "FELL",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "FILLET",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "FLUSHING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "FLUTE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "FRAIL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "MAIL",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "PIRN",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "PLANK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "PLY",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "QUILL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "RETEXTURE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "SCOB",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "SHOOT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "SLAY",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "TAG",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "TEXTORIAL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "TEXTRINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "weaving"
+  },
+  {
+    "word": "RAIMENT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "CLOTHE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "ENCLOTHE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "OUTFIT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "OUTERWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "GEAR",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "RMG",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "FROCK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "HABIT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "THREADS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "BLOUSE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SMOCK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "GARMENTE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SINGLET",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "OUTGARMENT",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "WARDROBE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "CLOATHES",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "VESTIMENT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "INDUMENT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "APPARELMENT",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SMALLCLOTHES",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SITUATION",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "WRAPPER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "BODYSUIT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SWIMSUIT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SINDON",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "NETHERGARMENT",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "BEDCLOTHES",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "FOOTWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "PLAYSUIT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "WEED",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "MONOSUIT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "VESTURE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "CORSELET",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "TATTER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SMALL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "LAYER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "TABARD",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "OVERCLOTH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "LARGE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "EARMUFF",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "ARGAMANNU",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "RAIL",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "UNDERCLOTHES",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "UNDERCLOTHING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SLEEPSUIT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SHMATTE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "DRESSCOAT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "OVERGOWN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SWEATSHIRT",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SWEATER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "FOLD",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "CHURCHWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "STOCK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "EVERYDAYWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "ARTWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "OVERSUIT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SCARF",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SWEATSUIT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SLIPOVER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "NIGHTSHIRT",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "TOGA",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "WAIST",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "BRA",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "CLOUT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "KERSEY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "OVERCOAT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SLIP",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SOCK",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "STOLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "ARM",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "ARMHOLE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "BUTTON",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "BUTTONHOLE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "CAMOUFLAGE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "DART",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "DRESSMAKER",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "FLY",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "FUR",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "HIPLINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "HOSE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "INSET",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "INTERLINING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "JUMPSUIT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "LEGIN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "LIVERY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "LOINCLOTH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "MARABOU",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "MEDIUM",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "NAPPY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "PALL",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "POCKET",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "PONCHO",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "QUILT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "REVERSIBLE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "RUN",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SACKCLOTH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SEALSKIN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SEW",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SLEEVE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "SLOP",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "TAILOR",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "TAILORED",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "TOP",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "TROUSER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "UNDERWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "WAISTCOAT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "WOOLLEN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "WRAPAROUND",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "ALTER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "STRIP",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "UNDRESS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "LOCKSTITCH",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "EMBROIDERIES",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "HEMSTITCH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "WHIPSTITCH",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "SEWED",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "HANDSEWN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "EMBROIDERED",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "THREADED",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "STITCHES",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "CROCHETED",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "SERGING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "CREWELWORK",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "NEEDLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "SUTURE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "BOBBIN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "REEL",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "HABERDASHER",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "HABERDASHERY",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "GATHER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "OVERHAND",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "PACKTHREAD",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "SHIRR",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "SKEIN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "THREADER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "BINDING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "PATCH",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "PLAIT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "SINGER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "UNPICK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "FELLER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "KIT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "TUCK",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "TUCKING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "BINDER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "MARKER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "BEE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "EASE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "PRESSER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "SNIP",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "HOOK",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "LIGATURE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "PURL",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "SHANK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "BROCADE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "CAST",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "CASUAL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "CATSTITCH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "CROTCH",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "word": "SPINNER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "STRANDS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "WIRES",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "ROVING",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "CREWEL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "SNAG",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "ROLAG",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "YARNMAKER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "YARNCRAFT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "SNICK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "YARNER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "SPINEL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "DISTAFF",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "SAILYARN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "SPINSTRY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "HASP",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "YARRINGLE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "CANDLEWICK",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "FILM",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "YARNOVER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "SPORTWEIGHT",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "WHIPPING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "ROLL",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "WOOLLY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "BALL",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "BURL",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "CADDIS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "CLEW",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "CLOUDING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "COP",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "CRAB",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "CUT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "GREIGE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "LOOP",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "MEDLEY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "MULE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "NAP",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "NUB",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "PRICK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "RICES",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "yarn"
+  },
+  {
+    "word": "SEAMER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "STEEL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "NEEDLEDOM",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "GAUGING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "TOPSTITCH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "OVERSEAMER",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "SERICULTURE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "SCARLETWORK",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "HEADING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "OVEREDGER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "GATHERER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "PATTERNMAKING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "BUTTONHOOK",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "TRAPUNTO",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "WOOLSHEARING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "SILKWORK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "CANVASWORK",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "PATCHWORK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "BARRING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "GASTRORAPHY",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "RUFFLER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "TACKING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "ZIGZAGGER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing"
+  },
+  {
+    "word": "BESPOKE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "FIT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "TAILORESS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "ALTERATIONIST",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "TAILORMAN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "DURZI",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "SLEEVER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "BREECHESMAKER",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "BOTCHER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "DRESSER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "CLOTHWORKER",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "SHAPESTER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "BURLER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "TROTTER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "WASHER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "CHALK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "SARTORIAL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "BUSHELMAN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "FITTED",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "SIZE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "REVERS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "TAPER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "tailor"
+  },
+  {
+    "word": "CARDER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "CARDERS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "COMBERS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "STAPLERS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "LAMBSWOOL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "FLEECES",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "YARNS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "LAMBSKINS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "MERINOS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "KARAKUL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "LONGWOOL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "CASHMERES",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "WOOLY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "WORSTEDS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "SWEATERS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "WOOLGROWING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "PELT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "DAGGINGS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "BEAVER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "COOPWORTH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "ALEPINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "ARMURE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "BACKWASH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "BAT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "BATT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "BEANIE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "BEIGE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "BOMBAST",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "BONNET",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "BOOTEES",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "BOOTIES",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "CLIP",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "COURTELLE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "CRAVAT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "CREPON",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "CRIMP",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "CUSHION",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "DAG",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "DAGLOCK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "DEPILATION",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "DRAB",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "FERRANDINE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "wool"
+  },
+  {
+    "word": "GINNERY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "GINNER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "COTTONSEEDS",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "WOOLED",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "COTTONSEED",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "LYOCELL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "TWILLED",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "BOLLS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "WOOLS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "TUSSAR",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "GINNERS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "COTTONY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "IMBIRUSSU",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "MUMIAN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "KAPOK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "CEIBA",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "ABACA",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "TENSAN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "GIN",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "BALBRIGGAN",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "BALER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "BALZARINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "BANDAGE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "BANDAGING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "BEAVERTEEN",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "BOLL",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "BOLLWORM",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "BOMBACE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "BRILLIANTINE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "BYSSUS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "CHAMOIS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "CHARKHA",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "CHEKMAK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "CHEONGSAM",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "COTTONOUS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "cotton"
+  },
+  {
+    "word": "DUPIONI",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "GOSSAMER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "HABOTAI",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "SILKEN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "TAFFETAS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "SWANSDOWN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "BROIDERY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "SILKWARE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "KNUBS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "SILKETTE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "BRIN",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "KNUB",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "SLEAVE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "SILKWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "SILKALINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "SILKWORKS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "DUPION",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "TASTE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "SILKOLINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "LOVE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "SLUB",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "SHEEPSWOOL",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "PELLICULE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "GAZAR",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "LISSE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "SERICEOUS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "SILKMAN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "SOFT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "ALAMODE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "ARDASSINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "BANNER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "BOLT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "BOMBAZINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "BOMBYCINOUS",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "BROCATEL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "BYSSINE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "CABESSE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "CARREL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "CORNSILK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "DIAPHANE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "DUPATTA",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "EYE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "FILOSELLE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "silk"
+  },
+  {
+    "word": "COLORWORK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "knitting"
+  },
+  {
+    "word": "INTARSIA",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "knitting"
+  },
+  {
+    "word": "AMIGURUMI",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "knitting"
+  },
+  {
+    "word": "KNOCKOFF",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "knitting"
+  },
+  {
+    "word": "RIB",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "knitting"
+  },
+  {
+    "word": "POROSIS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "knitting"
+  },
+  {
+    "word": "SNARL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "knitting"
+  },
+  {
+    "word": "SYNARTESIS",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "knitting"
+  },
+  {
+    "word": "BOBBLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "knitting"
+  },
+  {
+    "word": "LADDER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "knitting"
+  },
+  {
+    "word": "LISLES",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "knitting"
+  },
+  {
+    "word": "NAPPER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "knitting"
+  },
+  {
+    "word": "FANCYWORK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "BRODERIE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "TRIMMING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "CUTWORK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "GROUNDING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "WHOLESTITCH",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "PICOT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "TAMBOUR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "REDWORK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "POINT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "GANUTELL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "TATTOO",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "BREAD",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "EYELETS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "PASSEMENTERIE",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "PURFLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "STABILIZER",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "TABORET",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "WORK",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "CARPETS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "GOWNS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "RUGS",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "word": "HEDDLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "FLUKE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "HANDWOVEN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "BEAM",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "BEETLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "DENT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "DRAWBOY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "FOREBEAM",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "HANES",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "PEEL",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "SIMPLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "SIMPLES",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "SWORD",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "TOKEN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "PERCH",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "PERCHING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "loom"
+  },
+  {
+    "word": "PRINTS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "dye"
+  },
+  {
+    "word": "SCARLET",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dye"
+  },
+  {
+    "word": "STAMMEL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "dye"
+  },
+  {
+    "word": "WHIRL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "SPINATHON",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "TURBINATION",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "TWIZZLE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "WHEEL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "SPINNERY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "PINWHEEL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "SPEEDER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "SPOLE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "SPOOLER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "RIBBON",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "SPINSTER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "ROUGHSPUN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "CARTWHEELER",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "PLUG",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "FLIGHT",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "TURBINATE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "BIRR",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "CHASE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "FREEWHEEL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "GIDDY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "HARDSPUN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "HELICOPTER",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "PEGTOP",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "ROVE",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "SERICTERIUM",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "spinning"
+  },
+  {
+    "word": "DARNER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing needle"
+  },
+  {
+    "word": "PERCHER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing needle"
+  },
+  {
+    "word": "NEEDLEFUL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing needle"
+  },
+  {
+    "word": "THRID",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing needle"
+  },
+  {
+    "word": "UNTHREAD",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing needle"
+  },
+  {
+    "word": "FILIFORM",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing needle"
+  },
+  {
+    "word": "HEADBAND",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing needle"
+  },
+  {
+    "word": "HUSSY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing needle"
+  },
+  {
+    "word": "SPIN",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "sewing needle"
+  },
+  {
+    "word": "UNIFILAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing needle"
+  },
+  {
+    "word": "BODKIN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing needle"
+  },
+  {
+    "word": "INDICATOR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "sewing needle"
+  },
+  {
+    "word": "THROW",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "sewing needle"
+  },
+  {
+    "word": "TACK",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "stitch"
+  },
+  {
+    "word": "STABSTITCH",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "stitch"
+  },
+  {
+    "word": "STEEK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "stitch"
+  },
+  {
+    "word": "POST",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "stitch"
+  },
+  {
+    "word": "BIRDEYE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "stitch"
+  },
+  {
+    "word": "THREADMILL",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "stitch"
+  },
+  {
+    "word": "STRANDER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "stitch"
+  },
+  {
+    "word": "NAKED",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "stitch"
+  },
+  {
+    "word": "WHIPSTITCHING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "stitch"
+  },
+  {
+    "word": "POPCORN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "stitch"
+  },
+  {
+    "word": "STEIK",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "stitch"
+  },
+  {
+    "word": "BACK",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "stitch"
+  },
+  {
+    "word": "COLLAR",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "stitch"
+  },
+  {
+    "word": "PINWORK",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "stitch"
+  },
+  {
+    "word": "DRESSES",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "OUTFITS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "ROBES",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "VESTMENTS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "CLOBBER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "FASHIONS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "APPARELS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "HEADWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "MENSWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "FURS",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "SWIMSUITS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "SWEATSHIRTS",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "SWIMWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "SWEATSUITS",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "JEANS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "GARBS",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "ATTIRES",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "WOMENSWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "OVERCLOTHES",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "WARMER",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "COMFORTWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "CAMO",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "LEATHERWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "OVERCLOTHING",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "SNOWWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "TOPCLOTH",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "UNDERWRAP",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "MINK",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "PARTYWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "TOPWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "RAINWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "INFORMALWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "FASHIONWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "SHROUD",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "LEISUREWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "SCHOOLWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "COUNTRYWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "FARMWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "LACEWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "MOTHBALL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "BAGGY",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "BRAT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "CHANGE",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "DISHEVEL",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "DRAG",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "FORMALWEAR",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "FRIPPERY",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "GROOM",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "GROOMING",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "HABILATORY",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "HANDWEAR",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "clothing"
+  },
+  {
+    "word": "BELT",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "cloth"
+  },
+  {
+    "word": "UNIFORM",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "garment"
+  },
+  {
+    "word": "WING",
+    "category": "cloth",
+    "tier": "easy",
+    "sourceSeed": "sewing needle"
+  }
+]

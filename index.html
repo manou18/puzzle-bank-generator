@@ -1209,6 +1209,7 @@
                     r._relevanceScore = score;
                 }
             });
+            saveBasket();
             renderResults();
             renderSeedAnalysis();
             const statusEl = document.getElementById('statusLine');
@@ -1352,6 +1353,27 @@
             } catch (_) { return null; }
         }
 
+        /* ============================= WORD BASKET (accumulates across searches, per category) =============================
+           Repeating a search — or trying a different search term in the same category — used to
+           wipe out whatever was in `results` already. Now each category keeps its own running
+           "basket" in localStorage: every new search merges its (deduped) new words into it
+           instead of replacing it, and it's saved after every action that changes it (a ✓/✕
+           click, tier/clue edit, Select all/none, or a finished search) so it survives reloads. */
+        function basketKey(cat) {
+            return `wordCodex.basket.${cat}`;
+        }
+        function saveBasket() {
+            try {
+                localStorage.setItem(basketKey(activeCat), JSON.stringify(results));
+            } catch (_) { /* storage full/unavailable — non-fatal, just won't persist this time */ }
+        }
+        function loadBasket(cat) {
+            try {
+                const raw = localStorage.getItem(basketKey(cat));
+                return raw ? JSON.parse(raw) : [];
+            } catch (_) { return []; }
+        }
+
         function checkForResumableSession() {
             const cp = loadDictCheckpoint();
             if (!cp || !cp.results || !cp.results.length) return;
@@ -1373,6 +1395,7 @@
             if (remaining.length === 0) {
                 clearDictCheckpoint();
                 results = results.filter(r => !r._dictReject);
+                saveBasket();
                 statusEl.textContent = `Resumed — the dictionary check had already finished for all ${results.length} word(s).`;
                 statusEl.className = "status-line ok";
                 renderResults();
@@ -1418,6 +1441,7 @@
 
             const before = results.length;
             results = results.filter(r => !r._dictReject);
+            saveBasket();
             const removed = before - results.length;
             statusEl.textContent =
                 `Resumed and finished verifying — ${results.length} word(s) kept` +
@@ -1609,7 +1633,10 @@
             }
             fetchBtn.disabled = true;
             const existing = parseExistingBank(document.getElementById('existingBank').value);
-            const seenSoFar = new Set();
+            // Pre-seed with words already sitting in this category's basket (from an earlier
+            // search) so a repeat search — or a different term that happens to surface the same
+            // word — never creates a duplicate.
+            const seenSoFar = new Set(results.map(r => r.word));
             const all = [];
             const allNearMisses = [];
             const nearMissSeen = new Set();
@@ -1631,12 +1658,26 @@
                     statusEl.className = "status-line err";
                 }
             }
-            results = all;
-            if (results.length === 0 && allNearMisses.length === 0) {
+
+            // Kept separate from the accumulated `results` basket until it's been through
+            // concept-rescue + dictionary verification, so already-reviewed words from earlier
+            // searches never get silently re-checked, re-scored, or duplicated.
+            let newCandidates = all;
+
+            function noNewWordsFound() {
                 fetchBtn.disabled = false;
-                statusEl.textContent = "No new words found — try different or additional search terms.";
-                statusEl.className = "status-line err";
-                document.getElementById('resultsCard').style.display = 'none';
+                if (results.length > 0) {
+                    statusEl.textContent = "No new words found for this search — your existing selections are unchanged.";
+                    statusEl.className = "status-line";
+                } else {
+                    statusEl.textContent = "No new words found — try different or additional search terms.";
+                    statusEl.className = "status-line err";
+                    document.getElementById('resultsCard').style.display = 'none';
+                }
+            }
+
+            if (newCandidates.length === 0 && allNearMisses.length === 0) {
+                noNewWordsFound();
                 return;
             }
 
@@ -1663,7 +1704,7 @@
                     }, () => cancelled);
                     rescuedCount = rescued.length;
                     assocUnreachable = reachable === false;
-                    results = results.concat(rescued);
+                    newCandidates = newCandidates.concat(rescued);
                 } catch (err) {
                     console.error('Trigger-word rescue failed:', err);
                     assocUnreachable = true;
@@ -1672,11 +1713,8 @@
                 skipBtn.style.display = 'none';
             }
 
-            if (results.length === 0) {
-                fetchBtn.disabled = false;
-                statusEl.textContent = "No new words found — try different or additional search terms.";
-                statusEl.className = "status-line err";
-                document.getElementById('resultsCard').style.display = 'none';
+            if (newCandidates.length === 0) {
+                noNewWordsFound();
                 return;
             }
 
@@ -1692,17 +1730,18 @@
                 skipBtn.style.display = '';
                 skipBtn.addEventListener('click', onSkipClick);
 
-                const etaSec = Math.ceil(results.length / 8 * 0.5);
-                statusEl.textContent = `Verifying ${results.length} word(s) with a free dictionary… (~${etaSec}s, or click Skip below)`;
+                const etaSec = Math.ceil(newCandidates.length / 8 * 0.5);
+                statusEl.textContent = `Verifying ${newCandidates.length} new word(s) with a free dictionary… (~${etaSec}s, or click Skip below)`;
                 statusEl.className = "status-line";
 
                 // Checkpointed immediately, before the first network round-trip even lands, so a
                 // reload/tab-discard in the first second or two still has something to resume from.
-                saveDictCheckpoint(activeCat, activeSeeds, results);
+                // Snapshot includes the already-accumulated basket plus this batch in progress.
+                saveDictCheckpoint(activeCat, activeSeeds, results.concat(newCandidates));
                 let lastCheckpointAt = Date.now();
 
                 try {
-                    await verifyCandidatesWithDictionary(results, cat, keywords, (done, total) => {
+                    await verifyCandidatesWithDictionary(newCandidates, cat, keywords, (done, total) => {
                         if (!dictCancelled) {
                             statusEl.textContent = `Verifying with free dictionary… (${done}/${total}) — click Skip to stop and keep current results`;
                             statusEl.className = "status-line";
@@ -1710,7 +1749,7 @@
                         const now = Date.now();
                         if (now - lastCheckpointAt > 1000 || done === total) {
                             lastCheckpointAt = now;
-                            saveDictCheckpoint(activeCat, activeSeeds, results);
+                            saveDictCheckpoint(activeCat, activeSeeds, results.concat(newCandidates));
                         }
                     }, () => dictCancelled);
                 } catch (err) {
@@ -1721,12 +1760,17 @@
                 skipBtn.style.display = 'none';
                 clearDictCheckpoint();
 
-                const before = results.length;
-                results = results.filter(r => !r._dictReject);
-                removedByDict = before - results.length;
+                const before = newCandidates.length;
+                newCandidates = newCandidates.filter(r => !r._dictReject);
+                removedByDict = before - newCandidates.length;
             }
 
             fetchBtn.disabled = false;
+
+            // Merge this search's surviving new candidates into the saved, accumulated basket.
+            results = results.concat(newCandidates);
+            saveBasket();
+
             if (results.length === 0) {
                 statusEl.textContent = "Dictionary check removed every candidate — try different search terms.";
                 statusEl.className = "status-line err";
@@ -1740,7 +1784,7 @@
             if (removedByDict > 0) notes.push(`dictionary check dropped ${removedByDict} that weren't real standalone words`);
             if (dictCancelled) notes.push('dictionary check skipped partway — not every word was verified');
             statusEl.textContent =
-                `Found ${results.length} candidate word${results.length === 1 ? '' : 's'} across ${activeSeeds.length} search term${activeSeeds.length === 1 ? '' : 's'}` +
+                `Found ${newCandidates.length} new word${newCandidates.length === 1 ? '' : 's'} this search — ${results.length} total in your "${cat.label}" basket` +
                 (notes.length ? ` (${notes.join('; ')}).` : '.');
             statusEl.className = assocUnreachable ? "status-line err" : "status-line ok";
             renderResults();
@@ -1838,6 +1882,7 @@
                     const action = btn.dataset.action;
                     results[idx].status = results[idx].status === action ? 'pending' : action;
                     delete results[idx].autoDecided;
+                    saveBasket();
                     renderResults();
                     renderSeedAnalysis();
                 });
@@ -1845,11 +1890,13 @@
             grid.querySelectorAll('.tier-select').forEach(sel => {
                 sel.addEventListener('change', () => {
                     results[parseInt(sel.dataset.idx)].tier = sel.value;
+                    saveBasket();
                 });
             });
             grid.querySelectorAll('.res-clue').forEach(inp => {
                 inp.addEventListener('input', () => {
                     results[parseInt(inp.dataset.idx)].clue = inp.value;
+                    saveBasket();
                 });
             });
         }
@@ -1917,16 +1964,22 @@
 
         /* ============================= EVENTS ============================= */
         document.getElementById('catSelect').addEventListener('change', (e) => {
+            saveBasket(); // persist whatever's in the outgoing category before switching away from it
             activeCat = e.target.value;
             activeSeeds = [...CATEGORIES[activeCat].seeds];
-            results = [];
-            document.getElementById('resultsCard').style.display = 'none';
+            results = loadBasket(activeCat); // restore this category's own saved basket, if any
             document.getElementById('exportCard').style.display = 'none';
             document.getElementById('statusLine').textContent = '';
             document.getElementById('statusLine').className = 'status-line';
             document.getElementById('autoInfo').style.display = 'none';
             renderCategoryDropdown();
             renderSeedCard();
+            if (results.length > 0) {
+                renderResults();
+                renderSeedAnalysis();
+            } else {
+                document.getElementById('resultsCard').style.display = 'none';
+            }
         });
 
         document.getElementById('addSeedBtn').addEventListener('click', () => {
@@ -1949,11 +2002,13 @@
         document.getElementById('fetchBtn').addEventListener('click', gatherWords);
         document.getElementById('selAllBtn').addEventListener('click', () => {
             results.forEach(r => r.status = 'kept');
+            saveBasket();
             renderResults();
             renderSeedAnalysis();
         });
         document.getElementById('selNoneBtn').addEventListener('click', () => {
             results.forEach(r => { r.status = 'pending'; delete r.autoDecided; });
+            saveBasket();
             renderResults();
             renderSeedAnalysis();
         });
@@ -1965,6 +2020,7 @@
                     delete r.autoDecided;
                 }
             });
+            saveBasket();
             renderResults();
             renderSeedAnalysis();
             document.getElementById('statusLine').textContent = 'Cleared all auto-decisions.';
@@ -2182,6 +2238,7 @@
             activeCat = cp.cat;
             activeSeeds = (cp.seeds && cp.seeds.length) ? cp.seeds : [...CATEGORIES[activeCat].seeds];
             results = cp.results;
+            saveBasket();
             renderCategoryDropdown();
             renderSeedCard();
             document.getElementById('resultsCard').style.display = 'block';
@@ -2194,10 +2251,15 @@
         });
 
         /* ============================= INIT ============================= */
+        results = loadBasket(activeCat);
         renderCategoryDropdown();
         renderSeedCard();
         ghLoadSaved();
         checkForResumableSession();
+        if (results.length > 0) {
+            renderResults();
+            renderSeedAnalysis();
+        }
     </script>
 </body>
 </html>

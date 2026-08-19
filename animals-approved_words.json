@@ -1,0 +1,7700 @@
+[
+  {
+    "word": "FAUNA",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "CREATURE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "FISHLIKE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BEAST",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BRUTE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "WILDLIFE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "SPECIES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BONE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "VETERINARIAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "MAMMAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ZOO",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BUG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "PIG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "WHALE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "HUSBANDRY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "PET",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "LIVESTOCK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BEEF",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "FEED",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "HEAD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BIRD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ANIMALISTIC",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "MONSTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "STOCK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "DOG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ANIMALES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BEASTS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "CRITTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "NONHUMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BEING",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "VERTEBRATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "QUADRUPED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BEASTIE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "REPTILE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "CARNIVORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "EQUINE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "NONANIMAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "DOLPHIN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "TIGER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "GOAT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "RABBIT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "FURBEARING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "COYOTE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "DEER",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "CARCASS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "RACCOON",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "FOWL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "PREDATOR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "AVIAN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BOVID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "TURTLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "MAMMALIAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "HABITAT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "METAZOAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "EUMETAZOAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "TROCHOZOAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ANIMALCULE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "PHYTOZOAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "PHYTOZOON",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ACOELOMATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "URMETAZOAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ENDOFAUNA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ANIMALIVORE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ZOOTAXY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ANIMALKIND",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ZOOPARASITE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "PLANULOZOAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ZOOTAXONOMY",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ZOOPHAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "PANARTHROPOD",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ANNELOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "INVERTEBRATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ZOOSPHERE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "MAMMALIAFORM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "MEMBER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ANTHROPOID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ALIPED",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "CALL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "HARE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "MALE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "PUREBRED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "WILD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "WOLVERINES",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BEEFSTEAK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "FISSIPED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "OVINE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "PINNIPED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "PLANTIGRADE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "POLYDACTYL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "TRAIL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ADULT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ANIMALISM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ANIMALITY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ANIMISM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "APOLOGUE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "ARMOR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BACK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BADGER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BAG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BAIL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BAIT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BAY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BEAR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BED",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BELLY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BESTIARY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BIGHEAD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BIPED",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BITE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BLOODLINE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BLOODSTOCK",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BOBTAIL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BOMA",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BOSS",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BREAKAWAY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BREAST",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BREEDER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BREEDING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BRINDLE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BROOD",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BRUSH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BUFFALO",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BULL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BURROW",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "CAGE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "CAMOUFLAGE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "PIGEON",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "MINERAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "STOCKBREEDING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "HERD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "RANCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "RANCHING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "HERDING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "KENNEL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "BREED",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "ANIMAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "FLOCK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "ANIMALS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "HERDS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "PORCINE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "OVINES",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "SWINE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "EQUINES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "PASTORALISM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "FARMSTOCK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "FEEDINGSTUFF",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "STOCKFEED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "PASTURE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "RACE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "FORAGE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "BROWSE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "STUD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "STRAY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "PASTURELAND",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "PASTURAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "DEADSTOCK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "MILKER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "HERDSWOMAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "PASTURING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "KRAAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "LACTAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "YOUNGSTOCK",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "AGROPECUARY",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "STOCKMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "PROVENDER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "SPREAD",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "STOCKBREEDER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "FEEDLOT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "FEEDSTUFF",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "BESTIAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "PABULUM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "AGISTMENT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "PECUARY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "STOCKGROWER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "CAVYARD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "PASTURER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "NEATBEAST",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "COMMONAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "CAVVYARD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "HERDSGIRL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "FATSTOCK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "COWHAND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "SWINEHERDING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "DRIVE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "FOSTERAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "CORRAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "SALEYARD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "FELLOW",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "STALL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "GRAZELAND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "RANCHLAND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "STAFFAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "EATAGE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "FODDERING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "PEDIGREE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "STABLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "ALFALFA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "BITTERNUT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "BRISKET",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "CARRY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "CATTLESHIP",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "CHICKEN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "DAM",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "DRIFT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "DROVE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "FEEDING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "FISHMEAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "FOLD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "HACK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "HANDFEED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "HAY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "HAYRACK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "LAZY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "LOCO",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "LOCOISM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "MANGER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "MASH",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "MURRAIN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "PASTORAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "PEST",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "POUND",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "POUNDAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "PROD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "RANGELAND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "RUN",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "RUSTLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "RUSTLER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "RUSTLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "RYE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "SCOUR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "SOILAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "GAME",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock"
+  },
+  {
+    "word": "WILDCAT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "HUNT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "HUNTING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "BIRDS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "HABITATS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "AQUAFAUNA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "DENIZEN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "WILDLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "NONFELID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "DWARF",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "NONRODENT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "MINIBEAST",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "NONMAMMAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "SYLVATIC",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "NONPRIMATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "MICROMAMMAL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "INSECTIVORAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "NONLAGOMORPH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "STIRPS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "INSECTIVORE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "WILDMEAT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "MEGAFAUNA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "ALLOCHTHONE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "MONORACE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "SUBPRIMATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "FAUNIVORY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "NONTETRAPOD",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "COPROFAUNA",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "STALK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "CHECKLIST",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "APODE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "DOMESTICANT",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "PARIAH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "SUBSPECIES",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "MICROZOON",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "FAUNIVORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "VEGETARIAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "ECOSANCTUARY",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "MOSSBACK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "ANIMULE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "TROGLOFAUNA",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "MONTANE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "NONEUTHERIAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "PETKEEPING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "ZOOBENTHOS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "ZOOCHEMICAL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "APOD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "HERPTILE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "ANAMNIOTE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "CHIMPKIND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "MONOPHAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "LAIR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "NEST",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "POLE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "POLES",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "SPOOR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "DOMESTIC",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "FISHERIES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "PRODUCE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "SEABIRDS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "TAME",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "WILDFOWL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "word": "WIGHT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "OFFSPRING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "CHIMERA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "BEINGS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "DRAGON",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "SAURIAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "MERCREATURE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "SPAWNLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "NONREPTILE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "EOBIONT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "VERMIVORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "MOLLUSCIVORE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "XENOMORPH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "NONAMPHIBIAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "MARSUPIALOID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "MACROSPECIES",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "BIORG",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "CRETACEAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "OCTOPEDE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "HERPETOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "FISH",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "BRONTOSAURUS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "ALLIGATOR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "BUNODONT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "FETUS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "ACERATHERE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "REPTILOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "AUTOMIMIC",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "MAMMALOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "CURSORIALIST",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "TROGLOMORPH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "OCTOPOD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "OCTOPOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "LARVA",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "ZOOLITE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "CROCODILIAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "VERMIN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "NECROPHAGE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "GOOD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "FAIRY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "GENOTYPE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "GIANT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "QUARRY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "TROLL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "ADDER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "APHID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "ARBOREAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "ASP",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "BASTARD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "BEE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "BEHEMOTH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "BIGFOOT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "BLOB",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "CAMEL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "CAT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "CIVET",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "COTTONTAIL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "CRAB",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "CREATURESHIP",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "CREATURIZE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "CREEPLE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "CROW",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "CYBORG",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "DARKLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "DELICATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "DORMOUSE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "EEL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "EMU",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "FAWN",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "FINGERLING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "FLEA",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "FLUKE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "FREAKAZOID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "FUR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "GAG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "GARUDA",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "GOLEM",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "GRAY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "GRAZER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "GROWLER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature"
+  },
+  {
+    "word": "WOLFFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "DUMMY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "BEASTMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "BEASTLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "MEGAMAMMAL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "PREDACEAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "MACROMAMMAL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "MEATEATER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "GIGANTOTHERM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "TUSKER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "MUMAK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "OWLBEAR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "FERUNGULATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "MACROPREDATOR",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "EVERTEBRATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "PLANTEATER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "MANTHING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "THORNBACK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "PREY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "BIGHORN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "BEARCAT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "AUROCHS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "BIUNGULATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "ROGUE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "SEMIMONSTER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "LOXODONT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "ANIMAT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "WYRM",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "TETRAPOD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "LEADER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "WEREBEING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "ZALAMBDODONT",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "WEBFOOT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "LIGER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "LEAP",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "MULE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "ROAR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "SLINK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "BEASTHOOD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "BEASTLIKE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "BEASTLY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "BEDDING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "BESTIALIZE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "COLOSSUS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "CRY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "DOCK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "DONKEY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "EFFEROUS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "ENFILED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "FELL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "FERINE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "FLANK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "FOX",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "GOAD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "HASLET",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "HEAM",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "HOUND",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "HOWL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "IBEX",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "JUMENT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "LIE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "LIONESS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast"
+  },
+  {
+    "word": "FISHES",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "MAMMIFER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "ENDOTHERM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "EUTHERIAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "SUCKLER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "PLACENTAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "MAMMALIAMORPH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "NEOMAMMAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "MURINE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "MOLARIFORM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "PALEOMAMMAL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "SUCKLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "FEMALE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "SYNAPSID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "BOVIDOMORPH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "HEMATHERM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "LACTIVORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "MULTUNGULATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "TYPOTHERIAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "EUUNGULATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "PELAGE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "LITTER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "POIKILOTHERM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "CLADOTHERE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "MESOTHERIID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "PRIMATOMORPH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "TRECHNOTHERE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "EMBRYO",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "TAENIOLABIDID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "WEANLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "CIMOLOMYID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "IMPLACENTAL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "DERMOPTERAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "EUARCHONTAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "OVULATOR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "CINGULATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "OTTER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "URSOID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "EURYAPSID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "MARTEN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "VIVIPARY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "PAENUNGULATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "MASTAX",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "LEPORID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "VIVERRINE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "CHORION",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "ICHNEUMON",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "MILK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "MILKING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "POLECAT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "SEAL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "SEALING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "SELENODONT",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "SKIN",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "SLOTH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "ANVIL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "BANXRING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "BEESTINGS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "BINTURONG",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "BLOWER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "BONGO",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal"
+  },
+  {
+    "word": "CHICK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "BIRDIE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "RASPBERRY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "SKIRT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "HAWK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "OSTRICH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "TURKEY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "FALCON",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "RAPTOR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "SEABIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "DOVE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "SHOREBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "CUCKOO",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "LARK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "PARAKEET",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "SPARROW",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "ROOSTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "NESTING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "FEATHER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "FINGER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "VIRUS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "DUCK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "WATERBIRDS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "SONGBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "GULL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "FLYER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "RAVEN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "HERON",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "CHICKADEE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "WATERBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "PHEASANT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "BULLFINCH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "MAGPIE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "QUAIL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "KESTREL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "LANDBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "BIRDCALL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "SPARROWHAWK",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "GOATSUCKER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "AVIANS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "COCKATOO",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "COCKBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "WOODBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "CATBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "BIRDLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "BIRDINESS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "OVENBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "JARBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "BIRDLET",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "CORNBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "PSITTACINE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "CAGEBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "SNOWBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "ANSERIFORM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "CHARADRIIFORM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "PASSERIFORM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "ORNITHOMORPH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "COMPANY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "GALLIFORM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "MIGRANT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "ORNITHOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "ORNITHURINE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "TICKBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "AVIPHILE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "BIRDIKIN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "ANI",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "AUK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "CARINATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "COCK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "KITE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "KIWI",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "LOUSE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "RHEA",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "ROOK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "SQUAB",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "WEAVER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "ZYGODACTYL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "OWLET",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "PLUMIPED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "SECRETARY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "TURKEYS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "WHIPPOORWILL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "ACCENTOR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "AEPYORNIS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "AERIE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "ALTRICIAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "ALULA",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "ANHINGA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "ANISODACTYL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "APTERYX",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "ARA",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "AUGURY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "AVICULAR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "BARBET",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "BATH",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "BEVY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "BIRDMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "BITTERN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "CAST",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird"
+  },
+  {
+    "word": "FINFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "CODFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SHARK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SEAFOOD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "MACKEREL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SWORDFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "GOLDFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SALMON",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SOCKEYE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "REDFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "CATFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "FISHY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "GROUNDFISH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "FISHERY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "FISHERMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "BLUE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "MERCURY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "WHITING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "CHAR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "COD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SNAPPER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "LIVE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ANGLERS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "FISHERMEN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "FISHERS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SPRATS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "NET",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SEINE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "TRAWL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "GAFF",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "HOOK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SPEAR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "DRAG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "GIG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "HARPOON",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "REEL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "LONGLINE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "POT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "DIP",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "TUNA",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ROCKFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "BULLHEADS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "BREAMS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SALMONID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "BREAM",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SPORTFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "MILKFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SEAFOODS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "WHITEBAIT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "CYPRINIDS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "YELLOWTAILS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "BUTTERFISH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SALMONIDS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "LIZARDFISH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "WHITINGS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SOCKEYES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "MACKERELS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "CYPRINID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "MINNOWS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "JACKFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "GUPPIES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ICHTHYOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "FISHLIFE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "FOOTBALLFISH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "GILL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "POOLFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ICHTHYOPHILE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "RATFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "HORSEFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SCALEFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "FILEFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "KILLIFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "CAVEFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "FROGFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ICHTHYOPHAGE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SEALIFE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "OSSEAN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SHEEPSHEAD",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "WHALEFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SNAKEFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "BILLFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "FIREFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SWELLFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "KNIFEFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "CITHARID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "TRIGLID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "LABROID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "OSTEICHTHYAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "GOBY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "PISCICIDE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "BOXFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "PISCIVORY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "TELEOSTEAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "CHIMAERID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "DRAGONFISH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "CRESTFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ICHTHYOLOGY",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "LATRID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "TELEOST",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ALEWIFE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ANGLER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "CICHLID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "CLINID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "CLUPEID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "DISCUS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "FRY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "GADOID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "GOBIOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "GRUNT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "HERRING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "JIG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "LING",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "LOACH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "PERCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "PERCOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "PLECTOGNATH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "RAY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ROE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SARDINE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SCAD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SCIAENID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SCOMBROID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SCORPAENID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SERRANID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SHAD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SHINER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SPRAT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "SURGEON",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "CARANGID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "FARMING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "GUPPY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "LOOKDOWN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "POECILIID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "RATTAIL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "STROMATEID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ABDOMINAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ANABAS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ANABLEPS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ANADROMOUS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ANGELFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "ARGULUS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "BARBEL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "BERRY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "BIGEYE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "BLENNY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "BOARFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "BULLHEAD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "BYCATCH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish"
+  },
+  {
+    "word": "REPTILIAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "LACERTILIAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "NEODIAPSID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "CROCODYLIFORM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "HERPETOLOGIST",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "DINOSAURIFORM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "MESOCHELYDIAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "ROMERIID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "OPISTHODONT",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "LEPIDOSAURID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "CHORISTODERAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "PERICHELYDIAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "PROTOTETRAPOD",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "CHELONIAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "CISTECEPHALID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "RANIVORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "AMPHITHERIID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "BATRACHOMORPH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "ECTOPTERYGOID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "MESOSAURID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "HERPETOPHOBIA",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "APHANOSAUR",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "GAVIALID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "PLACODONT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "PLEUROSAURID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "BOID",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "NOTHOSAURID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "CRACID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "GEPHYROSTEGID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "OPHIDIAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "CHRONOPERATES",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "CREEPER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "FRILL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "HATCHLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "HORN",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "LABIAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "MENTAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "NAIL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "PODOTHECA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "PREOCULAR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "SLOUGH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "WORM",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "GHARIAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile"
+  },
+  {
+    "word": "HEXAPOD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "ODONATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "NEUROPTERAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "MANTID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "DIPTERAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "HYMENOPTERAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "LEPIDOPTERAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "ROACH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "ALATAE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "ORTHOPTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "INSECTOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "HOMOPTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "HETEROPTER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "TRICHOPTERAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "ZYGENTOMAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "EXOPTERYGOTE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "PALAEOPTERAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "UNDERWING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "APOCRITAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "METALEG",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "ANEPISTERNUM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "PTERYGOTE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "BRISTLETAIL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "NYMPHID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "PTEROTHORAX",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "CICADOMORPH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "HYMENOPTERON",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "WORKER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "WING",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "TERRICOLE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "AURELIA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "MIDTIBIA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "BACKWING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "HOMOPTERAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "ITHONID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "HEMEROBIID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "KATEPISTERNUM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "PROEPISTERNUM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "POLYNEOPTERAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "PSOCOPTERAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "APTERYGOTE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "NEUROPTERID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "TREEHOPPER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "CONEHEAD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "SHELL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "PARAPTERON",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "LEPIDOPTERON",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "NEOPTERAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "ENDOPTERYGOTE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "SCORPIONFLY",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "CHRYSOPID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "STREPSIPTERAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "GROUNDHOPPER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "THRIP",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "FLEDGLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "BORER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "GRASSHOPPER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "SCALE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "WASP",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "ACETABULUM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "ADELGID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "BREEZE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "BUGGY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "CHIRP",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "CHIRR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "COLLEMBOLAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "CRAW",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "CRAWL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "CROP",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "DEALATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "FEELER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "FLY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "FRASS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "GRAIN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "HIBERNACULUM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "MAGGOT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "MANDIBLE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "NIDUS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect"
+  },
+  {
+    "word": "PREDATION",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "PREDACEOUS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "PREDATORY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "PIRATE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "STALKER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "HUNTER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "KILLER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "PROWLER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "SUPERPREDATOR",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "HYPERPREDATOR",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "PAEDOPHAGE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "SCAVENGER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "SEEDEATER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "GRANIVORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "CRUSTACIVORE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "POLLINIVORE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "OMNICARNIVORE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "DOGEATER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "GRUE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "AMBIVORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "NECTARIVORE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "ANIMALIVORY",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "PELT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "DECOY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "POLYPHAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "EURYPHAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "GRASSEATER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "CLUTCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "ZOOBENTHIVORE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "TALON",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "WOLVER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "MYRMECOPHAGE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "MESOCARNIVORE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "FURBEARER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "OPHIOPHAGE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "GRAMINIVORE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "SANGUIVORE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "POLLINIVORY",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "HETERODONT",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "POLYODONT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "PAEDOPHAGY",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "WOLFING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "BIBLIOPHAGE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "PIERCER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "PALEOGNATH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "SANGUINIVORE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "COUGAR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "DEN",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "GHOST",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "GRAZERS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "PARASITE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "SCAVENGERS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator"
+  },
+  {
+    "word": "RUCK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "STRING",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "PACK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "SWARM",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "MOB",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "BOOK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "SCHOOL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "CONGREGATION",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "MUSTER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "HERDFUL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "SUBHERD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "HARRAS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "HERDBOY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "HERDMATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "HERDBOOK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "HERDSBOY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "HERDOWNER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "STOCKKEEPER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "CHARGEE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "ROUT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "SHEPHERDING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "MUSTERING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "PARADE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "CAVVY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "CABALLADA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "TEAM",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "CREAGHT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "MUSTERER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "HEADAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "TRIP",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "ENURNY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "SHEEPFOLD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "BARNMATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "HORSEMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "NOWT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "SHOWYARD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "BRAKE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "SHEEPHERDING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "HORSEFLESH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "PAIR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "PUNCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "PASTOR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "SHEPHERD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "BELLWETHER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "COLT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "COWBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "COWGIRL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "CULL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "DAZZLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "DRAFT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "HARAS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "MILLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "RABBLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "RASCAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "STEER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "TAIL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "TOPSMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "COWBOY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "GREGARIOUS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "KUVASZ",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd"
+  },
+  {
+    "word": "TRIBE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "HORDE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "HOVER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "CHARM",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "VOLERY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "ROOST",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "SKEIN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "VOLARY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "SIEGE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "SCUD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "SEDGE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "WAKE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "ROOKERY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "GAMEFOWL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "HATCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "BROODLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "PASSENGER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "GROUSE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "WISP",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "NOTE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "FALCONER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "ORNITHONYM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "BIRDNESTING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "WINGDOM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "CROWER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "STALE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "TWITCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "FLIGHTLING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "ROOSTMATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "WORMFOWL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "FELLFARE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "PTERYLOSIS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "PASSAGER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "COLUMBIFORM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "GLIDE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "TROGONID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "POLYGLOT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "COVERT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "FIRSTBORN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "PICK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "PRIEST",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "RAFTER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "SHOT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "SORD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "SPRING",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "WISPS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock"
+  },
+  {
+    "word": "DUCKY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "POOCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "TOE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "POCKET",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "CABBAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "FAMILIAR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "CUTIE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "NURSLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "COMPANIMAL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "PETCARE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "CAGEMATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "YOKEMATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "AMINAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "PHILOTHERIAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "HOUSELING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "ANIMALIER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "CATTE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "PANTHERINE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "ZOOPHILITE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "PUSS",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "HAMSTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "LAPERM",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "ANIMALIST",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "MICROANIMAL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "PETERBALD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "CORDATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "HUSBAND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "LITTERMATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "ZOOPHILISM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "KENNETS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "PODMATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "PAWSTEP",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "FUSS",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "GENTLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "PETFOOD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "ASH",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "BITER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "BULLDOG",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "CAR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "CHEEP",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "CHICKY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "CHOW",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "COLLAR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "CUNNING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "HUTCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "KIBBLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "LEASH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet"
+  },
+  {
+    "word": "FISHING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "SNIPER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "WHALING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "STALKING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "CHASE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "QUEST",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "FOWLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "BOWHUNTING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "NONHUNTING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "WATERFOWLING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "BLACKTAIL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "FEASTING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "HUNTSMEN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "BROWSING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "HUNTSMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "WILDFOWLING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "SPORTSMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "FERRETING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "SLAUGHTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "TAMING",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "ZOOCIDE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "CARNISM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "TAWING",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "ENGASTRATION",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "CANNIBALISM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "EXTRACTION",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "THERIOCIDE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "WORMING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "MEATPACKING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "CYNEGETICS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "LODGE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "AIDI",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "BATTUE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "FOIL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "POACH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "POINTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "SCENT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "SHIKAR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "VENATION",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "VENERY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "ARM",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "BEARHOUND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "BLIND",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "BLUETICK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "BUCKHOUND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "CAMO",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "CHASABLE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "COVERSIDE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "CYNEGETIC",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting"
+  },
+  {
+    "word": "DIET",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "DIETS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "WORRIER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "KLEPTOCNIDA",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "SUBJUVENILE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "TRACT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "MOLETRAP",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "HIDE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "SOYLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "PREDACIOUS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "RAPACIOUS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "RAPTORIAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "RAVENING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "RAVIN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "ABAY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "ARMADA",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "BLOCK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "CADGE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "CORRODE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "DEPREDATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "ELANET",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "EYRIE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "EYRY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "FIST",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "GLEDE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "GOSHAWK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "KITES",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "MAIDEN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "MEWS",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "MULTIPLY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "REPRODUCTIVE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "LEAD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "GENERATION",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "MATE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "REAR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "INBREED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "POPULATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "HAVE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "HYBRIDIZE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "OUTBREED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "REPOPULATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "SETTLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "FATTEN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "BEBEAST",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "TAKE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "BRAHMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "COCKTAIL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "CROSS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "FOXHOUND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "GREYHOUND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "HACKNEY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "INTERBREED",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "MERINO",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "MONGREL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "MONGRELIZE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "PULI",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "RUFF",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "SCHNAUZER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "TATTOO",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "TIPPLER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "UNDERBRED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "WEED",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "AFFENPINSCHER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "ANGORA",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "APPALOOSA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "AUSTRALORP",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "BIRMAN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "CASTRATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "NEUTER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed"
+  },
+  {
+    "word": "INTERSPECIES",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "INTERSPECIFIC",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "SPECIATION",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "LEATHERBACK",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "WARMOUTH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "ISSUE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "PLOVER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "INVASIVE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "HARDWOODS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "INSECTS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "OFFSPRINGS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "OTTERS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "POLLINATORS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "RACES",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "SEDGES",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "WHALES",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "MORPHOSPECIES",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "MAMMALIANS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "INVERTEBRATES",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "DIPTERANS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "VERTEBRATES",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "SPECIATIONS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "HYMENOPTERANS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "SYNTOPIC",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "CONGENER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "ALLOSPECIES",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "SPORT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "MOSS",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "PLANIMAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "DEME",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "HERBORIZING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "ORNAMENTAL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "ZOOCHORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "LEATHERBACKS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "NATIVE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "PELTIPHYLLUM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "SCHAFFNERIA",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "SUNDACARPUS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "FLORISTIC",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "FOSSIL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "INTRASPECIFIC",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "ABRANCHIATA",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "ADLUMIA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "AIS",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "ALSIKE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species"
+  },
+  {
+    "word": "PETTING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOSCOPY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOKEEPING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOHYGIENE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOPERY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOTHEIST",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOLATRY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOMANIA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOGRAPHER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOTOPONYM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "BEDSITE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOTHEISM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOLATER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOSYNTAX",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "PRIDE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOPHOBIA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOONYM",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "SADDLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOMORPHISM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOMACHY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOARCOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "DIVORCE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZEBRINE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ENZOOTY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "AGRIZOOPHOBIA",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOLITHE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOCHROME",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZODIOGRAPHER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "AQUARIUM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ANA",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "MANE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "ZOOKEEPER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo"
+  },
+  {
+    "word": "REINDEER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herding"
+  },
+  {
+    "word": "PASTURES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herding"
+  },
+  {
+    "word": "RANCHES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herding"
+  },
+  {
+    "word": "RAIK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herding"
+  },
+  {
+    "word": "CASTING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herding"
+  },
+  {
+    "word": "ENTRY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herding"
+  },
+  {
+    "word": "TRAIN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herding"
+  },
+  {
+    "word": "STABULATION",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herding"
+  },
+  {
+    "word": "CARAVANNER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herding"
+  },
+  {
+    "word": "COBREEDING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herding"
+  },
+  {
+    "word": "OVERGRASSING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herding"
+  },
+  {
+    "word": "CARAVANEER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herding"
+  },
+  {
+    "word": "WRANGLE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herding"
+  },
+  {
+    "word": "MEAT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "PRODUCTION",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "BARN",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal"
+  },
+  {
+    "word": "HUNTED",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey"
+  },
+  {
+    "word": "FRUIT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species"
+  }
+]

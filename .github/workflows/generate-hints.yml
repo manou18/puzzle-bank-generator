@@ -10,9 +10,9 @@ on:
         required: false
         default: "approved_words.json"
       output_file:
-        description: "ملف المخرجات (gzip)"
+        description: "ملف المخرجات (JSON عادي، قابل للقراءة والمقارنة على GitHub)"
         required: false
-        default: "unique_word_puzzles_with_hints.json.gz"
+        default: "unique_word_puzzles_with_hints.json"
       model:
         description: "اسم موديل Gemini (اتركه فاضي لاستخدام الافتراضي بـ main.js)"
         required: false

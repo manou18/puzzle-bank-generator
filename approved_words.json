@@ -1,0 +1,8036 @@
+[
+  {
+    "word": "STARS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "STAR",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "LIGHT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "PHOTOMETRY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "ANTISTAR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "SUNLIGHT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "STARBURST",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "SCINTILLATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "LUMINOSITY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "VARIABLE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "LIGHTSPEED",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "FLUORESCENCE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "SUPERNOVA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "LIGHTWAVE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "SKYLIGHT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "KILONOVA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "LIGHTRAY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "ANTISUN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "STELLATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "ELECTROSPHERE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "PULSAR",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "ASTROPARTICLE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "PHOTOHEATING",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "MINIMUM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "SPACE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "INCANDESCENCE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "LEPTONIZATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "EMITTANCE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "SFERIC",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "RAYBURST",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "ANTILIGHT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "JUMP",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "KILOLIGHTYEAR",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "INTERWIND",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "PHOTOENERGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "LUMEN",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "LUMINANCE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "SUBPULSE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "PHOTOEFFECT",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "STARLIT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "GLINT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "STARLESS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "BENIGNANT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "BLACKNESS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "BRIGHTER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "CANDLELIGHT",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "DARKNESS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "DAWN",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "DAWNING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "DAYLIGHT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "FIRELIGHT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "FLAME",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "GLIMMER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "GLOW",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "LAMBENT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "LAMPLIGHT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "MISTS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "MOONLIGHT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "MOONLIT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "MOONSHINE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "RADIANCE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "RESPLENDENT",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "SHIMMER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "SULTRY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "SUNSET",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "SUNSHINE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "TWILIGHT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "starlight"
+  },
+  {
+    "word": "URANOLOGY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ORBIT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "SHIP",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ANCIENT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "CELESTIAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOLOGY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "STARGAZING",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ASTROGRAPHY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOGONY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ASTROBIOLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "SELENOLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "PLANETOLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ASTRONOMICS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOGRAPHER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOGRAPHY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMICISM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOTHEOLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOMETRY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ASTROTHEOLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "STARLORE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "AEROSCOPY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "GASTROPHYSICS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ASTROSCOPY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOLOGIST",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOGEOLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "SPACELORE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "GEOGRAPHY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "METEOROLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "EXOMOONOLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOSOPHY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COMETOLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "SPECTROSCOPY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ASTROPHILIA",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ZENOGRAPHY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ATMOLOGY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ASTROECOLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ASTRO",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMONAUTICS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "METEOROGRAPHY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "SPECTROLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ASTROLAW",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "GASTROLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOGONER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "HELIOGRAPHY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ASTROMANCY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOGONIST",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "GEOGONY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "STARCRAFT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "AEROLITHOLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ACOSMISM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOGENESIS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "HETEGONY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ASTROLOGESE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMISM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "OPTICS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "APOTELESM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ACTINOLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "WORLDBUILDING",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "MOON",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ADDITITIOUS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ALIGNMENT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ALPHA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ALTITUDE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "AMPLITUDE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ANAGALACTIC",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ANOMALY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ANTAPEX",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "APSE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "APSIDAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ARC",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ASTRONOMIZE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ASTROPHILE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "AUREOLE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "AZIMUTH",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "BALANCE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "BEE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "BINARY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "BIRD",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "BULLSEYE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "CANCER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "CIRCLE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "CIRCLES",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COMA",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COMET",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COMPASS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "CONJUNCTION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "CONSTELLATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMIC",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOGENIC",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOGONIC",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOGONICAL",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "COSMOLOGICAL",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "DECLINATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "DEFERENT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "DIGIT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "DIOPTER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "DIRECT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "DOG",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "DOLPHIN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ECLIPSE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ECLIPTIC",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "EON",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "EPHEMERIS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "EQUATOR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "EQUINOCTIAL",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "ETHER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "EXTRASOLAR",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "GALAXY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "HARE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "HELIACAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "HELIOCENTRIC",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "HORSE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "HOUR",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "INCIDENCE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "INCLINATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "INFERIOR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "INGRESS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "LATITUDE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "LIMB",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "LION",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "LOCAL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "LODESTAR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "LONGITUDE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astronomy"
+  },
+  {
+    "word": "NIGHTSCAPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "AIRSCAPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SKYGAZING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "MOONGAZING",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "BLUE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "EARTHSHINE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "AZURE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "NIGHTDREAMING",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "PHOTOSPHERE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SPECTRUM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "STARFIELD",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "KENNING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SIGHT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "VIEW",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "FIRMAMENT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "ATMOSPHERE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "MOONWAKE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SUNGAZING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "LANDSCAPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "MOONPATH",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "AURORA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "FIRSTSPACE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "ASPECT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "COSMOS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "VISION",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "DEADLIGHT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "UNIVERSE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "TRANSPARENCY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "EXPOSURE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "WORLD",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SCOTOPIA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "EARTH",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "BLOOM",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "STARBIRTH",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "REALITY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SHADOW",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "HALATION",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "BACKLIGHT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SPECIES",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SNAPSHOT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "COSMOVISION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "BRIGHTNESS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "INFRAVISION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "IRRADIATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "PHASE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SPECULATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "VISUAL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "LENS",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SHADE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "OCCULT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SUNRISE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "HEAVEN",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "METEOR",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "ORB",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "STARRY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "CARINA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "COUNTERGLOW",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "PLANETARIUM",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "RADIANT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "COVER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "DEEP",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SERENE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "UPS",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "CAST",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "WELL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "CLEAR",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "READ",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "ARA",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "ACTOR",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "APPROACH",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "BED",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "BOY",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "BUNK",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "CALL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "DAMAGE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "DARKENED",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "DATE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "DAY",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "DAYTIME",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "DEW",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "DUSK",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "FOOT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "GUARD",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "HAND",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "INKY",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "LEVITE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "MIDNIGHT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "MOONRISE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "NIGHTHAWK",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "NIGHTS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "NOON",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "OTHER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "OVER",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "OVERNIGHT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "PASSION",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "REST",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "ROUGH",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SHADES",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SHEET",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SLEEP",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SLOP",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "STAG",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "STARLIGHT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "STARRING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "STAY",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SUNDOWN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "VIGILANCE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "WAKE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "ENDYMION",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "KATABATIC",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "NIGHTLONG",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "SPINNER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "STARGAZE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "ABOVE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "ABYSS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "CARRY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "CERULEAN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "CLOUD",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "HOROSCOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "LIFT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "LIGHTNING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "LOWERING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "MANSION",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "MERIDIAN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "NIMBUS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "OMEN",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "CLOSET",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "night sky"
+  },
+  {
+    "word": "MACROCOSM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "NATURE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "HARMONY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "TOTALITY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "VOID",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "HEAVENS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "EXPANSE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "PLENUM",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "METACOSM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "PARACOSMOS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "PARACOSM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "DIMENSION",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "CHILIOCOSM",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "ABSOLUTE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "CHAOS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "LORE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "KAMI",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "METASPACE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "KALEIDOSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "FOAM",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "OVERWORLD",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "REALM",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "OCTAVE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "CLIMATE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "AURA",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "AREA",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "SCOPE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "ATOM",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "PANVITALISM",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "ANIMISM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "QUESITED",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "ORDER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "MICROCOSM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "COSMICAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "COSMOLATRY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "COSMOTHEISM",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "DHARMA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "MASCULINE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "STEM",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "TEAM",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "UNIVERSAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "VAST",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "BEING",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "CHILD",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "COMMUNITY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "CONCEPTION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "FREEDOM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "GOSPEL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "LINEAR",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "SELF",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "cosmos"
+  },
+  {
+    "word": "ASTRONYM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "PLANETOID",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "ELEMENT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "LORD",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "DAYSTAR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "MERCURY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "THEMISTO",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "ATLAS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "APHETA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "AMOR",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "ASTRAEA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "TITAN",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "DEIMOS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "HYPERYON",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "EURYDOME",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "KALE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "HERMES",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "CALYPSO",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "PANDORA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "PHOBOS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "BEBHIONN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "GIRL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "NEMESIS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "COSMOLATER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "ANANKE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "THRYMR",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "TITANIA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "PROMETHEUS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "EOSPHORUS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "BENNU",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "MALEFIC",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "SUTTUNGR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "HYPERION",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "HESTIA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "DIVINITY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "SEMELE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "ASTROLATER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "BERGELMIR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "STILBON",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "EUTERPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "PASITHEE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "KORONIS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "EUANTHE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "PARTHENOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "ALBIORIX",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "POLYDEUCES",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "SOPHROSYNE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "AOEDE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "NAIAD",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "ARCHON",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "THELXINOE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "VATIRA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "ASTROLATRY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "CIRCE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "DYSNOMIA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "SKYGOD",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "MELPOMENE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "PLANET",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "LAMP",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "TRANSIT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "OCCULTATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "SATELLITE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "DISK",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "GLOBE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "PARALLAX",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "SECONDARY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "RISE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "CYCLE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "LAND",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "LUMINARY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "SUN",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "UMBRA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "ZENITH",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "CORE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "FLYBY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "GRAVITY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "LITHOSPHERE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "POLAR",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "PRIMARY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "SHOOT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "SPHERY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "ELONGATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "GLOBAL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "NODICAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "PERTURB",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "SEMIDIAMETER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "SUBORBITAL",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "TIDE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "ANGEL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "ASTRAL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "PLANETESIMAL",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "POLE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "POLES",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "POWER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "RETROGRADE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "SCHEME",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "SEXTANT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "MOONING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "LINE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "HEMISPHERE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "RADIAL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "CORONA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "HOUSE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "DRAGON",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "AMBROSIA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "ASTRONOMY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "ICHOR",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "PLANETS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "QUADRANT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "SYNODIC",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "TERRESTRIAL",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "celestial body"
+  },
+  {
+    "word": "PLANETARY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "TERRA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "GROUND",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "ROCK",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "BALLOON",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "WARMING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "HOME",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "BARON",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "PLANETA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "EXOPLANET",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "CONTINENT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "SPACESHIP",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "MANKIND",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "PLANETWIDE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "OCEANS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "EARTHS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "PLANETOIDS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "NATION",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "PLANETEERS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "HABITABLE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "CIVILIZATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "PLANETDOM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "PLANETARIAN",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "PLANETHOOD",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "ZODIAC",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "PLANETULE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "STATION",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "SATELLITIUM",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "PLUTONIAN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "METEOROSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "SIGNIFICATOR",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "BELT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "PLANETSCAPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "MESOPLANET",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "FIGURE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "SQUARE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "NONPLANET",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "WORLDLET",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "INFLUENCE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "DIRT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "EXTANT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "GENESIS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "LUNAR",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "SHORE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "PLANETAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "ANTECEDENCE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "APPLICATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "AREOCENTRIC",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "BENEFIC",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "CHASMA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "CIRCUMJOVIAL",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "CORUSCANT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "CRUST",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "CUSP",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "CYTHEREAN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "DET",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "DETRIMENT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "DIGNITY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "DISPOSITOR",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "DORSUM",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "EARTHLY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "ELLIPSE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "EQUANT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "EXOSPHERE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "FACULA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "FAULT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "FULL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "HEART",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "planet"
+  },
+  {
+    "word": "GALAX",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "WANDFLOWER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "LOT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "GALAXIE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "METAGALAXY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "PROTOBULGE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "STARSCAPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "LICH",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "HALO",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "STARDRIFT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "MACULA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "CYNOSURE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "RING",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "INSTELLATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "ARCLET",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "URANOMETRY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "BALL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "FESTOON",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "APEX",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "SUBHALO",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "EXOSYSTEM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "GLORY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "STARSPOT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "NEBULAR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "LENTICULAR",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "PROTOGALAXY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "BCD",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "EXTRAGALACTIC",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "INTRAGALACTIC",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "GROUP",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "INTERGALACTIC",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "SPACING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "SUPERCLUSTER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "URANOGRAPHY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "CLUMP",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "DEFECT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "FAR",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "FARM",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "MOUNTAIN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "RAINBOW",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "SCIENCE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "STELLAR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "VOLCANO",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "galaxy"
+  },
+  {
+    "word": "AEROSPACE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "PERIMETER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "PLACE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "ALL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "GALAXIES",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "MICROCOSMOS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "MACROCOSMIC",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "SUPERSPACE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "SINGULARITY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "MONOVERSE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "METAUNIVERSE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "COSMOCIDE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "ANTIUNIVERSE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "AKASH",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "LUMPIVERSE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "COSMOPARTICLE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "BULK",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "MEGACOSM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "COSMOGRAM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "EARTHSPACE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "SUPERGALAXY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "PRESPACETIME",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "HYLE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "SUPERNEBULA",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "VACUUM",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "SPACESCAPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "ASTROGENY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "SUPERCLOUD",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "COSMOGENY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "HELIOCENTRISM",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "PRESENCE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "ABSURD",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "ACOSMIST",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "AIR",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "ANTIWORLD",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "BEAUTY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "CENTER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "CONCEPTUALIZE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "COSMONAUT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "DIMENSIONING",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "ENDLESS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "EVEN",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "FIRE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "GEOCENTRISM",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "GOOD",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "MATTER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "MIND",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "NEOCOSMIC",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "OPEN",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "ORDERLY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "ORGANICISM",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "OUTER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "PTOLEMAIST",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "PUNY",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "REGION",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "SHAKTI",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "universe"
+  },
+  {
+    "word": "LUNATION",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "CRESCENT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MONTH",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "SKY",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "GLASS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MUN",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "HEI",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "HEEL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MONE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MONTHS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MOUTH",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "HONEYMOON",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "LUNE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "SIN",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MANI",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MOONBEAMS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MOONGLOW",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MOONY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MOONE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MOONBEAM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MOONDUST",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "ROCKET",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "SOLAR",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "FARSIDE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "OCCULTING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "SKYES",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "SPACEMAN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "SUNWARD",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "SHINING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "SKIES",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "ECLIPSES",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "ASTRONAUT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "SPACECRAFT",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "ROVER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MOONLESS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MINIMOON",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MOONET",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MOONPHASE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MOONFALL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "EXOMOON",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MONS",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "NEARSIDE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "ANTIMOON",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "LUNARNAUT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "TARQEQ",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MOONQUAKE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "LUNANAUT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "IJIRAQ",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "SIAMAQ",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "CHALDENE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "AUTONOE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MOONWATCHING",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "MUNDILFARI",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "LOGE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "COMPANION",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "PAALIAQ",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "HEGEMONE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "KALYKE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "TAROT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "HYDRA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "NEREID",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "RARE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "RHEA",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "SHINE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "WANING",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "APOSELENE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "ASS",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "ASTROLOGER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "ASTROLOGIST",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "BAN",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "BAY",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "BLANK",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "BLOT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "BOTTOM",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "BUTT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "CIRCUMLUNAR",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "CISLUNAR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "CLAVIUS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "COME",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "COW",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "CRACK",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "DABBLE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "DECRESCENT",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "DEMILUNE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "DESOLATE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "DOWN",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "DRUM",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "EAGLE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "ELATED",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "END",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "FEAT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "moon"
+  },
+  {
+    "word": "FIREBALL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "METEORITE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "SUNGRAZER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "BOLIDE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "COMETOSHEATH",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "ANTITAIL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "TRAIN",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "VULCANOID",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "PARASELENE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "KUIPEROID",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "VISITOR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "APPROACHER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "HELIOTAIL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "IONOSPHERE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "ASTROTAIL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "EXOPAUSE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "COMPRESSION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "LEUCOSPHERE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "CORONOGRAPH",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "EXORING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "SWEEP",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "BEARD",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "CHEVELURE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "ENVELOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "GAIN",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "ICE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "PERIHELIUM",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "POOL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "RECOVER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "SCRUB",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "SLEIGH",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "TRAJECTORY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "XIPHIAS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "COMETOGRAPHER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "COMETOGRAPHY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "AEROPLANE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "ASCENDANT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "BARROW",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "BELL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "BONFIRE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "CAVE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "ELEPHANT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "GLACIER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "LITE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "METEORIC",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "METEORS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "MOTIVE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "RAY",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "SPEED",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "STRATA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "comet"
+  },
+  {
+    "word": "PATTERN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "SET",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "ASTROSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "LIBRA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "HOROLOGIUM",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "ASTROGRAPH",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "SUNBURST",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "ALLINEATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "COSMOGRAPHIE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "ARIES",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "PISCES",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "RAM",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "BOOTES",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "CONSTELLATE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "CROW",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "CRUX",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "HERCULES",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "MENSA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "RETICULUM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "SIGN",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "SNAKE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "ARCHER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "BULL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "CAPELLA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "CASCADE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "CASTOR",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "CERBERUS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "CRAB",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "CRANE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "CUP",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "CUPS",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "DELTA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "DOVE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "ENTRY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "GAMMA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "GARUDA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "HERDSMAN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "HUNTER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "KEEL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "MICROSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "MONOCEROS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "constellation"
+  },
+  {
+    "word": "PERISCOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "SEAT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "SPYGLASS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "MONOCULAR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "REFRACTOR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "REFLECTOR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "SPECULUM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "MONOSCOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "MAGNASCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "TELEOTOSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "TELESCOPY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "BIOPTICS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "RIFLESCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "AUXOMETER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "DYNAMETER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "TELEOBJECTIVE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "MAGNIFIER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "DIGISCOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "TELELENS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "METROSCOPY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "MEGALOSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "LOUPE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "MEGASCOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "MEGAMETER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "TELEPHOTO",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "MICROSCOPY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "MAGNIFICATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "ALTISCOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "OPTOMETER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "MACROSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "OTOMICROSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "EIKONOMETER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "THORACOSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "MINISCOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "SPECILLUM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "CRATOMETER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "AUTOSCOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "FOCIMETER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "SUPERZOOM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "AMBLYOSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "AUROSCOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "SELENOSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "EUSCOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "SPECTROSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "NIGHTSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "SCOTOSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "LUMINOSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "DERMOSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "EXOSCOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "RETINOSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "OSMOSCOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "MIRRORSCOPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "TRUNK",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "TUBE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "APERTURE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "DRAWTUBE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "PRISM",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "COLLIMATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "COUD",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "EYEGLASS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "FOCUS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "LENSE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "LEVEL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "NAKED",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "OPTIC",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "PANOPTICON",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "PERSPICIL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "PLUNGE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "PLUNGING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "PROSPECTIVE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "RANGE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "RECEIVER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "RESOLUTION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "RESOLVE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "RETICULE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "SIGHTS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "SPHEROMETER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "TAILPIECE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "TELESCOPIC",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "TELESCOPIST",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "AERIAL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "BOILER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "CAMERA",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "CHART",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "CLOSE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "COD",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "DERRICK",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "DIFFERENCE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "ENGINE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "telescope"
+  },
+  {
+    "word": "OUTSIDE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "EXOATMOSPHERE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "OUTBOUNDS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "BORDER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "EXTERN",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "INTERMUNDIUM",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "INTERIOR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SUBURB",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "FRINGE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "INTERSPACE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "AFTERBODY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "UNDERSKY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "OUTWALL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "OUTCOURT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "UNDERVERSE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "APOKRONE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "INTERSTICE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "INTERVACUUM",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "PENUMBRA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "OUTPORTION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "MIDSPACE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "INFIELD",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "REGIONAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "DEPTH",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "BREAK",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SUBORBIT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "RECESS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "OVERSKY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "FRONT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "PERIKRONE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "INTERSPINE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SUBSATELLITE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "NETHERVERSE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SUBTERRANITY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "DIASTEM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "INTERORBITAL",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SUBMARGIN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "PERIHERMION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SUBSCOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SPATIAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "ROOM",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "AIRSPACE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "FOOTPRINT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "OBJECTS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SHOWERS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "BAIL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SPACEWARD",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SPACEFARING",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SPACEWALKER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "ANTECHAMBER",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "FLY",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SPACEWALK",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SPACEWOMAN",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "STONE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "ALLEY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "LEM",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SPACEWARDS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "BAR",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "CAGE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "CASE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "CIRCUMFERENCE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "CORNER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "LIMIT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "OUT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "PANEL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SECOND",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SECONDS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "TABLE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "VERGE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "VOYAGE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "WALL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "ATM",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "BASE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "BOOT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "CELL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "LIST",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SHELL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "JACKET",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "WEED",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "CRAFT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "ENTER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "ASTRONAUTICS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SHANK",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "SUIT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "ABOUT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "BRIM",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "BUT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "CANT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "CAPE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "CORTEX",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "EPIDERMIS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "EXTRADOS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "EXTREME",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "FACE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "outer space"
+  },
+  {
+    "word": "REVOLVE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "REACH",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "RAIL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "PURVIEW",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "COURSE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "LOOP",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "CIRCUIT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "ROTATION",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "TOUR",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "INSPIRAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "TORUS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "TORE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "CYCLER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "PERIPTERY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "ORBITOGRAPHY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "GORE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "VARIATION",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "ASPHERE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "CONCAVE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "UMBILICUS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "BEND",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "VERTEX",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "PERIAREION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "ORTHO",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "LAP",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "DECAY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "DEORBIT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "SUPRAORBITAL",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "ANTISATELLITE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "APOJOVE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "ASAT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "DISORB",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "EXORBITANT",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "EYE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "GEO",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "INJECT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "LAUNCH",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "OBLIQUITY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "ORBITALE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "ORBITARY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "PARK",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "PERIODIC",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "POSTORBITAL",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "PREORBITAL",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "REGREDE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "ROLL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "SEASON",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "SPUTNIK",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "SUPERLUNAR",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "SUPERLUNARY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "SYNCOM",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "TANG",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "TEMPORAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "TRANSLUNAR",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "TRANSLUNARY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "orbit"
+  },
+  {
+    "word": "HOROSCOPIC",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "HOROSCOPY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "URANOMANCY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "SIDEROMANCY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "METEOROMANCY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "SCHEMATISM",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "TAROTOLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "GENETHLIALOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "CHARTOMANCY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "CHIROSOPHY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "PROPHETICS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "ARACHNOMANCY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "GEOMANCY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "PALMISTRY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "RASTROLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "PHYSIOGNOMY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "COSMOBIOLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "THEOMANCY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "OSTEOMANCY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "CHEIROSOPHY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "MANTOLOGY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "OMENOLOGY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "CHIROMANCY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "SCATOMANCY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "PSYCHICS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "OENOMANCY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "PROPHECY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "CHRESMOLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "OINOMANCY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "XYLOMANCY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "BAROLOGY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "PROPHETISM",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "EXTISPICY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "MOLEOSOPHY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "TYROMANCY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "OCCULTISM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "IATROPHYSICS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "PHYSIC",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "WEATHEROLOGY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "SCIOSOPHY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "TRINE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "ABSCISSION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "ASTROLOGIZE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "CARDINAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "ELECTION",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "FATE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "FISH",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "FORTUNE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "JOVIAL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "JOY",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "LADY",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "MALEVOLENT",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "MALIGN",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "MALIGNANT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "POINT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "QUERENT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "QUINCUNX",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "SCORPION",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "SEPARATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "TORTUOUS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "TOWER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "TRIGON",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "TRIPLICITY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "TWIN",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "VESPERTINE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "VIRGIN",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "ZODIACS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "ASTROLOGIC",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "CHARACTER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "DOMIFY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "LIB",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "MERCURIAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "RAT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "SATURNINE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "ZODIACAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "ASTROLOGERS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "DIVINATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "MYSTICISM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "MYSTICS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "RELIGION",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "STUDY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "astrology"
+  },
+  {
+    "word": "GIRDLE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "CAZIMI",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "ANTIVERTEX",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "EQUINOCTINAL",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "MIDHEAVEN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "BALDRIC",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "FIXED",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "PIG",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "ROOSTER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "RULE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "SCALE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "TIGER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "WATER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "WORSE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "TAURINE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "ANTONYM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "ASTROLOGICAL",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "AUSPICIOUS",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "ENCAMPMENT",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "HAREM",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "HUE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "PAINTED",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "SOLSTITIAL",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "WHILE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "zodiac"
+  },
+  {
+    "word": "NUBECULA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NEBULATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NEPTUNIAN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NEON",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NEURILEMA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NEURILEMMA",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NIDUS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NEXION",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NIGHTMARE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NEMATICON",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NODULUS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "KERNEL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NETT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NLRG",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NEOTERISM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NOCTURNE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NIGRESCENCE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NUCLEOSOL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NANOSPACE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "BULB",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NEURISM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NARCOSE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NITERIE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NITERY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "NEBULOUS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "BLOB",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "CHIMNEY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "DOME",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "HALOS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "nebula"
+  },
+  {
+    "word": "EVENT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "METEROLOGIST",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "METEOTSUNAMI",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MIST",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MESSENGER",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MOAT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MONSOON",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MERCURIAN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MOONERY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "SPRING",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MELT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MERCURISM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MARTIAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MAROON",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "METER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MEASURE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "NYMPHET",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "HUMOUR",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MELETE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "METAL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MERCUREAN",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MOONGLADE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "METIS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MAWMET",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "METROPOLITE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MOONETTE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MANTIC",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MEERES",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MARVEL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MIRK",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MOTHER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MEASLES",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MERE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MIRE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "MISTER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "SHOWER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "ACHONDRITE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "BOLIS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "EXHALATION",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "FIREDRAKE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "METEORIZE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "METEOROUS",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "TELESCOPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "TRAIL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "AURORAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "BALEFUL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "BEACON",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "BRILLIANCE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "COMETARY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "CONGEALED",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "DIM",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "FLARE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "FLASH",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "FLASHES",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "GRAY",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "METEORITIC",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "PEARL",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "REFULGENT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "RUBY",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "TORCH",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "meteor"
+  },
+  {
+    "word": "GASTRONOMY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "stargazing"
+  },
+  {
+    "word": "GASTROSOPHY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "stargazing"
+  },
+  {
+    "word": "SPATIOGRAPHY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "stargazing"
+  },
+  {
+    "word": "PHAROLOGY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "stargazing"
+  },
+  {
+    "word": "POLARISCOPY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "stargazing"
+  },
+  {
+    "word": "ARSON",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "stargazing"
+  },
+  {
+    "word": "CHANCE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "stargazing"
+  },
+  {
+    "word": "CONVIVIALITY",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "stargazing"
+  },
+  {
+    "word": "EARNEST",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "stargazing"
+  },
+  {
+    "word": "HACKING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "stargazing"
+  },
+  {
+    "word": "LUNARIUM",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "LUNARSCAPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "MOONSET",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "EARTHSCAPE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "TUTULEMMA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "MOONSCAPE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "SELENOGRAPH",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "EARTHLIGHT",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "LENSOID",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "LUCULE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "EYELINE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "APONIGRICON",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "RINGLIGHT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "PLANETQUAKE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "LAGRANGIAN",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "LUNISOLAR",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "UNIT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "SCRUPLE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "SHINY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "SINK",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "WEST",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "DARK",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "BEAM",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "DISTANCE",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "DRAW",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "ECHO",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "HIGH",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "ISIS",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "MEND",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "PASS",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "RHYME",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "SOUTH",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "SOUTHING",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "TAN",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "TANNED",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "BLEAKEST",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "SIDEREAL",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "MODULE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "MOONWALK",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "NEOMENIA",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "RANGER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "lunar eclipse"
+  },
+  {
+    "word": "SUNSPOT",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "MAGNETOPAUSE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "ASTROPAUSE",
+    "category": "stars",
+    "tier": "legendary",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "BLIND",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "BLINDS",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "BEAT",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "BLUR",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "CAP",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "CREEP",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "DADA",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "DWARF",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "ETA",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "FOIL",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "HEAD",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "HOLE",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "KEY",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "LOW",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "MUDDY",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "OBSCURITY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "OPAQUE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "PAN",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "RAD",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "RESORT",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "SEA",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "SLUR",
+    "category": "stars",
+    "tier": "easy",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "SMUDGE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "SUMMER",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "VACANCY",
+    "category": "stars",
+    "tier": "hard",
+    "sourceSeed": "solar eclipse"
+  },
+  {
+    "word": "VAGUE",
+    "category": "stars",
+    "tier": "medium",
+    "sourceSeed": "solar eclipse"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "doeskin",
+    "hint": "Smooth, closely napped wool weave resembling supple female deer leather.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 2,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "etamine",
+    "hint": "Light, open-mesh woven textile often used for drapery or breathable garments.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 3,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "homespun",
+    "hint": "Coarse, plain-woven yarn or cloth traditionally crafted manually in domestic settings.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 4,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "jaconet",
+    "hint": "Thin, lightweight cotton material historically used for sheer drapery or linings.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 5,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "lambskin",
+    "hint": "Soft, supple leather or woolly hide harvested from young sheep.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 6,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "lustring",
+    "hint": "Glossy, stiffened silk textile popular during the eighteenth century.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 7,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "mackinaw",
+    "hint": "Heavy, dense woolen coat weave suited for cold outdoor attire.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 8,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "nametape",
+    "hint": "Narrow strip stitched onto garments to identify the wearer.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 9,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "nankeen",
+    "hint": "Naturally brownish-yellow durable cotton thread historically produced in China.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 10,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "necktie",
+    "hint": "Formal dress accessory bound in a knot around a collar.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 11,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "pattern",
+    "hint": "A stencil or guide used to cut textile pieces prior to assembly.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 12,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "clothing",
+    "hint": "Collective term for garments, attire, and wearables worn on the body.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 13,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "softeners",
+    "hint": "Chemical conditioning agents added during laundering to reduce stiffness.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 14,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "fabrick",
+    "hint": "An archaic spelling for woven or knitted textile material.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 15,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "cottons",
+    "hint": "Natural plant-fiber textiles derived from fluffy seed pods.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 16,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "corduroy",
+    "hint": "Durable textile characterized by distinct parallel raised ribs or wales.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 17,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "taffeta",
+    "hint": "Crisp, smooth plain-woven silk or synthetic material with a distinct rustle.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 18,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "polyester",
+    "hint": "Widely used synthetic polymer thread celebrated for crease resistance.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 19,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "couture",
+    "hint": "High-end, custom-fitted fashion design and dressmaking craft.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 20,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "suiting",
+    "hint": "Heavyweight, structured weaves tailored primarily into formal jackets and trousers.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 21,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "grogram",
+    "hint": "Coarse textile of silk blended with mohair or wool, stiffened with gum.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 22,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "furniture",
+    "hint": "Household items often draped or upholstered in durable decorative textiles.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 23,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "cladding",
+    "hint": "Outer protective or decorative layer applied to garments or structures.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 24,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "folkweave",
+    "hint": "Traditional or regional style of heavy, textured hand-woven material.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 25,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "shirting",
+    "hint": "Light to medium weight cotton material milled primarily for button-down tops.",
+    "sourceSeed": "fabric"
+  }
+]

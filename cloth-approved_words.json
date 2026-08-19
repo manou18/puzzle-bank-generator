@@ -5268,6 +5268,78 @@
     "sourceSeed": "clothing"
   },
   {
+    "word": "HABERJECT",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "handkerchief"
+  },
+  {
+    "word": "HAYSEED",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "handkerchief"
+  },
+  {
+    "word": "HOUNDSTOOTH",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "handkerchief"
+  },
+  {
+    "word": "HABUTAE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "handkerchief"
+  },
+  {
+    "word": "HODDEN",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "handkerchief"
+  },
+  {
+    "word": "PULLICATE",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "handkerchief"
+  },
+  {
+    "word": "ROMAL",
+    "category": "cloth",
+    "tier": "medium",
+    "sourceSeed": "handkerchief"
+  },
+  {
+    "word": "HEDDLER",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "haberdashery"
+  },
+  {
+    "word": "NEHALLEWARS",
+    "category": "cloth",
+    "tier": "legendary",
+    "sourceSeed": "haberdashery"
+  },
+  {
+    "word": "HESSIAN",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "haberdashery"
+  },
+  {
+    "word": "HENNIES",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "haberdashery"
+  },
+  {
+    "word": "TAILORS",
+    "category": "cloth",
+    "tier": "hard",
+    "sourceSeed": "haberdashery"
+  },
+  {
     "word": "BELT",
     "category": "cloth",
     "tier": "easy",

@@ -1,0 +1,6314 @@
+[
+  {
+    "word": "FOODSTUFF",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FEED",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FEEDING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FEEDER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "ALIMENT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "CHOW",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "SNACK",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "GASTRONOMY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "EATS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "EATING",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "PETFOOD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "PROVENDER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "CULINARY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "MEAL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "SUPPER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "NUTRITIONAL",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "NOURISHMENT",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "NUTRITIOUS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FOODSERVICE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "DINNER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "CUISINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "ALIMENTARY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "COOKING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "KITCHEN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "LUNCH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "DISH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "EAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "BUFFET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "MEAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "DIET",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "GRAIN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "BREAD",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FORAGING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "RICE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "NUTRITION",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "TROPHIC",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FUEL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "HUNGRY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "HUNGER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FOODBORNE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FLAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "STARVATION",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "GRUB",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "GOURMET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "MESS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "SUBSISTENCE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "PROVISION",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "ALIMENTS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "COMESTIBLES",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FOODSTUFFS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FUELS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "MEALS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "MICRANTHA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FARE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "VICTUALS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "EDIBLES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "EATABLES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "NUTRIMENT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "NONFOOD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "DESSERT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "SUSHI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "VEGETABLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "ENTERTAINMENT",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "LIQUOR",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "PIZZA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "BREAKFAST",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FRUIT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "COOKERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "COMESTIBLE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FISH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FEEDSTUFF",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "PROTEIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "LIVER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "CHICKEN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FLESH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "PABULUM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "VICTUAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "COMMONS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "BREADSTUFF",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FOODERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "STARCH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "DUCK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "BEWIST",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "MUNCHIES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "VIAND",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "TURKEY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FOODSTYLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "PASTA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "NOSH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "BROTH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "VICTUALRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "INGREDIENT",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "CODFISH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "CRAB",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "PUDDING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FOODWARE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "CHOCOLATE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "VIETNAMESE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "NUGGET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "PASTRY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FOODERIE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "TACK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "LOAF",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "STEW",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "PINEAPPLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "PORK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "CHARCUTERIE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "QUAIL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "MENU",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "NOMS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FAST",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "ORGANIC",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "PANTRY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "BITE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "CATE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "COOK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "DIETS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "ENZYMES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "HAM",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "INGREDIENTS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "LEMON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "LUNCHES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "MUCKAMUCK",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "MUNGA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "RASORIAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "SCOFF",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "SUPPLEMENTS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "TAKEOUT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "ALLOTRIOPHAGY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "APPLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "BAKING",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "BATTER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "BRINE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "BUTTERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "CABBAGE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "CARAMEL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "COMMISSARIAT",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "CREAM",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "CRUMB",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "DELI",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "DIP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "DRESS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "DRESSING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "DRY",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "FAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "CLOSET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "BUTT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "REPAST",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "LUNCHEON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "PLATE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "BANQUET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "FEAST",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "PLATTER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "FOOD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "PASTURE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "SOUP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "GRIT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "APPETITE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "SPREAD",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "DINNERS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "LUNCHEONS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "SNACKING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "COLLATION",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "MEALTIME",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "SALAD",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "APPETIZER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "STEAK",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "MEALTIMES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "REPASTS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "SUPPERS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "BREAKFASTS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "FOODS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "MAINS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "CHOWTIME",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "COURSE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "MORSEL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "NOONMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "MIDMEAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "SAMPLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "THALI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "PICNIC",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "STARTER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "MEALBAG",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "TIDBIT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "OATMEAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "BEANMEAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "MINCE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "GOODY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "BELLYFUL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "MATZO",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "PARCEL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "RECIPE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "HALL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "ROAST",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "SNAP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "MELTITH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "MEATBALL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "NUMMET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "BONE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "BLESSING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "BUS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "CATER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "COFFEE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "CORNMEAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "DEJEUNER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "GRACE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "PORRIDGE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "REFECTION",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "TABLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "TABLEWARE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "TEA",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "TIFFIN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "WAIT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "ACORN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "AFTERS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "AMBROSIA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "BAIT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "BARBECUE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "BOLT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "BOLTER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "BOLTING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "CAP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "CHAMP",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "CHEF",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "CHILI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "CHUCK",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "COOKED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "CORNED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "STARVE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal"
+  },
+  {
+    "word": "FRY",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "OVEN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BAKE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BAKED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "TAPIOCA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "STOVE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BOIL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "CURE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "PREPARATION",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "RAW",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "KITCHENS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "SEARING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BROILING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "SAUTEING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "RECIPES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "COOKWARE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "STOVETOP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "GRILL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "COOKPOT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "STEAM",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "STEAMING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "SALTING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BUTTERING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "TOASTING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "REDUCTION",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "SLAUGHTER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "DISHING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BASTING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "CONCOCTION",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "FORK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BASTE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BASTER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BRAISE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BROIL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BROWN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "CASSEROLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "DEVIL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "FENNEL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "FLAMBE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "FRICASSEE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "GIGOT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "GRAVY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "GRIDDLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "HAIRNET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "HIBACHI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "KALUA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "LARD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "OIL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "OLIVE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "OREGANO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "OVENWARE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "PAN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "PARMIGIANA",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "PLANTAIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "PUREE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "RANGE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "ROASTER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "SALT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "SCALD",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "SKILLET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "SLUSH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "STEAMER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "STEWED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "TANDOORI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "TERRINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "ASPIC",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BASIN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BIFFIN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BLANCMANGE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BOILER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BROCHETTE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BROTHS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BURNER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "BUTTERBALL",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "cooking"
+  },
+  {
+    "word": "SIDE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "SECOND",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "FIXINGS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "HOTDISH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "REMOVE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "TRIMMINGS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "SAUCEDISH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "REFILL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "ROUND",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "SERVER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "SAUCE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "COMPOTE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "BANCHAN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "SAUCER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "DIPPER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "SCITAMENT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "ASHET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "COMPOTIER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "MIGNARDISE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "TUREEN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "SATSIVI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "COUSINETTE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "COULIS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "BONBON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "DISHWARE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "BOLOGNESE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "RISOTTO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "SAUCIER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "SALATIM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "SUBCUISINE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "MACEDOINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "GUESTMEAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "DOLLOP",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "SOWL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "UNADON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "TAPA",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "JULIENNE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "RAVIOLI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "YAM",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "BACON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "HASH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "GINGER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "SAUSAGE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "TOAST",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "SCALE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "PART",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "BOAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "DICE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "BEEF",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "MASH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "SLIP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "ABREAST",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "ALEE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "ALONGSIDE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "APART",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "ASIDE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "BIAS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "BROADSIDE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "CANT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "CAREEN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "CAST",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "CHINE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "CORNER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "EYE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "FLAKE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "FLANK",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "FLOOR",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "FOLIO",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "FRONT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "JUXTAPOSE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "OFF",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "ORDER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "OVER",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "PASS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "PIT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "PORT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "RIB",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "RIGHT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish"
+  },
+  {
+    "word": "BATCHING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "SPICE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "TEXTURIZER",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "MASALA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "TASTE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "STUFFING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "MUSH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "TASTING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "NIBLET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "MUST",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "SPREADABLE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "BERGMEAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "CHIP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "MIXIE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "COOKABLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "INMEATS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "KITCHENING",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "JUICE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "SOSSLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "SMOOTHIE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "SKINFOOD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "RAISING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "ESPRESSO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "OPSONY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "SUBJI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "ESSENTIAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "TOMATO",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "BASE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "FLAVORING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "INCORPORATE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "INTERMIXTURE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "APRICOT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "AVOCADO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "BEAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "BERRY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "BRANDY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "CAROB",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "CAYENNE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "CELERY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "CHESTNUT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "CHIPOTLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "CITRON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "CITRUS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "CLEAR",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "COCONUT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "CODE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "CRABMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "CROUTON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "CUCUMBER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "word": "DRAWER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "BACK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "KITCHENETTE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "COOKROOM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "COOKHOUSE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "LARDER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "HEARTH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "COUNTERTOP",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "CUPBOARD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "CUPBOARDS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "UTENSILS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "UTENSIL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "COUNTERTOPS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "COOKTOP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "COOKSHOP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "OUTKITCHEN",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "STILLROOM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "KITCHENSCAPE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "GRILLROOM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "BUNKER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "COOKSHED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "CAFETERIE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "EATERY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "FOODSTALL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "WORKING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "FOODSTORE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "BEATER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "CODLING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "CORER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "CORERS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "DISHWATER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "DUMBWAITER",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "EGGBEATER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "GALLOPIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "GARBAGE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "HOUSEWORK",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "JAR",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "KITCHENMAID",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "LIQUIDIZER",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "MACE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "MANDOLIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "MINCER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "OLITORY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "OLLA",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "word": "NUTRACEUTICAL",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "recipe"
+  },
+  {
+    "word": "APERITIVE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "recipe"
+  },
+  {
+    "word": "BATCH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "recipe"
+  },
+  {
+    "word": "CHOP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "recipe"
+  },
+  {
+    "word": "PARBOIL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "recipe"
+  },
+  {
+    "word": "SEASON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "recipe"
+  },
+  {
+    "word": "TABLESPOON",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "recipe"
+  },
+  {
+    "word": "SPOON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "recipe"
+  },
+  {
+    "word": "HOT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "PIEBAKING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "TRAYBAKED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BREADEN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BATTERED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BUTTERED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "EGGY",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "PANIVOROUS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "RAVELLED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "KITCHENABLE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "WHIPPED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "STUFFED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BEATEN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "KITCHENED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BUTTERMILKED",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "AMANDINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "DUMPOKED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "ALLSPICED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BISQUE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "GOOD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "MATZOT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "MATZOTH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "MATZOS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "MILLING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BREADS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "DRYING",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "LOAVES",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "STONE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BURN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "COCTILE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "PRETZEL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "RAMEKIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "SCALLOP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "SHEET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "SHORTCAKE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "SIFTER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "TIN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "CURRANT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "DUMPLING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "PANARY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "PATTYPAN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "POWDER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "PROVE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "TINS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "VANILLA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BAGEL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BLIND",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BLOOMER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BOBOTIE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BOOK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BREADBASKET",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BREADBOX",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BREADFRUIT",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "BURNT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "PIGEON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking"
+  },
+  {
+    "word": "ZEST",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "SPICY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "RELISH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "PAPRIKA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "JEERA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "PEPPERETTE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "FLAVORWOOD",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "SHICHIMI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "ACHAR",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "SAUNF",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "POIVRADE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "VINDALOO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "PAIN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "ZEERA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "MISAL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "JAIPHUL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "PICKLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "SABJI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "MINCEMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "GINGERBREAD",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "SAUCING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "NUTMEG",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "ALEBERRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "GINGERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "RACK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "RUB",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "SEASONED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "AROMATIC",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "BESPICE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "CORIANDER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "MACES",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "SAFFRON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "SINTOC",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "BIRYANI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "BOUILLABAISSE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "BUN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "CACCIATORE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "CANTONESE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "CAUDLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "DIABLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "FOND",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "GOULASH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "MULLIGATAWNY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "spice"
+  },
+  {
+    "word": "JUNKET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "FESTIVAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "FETE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "DINE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "BLOWOUT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "CELEBRATION",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "FESTA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "TREAT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "FEASTINGS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "FEASTER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "FESTAL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "FAMINE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "SCRUMPTIOUS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "FEASTFUL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "FOODFEST",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "REGALE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "MEATFEST",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "JUNKETING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "EATATHON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "NOSHING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "FRIENDSGIVING",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "GREEZE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "BROAST",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "TIGHTENER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "CARVERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "BOUFFAGE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "PROTOBROSIS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "BUFFETERIA",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "BACCHANALIA",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "DOUBLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "EPULATION",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "BRIDAL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "BRIDALTY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "CAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "CONVIVAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "CONVIVE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "FARM",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "FERIA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "HALMAS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "LUAU",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "MARK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "DEARTH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast"
+  },
+  {
+    "word": "CORE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "PITH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "MARROW",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BRISKET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "VEAL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BROILER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "VENISON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "SKIN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "PIG",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "POULTRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "GOOSE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "CANNON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "STEAKS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "LAMB",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "MUTTON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "GAME",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "SAUSAGES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "VEGGIES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "NONMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "OFFAL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "GRISTLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "CHITTERLING",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "PORKS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "VEGGIE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "TENDERLOIN",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "PIGMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "HORSEMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BEEFBURGERS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "TOFU",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "GOAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "LOIN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "SHEEPMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "CATMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "SHEEPFLESH",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "SWINEFLESH",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "COWFLESH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "LEAN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "GOATMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "WHALEMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "GOATFLESH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "CALFFLESH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "OXFLESH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "SHARKMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BATMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "MEATWORKS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "TERRAPIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "CUTLET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "MEATCAKE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "NECKBEEF",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "SPECK",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BUCCAN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "SNAKEMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "CATFISH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "MART",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BUFF",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "GIBLETS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "SPAM",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "CUT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "SALAMI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BIRD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "CARBONADO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "COW",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "GLAZE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "JERKY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "NUT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "POTPOURRI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "PRESERVER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "ROTISSERIE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "SMOKED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "SMOKEHOUSE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "TRIPE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BAD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BAR",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BARBACOA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BARD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BARK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BEAR",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BEEFALO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BIGOS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BLANQUETTE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BLOW",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BONELESS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BONING",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BOUILLI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BREWIS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "BROACH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat"
+  },
+  {
+    "word": "VEGETAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "VEGETATION",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "VEG",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "NOODLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "LUMP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "PRODUCE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "PUREES",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "GREENSTUFF",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "ROOT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "GREENCROP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "KALE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "BREADKIND",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "STRAWBERRY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "ESCULENT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "SHALLOT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "ASPARAGUS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "PARSNIP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "AUBERGINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "CHICKPEA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "SEED",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "PEPO",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "LENTIL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "BEARER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "CHARD",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "EGGPLANT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "PEA",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "VEGETIVE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "FRESH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "HARICOT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "JUS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "MARGARINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "MINERAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "MINESTRONE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "PASTY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "PEEL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "PEELER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "POTPIE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "PRIMAVERA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "PUMPKIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "SLUMGULLION",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "VEGETARIAN",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "BASKETRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "BEIGNET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "CHAYOTE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "CHOPPER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "CHOWDER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "CONSERVE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "COURGETTE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "word": "ORCHARD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "PEAR",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "GRAPEFRUIT",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUITFUL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUITION",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "BERRIES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "PRUNES",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "GAIN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "POMEGRANATE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "MANGO",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "PLUMS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "WATERMELON",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "RAMBUTAN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "VEGIES",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "LYCHEE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUITLETS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "PAPAYA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUITAGE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUITLET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "SALAK",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "MANGOS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "SAPODILLA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FEIJOA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "PINEAPPLES",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUITY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "SAPOTE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "POMEGRANATES",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "JUICES",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "LYCHEES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "TOMATOES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "GRANADILLA",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "RAMBUTANS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "PLUM",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUITCROP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUITER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUITGROWING",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUITFLESH",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUITLING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUCTICULTURE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUTICULTURE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUCTESCENCE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FOLLICLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUCTUATION",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUITERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "ORCHARDING",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FOREFRUIT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "CROSS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "PRIMEUR",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUITSPIKE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "POMOLOGY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "LEMMA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FINGER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "COCO",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FIG",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "ORANGE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "QUINCE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "RASPBERRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "SLOE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "BERGAMOT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "CHERRY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "CROWBERRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "KIWI",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "MANDARIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "MAYAPPLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "PAWPAW",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "PRUNE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "RAISIN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "BUCKWHEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "BUTTERNUT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "CANDY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "CARAMBOLA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "CARPOLOGY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "CARPOPHAGOUS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "CHOKECHERRY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "CITRIC",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "CLINGSTONE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "CLOUDBERRY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "COCKLEBUR",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRAIL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUGIVOROUS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "FRUITERER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "GOOSEBERRY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "GOURD",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "GYMNOCARPOUS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "HACKBERRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "HAND",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "HESPERIDIN",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "HUCKLEBERRY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "HULL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "ICE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit"
+  },
+  {
+    "word": "CRUST",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "PULP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BAGUETTE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "CIABATTA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "FOCACCIA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "FLATBREAD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "CHAPATI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "CORNBREAD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "LOAFS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BREADLESS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BAGUETTES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BAGELS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "UNLEAVENED",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "PUMPERNICKEL",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "TOASTER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "CRUMBS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "CROUTONS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BREADSTUFFS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "CRUSTS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BREADMAKING",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "MATZOHS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "WHOLEMEAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "MULTIGRAIN",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BREADCORN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BREADCRAFT",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BREADER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BOULE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "FRYBREAD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BREADCRUST",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BARGE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "OATBREAD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BISCUITRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "PAV",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BAP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "HOST",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "SOPS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "SOURBREAD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "STALE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "WAFER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "ASSAY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "AZYME",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BAO",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BARM",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BREADBOARD",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BREADLINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "BUNNY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "CARAWAY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "CHEAT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "COB",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread"
+  },
+  {
+    "word": "POTAGE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "BORSCHT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "SUP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "SOP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "HORSE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "TUREENS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "RAMEN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "LAKSA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "SOUPSPOON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "SOFKY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "SPOONMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "DASHI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "RAGOUT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "SOUCHY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "SOUPBONE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "STEWP",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "RAFT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "SUIMONO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "OLIO",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "NIMONO",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "GUKBAP",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "MOUSSE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "FIDEO",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "SAUCEMAKING",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "CAPILOTADE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "STEWPAN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "SLOP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "SOUPY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "CALLALOO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "COCKALEEKIE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "LEFTOVERS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "LENTILS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "MATELOTE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "PORRINGER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "REGALIA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "SAIMIN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup"
+  },
+  {
+    "word": "POACH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "STEWER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "STEWPOT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "CHAFER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "STODGE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "SCOGIE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "SLASH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "SUFURIA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "SKINK",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "BRITCHES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "BEANHOLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "GOASHORE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "GULYAS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "JUG",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "LOBSCUSE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "PURLOO",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "BOURRIDE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "CARBONADE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "CARBONNADE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "CASSOULET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "DISHED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "STEWISH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "WATERZOOI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "ZARZUELA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "FOOL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "KNUCKLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "MARJORAM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew"
+  },
+  {
+    "word": "LAND",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "FARMLAND",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "RANCHING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "DAIRYING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "BROADACRE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "FORESTRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "ARVICULTURE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "MONOCULTURING",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "SALMONING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "DISBOSCATION",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "FEASTING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "MEATPACKING",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "KOLKHOZ",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "SEEDER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "FARMERSHIP",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "FLORICULTURE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "TRUSS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "BARNYARD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "BUNK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "farming"
+  },
+  {
+    "word": "TROPHISM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "DIETETICS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "NUTRITIONIST",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "DIETARY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "NUTRITIVE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "NUTRIMENTS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "NUTRITIONISTS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "NUTRITURE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "NUTRIOLOGY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "TROPHOLOGY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "AGROBIOLOGY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "BACTERIVORY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "SITOLOGY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "NEUROTROPHY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "SITIOLOGY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "FOODOMICS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "BIODYNAMICS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "INNUTRITION",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "NUTRITIAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "NUTRITIONARY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "OLIGOTROPHIC",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "UNFED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "CAPSULE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "FORAGE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "word": "HANGI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "FOODWRITING",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "WOKERY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "COOKLINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "GASTROTOURISM",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "PALATE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "NONPAREIL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "BISTRONOMY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "WASHOKU",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "CUTCHERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "STRATA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "ARRABBIATA",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "KHANA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "POLONAISE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "KARAHI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "CATAPLANA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "FOODOIR",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "FOODPORN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "CROUSTADE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "TIMBALE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "GOUJON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "CANNELON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "CHAUSSON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "CALAMARI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "COD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "EPICURE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "GASTRONOME",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "GERMANOPHILE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "LIGHT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "OCTOPUS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "TARO",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "TOSTADA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "DAIKON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "RECHAUFFE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "word": "AMBRY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "pantry"
+  },
+  {
+    "word": "BUTLERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "pantry"
+  },
+  {
+    "word": "BREADROOM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "pantry"
+  },
+  {
+    "word": "CADDY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "pantry"
+  },
+  {
+    "word": "KAILYARD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "pantry"
+  },
+  {
+    "word": "CATERY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "pantry"
+  },
+  {
+    "word": "PACKINGHOUSE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "pantry"
+  },
+  {
+    "word": "TABERNACLE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "pantry"
+  },
+  {
+    "word": "STALL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "pantry"
+  },
+  {
+    "word": "PACKHOUSE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "pantry"
+  },
+  {
+    "word": "POTAGER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "pantry"
+  },
+  {
+    "word": "LOBBY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "pantry"
+  },
+  {
+    "word": "SIDEBOARD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "pantry"
+  },
+  {
+    "word": "GARAGE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "pantry"
+  },
+  {
+    "word": "PRODUCTS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "BUTTER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food"
+  },
+  {
+    "word": "COOKER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking"
+  }
+]

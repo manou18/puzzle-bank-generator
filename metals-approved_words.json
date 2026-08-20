@@ -4738,5 +4738,1511 @@
     "category": "metals",
     "tier": "medium",
     "sourceSeed": "gold"
+  },
+  {
+    "word": "COOPERITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "cobalt"
+  },
+  {
+    "word": "CALCIDE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "cobalt"
+  },
+  {
+    "word": "HASTITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "cobalt"
+  },
+  {
+    "word": "HETEROGENITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "cobalt"
+  },
+  {
+    "word": "GAHNITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "zinc"
+  },
+  {
+    "word": "MARMATITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "zinc"
+  },
+  {
+    "word": "SPELT",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "zinc"
+  },
+  {
+    "word": "TROOSTITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "zinc"
+  },
+  {
+    "word": "VITRIOL",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "zinc"
+  },
+  {
+    "word": "ELECTROLESS",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "NIFE",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "NATRONIOBITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "NEPOUITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "FERRONIOBIUM",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "ZINCKENITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "MELONITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "OCTASILVER",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "TSNIGRIITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "AWARUITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "NITRATINE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "OREGONITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "FERRONIGERITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "ATAXITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "ELECTROPLATED",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "EPNS",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "GROSCHEN",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "SIDEROLITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "SLOT",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "nickel"
+  },
+  {
+    "word": "MENACHIN",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "titanium"
+  },
+  {
+    "word": "ILMENORUTILE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "titanium"
+  },
+  {
+    "word": "ARIZONITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "titanium"
+  },
+  {
+    "word": "TAZHERANITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "titanium"
+  },
+  {
+    "word": "OCTAHEDRITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "titanium"
+  },
+  {
+    "word": "SATURNITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "platinum"
+  },
+  {
+    "word": "PENTASILVER",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "platinum"
+  },
+  {
+    "word": "CHELATED",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "platinum"
+  },
+  {
+    "word": "TUNGSTENITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "tungsten"
+  },
+  {
+    "word": "WELINITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "tungsten"
+  },
+  {
+    "word": "WODGINITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "tungsten"
+  },
+  {
+    "word": "SCHEELIUM",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "tungsten"
+  },
+  {
+    "word": "WALFORDITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "tungsten"
+  },
+  {
+    "word": "WULFENITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "tungsten"
+  },
+  {
+    "word": "WELSHITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "tungsten"
+  },
+  {
+    "word": "FOYER",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "furnace"
+  },
+  {
+    "word": "FETTLER",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "furnace"
+  },
+  {
+    "word": "COCKLE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "furnace"
+  },
+  {
+    "word": "CRESSET",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "furnace"
+  },
+  {
+    "word": "LEADERS",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "furnace"
+  },
+  {
+    "word": "LUNETTE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "furnace"
+  },
+  {
+    "word": "PUDDLE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "furnace"
+  },
+  {
+    "word": "RABBLE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "furnace"
+  },
+  {
+    "word": "CALORIZER",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "crucible"
+  },
+  {
+    "word": "TEEM",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "crucible"
+  },
+  {
+    "word": "FOREBREAST",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "foundry"
+  },
+  {
+    "word": "FONT",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "foundry"
+  },
+  {
+    "word": "FERROD",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "foundry"
+  },
+  {
+    "word": "SQUEEZER",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "foundry"
+  },
+  {
+    "word": "HAPKEITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "SIENNA",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "ZIRCOSULFATE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "SIDERAZOTE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "SIDEROTIL",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "SIDEROSIS",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "SPANGLE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "STRONTIAN",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "SANTITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "METASTIBNITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "SCHORLOMITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "SZOMOLNOKITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "FLUXSTONE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "FERROSULFIDE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "DUFRENOYSITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "sinter"
+  },
+  {
+    "word": "FILLET",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "weld"
+  },
+  {
+    "word": "SHUT",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "weld"
+  },
+  {
+    "word": "SKELP",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "weld"
+  },
+  {
+    "word": "STAVE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "weld"
+  },
+  {
+    "word": "STOPPING",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "weld"
+  },
+  {
+    "word": "MARTENSITIC",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "weld"
+  },
+  {
+    "word": "CALIPERS",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "tongs"
+  },
+  {
+    "word": "PICKUPS",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "tongs"
+  },
+  {
+    "word": "LOOM",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "tongs"
+  },
+  {
+    "word": "THOLE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "tongs"
+  },
+  {
+    "word": "MAUNDRIL",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "tongs"
+  },
+  {
+    "word": "HOOK",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "tongs"
+  },
+  {
+    "word": "SHIM",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "tongs"
+  },
+  {
+    "word": "GRAPNEL",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "tongs"
+  },
+  {
+    "word": "STRAIGHTENER",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "tongs"
+  },
+  {
+    "word": "STICK",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "tongs"
+  },
+  {
+    "word": "BELLBOX",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "bellows"
+  },
+  {
+    "word": "PULSATOR",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "bellows"
+  },
+  {
+    "word": "ROLLER",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "bellows"
+  },
+  {
+    "word": "FEEDER",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "bellows"
+  },
+  {
+    "word": "SLIPE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "sledge"
+  },
+  {
+    "word": "STOB",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "sledge"
+  },
+  {
+    "word": "SQUOYLE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "sledge"
+  },
+  {
+    "word": "STALE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "sledge"
+  },
+  {
+    "word": "SLAT",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "sledge"
+  },
+  {
+    "word": "STOPER",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "sledge"
+  },
+  {
+    "word": "SPEEL",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "sledge"
+  },
+  {
+    "word": "SPLINT",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "sledge"
+  },
+  {
+    "word": "PLOUGHHEAD",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "sledge"
+  },
+  {
+    "word": "RUNNER",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "sledge"
+  },
+  {
+    "word": "PEEN",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "sledge"
+  },
+  {
+    "word": "SLIPES",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "sledge"
+  },
+  {
+    "word": "COFFIN",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "sledge"
+  },
+  {
+    "word": "SHUTTLE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "tuyere"
+  },
+  {
+    "word": "THERMOWELL",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "tuyere"
+  },
+  {
+    "word": "ROUSER",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "tuyere"
+  },
+  {
+    "word": "FERRULE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "tuyere"
+  },
+  {
+    "word": "HOOP",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "tuyere"
+  },
+  {
+    "word": "LUGS",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "tuyere"
+  },
+  {
+    "word": "VEINSTONE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "gossan"
+  },
+  {
+    "word": "GEERITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "gossan"
+  },
+  {
+    "word": "XOCOMECATLITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "gossan"
+  },
+  {
+    "word": "GORMANITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "gossan"
+  },
+  {
+    "word": "RIDER",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "gossan"
+  },
+  {
+    "word": "MGRIITE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "gossan"
+  },
+  {
+    "word": "OOID",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "gossan"
+  },
+  {
+    "word": "GROSSULAR",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "gossan"
+  },
+  {
+    "word": "OLIGOSIDERITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "gossan"
+  },
+  {
+    "word": "SUPERGENE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "gossan"
+  },
+  {
+    "word": "GOAFING",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "SWAD",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "SLACK",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "SLUDS",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "SLUMGULLION",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "TAILS",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "SMUT",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "STOCKPILE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "SULLAGE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "SHOAD",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "RAMBLE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "DIRT",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "WASHOUT",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "LANGRAGE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "CLEARER",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "STREAMWORK",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "WASHDIRT",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "CRAUNCH",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "BUSHELING",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "SANDBED",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "STOWBOARD",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "SCRAPNEL",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "RIPPER",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "WITTS",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "BERRY",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "SMEDDUM",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "BOGGER",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "SELVAGE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "slag"
+  },
+  {
+    "word": "TIDE",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "flux"
+  },
+  {
+    "word": "SPEED",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "flux"
+  },
+  {
+    "word": "METALLOID",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "metallic"
+  },
+  {
+    "word": "BRONZY",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "metallic"
+  },
+  {
+    "word": "IRONLIKE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "metallic"
+  },
+  {
+    "word": "METALLICK",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "metallic"
+  },
+  {
+    "word": "METALLED",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "metallic"
+  },
+  {
+    "word": "MAGNETITIC",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "metallic"
+  },
+  {
+    "word": "METALLOSTATIC",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "metallic"
+  },
+  {
+    "word": "BRONZEN",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "metallic"
+  },
+  {
+    "word": "MASTODONIAN",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "metallic"
+  },
+  {
+    "word": "BANG",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "metallic"
+  },
+  {
+    "word": "CHINK",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "metallic"
+  },
+  {
+    "word": "FERRUGINEOUS",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "ferrous"
+  },
+  {
+    "word": "FERRIFEROUS",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "ferrous"
+  },
+  {
+    "word": "SIDEROUS",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "ferrous"
+  },
+  {
+    "word": "FERROAN",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "ferrous"
+  },
+  {
+    "word": "CHALYBEOUS",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "ferrous"
+  },
+  {
+    "word": "FERREOUS",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "ferrous"
+  },
+  {
+    "word": "FERRIVOROUS",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "ferrous"
+  },
+  {
+    "word": "FERROKINETIC",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "ferrous"
+  },
+  {
+    "word": "AURIGEROUS",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "ferrous"
+  },
+  {
+    "word": "SIDEROGRAPHIC",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "ferrous"
+  },
+  {
+    "word": "ERYTHRITIC",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "ferrous"
+  },
+  {
+    "word": "REROLLABLE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "ductile"
+  },
+  {
+    "word": "ALLOYABLE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "ductile"
+  },
+  {
+    "word": "FORGEABLE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "ductile"
+  },
+  {
+    "word": "DUCTILIMETER",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "ductile"
+  },
+  {
+    "word": "BAL",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "bar"
+  },
+  {
+    "word": "RODS",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "bar"
+  },
+  {
+    "word": "RAILS",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "bar"
+  },
+  {
+    "word": "ROTOR",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "bar"
+  },
+  {
+    "word": "DRAWER",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "sheet"
+  },
+  {
+    "word": "PLUG",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "sheet"
+  },
+  {
+    "word": "LOG",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "sheet"
+  },
+  {
+    "word": "HEADSHEET",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "sheet"
+  },
+  {
+    "word": "GAUZE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "sheet"
+  },
+  {
+    "word": "PACK",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "sheet"
+  },
+  {
+    "word": "SATIN",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "sheet"
+  },
+  {
+    "word": "SECTION",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "sheet"
+  },
+  {
+    "word": "STRING",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "WHISKER",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "WIREDRAWER",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "MAIL",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "SPLINE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "HEADPIN",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "GRILLWORK",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "STABILE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "SHAVING",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "CLEAT",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "CRIMPER",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "PYLON",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "CAGER",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "CARD",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "COMB",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "TRUNCHEON",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "rod"
+  },
+  {
+    "word": "STUD",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "rod"
+  },
+  {
+    "word": "JOURNAL",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "rod"
+  },
+  {
+    "word": "VERGE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "rod"
+  },
+  {
+    "word": "ELECTROMAGNET",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "rod"
+  },
+  {
+    "word": "HACKLE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "rod"
+  },
+  {
+    "word": "SETBOLT",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "rod"
+  },
+  {
+    "word": "GAVELOCK",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "rod"
+  },
+  {
+    "word": "SKEWER",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "rod"
+  },
+  {
+    "word": "TOGGLE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "rod"
+  },
+  {
+    "word": "TRACTOR",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "rod"
+  },
+  {
+    "word": "BRAT",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "rod"
+  },
+  {
+    "word": "COLLAR",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "rod"
+  },
+  {
+    "word": "QUILL",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "pipe"
+  },
+  {
+    "word": "CROSS",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "pipe"
+  },
+  {
+    "word": "HYDRAULIC",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "pipe"
+  },
+  {
+    "word": "BEND",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "pipe"
+  },
+  {
+    "word": "TROUGH",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "tube"
+  },
+  {
+    "word": "BOTTLEBRUSH",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "tube"
+  },
+  {
+    "word": "BOMBILLA",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "tube"
+  },
+  {
+    "word": "REACTIVE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "conductive"
+  },
+  {
+    "word": "GAUGE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "wire"
+  },
+  {
+    "word": "TARNISH",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "rust"
+  },
+  {
+    "word": "SIDEROTECHNY",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "rust"
+  },
+  {
+    "word": "FERROZINE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "rust"
+  },
+  {
+    "word": "FERRIHYDRITE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "rust"
+  },
+  {
+    "word": "CANKER",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "rust"
+  },
+  {
+    "word": "FERRUGINATED",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "rust"
+  },
+  {
+    "word": "POUNCE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "patina"
+  },
+  {
+    "word": "STEELPANNIST",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "patina"
+  },
+  {
+    "word": "PERPYNE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "patina"
+  },
+  {
+    "word": "WASH",
+    "category": "metals",
+    "tier": "easy",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "BONDERIZE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "COPPERIZE",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "BESILVER",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "QUICK",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "ENSILVER",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "OVERSILVER",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "AMALGAMATIZE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "RECOPPER",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "FOUND",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "POLYGONIZE",
+    "category": "metals",
+    "tier": "legendary",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "BEGOLD",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "MERCURIFY",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "SPIKE",
+    "category": "metals",
+    "tier": "medium",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "STONIFY",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "galvanize"
+  },
+  {
+    "word": "ZINCING",
+    "category": "metals",
+    "tier": "hard",
+    "sourceSeed": "galvanize"
   }
 ]

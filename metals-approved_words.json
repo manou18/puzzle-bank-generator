@@ -3,6246 +3,5523 @@
     "word": "BRONZE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(countable and uncountable) A reddish-brown colour, the colour of bronze"
   },
   {
     "word": "METALLIC",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "Of, relating to, or characteristic of metal"
   },
   {
     "word": "METALLIKE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "Resembling or characteristic of a metal"
   },
   {
     "word": "GOLD",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(uncountable) A deep yellow colour, resembling the metal gold"
   },
   {
     "word": "ARGENTIFEROUS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(geology) Containing or producing silver"
   },
   {
     "word": "AURIFEROUS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "Containing or producing gold; gold-bearing"
   },
   {
     "word": "BIMETAL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(metallurgy) An object consisting of two metals"
   },
   {
     "word": "SILVER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(collectively) Coins made from silver or any similar white metal"
   },
   {
     "word": "BIMETALLIC",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "Anything (especially a nanoparticle) composed of two metals"
   },
   {
     "word": "ALLOY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "An admixture; something added which stains, taints etc"
   },
   {
     "word": "IRON",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(usually in the plural, irons) Shackles"
   },
   {
     "word": "STEEL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(countable) Any item made of this metal, particularly including:"
   },
   {
     "word": "FOUNDRY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "The act, process, or art of casting metals; founding"
   },
   {
     "word": "MINERAL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "Any inorganic material (as distinguished from animal or vegetable)"
   },
   {
     "word": "MINING",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "The activity of removing valuable resources (often minerals) from the earth"
   },
   {
     "word": "METALWORK",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "The act of shaping metal, metalworking"
   },
   {
     "word": "SMELTER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A place where smelting is done"
   },
   {
     "word": "METALWORKING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "The art and craft of shaping metal"
   },
   {
     "word": "COPPER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(uncountable) A reddish-brown metal, symbol Cu, and atomic number 29"
   },
   {
     "word": "ZINC",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(Nigeria) A corrugated iron roof"
   },
   {
     "word": "TIN",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(countable) A metal pan used for baking, roasting, storing food, etc"
   },
   {
     "word": "WIRE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A piece of such material; a thread or slender rod of metal, a cable"
   },
   {
     "word": "RAIL",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "The metal bar forming part of the track for a railroad"
   },
   {
     "word": "HARDWARE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "Metal implements"
   },
   {
     "word": "PLATINUM",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A whitish grey colour, like that of the metal"
   },
   {
     "word": "LEAD",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A thin strip of type metal, used to separate lines of type in printing"
   },
   {
     "word": "PEWTER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A dark, dull grey colour, like that of the metal"
   },
   {
     "word": "ELECTROPLATE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "The layer of metal deposited in the course of electroplating"
   },
   {
     "word": "METALLURGIC",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "Related to metallurgy"
   },
   {
     "word": "GALLIUM",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A chemical element (symbol Ga) with an atomic number of 31; a soft bluish metal"
   },
   {
     "word": "ANTIMONY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "The alloy stibnite"
   },
   {
     "word": "RADIOMETAL",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "Any radioactive isotope of a metal, especially one used as a biochemical label"
   },
   {
     "word": "CRYSTAL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(countable) A piece of glimmering, shining mineral resembling ice or glass"
   },
   {
     "word": "MARTENSITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(metallurgy) A solid solution of carbon in iron; the chief constituent of steel"
   },
   {
     "word": "TERRANIUM",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A (fictional) element, especially a metal"
   },
   {
     "word": "NANOALLOY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "An alloy consisting of dispersed nanoparticles of two or more metals"
   },
   {
     "word": "HYDROGENIUM",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(obsolete) Hydrogen, especially when formerly considered as a metal"
   },
   {
     "word": "FERRITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "The interstitial solid solution of carbon in body-centered cubic iron"
   },
   {
     "word": "DRUM",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(architecture) Any of the cylindrical blocks that make up the shaft of a pillar"
   },
   {
     "word": "PLATING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A thin coating of metal laid upon another metal"
   },
   {
     "word": "ALLAY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(archaic) To mix (metals); to mix with a baser metal; to alloy; to deteriorate"
   },
   {
     "word": "AMALGAM",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(metallurgy) An alloy containing mercury"
   },
   {
     "word": "AMALGAMATION",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "The result of amalgamating; a mixture or alloy"
   },
   {
     "word": "ANNEAL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(chemistry, metallurgy) An act of annealing"
   },
   {
     "word": "ANVIL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A stone or other hard surface used by a bird for breaking the shells of snails"
   },
   {
     "word": "ASSAY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "The alloy or metal to be assayed"
   },
   {
     "word": "ASSAYER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "One who assays, or performs chemical tests on metals"
   },
   {
     "word": "BASE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(of a metal) Not considered precious or noble"
   },
   {
     "word": "BLANCH",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(intransitive) To cover (sheet iron) with a coating of tin"
   },
   {
     "word": "BLUE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "Any of several processes to protect metal against rust"
   },
   {
     "word": "CHASE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(transitive) To decorate (metal) by engraving or embossing"
   },
   {
     "word": "CHROME",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "Chromium, when used to plate other metals"
   },
   {
     "word": "COIN",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "To make of a definite fineness, and convert into coins, as a mass of metal"
   },
   {
     "word": "CUPEL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A small circular receptacle used in assaying gold or silver with lead"
   },
   {
     "word": "DAMASCENE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "Inlaid with silver or gold"
   },
   {
     "word": "DROSS",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "The impurities in metal"
   },
   {
     "word": "ELIXIR",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(alchemy) A liquid which converts lead to gold"
   },
   {
     "word": "FLUX",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A chemical agent for cleaning metal prior to soldering or welding"
   },
   {
     "word": "FORGE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "To form or create with concerted effort"
   },
   {
     "word": "FORGER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A person who forges metals"
   },
   {
     "word": "FOUNDER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "The iron worker in charge of the blast furnace and the smelting operation"
   },
   {
     "word": "GUNMETAL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "An alloy of 88% copper, 10% tin and 2% zinc, originally used for making guns"
   },
   {
     "word": "INGOT",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(transitive) To form (scraps of metal) into ingots"
   },
   {
     "word": "LAMINATE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(transitive) To form (metal etc.) into a thin plate, as by rolling"
   },
   {
     "word": "LIGHTING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(dated) The process of annealing metals"
   },
   {
     "word": "MAGNET",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A piece of material that attracts some metals by magnetism"
   },
   {
     "word": "MAT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(coppersmithing) An alloy of copper, tin, iron, etc.; white metal"
   },
   {
     "word": "METALLIST",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A metaller: a fan of the metal music genre"
   },
   {
     "word": "METALLOGRAPHY",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A process for utilising metal plates in a manner similar to lithographic stones"
   },
   {
     "word": "METALLOPHOBIA",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(rare) A fear of metal, or of touching metallic objects"
   },
   {
     "word": "METALLURGIST",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A person skilled in metallurgy"
   },
   {
     "word": "MINE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(figurative) Any source of wealth or resources"
   },
   {
     "word": "MUTE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "Not giving a ringing sound when struck; said of a metal"
   },
   {
     "word": "NONFERROUS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(of a metal or alloy) Containing no iron"
   },
   {
     "word": "PATINA",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A green colour, tinted with grey, like that of bronze patina"
   },
   {
     "word": "PLATE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "A taxi permit, especially of a metal disc"
   },
   {
     "word": "PLATED",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "Having a coating of metal"
   },
   {
     "word": "PIT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "A mine"
   },
   {
     "word": "MILL",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "A milling machine for machining of solid metal, wood, or plastic"
   },
   {
     "word": "HEMATITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) An iron ore, mainly peroxide of iron, Fe₂O₃: iron(III) oxide"
   },
   {
     "word": "TACONITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "A low-grade flint-like iron ore containing 20-30% iron"
   },
   {
     "word": "MAGNETITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A magnetic mineral, Fe₃O₄, one of the primary ores of iron"
   },
   {
     "word": "CHROMITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A dark brown mineral species with the formula FeCr₂O₄"
   },
   {
     "word": "STOPE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "A mining excavation in the form of a terrace of steps"
   },
   {
     "word": "BARITE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A mineral, barium sulphate, with the chemical formula BaSO₄"
   },
   {
     "word": "ULLMANNITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A nickel antimony sulphide mineral"
   },
   {
     "word": "OPENCUT",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(of mines and mining) worked from the exposed surface"
   },
   {
     "word": "TRIBUTER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) A miner who is paid in a certain portion of the ore, or its value"
   },
   {
     "word": "SINTER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "A mixture of iron ore and fluxes added to a blast furnace"
   },
   {
     "word": "FERROCHROMIUM",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "An alloy of iron and chromium"
   },
   {
     "word": "MINERALIZER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "An element which is combined with a metal to form an ore"
   },
   {
     "word": "GANGUE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) The earthy waste substances occurring in metallic ore"
   },
   {
     "word": "STEPHANITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A sulfide mineral of silver and antimony"
   },
   {
     "word": "BISMUTHINITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A soft bismuth sulfide mineral, an important ore for bismuth"
   },
   {
     "word": "DYSCRASITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) An orthorhombic-pyramidal mineral containing antimony and silver"
   },
   {
     "word": "PROUSTITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A mineral, Ag₃AsS₃, often found with pyrargyrite in silver veins"
   },
   {
     "word": "MIARGYRITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A sulfide of silver and antimony"
   },
   {
     "word": "AURICHALCITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A basic carbonate mineral of copper and zinc"
   },
   {
     "word": "VOLBORTHITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A mineral containing copper and vanadium"
   },
   {
     "word": "STANNINE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) The mineral stannite"
   },
   {
     "word": "MANGANIFEROUS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy, metallurgy) Containing manganese"
   },
   {
     "word": "BOURNONITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A sulfosalt mineral, a sulfantimonite of lead and copper"
   },
   {
     "word": "GLAUCODOT",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A cobalt iron arsenic sulfide mineral; with formula (Co,Fe)AsS"
   },
   {
     "word": "TRIPLOIDITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) An uncommon monoclinic manganese iron phosphate mineral"
   },
   {
     "word": "URANITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "A dark, lustrous, heavy mineral, a source of uranium and radium"
   },
   {
     "word": "TRIPLITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A rare manganese-bearing phosphate mineral"
   },
   {
     "word": "CHALCANTHITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A mineral form of copper sulfate, CuSO₄"
   },
   {
     "word": "BROCHANTITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A basic copper sulfate mineral"
   },
   {
     "word": "MINERALOID",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "A substance that resembles a mineral but does not exhibit crystallinity"
   },
   {
     "word": "NIOBITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "The mineral columbite"
   },
   {
     "word": "COFFINITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A brown or black uranium-bearing silicate mineral"
   },
   {
     "word": "LINNAEITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A cobalt sulfide mineral that forms a series with polydymite"
   },
   {
     "word": "XYLANTHRAX",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(archaic) Wood coal or charcoal, distinguished from mineral coal; lignite"
   },
   {
     "word": "FERGUSONITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "A mineral composed of oxides of various rare earth elements"
   },
   {
     "word": "CALAVERITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A mineral form of gold telluride (AuTe₂)"
   },
   {
     "word": "ZINKENITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A grey mineral with hexagonal crystals, Pb₉Sb₂₂S₄₂"
   },
   {
     "word": "MISPICKEL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "The mineral arsenopyrite"
   },
   {
     "word": "LEPIDOCROCITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A hydrated iron oxide related to hematite"
   },
   {
     "word": "SENARMONTITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) An isometric-hexoctahedral mineral containing antimony and oxygen"
   },
   {
     "word": "DUFRENITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A blackish-green mineral that is a hydrous phosphate of iron"
   },
   {
     "word": "TINSTONE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "The mineral cassiterite"
   },
   {
     "word": "CALEDONITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A basic carbonate / sulfate mineral of copper and lead"
   },
   {
     "word": "GALENA",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A mineral, lead sulphide (PbS), mined as an ore for lead"
   },
   {
     "word": "BANK",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) The face of the coal at which miners are working"
   },
   {
     "word": "BROOD",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) Heavy waste in tin and copper ores"
   },
   {
     "word": "BUCK",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) To break up or pulverize, as ores"
   },
   {
     "word": "GRATE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "A frame or bed, or kind of basket, of iron bars, for holding fuel while burning"
   },
   {
     "word": "IRONSTONE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "Any ore of iron which is impure through the admixture of silica or clay"
   },
   {
     "word": "MATTE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(transitive) To produce a dull, lustreless surface on (metal)"
   },
   {
     "word": "METAL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(music) Characterized by strong drum-beats and distorted guitars"
   },
   {
     "word": "MINER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "A person who works in a mine"
   },
   {
     "word": "RACK",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) To wash (metals, ore, etc.) on a rack"
   },
   {
     "word": "REGULUS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "An impure metal formed beneath slag during the smelting of ores"
   },
   {
     "word": "SCORIA",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "The slag or dross that remains after the smelting of metal from an ore"
   },
   {
     "word": "TROMMEL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(obsolete, mining) A revolving buddle or sieve for separating, or sizing, ores"
   },
   {
     "word": "TRUNK",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "A chute or conduit, or a watertight shaft connecting two or more decks"
   },
   {
     "word": "TYE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) A trough for washing ores"
   },
   {
     "word": "ACICULITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A sulfide of bismuth, lead, and copper"
   },
   {
     "word": "ASSAYS",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "The alloy or metal to be assayed"
   },
   {
     "word": "BERYL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(countable) An example (a stone) of the mineral beryl"
   },
   {
     "word": "BLOOMERY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "A forge in which wrought iron is made straight from ore"
   },
   {
     "word": "BLOOMING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(metallurgy) The process of making blooms from the ore or from cast iron"
   },
   {
     "word": "BONANZA",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) A rich mine or vein of silver or gold"
   },
   {
     "word": "BUCKER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) One who bucks ore"
   },
   {
     "word": "BUNNY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) A sudden enlargement or mass of ore, as opposed to a vein or lode"
   },
   {
     "word": "BURDEN",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) The tops or heads of stream-work which lie over the stream of tin"
   },
   {
     "word": "CERUSSITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A mineral form of lead carbonate, PbCO₃, that is an ore of lead"
   },
   {
     "word": "CHALCOCITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) Cuprous sulfide, Cu₂S, an important ore of copper"
   },
   {
     "word": "CHAT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining, local use) Mining waste from lead and zinc mines"
   },
   {
     "word": "COBBING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) The manual separation of minerals in ore using a hammer"
   },
   {
     "word": "CORF",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) A large basket, especially as used for coal"
   },
   {
     "word": "CRATER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "The pit left by the explosion of a mine or bomb"
   },
   {
     "word": "CROP",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) Tin ore prepared for smelting"
   },
   {
     "word": "CUPRIFEROUS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "Containing or producing copper"
   },
   {
     "word": "CUPRITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mineralogy) A mineral composed of cuprous oxide and a minor ore of copper"
   },
   {
     "word": "DEADS",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) The substances that enclose the ore on every side"
   },
   {
     "word": "DIG",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "The occupation of digging for gold"
   },
   {
     "word": "DISH",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining, archaic) A trough in which ore is measured"
   },
   {
     "word": "DOZEN",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(metallurgy) An old English measure of ore containing 12 hundredweight"
   },
   {
     "word": "DRAW",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) To raise (coal or ore) from an underground mine to the surface"
   },
   {
     "word": "DREDGE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "Very fine mineral matter held in suspension in water"
   },
   {
     "word": "DUMP",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(mining) A pile of ore or rock"
   },
   {
     "word": "HYBRID",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(golf) A golf club that combines the characteristics of an iron and a wood"
   },
   {
     "word": "MICROALLOY",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "An alloy made with very small quantities of elements"
   },
   {
     "word": "MAGNALIUM",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "An alloy of 75% aluminium with about 25% magnesium"
   },
   {
     "word": "FERROALUMINUM",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "Alternative form of ferroaluminium. [A ferroalloy of iron and aluminium.]"
   },
   {
     "word": "ALBRONZE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "Clipped compound of aluminium bronze"
   },
   {
     "word": "RUST",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "A similar substance based on another metal"
   },
   {
     "word": "FERROMETAL",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "Any alloy that is rich in iron"
   },
   {
     "word": "AMALGAMA",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "Archaic form of amalgam. [(metallurgy) An alloy containing mercury.]"
   },
   {
     "word": "SYMMETALLISM",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "A currency system based on the value of a fixed proportion of two metals"
   },
   {
     "word": "METALCRAFT",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "Collectively, items crafted from metal"
   },
   {
     "word": "MONEL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "An alloy of nickel and copper"
   },
   {
     "word": "ARGENTALIUM",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(archaic) An alloy of aluminium and silver"
   },
   {
     "word": "CHROMOLY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "A kind of steel alloy containing some chromium and molybdenum"
   },
   {
     "word": "BIOMETAL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(biochemistry) Any metal that has a biochemical function"
   },
   {
     "word": "SPELTER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(uncountable) zinc, often in blocks or ingot form"
   },
   {
     "word": "SILUMIN",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "An alloy based upon silicon and aluminium"
   },
   {
     "word": "OCCAMY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(obsolete) An alloy imitating gold or silver"
   },
   {
     "word": "FERRONICKEL",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "A ferroalloy of iron and nickel"
   },
   {
     "word": "STERROMETAL",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(obsolete) An alloy of copper, zinc, tin, and iron, used in making cannon"
   },
   {
     "word": "EUTECTIC",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "A material that has the composition of a eutectic mixture or eutectic alloy"
   },
   {
     "word": "ELECTRUM",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "German silver plate"
   },
   {
     "word": "STANDARD",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "The proportion of weights of fine metal and alloy established for coinage"
   },
   {
     "word": "FERROTUNGSTEN",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "A ferroalloy of iron and tungsten"
   },
   {
     "word": "BRONZINE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "A metal made to look like bronze"
   },
   {
     "word": "BIALKALI",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "Two alkali metal atoms or ions in a compound"
   },
   {
     "word": "ZICRAL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "An alloy of aluminium with zinc and small amounts of magnesium and copper"
   },
   {
     "word": "ACOLITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(dated, genericized trademark) A tin-antimony-zinc alloy used in dentistry"
   },
   {
     "word": "SIMILOR",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "An alloy of copper and zinc, resembling brass, but of a golden color"
   },
   {
     "word": "ALLOYAGE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "An alloy"
   },
   {
     "word": "ORMOLU",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "Golden or gilded brass or bronze used for decorative purposes"
   },
   {
     "word": "PERMALLOY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "Any of a class of nickel/iron alloys that have a high magnetic permeability"
   },
   {
     "word": "PINCHBECK",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "An alloy of copper and zinc once used as imitation gold for cheap jewelry"
   },
   {
     "word": "STAINLESS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "Describing an alloy that is resistant to corrosion and discoloration"
   },
   {
     "word": "STEELS",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(financial) stocks or stock quotations concerning steel-manufacturing companies"
   },
   {
     "word": "UNALLOYED",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(of metal) Not alloyed; not in mixture with other metals; pure"
   },
   {
     "word": "AMALGAMATE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "To make an alloy of a metal and mercury"
   },
   {
     "word": "BRAZING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "A method of joining metals by using heat and a filler"
   },
   {
     "word": "CARAT",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "A 24-point scale used to measure the purity of gold"
   },
   {
     "word": "CASE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(mining) A small fissure which admits water into the workings"
   },
   {
     "word": "CUPELLATION",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "The act or an act of cupellating, the assaying of a precious metal in a cupel"
   },
   {
     "word": "CUPRONICKEL",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "An alloy of copper containing from 10 to 40% nickel"
   },
   {
     "word": "ELECTRINE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "Of or pertaining to the alloy electrum"
   },
   {
     "word": "FERROSILICON",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "An alloy of iron and silicon used in steelmaking"
   },
   {
     "word": "GALVANIZE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(loosely, dated) To coat with a layer of metal by electrochemical means"
   },
   {
     "word": "GILD",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(transitive) To cover with a thin layer of gold; to cover with gold leaf"
   },
   {
     "word": "GONG",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "A metal target that emits a sound when it has been hit"
   },
   {
     "word": "HARDHEAD",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(metallurgy) Residual ore that failed to melt during a smelting process"
   },
   {
     "word": "IRONED",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "That has been pressed or smoothed with a hot iron; pressed"
   },
   {
     "word": "KAMACITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(mineralogy) A meteoritic mineral which consists chiefly of iron and nickel"
   },
   {
     "word": "LATTEN",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "Sheet tin; iron plate, covered with tin"
   },
   {
     "word": "MATRIX",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(printing, historical) In hot metal typesetting, a mold for casting a letter"
   },
   {
     "word": "REFINED",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "(of metal) Free of dross or alloy"
   },
   {
     "word": "SOLDERING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "alloy"
+    "sourceSeed": "alloy",
+    "clue": "A method of joining two metallic surfaces by melting an alloy between them"
   },
   {
     "word": "METALWORKER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "A person who shapes metal"
   },
   {
     "word": "SMITHWORK",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The work done by a smith (blacksmith); metal forgery"
   },
   {
     "word": "BLACKSMITHERY",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The work of a blacksmith"
   },
   {
     "word": "IRONSMITHING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The work of an ironsmith or blacksmith"
   },
   {
     "word": "METALMAKING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The manufacture of metal"
   },
   {
     "word": "BLACKSMITHY",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The smithy of a blacksmith"
   },
   {
     "word": "STEELWORKING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The act of working steel, the creation of steelwork or steelwares"
   },
   {
     "word": "BLACKSMITHING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The business of a blacksmith"
   },
   {
     "word": "IRONWORKING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The making of useful or decorative items from iron"
   },
   {
     "word": "STEELMAKING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The manufacture of steel"
   },
   {
     "word": "STEELWORKS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "A place where steel is manufactured and/or shaped"
   },
   {
     "word": "BRONZEWORKING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The making of useful or decorative items from bronze"
   },
   {
     "word": "METALWORKS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "A factory where metal is processed"
   },
   {
     "word": "SILVERWORKING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The manufacture of items from silver"
   },
   {
     "word": "MELTER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "A furnace used for melting iron in a foundry"
   },
   {
     "word": "SWAGE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "A tool, used by blacksmiths and other metalworkers, for shaping of a metal item"
   },
   {
     "word": "BELLFOUNDING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The process of casting bells from metal"
   },
   {
     "word": "SWAGING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The process of shaping metal with a swage"
   },
   {
     "word": "SILVERWORK",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "Work, usually ornamental, done in silver"
   },
   {
     "word": "TURNING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The cutting of wood or metal on a lathe to shape it as needed"
   },
   {
     "word": "WIRESMITH",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "(historical) A worker who hammered metal into wire"
   },
   {
     "word": "STEELWARE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "Articles made from steel"
   },
   {
     "word": "SMITHWRIGHT",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "A blacksmith"
   },
   {
     "word": "COPPERWORKING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The manufacture of items from copper"
   },
   {
     "word": "HAMMERSCALE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "A small fragment dislodged from iron during forging"
   },
   {
     "word": "FURNACE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "An industrial heating device, such as for smelting metal or firing ceramics"
   },
   {
     "word": "METALWARE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "Any wares made out of metal, such as pots and pans"
   },
   {
     "word": "STEELWORK",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "(construction) All the steel components of a structure"
   },
   {
     "word": "NILL",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "Scales of hot iron from the forge"
   },
   {
     "word": "FLATTING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The process of forming metal into sheets by passing it between rollers"
   },
   {
     "word": "IRONWORKS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "A factory in which iron is manufactured or iron goods are made"
   },
   {
     "word": "BRONZEWORKS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "A place where bronze is manufactured or shaped"
   },
   {
     "word": "TINWORK",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "Products manufactured using tin (the metal)"
   },
   {
     "word": "DIEWORK",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "Ornamentation of a metal surface by impressions with a die"
   },
   {
     "word": "IRONMONGERY",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "(slang, uncountable) The various metal items used by mountaineers"
   },
   {
     "word": "TINKER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "An itinerant tinsmith and mender of household utensils made of metal"
   },
   {
     "word": "COPPERWORK",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "Works made from copper"
   },
   {
     "word": "SHEAR",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "(metalworking) A large machine use for cutting sheet metal"
   },
   {
     "word": "WORK",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "(mining) Ore before it is dressed"
   },
   {
     "word": "LAPPING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The rubbing or polishing of a metal surface"
   },
   {
     "word": "ARMOR",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "(uncountable) A metal plate, protecting a ship, military vehicle, or aircraft"
   },
   {
     "word": "BLACKSMITH",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "A person who forges iron"
   },
   {
     "word": "BODGE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "(historical) The water in which a smith would quench items heated in a forge"
   },
   {
     "word": "BRAKE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "A type of machine for bending sheet metal. (See wikipedia.)"
   },
   {
     "word": "DROP",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "(engineering) The distance of the axis of a shaft below the base of a hanger"
   },
   {
     "word": "FORGEMAN",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "A person who works at a forge. A blacksmith on a large scale"
   },
   {
     "word": "SHOE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "An iron socket or plate to take the thrust of a strut or rafter"
   },
   {
     "word": "SMITHY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "The location where a smith (particularly a blacksmith) works, a forge"
   },
   {
     "word": "STIDDY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "(dialectal) Alternative form of stithy. [An anvil.]"
   },
   {
     "word": "STITHY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "An anvil"
   },
   {
     "word": "TOPPER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "One who tops steel ingots"
   },
   {
     "word": "TRADE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "(mining) Refuse or rubbish from a mine"
   },
   {
     "word": "VICEMAN",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "(chiefly historical) a smith who worked at the vice instead of at the anvil"
   },
   {
     "word": "SMELTERS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "A place where smelting is done"
   },
   {
     "word": "MINERALOGY",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "Mineral materials"
   },
   {
     "word": "NONMINERAL",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "Not mineral"
   },
   {
     "word": "RHODOCHROSITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(mineralogy) A crystalline mineral composed mainly of manganese carbonate MnCO₃"
   },
   {
     "word": "FERRUGINOUS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "Containing iron"
   },
   {
     "word": "MULTIMINERAL",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "Composed of or relating to more than one mineral"
   },
   {
     "word": "VEGETABLE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(RAF, slang, historical) A mine (explosive device)"
   },
   {
     "word": "MICROMINERALS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "A mineral of which only trace amounts are needed in the diet"
   },
   {
     "word": "PYROPHYLLITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(mineralogy) A soft, pale aluminosilicate mineral, somewhat resembling talc"
   },
   {
     "word": "PARAGENESIS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(geology) An ordered chronological sequence of mineral formations"
   },
   {
     "word": "POLYMETALLIC",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "Composed of multiple metals"
   },
   {
     "word": "BARITES",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(mineralogy) A mineral, barium sulphate, with the chemical formula BaSO₄"
   },
   {
     "word": "XENOTIME",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(mineralogy) A yellow-brown mineral, yttrium phosphate (YPO₄)"
   },
   {
     "word": "SIDERITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(countable) an iron meteorite"
   },
   {
     "word": "HALITE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(mineralogy) Native salt; sodium chloride NaCl as a mineral; rock salt"
   },
   {
     "word": "BIOMINERAL",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(geology) A mineral produced by the activity of living things"
   },
   {
     "word": "IDIOMORPH",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(mineralogy) Any idiomorphous mineral"
   },
   {
     "word": "HARDROCK",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(mining) Rock containing ore from which minerals are extracted"
   },
   {
     "word": "PASTE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(mineralogy) The mineral substance in which other minerals are embedded"
   },
   {
     "word": "ZINCSILITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(mineralogy) A mineral containing zinc and silicon"
   },
   {
     "word": "MINESTONE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "The solid residual material resulting from the mining of coal"
   },
   {
     "word": "ZINCOCHROMITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(mineralogy) A mineral, the zinc analogue of chromite"
   },
   {
     "word": "ZINCOCALCITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(mineralogy) A mineral with chemical formula (Ca,Zn)CO₃"
   },
   {
     "word": "WATER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(sometimes countable) Mineral water"
   },
   {
     "word": "SPA",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "A health resort near a mineral spring or hot spring"
   },
   {
     "word": "CORDIERITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(mineralogy) A magnesium iron aluminium cyclosilicate"
   },
   {
     "word": "CORUNDOM",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "Very hard mineral used as an abrasive"
   },
   {
     "word": "CRYOLITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(mineralogy) The mineral sodium hexafluoroaluminate (Na₃AlF₆)"
   },
   {
     "word": "DEPRESSANT",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(mining) An agent that inhibits the flotation of a mineral or minerals"
   },
   {
     "word": "FIELD",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(geology) A region containing a particular mineral"
   },
   {
     "word": "FLUOR",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(dated) The mineral fluorite"
   },
   {
     "word": "MALACHITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "A mild green color, like that of the mineral"
   },
   {
     "word": "MALTHA",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "A thick mineral pitch"
   },
   {
     "word": "MILLERITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(geology) A nickel sulfide mineral, NiS, that occurs as hairlike tufts"
   },
   {
     "word": "MINERALIZE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "To convert to a mineral; to petrify"
   },
   {
     "word": "PAN",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(transitive) To wash in a pan (of earth, sand etc. when searching for gold)"
   },
   {
     "word": "PLACER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "A place where the superficial detritus is washed for gold, etc"
   },
   {
     "word": "PLATY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(geology, mineralogy) Composed of thin plate-like pieces of rock or mineral"
   },
   {
     "word": "PROSPECT",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(intransitive) To search, as for gold"
   },
   {
     "word": "CHAIN",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A series of interconnected rings or links usually made of metal"
   },
   {
     "word": "FERROUS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "Of or containing iron"
   },
   {
     "word": "FERRIC",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "Pertaining to, derived from, or containing iron"
   },
   {
     "word": "REBAR",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "(countable) A steel reinforcing bar in a reinforced concrete structure"
   },
   {
     "word": "BRAND",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A branding iron"
   },
   {
     "word": "SHEET",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A flat metal pan, often without raised edge, used for baking"
   },
   {
     "word": "HORSE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "An iron bar for a sheet traveller to slide upon"
   },
   {
     "word": "DIE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A mold for forming metal or plastic objects"
   },
   {
     "word": "FERRUM",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "(homeopathy) Any of various remedies made from iron-containing compounds"
   },
   {
     "word": "FLATIRON",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A simple iron (for pressing laundry) which is heated on a stove"
   },
   {
     "word": "CASTIRON",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "Alternative spelling of cast iron. [(not comparable) Made of cast iron.]"
   },
   {
     "word": "IRONER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A mangle, a device used to iron clothes"
   },
   {
     "word": "LOADSTONE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "Alternative form of lodestone. [(obsolete) The mineral magnetite.]"
   },
   {
     "word": "IRONWARE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "Articles made of iron, as household utensils, tools, and the like"
   },
   {
     "word": "PROTEINATE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "(chemistry) Any metal salt derived from a protein"
   },
   {
     "word": "IRONERS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A mangle, a device used to iron clothes"
   },
   {
     "word": "HEPCIDIN",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A hormone produced by the liver that regulates iron homeostasis in mammals"
   },
   {
     "word": "PUDDLER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "Someone who converts cast iron into wrought iron by the process of puddling"
   },
   {
     "word": "FERROPORTIN",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "(biochemistry) A transmembrane protein that transports iron"
   },
   {
     "word": "IRONMAKING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "The making of iron (from an ore)"
   },
   {
     "word": "IRONMASTER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A manufacturer of iron"
   },
   {
     "word": "GRIDIRON",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "An iron rack or grate used for broiling meat and fish over coals"
   },
   {
     "word": "STEELING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A strengthening with, or as if with, steel"
   },
   {
     "word": "STUB",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "Stub iron"
   },
   {
     "word": "IRONSMITH",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A blacksmith (who makes articles from iron)"
   },
   {
     "word": "GILT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "(uncountable) Gold or other metal in a thin layer; gilding"
   },
   {
     "word": "IRONFOUNDER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "One who founds (makes castings) in iron"
   },
   {
     "word": "LARGET",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A short piece of bar iron for rolling into a sheet; a small billet"
   },
   {
     "word": "MITIS",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "The malleable iron produced by this technique"
   },
   {
     "word": "SOLEPLATE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "The flat metal plate forming the underside of an iron (for ironing laundry)"
   },
   {
     "word": "LANCET",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "(metallurgy) An iron bar used for tapping a melting furnace"
   },
   {
     "word": "CRAMP",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "To fasten or hold with, or as if with, a cramp iron"
   },
   {
     "word": "IRE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "(obsolete) Iron"
   },
   {
     "word": "MAIDEN",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "Iron Maiden, a heavy metal band from England"
   },
   {
     "word": "PIG",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "The mold in which a block of metal is cast"
   },
   {
     "word": "BAR",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A broad shaft, band, or stripe"
   },
   {
     "word": "LAUNDER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "To wash; to wash, and to smooth with a flatiron or mangle; to wash and iron"
   },
   {
     "word": "WEDGE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A piece (of food, metal, wood etc.) having this shape"
   },
   {
     "word": "AEROSIDERITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A siderite (mass of meteoric iron)"
   },
   {
     "word": "ALLIGATOR",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "(mining) A rock breaker"
   },
   {
     "word": "ANCHOR",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "(architecture) A metal tie holding adjoining parts of a building together"
   },
   {
     "word": "ANDRADITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A nesosilicate mineral of the garnet group with chemical formula Ca₃Fe₂Si₃O₁₂"
   },
   {
     "word": "AVENTURINE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "A kind of brownish glass containing gold-coloured spangles"
   },
   {
     "word": "STAL",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "Stal means steel in many Slavic languages"
   },
   {
     "word": "INOX",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "(attributive) Stainless steel"
   },
   {
     "word": "IRONCLAD",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "Covered with iron, steel, or (loosely) any other tough metal; armor-plated"
   },
   {
     "word": "FORGED",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "Fabricated by forging or at a forge, by working hot metal"
   },
   {
     "word": "TEMPERED",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "(metallurgy) Pertaining to the metallurgical process for finishing metals"
   },
   {
     "word": "STRUCTURALS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "Structural steel, used in construction"
   },
   {
     "word": "STEELMAKER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "A company that produces steel"
   },
   {
     "word": "ELECTROSTEEL",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "Steel produced by electric reduction"
   },
   {
     "word": "ADAMANTIUM",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "A fictional metal that is indestructible or nearly so"
   },
   {
     "word": "STEELYARD",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "A place where steel (and possibly other metals as well) is stored and sold"
   },
   {
     "word": "GALVANNEAL",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "A hard form of steel made by galvanizing and then annealing"
   },
   {
     "word": "SEMISTEEL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "(US) puddled steel"
   },
   {
     "word": "OXYSTEEL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "Steel produced by reduction of iron oxides by carbon"
   },
   {
     "word": "STEELIE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "A steel bearing ball used as a marble"
   },
   {
     "word": "FERROBORON",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "An alloy of iron and boron used in the production of specialist steels"
   },
   {
     "word": "STRIKER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "A blacksmith's assistant who wields the sledgehammer"
   },
   {
     "word": "METALMAN",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "A man who works with metals"
   },
   {
     "word": "PIPE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "(mining) An elongated or irregular body or vein of ore"
   },
   {
     "word": "ROD",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "A straight, round stick, shaft, bar, cane, or staff"
   },
   {
     "word": "ARBALIST",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "Alternative form of arbalest. [A steel crossbow.]"
   },
   {
     "word": "BERTHIERITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "(mineralogy) A steel-gray opaque mineral, with chemical formula FeSb₂S₄"
   },
   {
     "word": "BILLET",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "(metallurgy) A semi-finished length of metal"
   },
   {
     "word": "BIT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "The cutting iron of a plane"
   },
   {
     "word": "BLOOM",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "The spongy mass of metal formed in a furnace by the smelting process"
   },
   {
     "word": "BLOWHOLE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "(metallurgy) An unintended cavity filled with air in a casting product"
   },
   {
     "word": "BLUING",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "steel"
-  },
-  {
-    "word": "BMS",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "Any of several processes to protect steel against rust"
   },
   {
     "word": "BOILERPLATE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "A sheet of copper or steel used in the construction of a boiler"
   },
   {
     "word": "BRACE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "(British, Cornwall, mining) The mouth of a shaft"
   },
   {
     "word": "CAGE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "(mining) The drum on which the rope is wound in a hoisting whim"
   },
   {
     "word": "CAN",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "A container or vessel, especially for liquids, usually made of metal"
   },
   {
     "word": "CEMENTATION",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "(geology) The precipitation of mineral matter in the pores of a sediment"
   },
   {
     "word": "HAMMER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "To form or forge with a hammer; to shape by beating"
   },
   {
     "word": "FASHION",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "(obsolete) To forge or counterfeit"
   },
   {
     "word": "FAKE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "(transitive) To make a counterfeit, to counterfeit, to forge, to falsify"
   },
   {
     "word": "TRAIN",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "(transitive, mining) To trace (a lode or any mineral appearance) to its head"
   },
   {
     "word": "FABRICATE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "(transitive) To invent and form; to forge; to devise falsely"
   },
   {
     "word": "STRIKE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "An iron pale or standard in a gate or fence"
   },
   {
     "word": "SET",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "A tool for dressing forged iron"
   },
   {
     "word": "SEAL",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "To fix, as a piece of iron in a wall, with cement or plaster, etc"
   },
   {
     "word": "FALSIFY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "To counterfeit; to forge"
   },
   {
     "word": "SMITHING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "The work of a smith; the forging of metal"
   },
   {
     "word": "LINGOT",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "A linget or ingot"
   },
   {
     "word": "GRAIN",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "An iron fish spear or harpoon, with a number of points half-barbed inwardly"
   },
   {
     "word": "TATARA",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "A traditional Japanese furnace for smelting iron and steel"
   },
   {
     "word": "GEAT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "The channel or spout through which molten metal runs into a mould in casting"
   },
   {
     "word": "TUNDISH",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "A funnel used in smelting, foundry work etc"
   },
   {
     "word": "GOLDBEATING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "The manufacture of gold leaf by hammering gold"
   },
   {
     "word": "LEADWORKS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "A factory that processes lead (the metal)"
   },
   {
     "word": "TEDGE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "The gate of a mold, through which the melted metal is poured"
   },
   {
     "word": "COPPERWORKS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "A place where copper is manufactured or shaped"
   },
   {
     "word": "CUPOLA",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "A type of furnace used for smelting"
   },
   {
     "word": "DRAG",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "(masonry) A steel instrument for completing the dressing of soft stone"
   },
   {
     "word": "BOLT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "An iron to fasten the legs of a prisoner; a shackle; a fetter"
   },
   {
     "word": "DROPFORGE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "Forge with a drop-forge"
   },
   {
     "word": "HOOD",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "A metal covering that leads to a vent to suck away smoke or fumes"
   },
   {
     "word": "MINT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "To invent; to forge; to fabricate; to fashion"
   },
   {
     "word": "POINT",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "To give a point to; to sharpen; to cut, forge, grind, or file to an acute end"
   },
   {
     "word": "REFORGE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "(transitive) To forge again"
   },
   {
     "word": "TILT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "To forge (something) with a tilt hammer"
   },
   {
     "word": "CINDER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "Slag from a metal furnace"
   },
   {
     "word": "CLINKER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "A scum of oxide of iron formed in forging"
   },
   {
     "word": "DRESSER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "(mining) A kind of pick for shaping large coal"
   },
   {
     "word": "DRIVE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "(mining) To dig horizontally; to cut a horizontal gallery or tunnel"
   },
   {
     "word": "FAGGOT",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "A bundle of pieces of iron or steel cut off into suitable lengths for welding"
   },
   {
     "word": "FAKED",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "(transitive) To make a counterfeit, to counterfeit, to forge, to falsify"
   },
   {
     "word": "FALSE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "(obsolete) To counterfeit, to forge"
   },
   {
     "word": "FORGERIES",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "The act of forging metal into shape"
   },
   {
     "word": "FORGERY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "The act of forging metal into shape"
   },
   {
     "word": "GOLDSMITH",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "A person who makes, repairs or sells things of gold, especially jewelry"
   },
   {
     "word": "JUMP",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "(mining) A dislocation in a stratum; a fault"
   },
   {
     "word": "CRADLE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "forge"
+    "sourceSeed": "forge",
+    "clue": "(mining) A machine on rockers, used in washing out auriferous earth"
   },
   {
     "word": "FORGEMASTER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A craftsman skilled in forging iron or other metals"
   },
   {
     "word": "REDSMITH",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A person who forges things out of copper; a coppersmith"
   },
   {
     "word": "IRONMAKER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A manufacturer of iron from its ores; one who carries out ironmaking"
   },
   {
     "word": "COPPERSMITH",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A person who forges things out of copper"
   },
   {
     "word": "STEELWORKER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A person who works in a steel mill"
   },
   {
     "word": "MASTERSMITH",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "Master blacksmith"
   },
   {
     "word": "BRONZESMITH",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A maker of bronze articles"
   },
   {
     "word": "BRONZEFOUNDER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A metalworker who casts objects from bronze"
   },
   {
     "word": "CHAINSMITH",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A person who makes metal chains"
   },
   {
     "word": "PANSMITH",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A person who makes and repairs metal pans"
   },
   {
     "word": "GOLDWORKER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A metalworker who fashions gold into objects"
   },
   {
     "word": "SILVERSMITH",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A person who makes articles out of silver usually larger than jewellery"
   },
   {
     "word": "METALLER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "(music, informal) One who listens to heavy metal music"
   },
   {
     "word": "SILVERBEATER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A craftsman who hammers out silver into flat sheets"
   },
   {
     "word": "GOLDBEATER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A craftsman who creates gold leaf by hammering gold bars"
   },
   {
     "word": "METALMONGER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "One who trades in metals"
   },
   {
     "word": "TINNER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A worker in a tin mine"
   },
   {
     "word": "COPPERWORKER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A person employed to manufacture and shape copper"
   },
   {
     "word": "SILVERWORKER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "A person employed to manufacture and shape silver"
   },
   {
     "word": "COALMINER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "One who mines for coal; especially, a worker who does not own the mine"
   },
   {
     "word": "FIRE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "(transitive, mining) To set off an explosive in a mine"
   },
   {
     "word": "PLATER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "blacksmith"
+    "sourceSeed": "blacksmith",
+    "clue": "Someone who plates metal"
   },
   {
     "word": "BROWN",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "(slang, archaic, countable) A copper coin"
   },
   {
     "word": "COPPERY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "Resembling the metal copper, especially in color"
   },
   {
     "word": "TAWNY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "Of a light brown to brownish orange colour; orangey brown tinged with gold"
   },
   {
     "word": "OCHRE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "(slang, dated) Money, especially gold"
   },
   {
     "word": "SILVERS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "(collectively) Coins made from silver or any similar white metal"
   },
   {
     "word": "SILVERY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "Resembling silver in color, shiny white"
   },
   {
     "word": "VERDIGRIS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "A blue-green patina or rust that forms on copper-containing metals"
   },
   {
     "word": "SILVERED",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "Coated with silver, made reflective or shiny by application of metal"
   },
   {
     "word": "BRONZEWARE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "Articles made from bronze, treated as a group"
   },
   {
     "word": "BRONZEMAKING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "The process of making bronze"
   },
   {
     "word": "BRONZEWORK",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "Bronze metalwork"
   },
   {
     "word": "POTIN",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "(obsolete) An alloy of copper, zinc, lead, and tin"
   },
   {
     "word": "TOSH",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "(uncountable, British, slang, obsolete) Copper; items made of copper"
   },
   {
     "word": "TERNE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "Synonym of terneplate (“thin iron or steel sheeting coated with this alloy”)"
   },
   {
     "word": "BLISTER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "(uncountable) A form of smelted copper with a blistered surface"
   },
   {
     "word": "COPPERWARE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "Articles made from copper"
   },
   {
     "word": "COPPERING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "The act of covering with copper"
   },
   {
     "word": "FINDRINNY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "A kind of red bronze"
   },
   {
     "word": "SPELTERING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "A process which directly combines copper and metallic zinc to form an alloy"
   },
   {
     "word": "GOLDTONE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "A metallic gold colour, as used in some paints"
   },
   {
     "word": "AENEOUS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "Bronze-colored"
   },
   {
     "word": "AERUGO",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "Metallic rust, particularly of brass or copper; verdigris; patina"
   },
   {
     "word": "BARROW",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "(mining) A heap of rubbish, attle, or other such refuse"
   },
   {
     "word": "CHALCOGRAPHY",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "Engraving on copper or brass"
   },
   {
     "word": "CHARIOT",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "A two-wheeled horse-drawn cart, used in Bronze Age and Early Iron Age warfare"
   },
   {
     "word": "EMBRONZE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "(poetic, transitive) To colour in bronze or an imitation"
   },
   {
     "word": "FOLLIS",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "(numismatics) A large bronze coin minted during the Roman Empire"
   },
   {
     "word": "GLUT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "(mining) A piece of wood used to fill up behind cribbing or tubbing"
   },
   {
     "word": "PENNY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "In various countries, a small-denomination copper or brass coin"
   },
   {
     "word": "PUDDINGWIFE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "Bluish and bronze wrasse; found from florida keys to brazil"
   },
   {
     "word": "PYRRHOTITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "(mineralogy) A weakly magnetic ferrous sulfide mineral, FeS"
   },
   {
     "word": "TINSEL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "A silk or wool fabric with gold or silver thread woven into it; brocade"
   },
   {
     "word": "UNCIA",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "(historical) A bronze coin minted by the Roman Republic, 1/12 of an as"
   },
   {
     "word": "VERMEIL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "bronze"
+    "sourceSeed": "bronze",
+    "clue": "Silver gilt or gilt bronze"
   },
   {
     "word": "KNIGHT",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "A town in Iron County, Wisconsin, United States"
   },
   {
     "word": "CUPROUS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "(inorganic chemistry) Containing copper with an oxidation number of 1"
   },
   {
     "word": "CUSE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "(mineralogy) A compound of copper and selenium; klockmannite"
   },
   {
     "word": "CUPROURANITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "The mineral copper uranite or torbernite"
   },
   {
     "word": "COPPERAS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "Iron(II) sulfate"
   },
   {
     "word": "RADIOCOPPER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "Radioactive copper"
   },
   {
     "word": "CHALCANTHUM",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "(alchemy, obsolete) Copper(II) sulfate (CuSO₄)"
   },
   {
     "word": "DARWINITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "A silver-grey arsenide of copper (Cu₁₈As)"
   },
   {
     "word": "COVELLITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "(mineralogy) A shiny indigo-blue sulfide mineral, CuS, that is an ore of copper"
   },
   {
     "word": "PRILL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "(mining) A nugget of virgin metal"
   },
   {
     "word": "DJURLEITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "(mineralogy) A copper sulfide mineral with the chemical formula Cu₃₁S₁₆"
   },
   {
     "word": "BLUESTONE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "Either of two related copper- and sulfur-based bright blue stones:"
   },
   {
     "word": "MISY",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "(mineralogy) An impure yellow sulphate of iron; yellow copperas or copiapite"
   },
   {
     "word": "VULCANITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "(mineralogy) A rare mineral, copper telluride"
   },
   {
     "word": "AUBERTITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "(mineralogy) A blue mineral with the chemical formula CuAl(SO₄)₂Cl·14(H₂O)"
   },
   {
     "word": "CUPRUM",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "Copper"
   },
   {
     "word": "CUPRIC",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "Of, pertaining to, or derived from, copper; containing copper"
   },
   {
     "word": "AEROSE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "Of, or like copper or brass; brassy"
   },
   {
     "word": "BULLET",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "A projectile, usually of metal, shot from a gun at high speed"
   },
   {
     "word": "BUSH",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "A thick washer or hollow cylinder of metal"
   },
   {
     "word": "COPPERISH",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "Like copper; coppery"
   },
   {
     "word": "COPPERPLATE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "A copper plate, either etched or engraved, to make a recessed pattern"
   },
   {
     "word": "CUPREOUS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "A reddish-brown color, like that of polished copper"
   },
   {
     "word": "CYANOSITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "(mineralogy) chalcanthite (a copper sulfate)"
   },
   {
     "word": "DIOPTASE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "An intense emerald-green to bluish-green copper cyclosilicate mineral"
   },
   {
     "word": "DOUBLE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "(historical, Guernsey) A copper coin worth one-eighth of a penny"
   },
   {
     "word": "ERINITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "copper"
+    "sourceSeed": "copper",
+    "clue": "(mineralogy) A hydrous copper arseniate of an emerald-green colour"
   },
   {
     "word": "DIAMOND",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "A gemstone made from this mineral"
   },
   {
     "word": "AURUM",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "Gold (used in the names of various substances, see \"Derived terms\")"
   },
   {
     "word": "AURIC",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(inorganic chemistry) Of or pertaining to trivalent gold"
   },
   {
     "word": "MASS",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(obsolete) Precious metal, especially gold or silver"
   },
   {
     "word": "SOVEREIGN",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "A former Australian gold coin, minted from 1855–1931, of one pound value"
   },
   {
     "word": "UNIT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(historical) A gold coin of the reign of James I, worth twenty shillings"
   },
   {
     "word": "YAMBOO",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "Obsolete form of yuanbao [Synonym of sycee (“Chinese ingot used as currency”).]"
   },
   {
     "word": "RIAL",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(historical) An old gold coin of England"
   },
   {
     "word": "STATER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "A gold, silver or electrum coin of ancient Greece"
   },
   {
     "word": "DUST",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(slang, dated) cash; money (in reference to gold dust)"
   },
   {
     "word": "DUCAT",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(historical) A gold coin minted by various European nations"
   },
   {
     "word": "DINAR",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(historical) An ancient Arab gold coin of 65 grains in weight"
   },
   {
     "word": "SOLIDUS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(obsolete) Synonym of soldo: the silver coins of various Italian states"
   },
   {
     "word": "TAEL",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "Any of several monetary units equal to the equivalent weight in silver"
   },
   {
     "word": "NUGGET",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(computing theory) A partial description gleaned from data mining"
   },
   {
     "word": "LAME",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(in the plural) A set of joined overlapping metal plates"
   },
   {
     "word": "SOL",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(historical) A former Spanish-American silver coin"
   },
   {
     "word": "ALLUVIAL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "Alluvial soil; specifically, in Australia, gold-bearing alluvial soil"
   },
   {
     "word": "AURATED",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "Resembling or containing gold; gold-coloured; gilded"
   },
   {
     "word": "AUREITY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "The particular property peculiar to gold; goldenness"
   },
   {
     "word": "AURIFY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(rare, ambitransitive) To turn into gold"
   },
   {
     "word": "AURIGRAPHY",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "The art of writing with or in gold"
   },
   {
     "word": "AURIPHRYGIATE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "Embroidered or decorated with gold"
   },
   {
     "word": "AURIVOROUS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "Gold-devouring"
   },
   {
     "word": "AUROPHOBIA",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "The fear of gold; by extension, the fear of wealth"
   },
   {
     "word": "AUROUS",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "Relating to gold"
   },
   {
     "word": "AURULENT",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "Gold in color"
   },
   {
     "word": "BETTERNESS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(minting) The amount by which a precious metal exceeds the standard of fineness"
   },
   {
     "word": "BRACTEATE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "Made of thin, beaten metal (of coins, ornaments etc. with a hollow underside)"
   },
   {
     "word": "BULSE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(now rare) A bag or package of diamonds, gold dust or other precious materials"
   },
   {
     "word": "BUTTON",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "A globule of metal remaining on an assay cupel or in a crucible, after fusion"
   },
   {
     "word": "CHAMPAGNE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(countable) A very pale brownish-gold colour, similar to that of champagne"
   },
   {
     "word": "CHAPLET",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "A metal support for a cylindrical pipe"
   },
   {
     "word": "CHEKMAK",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "A Turkish fabric of silk and cotton, with gold thread interwoven"
   },
   {
     "word": "CHRYSOGRAPHY",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "The use of gold lettering in manuscripts"
   },
   {
     "word": "CHRYSOSPERM",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "gold"
+    "sourceSeed": "gold",
+    "clue": "(alchemy, obsolete) The seed of gold; an alchemical means of creating gold"
   },
   {
     "word": "ARGENT",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "(heraldry) The white or silver tincture on a coat of arms"
   },
   {
     "word": "SILVERISH",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "Somewhat silver in colour"
   },
   {
     "word": "SILVERWARE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "Anything manufactured from silver"
   },
   {
     "word": "HALL",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "A surname from German for someone associated with a salt mine"
   },
   {
     "word": "ARGENTATE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "To treat with a silver salt"
   },
   {
     "word": "STERLING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "(not comparable) Of silver: being of standard quality"
   },
   {
     "word": "RADIOSILVER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "Radioactive silver"
   },
   {
     "word": "ARGENTION",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "(inorganic chemistry, archaic) ionized silver"
   },
   {
     "word": "ZLATOGORITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "(mineralogy) A silvery-white mineral containing copper, nickel, and antimony"
   },
   {
     "word": "AZOGUE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "(mining) silver ores suitable for treatment by amalgamation with mercury"
   },
   {
     "word": "CHLORARGYRITE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "(mineralogy) The mineral form of silver chloride"
   },
   {
     "word": "SPOON",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "(fishing) A type of metal lure resembling the concave head of a tablespoon"
   },
   {
     "word": "ARGENTIC",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "Of, pertaining to or containing silver"
   },
   {
     "word": "TRY",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "To separate (precious metal etc.) from the ore by melting; to purify, refine"
   },
   {
     "word": "FOIL",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "A very thin sheet of metal or plastic"
   },
   {
     "word": "ARGENTATION",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "The process of coating with silver or a silver compound; silvering"
   },
   {
     "word": "ARGENTOUS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "Of, pertaining to, or containing silver"
   },
   {
     "word": "ARGENTRY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "(obsolete) Silver material, or silverness in color"
   },
   {
     "word": "ARGENTUM",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "Silver"
   },
   {
     "word": "ARGYROL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "(pharmacology) An antiseptic compound of silver and a protein"
   },
   {
     "word": "BAT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "(mining) Shale or bituminous shale"
   },
   {
     "word": "BAWBEE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "(figuratively) A copper; a small amount of money"
   },
   {
     "word": "CLINQUANT",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "Dutch metal"
   },
   {
     "word": "COLOR",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "silver"
+    "sourceSeed": "silver",
+    "clue": "(mining) Gold, particles of gold found when prospecting"
   },
   {
     "word": "COLLIERY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(British) An underground coal mine, together with its surface buildings"
   },
   {
     "word": "BLASTING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "A planned explosion, as in mining"
   },
   {
     "word": "WINNING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) A new opening"
   },
   {
     "word": "PANNING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "The act of one who pans, as for gold"
   },
   {
     "word": "GOLDMINING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "The mining of gold"
   },
   {
     "word": "COALMINING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "The mining of coal"
   },
   {
     "word": "GOLDMINERS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "Somebody who mines for gold"
   },
   {
     "word": "GOLDFIELD",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "An area where gold ore is found"
   },
   {
     "word": "WASHERY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "The place in the above-ground part of a coal mine where coal is washed"
   },
   {
     "word": "QUARRY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) A site for mining stone, such as limestone, or slate"
   },
   {
     "word": "MINEWORKER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "One who works in a mine"
   },
   {
     "word": "MINABLE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "Worth mining"
   },
   {
     "word": "QUARRIES",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) A site for mining stone, such as limestone, or slate"
   },
   {
     "word": "DIGGER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(Australia, obsolete) A gold miner, one who digs for gold"
   },
   {
     "word": "MINEWORKING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(uncountable) Working in a mine; mining"
   },
   {
     "word": "TYING",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) The act or process of washing ores in a buddle"
   },
   {
     "word": "MONETIZATION",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "The conversion of something (especially metal) into money"
   },
   {
     "word": "OFFTAKE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) The removal of oil (or an industrial chemical) from a storage facility"
   },
   {
     "word": "HABILITATION",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(US) The act of supplying money to work a mine"
   },
   {
     "word": "CLEAN",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(of metal) Having relatively few impurities"
   },
   {
     "word": "STRIP",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) A trough for washing ore"
   },
   {
     "word": "TUB",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) A box or bucket in which coal or ore is sent up a shaft"
   },
   {
     "word": "SHOOT",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) A vein of ore running in the same general direction as the lode"
   },
   {
     "word": "APEX",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining, US) The end or edge of a vein nearest the surface"
   },
   {
     "word": "BANDSMAN",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining, historical) A labourer (loader) working with a band of men"
   },
   {
     "word": "BLOWER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) A fissure from which firedamp issues, often in quantity for many years"
   },
   {
     "word": "BONNET",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "In pumps, a metal covering for the openings in the valve chambers"
   },
   {
     "word": "BROW",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) A gallery in a coal mine running across the face of the coal"
   },
   {
     "word": "COUNTERMINE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "A mine used by defenders to intercept an enemy mine or tunnel"
   },
   {
     "word": "DRIFT",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) (mining) A heading driven through a seam of coal"
   },
   {
     "word": "GAD",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(especially mining) A pointed metal tool for breaking or chiselling rock"
   },
   {
     "word": "GALLERY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) A level or drive in a mine"
   },
   {
     "word": "GIN",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) A hoisting drum, usually vertical; a whim"
   },
   {
     "word": "GOB",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(uncountable, mining) Waste material in old mine workings, goaf"
   },
   {
     "word": "GOLDMINE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "Alternative form of gold mine [A mine for gold ore or metal.]"
   },
   {
     "word": "GRASS",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(countable, mining) The surface of a mine"
   },
   {
     "word": "HUTCH",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) The case of a flour bolt"
   },
   {
     "word": "JIGGER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) The sieve used in sorting or separating ore"
   },
   {
     "word": "KIBBLE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "An iron bucket used in mines for hoisting anything to the surface"
   },
   {
     "word": "LEDGE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "A lode; a limited mass of rock bearing valuable mineral"
   },
   {
     "word": "LUM",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(specifically, mining) A ventilating chimney over the shaft of a mine"
   },
   {
     "word": "MULLOCK",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(Australia, New Zealand, mining) Mining waste or ore processing waste:"
   },
   {
     "word": "PINCH",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "A metal bar used as a lever for lifting weights, rolling wheels, etc"
   },
   {
     "word": "PITHEAD",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "The area around the top of the mineshaft of a coal mine"
   },
   {
     "word": "PUNCH",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "A prop, as for the roof of a mine"
   },
   {
     "word": "ROOM",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) An area for working in a coal mine"
   },
   {
     "word": "SHAFT",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "The long, narrow, central body of a spear, arrow, or javelin"
   },
   {
     "word": "SHOT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(countable, athletics) The heavy iron ball used for the shot put"
   },
   {
     "word": "SILL",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "The shaft or thill of a carriage"
   },
   {
     "word": "SINK",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) An excavation smaller than a shaft"
   },
   {
     "word": "SKIP",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) A transportation container in a mine, usually for ore or mullock"
   },
   {
     "word": "SLAG",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "Waste material from a mine"
   },
   {
     "word": "STANNARY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "A tin mine or tinworks"
   },
   {
     "word": "TIMBERMAN",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) A person who installs timbers in a mine"
   },
   {
     "word": "TRAMCAR",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "A rail vehicle for carrying loads in a mine; a tram"
   },
   {
     "word": "UPCAST",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mining"
+    "sourceSeed": "mining",
+    "clue": "(mining) A current of air passed along such a shaft"
   },
   {
     "word": "ALLOYING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "To mix or combine; often used of metals"
   },
   {
     "word": "SIDEROMANCY",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "Divination by studying the burning of straws on heated iron"
   },
   {
     "word": "CHILL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "(transitive, metallurgy) To harden a metal surface by sudden cooling"
   },
   {
     "word": "EYE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "(mining) Synonym of pit-eye"
   },
   {
     "word": "GRATING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "A frame of iron bars to hold a fire"
   },
   {
     "word": "IRONING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "The act of pressing clothes with an iron, such as a steam iron"
   },
   {
     "word": "JIG",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "(mining) An apparatus or machine for jigging ore"
   },
   {
     "word": "PYROTECHNIC",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "Of or relating to the use of fire in chemistry or metallurgy"
   },
   {
     "word": "SALAMANDER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "(metallurgy, uncountable) Solidified material in a furnace hearth"
   },
   {
     "word": "SCALE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "(uncountable) The flaky material sloughed off heated metal"
   },
   {
     "word": "SHANK",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "A straight, narrow part of an object, such as a key or an anchor; shaft; stem"
   },
   {
     "word": "SIDERURGY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "The iron and steel industry"
   },
   {
     "word": "SKULL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "A crust formed on the ladle, etc. by the partial cooling of molten metal"
   },
   {
     "word": "SLIP",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "(mining) A dislocation of a lead, destroying continuity"
   },
   {
     "word": "SOW",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "A mass of metal solidified in a mold"
   },
   {
     "word": "STALL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "(mining) The space left by excavation between pillars"
   },
   {
     "word": "TEST",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "To refine (gold, silver, etc.) in a test or cupel; to subject to cupellation"
   },
   {
     "word": "FOUNDRIES",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "The act, process, or art of casting metals; founding"
   },
   {
     "word": "METALLURGISTS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "metallurgy"
+    "sourceSeed": "metallurgy",
+    "clue": "A person skilled in metallurgy"
   },
   {
     "word": "AMALGAMATING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "To make an alloy of a metal and mercury"
   },
   {
     "word": "AMALGAMATIONS",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "The result of amalgamating; a mixture or alloy"
   },
   {
     "word": "FLUXING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "A chemical agent for cleaning metal prior to soldering or welding"
   },
   {
     "word": "DEADMELT",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "(metallurgy) To melt steel at high temperatures in order to deoxidize it"
   },
   {
     "word": "REFUSION",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "New or repeated melting, as of metals"
   },
   {
     "word": "ELIQUATION",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "(metallurgy) liquation"
   },
   {
     "word": "GRANULATION",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "The attachment of granules of precious metal to underlying metal of jewellery"
   },
   {
     "word": "RECOVERY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "(mining) The extraction of an ore from a mine, or of a metal from an ore"
   },
   {
     "word": "REFRACTION",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "(metallurgy) The degree to which a metal or compound can withstand heat"
   },
   {
     "word": "BRONZING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "The process of giving something the appearance of bronze"
   },
   {
     "word": "FIXATION",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "In metals, a state of resistance to evaporation or volatilization by heat"
   },
   {
     "word": "SILVERING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "The silver used in this kind of coating"
   },
   {
     "word": "DEALLOYING",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "The selective leaching of a component of an alloy"
   },
   {
     "word": "PESTING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "The total disintegration of metal into powder as a result of oxidation"
   },
   {
     "word": "ACIERATION",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "(rare) The conversion of iron into steel"
   },
   {
     "word": "CHELATION",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "(chemistry) The formation of a polydentate chelate compound from a metal salt"
   },
   {
     "word": "BENEFICIATE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "(mining, dated) To reduce (ores or other raw materials)"
   },
   {
     "word": "SMELTERY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "A building or place for smelting"
   },
   {
     "word": "SILVERFISH",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "Raiamas senegalensis (silver fish)"
   },
   {
     "word": "FURNACES",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "smelting"
+    "sourceSeed": "smelting",
+    "clue": "An industrial heating device, such as for smelting metal or firing ceramics"
   },
   {
     "word": "SLUG",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "A solid block or piece of roughly shaped metal"
   },
   {
     "word": "BOULE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "A single-crystal ingot produced by synthetic means"
   },
   {
     "word": "SPONGE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "Iron from the puddling furnace, in a pasty condition"
   },
   {
     "word": "OCHIMY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "Obsolete form of occamy. [(obsolete) An alloy imitating gold or silver.]"
   },
   {
     "word": "IGNESCENT",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "Emitting sparks of fire when struck with steel; scintillating"
   },
   {
     "word": "CLINK",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "(onomatopoeia) The sound of metal on metal, or glass on glass"
   },
   {
     "word": "BRASQUE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "A mixture of charcoal, clay, etc. used in smelting"
   },
   {
     "word": "GALINSTAN",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "An alloy of gallium, indium and tin which is liquid at room temperature"
   },
   {
     "word": "HANDSTEIN",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "An ornament composed primarily of an interesting mineral or metal ore formation"
   },
   {
     "word": "PRILLION",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "(mining, archaic) Tin extracted from the slag"
   },
   {
     "word": "KNOCKSTONE",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "(mining) A block upon which ore is broken up"
   },
   {
     "word": "UMBITE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "(mineralogy) An inosilicate mineral of potassium, zirconium and titanium"
   },
   {
     "word": "LINGET",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "An ingot; a lingot"
   },
   {
     "word": "JELLY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "(India) Vitrified brick refuse used as metal in building roads"
   },
   {
     "word": "WASTE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ingot"
+    "sourceSeed": "ingot",
+    "clue": "A disused mine or part of one"
   },
   {
     "word": "WALL",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "(mining) Any of the surfaces of rock enclosing the lode"
   },
   {
     "word": "WINDAC",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "(archaic) A grappling iron used to bend a crossbow"
   },
   {
     "word": "DRIVER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "A tamping iron"
   },
   {
     "word": "JOINTER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "A bent piece of iron for riveting two stones together"
   },
   {
     "word": "ROCKER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "(engineering) A rock shaft"
   },
   {
     "word": "BURR",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "(historical) A metal ring at the top of the hand-rest on a spear"
   },
   {
     "word": "HEADSTOCK",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "(mining) A headframe"
   },
   {
     "word": "RIND",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "An iron support fitting used on the upper millstone of a grist mill"
   },
   {
     "word": "QUANT",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "A vertical shaft used to drive a millstone"
   },
   {
     "word": "SHELL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "(geology) The accreted mineral formed around a hollow geode"
   },
   {
     "word": "SCRATCHBRUSH",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "A sturdy wire brush used for cleaning iron, silver and other metals"
   },
   {
     "word": "BEAKIRON",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "Alternative form of beak-iron. [The taper end of an anvil; also, a bickern.]"
   },
   {
     "word": "BICKERN",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "An anvil with two projecting taper ends"
   },
   {
     "word": "DOLLY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "(transitive) To beat (red-hot metal) with a hammer"
   },
   {
     "word": "TEEST",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "A small anvil"
   },
   {
     "word": "WEB",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "A thin metal sheet, plate, or strip, as of lead"
   },
   {
     "word": "FLAT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "(golf, of a golf club) Having a head at a very obtuse angle to the shaft"
   },
   {
     "word": "GRATES",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "anvil"
+    "sourceSeed": "anvil",
+    "clue": "A frame or bed, or kind of basket, of iron bars, for holding fuel while burning"
   },
   {
     "word": "MINESHAFT",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "A vertical hole through the strata to reach the mineral which is being mined"
   },
   {
     "word": "STULM",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A shaft, conduit, adit, or gallery to drain a mine"
   },
   {
     "word": "GROOVE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A shaft or excavation"
   },
   {
     "word": "ROAD",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "An underground tunnel in a mine"
   },
   {
     "word": "MINEWORK",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "The work carried out in a mine"
   },
   {
     "word": "UNDERLAYER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A perpendicular shaft sunk to cut the lode at any required depth"
   },
   {
     "word": "DRIFTWAY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A drift, or horizontal passage in a mine"
   },
   {
     "word": "MINESITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "The place where a mine (excavation) is located"
   },
   {
     "word": "HATCH",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) An opening into, or in search of, a mine"
   },
   {
     "word": "CAVE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A collapse or cave-in"
   },
   {
     "word": "DELF",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(archaic, UK, dialectal) A mine, quarry, pit dug; ditch"
   },
   {
     "word": "FLOOR",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) The bottom of a pit, pothole or mine"
   },
   {
     "word": "THIRL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining, obsolete) A long adit in a coalpit"
   },
   {
     "word": "OPENWORK",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A quarry; an open cut"
   },
   {
     "word": "WORKFACE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "The exposed surface, that is currently being worked, of an underground mine"
   },
   {
     "word": "BLASTHOLE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "The hole created by an explosion, for example, in mining"
   },
   {
     "word": "COUNTRY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) The rock through which a vein of ore or coal runs"
   },
   {
     "word": "STRADDLE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A vertical mine-timber supporting a set"
   },
   {
     "word": "WINDBORE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "The lower, or bottom, pipe in a lift of pumps in a mine"
   },
   {
     "word": "CRUT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A cross-measure tunnel or drift"
   },
   {
     "word": "HOLING",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) undercutting in a bed of coal in order to bring down the upper mass"
   },
   {
     "word": "SOLE",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) The seat or bottom of a mine; applied to horizontal veins or lodes"
   },
   {
     "word": "BASSETING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) The emergence of a stratum at the surface"
   },
   {
     "word": "WORKINGS",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "The parts of a quarry or mine that are being (or has been) worked"
   },
   {
     "word": "FOREFIELD",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(British, mining) The face of a mine working"
   },
   {
     "word": "TROUBLE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A fault or interruption in a stratum"
   },
   {
     "word": "DOWNWELL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "A vertical shaft or well in which water flows downward"
   },
   {
     "word": "TAIL",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A tailing"
   },
   {
     "word": "WINDWAY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining, historical) A wind road; a ventilation route in a mine"
   },
   {
     "word": "FOOTWALL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) The under wall of an enclosed vein"
   },
   {
     "word": "HARDGROUND",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A hard stratum of rock other than coal"
   },
   {
     "word": "STUDDLE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A prop supporting a platform in a mine"
   },
   {
     "word": "HEADWAY",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A crossheading"
   },
   {
     "word": "GULF",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A large deposit of ore in a lode"
   },
   {
     "word": "FORK",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) The bottom of a sump into which the water of a mine drains"
   },
   {
     "word": "DIBHOLE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(UK, mining) The lowest part of a mine, into which the water drains"
   },
   {
     "word": "GIRDLE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A thin bed or stratum of stone"
   },
   {
     "word": "SCALL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) Loose ground"
   },
   {
     "word": "STENTING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(UK, dialect) An opening in a wall in a coal mine"
   },
   {
     "word": "GOAF",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) The waste left in old mine workings; goafing"
   },
   {
     "word": "BORD",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) The coalface parallel to the natural fissures"
   },
   {
     "word": "HIGHWALL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) The unexcavated face of exposed overburden and coal in a surface mine"
   },
   {
     "word": "COALFACE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) The end of a drift, entry, or room in a coal mine"
   },
   {
     "word": "LONGWALL",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining, often attributive) A long wall of coal that is mined in a single slice"
   },
   {
     "word": "SQUEEZE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) The gradual closing of workings by the weight of the overlying strata"
   },
   {
     "word": "MINELIFE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "The operational lifespan of a mine (site for excavating resources)"
   },
   {
     "word": "MYNPACHT",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(South Africa) A mining lease"
   },
   {
     "word": "STANDAGE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(dated, mining) A reservoir of water accumulated at the bottom of a mine"
   },
   {
     "word": "SHIFT",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A breaking off and dislocation of a seam; a fault"
   },
   {
     "word": "PANEL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A heap of dressed ore"
   },
   {
     "word": "GLEBE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A piece of earth containing ore"
   },
   {
     "word": "DROPPER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A branch vein which drops off from, or leaves, the main lode"
   },
   {
     "word": "AIRWAY",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A roadway used for ventilation"
   },
   {
     "word": "HEADGEAR",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "The lifting gear at the head of a mine or deep well"
   },
   {
     "word": "GINGING",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) The lining of a shaft with stones or bricks to prevent collapse"
   },
   {
     "word": "BREAST",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) The face of a coal working"
   },
   {
     "word": "TRAM",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(obsolete) The shaft of a cart"
   },
   {
     "word": "WINDER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) An engine that raises and lowers the cages in a mine"
   },
   {
     "word": "STOOP",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(dialect) A post or pillar, especially a gatepost or a support in a mine"
   },
   {
     "word": "STOOPS",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(dialect) A post or pillar, especially a gatepost or a support in a mine"
   },
   {
     "word": "SURFACE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(intransitive) To work a mine near the surface"
   },
   {
     "word": "HOTBOX",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(engineering) An overheated shaft bearing"
   },
   {
     "word": "SOCKET",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "A steel apparatus attached to a saddle to protect the thighs and legs"
   },
   {
     "word": "HAULER",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "A miner who hauls coal from the coalface to the bottom of the shaft"
   },
   {
     "word": "HAULIER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mine shaft"
+    "sourceSeed": "mine shaft",
+    "clue": "(mining) A miner who hauls coal from the coalface to the bottom of the shaft"
   },
   {
     "word": "CONTAINER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "(transport) A very large, typically metal, box used for transporting goods"
   },
   {
     "word": "CASING",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "(oil industry) A metal pipe used to line the borehole of a well"
   },
   {
     "word": "POT",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "(historical) An iron hat with a broad brim worn as a helmet"
   },
   {
     "word": "PONDOKKIE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "In Africa, a primitive makeshift shelter, often made with iron or tin"
   },
   {
     "word": "ENAMEL",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "An opaque, glassy coating baked onto metal or ceramic objects"
   },
   {
     "word": "REPOUSSE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "A raised design hammered in metal"
   },
   {
     "word": "BEECHWOOD",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "An unincorporated community in Iron County, Michigan, United States"
   },
   {
     "word": "FERRUMINATION",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "(obsolete) The soldering or uniting of metals"
   },
   {
     "word": "METALLIFORM",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "(archaic) Having the form or structure of a metal"
   },
   {
     "word": "CHALCOGRAPHER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "An engraver of copper plates for printing upon paper"
   },
   {
     "word": "BLOWTUBE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "A blowpipe (used in metallurgy, etc.)"
   },
   {
     "word": "CAPSULE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "A small cup or shell, often of metal, for a percussion cap, cartridge, etc"
   },
   {
     "word": "DOMEYKITE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "(mineralogy) An isometric copper arsenide mineral, Cu₃As"
   },
   {
     "word": "FEATHER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "One of the fins or wings on the shaft of an arrow"
   },
   {
     "word": "FOLIATE",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "(transitive) (obsolete) To beat (metal) into a foil or thin sheet"
   },
   {
     "word": "FOLIATION",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "The act of beating a metal into a thin plate, leaf, foil, or lamina"
   },
   {
     "word": "FOUNTAIN",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "An unincorporated community in Mineral County, West Virginia, United States"
   },
   {
     "word": "QUICKSILVER",
     "category": "metals",
     "tier": "legendary",
-    "sourceSeed": "tin"
+    "sourceSeed": "tin",
+    "clue": "The metal mercury"
   },
   {
     "word": "ROCK",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(geology) Any natural material with a distinctive composition of minerals"
   },
   {
     "word": "SILICON",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(chemistry, countable) A single atom of this element"
   },
   {
     "word": "CORROSION",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "metal"
+    "sourceSeed": "metal",
+    "clue": "(physical chemistry) Erosion by chemical action, especially oxidation"
   },
   {
     "word": "RAW",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "Subsisting on, or pertaining to, a diet of raw food"
   },
   {
     "word": "VEIN",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(geology) A sheetlike body of crystallized minerals within a rock"
   },
   {
     "word": "OXIDE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(chemistry) A binary chemical compound of oxygen with another chemical element"
   },
   {
     "word": "BAND",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "ore"
+    "sourceSeed": "ore",
+    "clue": "(physics) A part of the electromagnetic spectrum"
   },
   {
     "word": "BEARD",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "smithing"
+    "sourceSeed": "smithing",
+    "clue": "(botany) Long or stiff hairs on a plant; the awn"
   },
   {
     "word": "ORGANIC",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "mineral"
+    "sourceSeed": "mineral",
+    "clue": "(biology) Pertaining to or derived from living organisms"
   },
   {
     "word": "CARRIER",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "iron"
+    "sourceSeed": "iron",
+    "clue": "(physics, electronics) A charge carrier"
   },
   {
     "word": "BLADE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "(botany) The thin, flat part of a plant leaf, attached to a stem (petiole)"
   },
   {
     "word": "ACID",
     "category": "metals",
     "tier": "easy",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "(chemistry) Any compound that easily donates protons to a base; a Brønsted acid"
   },
   {
     "word": "ARSENIC",
     "category": "metals",
     "tier": "hard",
-    "sourceSeed": "steel"
+    "sourceSeed": "steel",
+    "clue": "(chemistry) Of or containing arsenic with a valence of 5"
   },
   {
     "word": "NOBLE",
     "category": "metals",
     "tier": "medium",
-    "sourceSeed": "gold"
-  },
-  {
-    "word": "COOPERITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "cobalt"
-  },
-  {
-    "word": "CALCIDE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "cobalt"
-  },
-  {
-    "word": "HASTITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "cobalt"
-  },
-  {
-    "word": "HETEROGENITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "cobalt"
-  },
-  {
-    "word": "GAHNITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "zinc"
-  },
-  {
-    "word": "MARMATITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "zinc"
-  },
-  {
-    "word": "SPELT",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "zinc"
-  },
-  {
-    "word": "TROOSTITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "zinc"
-  },
-  {
-    "word": "VITRIOL",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "zinc"
-  },
-  {
-    "word": "ELECTROLESS",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "NIFE",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "NATRONIOBITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "NEPOUITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "FERRONIOBIUM",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "ZINCKENITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "MELONITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "OCTASILVER",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "TSNIGRIITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "AWARUITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "NITRATINE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "OREGONITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "FERRONIGERITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "ATAXITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "ELECTROPLATED",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "EPNS",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "GROSCHEN",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "SIDEROLITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "SLOT",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "nickel"
-  },
-  {
-    "word": "MENACHIN",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "titanium"
-  },
-  {
-    "word": "ILMENORUTILE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "titanium"
-  },
-  {
-    "word": "ARIZONITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "titanium"
-  },
-  {
-    "word": "TAZHERANITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "titanium"
-  },
-  {
-    "word": "OCTAHEDRITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "titanium"
-  },
-  {
-    "word": "SATURNITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "platinum"
-  },
-  {
-    "word": "PENTASILVER",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "platinum"
-  },
-  {
-    "word": "CHELATED",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "platinum"
-  },
-  {
-    "word": "TUNGSTENITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "tungsten"
-  },
-  {
-    "word": "WELINITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "tungsten"
-  },
-  {
-    "word": "WODGINITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "tungsten"
-  },
-  {
-    "word": "SCHEELIUM",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "tungsten"
-  },
-  {
-    "word": "WALFORDITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "tungsten"
-  },
-  {
-    "word": "WULFENITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "tungsten"
-  },
-  {
-    "word": "WELSHITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "tungsten"
-  },
-  {
-    "word": "FOYER",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "furnace"
-  },
-  {
-    "word": "FETTLER",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "furnace"
-  },
-  {
-    "word": "COCKLE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "furnace"
-  },
-  {
-    "word": "CRESSET",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "furnace"
-  },
-  {
-    "word": "LEADERS",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "furnace"
-  },
-  {
-    "word": "LUNETTE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "furnace"
-  },
-  {
-    "word": "PUDDLE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "furnace"
-  },
-  {
-    "word": "RABBLE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "furnace"
-  },
-  {
-    "word": "CALORIZER",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "crucible"
-  },
-  {
-    "word": "TEEM",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "crucible"
-  },
-  {
-    "word": "FOREBREAST",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "foundry"
-  },
-  {
-    "word": "FONT",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "foundry"
-  },
-  {
-    "word": "FERROD",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "foundry"
-  },
-  {
-    "word": "SQUEEZER",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "foundry"
-  },
-  {
-    "word": "HAPKEITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "SIENNA",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "ZIRCOSULFATE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "SIDERAZOTE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "SIDEROTIL",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "SIDEROSIS",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "SPANGLE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "STRONTIAN",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "SANTITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "METASTIBNITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "SCHORLOMITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "SZOMOLNOKITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "FLUXSTONE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "FERROSULFIDE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "DUFRENOYSITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "sinter"
-  },
-  {
-    "word": "FILLET",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "weld"
-  },
-  {
-    "word": "SHUT",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "weld"
-  },
-  {
-    "word": "SKELP",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "weld"
-  },
-  {
-    "word": "STAVE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "weld"
-  },
-  {
-    "word": "STOPPING",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "weld"
-  },
-  {
-    "word": "MARTENSITIC",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "weld"
-  },
-  {
-    "word": "CALIPERS",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "tongs"
-  },
-  {
-    "word": "PICKUPS",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "tongs"
-  },
-  {
-    "word": "LOOM",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "tongs"
-  },
-  {
-    "word": "THOLE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "tongs"
-  },
-  {
-    "word": "MAUNDRIL",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "tongs"
-  },
-  {
-    "word": "HOOK",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "tongs"
-  },
-  {
-    "word": "SHIM",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "tongs"
-  },
-  {
-    "word": "GRAPNEL",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "tongs"
-  },
-  {
-    "word": "STRAIGHTENER",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "tongs"
-  },
-  {
-    "word": "STICK",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "tongs"
-  },
-  {
-    "word": "BELLBOX",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "bellows"
-  },
-  {
-    "word": "PULSATOR",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "bellows"
-  },
-  {
-    "word": "ROLLER",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "bellows"
-  },
-  {
-    "word": "FEEDER",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "bellows"
-  },
-  {
-    "word": "SLIPE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "sledge"
-  },
-  {
-    "word": "STOB",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "sledge"
-  },
-  {
-    "word": "SQUOYLE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "sledge"
-  },
-  {
-    "word": "STALE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "sledge"
-  },
-  {
-    "word": "SLAT",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "sledge"
-  },
-  {
-    "word": "STOPER",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "sledge"
-  },
-  {
-    "word": "SPEEL",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "sledge"
-  },
-  {
-    "word": "SPLINT",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "sledge"
-  },
-  {
-    "word": "PLOUGHHEAD",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "sledge"
-  },
-  {
-    "word": "RUNNER",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "sledge"
-  },
-  {
-    "word": "PEEN",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "sledge"
-  },
-  {
-    "word": "SLIPES",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "sledge"
-  },
-  {
-    "word": "COFFIN",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "sledge"
-  },
-  {
-    "word": "SHUTTLE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "tuyere"
-  },
-  {
-    "word": "THERMOWELL",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "tuyere"
-  },
-  {
-    "word": "ROUSER",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "tuyere"
-  },
-  {
-    "word": "FERRULE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "tuyere"
-  },
-  {
-    "word": "HOOP",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "tuyere"
-  },
-  {
-    "word": "LUGS",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "tuyere"
-  },
-  {
-    "word": "VEINSTONE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "gossan"
-  },
-  {
-    "word": "GEERITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "gossan"
-  },
-  {
-    "word": "XOCOMECATLITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "gossan"
-  },
-  {
-    "word": "GORMANITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "gossan"
-  },
-  {
-    "word": "RIDER",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "gossan"
-  },
-  {
-    "word": "MGRIITE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "gossan"
-  },
-  {
-    "word": "OOID",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "gossan"
-  },
-  {
-    "word": "GROSSULAR",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "gossan"
-  },
-  {
-    "word": "OLIGOSIDERITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "gossan"
-  },
-  {
-    "word": "SUPERGENE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "gossan"
-  },
-  {
-    "word": "GOAFING",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "SWAD",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "SLACK",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "SLUDS",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "SLUMGULLION",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "TAILS",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "SMUT",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "STOCKPILE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "SULLAGE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "SHOAD",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "RAMBLE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "DIRT",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "WASHOUT",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "LANGRAGE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "CLEARER",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "STREAMWORK",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "WASHDIRT",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "CRAUNCH",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "BUSHELING",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "SANDBED",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "STOWBOARD",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "SCRAPNEL",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "RIPPER",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "WITTS",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "BERRY",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "SMEDDUM",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "BOGGER",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "SELVAGE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "slag"
-  },
-  {
-    "word": "TIDE",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "flux"
-  },
-  {
-    "word": "SPEED",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "flux"
-  },
-  {
-    "word": "METALLOID",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "metallic"
-  },
-  {
-    "word": "BRONZY",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "metallic"
-  },
-  {
-    "word": "IRONLIKE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "metallic"
-  },
-  {
-    "word": "METALLICK",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "metallic"
-  },
-  {
-    "word": "METALLED",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "metallic"
-  },
-  {
-    "word": "MAGNETITIC",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "metallic"
-  },
-  {
-    "word": "METALLOSTATIC",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "metallic"
-  },
-  {
-    "word": "BRONZEN",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "metallic"
-  },
-  {
-    "word": "MASTODONIAN",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "metallic"
-  },
-  {
-    "word": "BANG",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "metallic"
-  },
-  {
-    "word": "CHINK",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "metallic"
-  },
-  {
-    "word": "FERRUGINEOUS",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "ferrous"
-  },
-  {
-    "word": "FERRIFEROUS",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "ferrous"
-  },
-  {
-    "word": "SIDEROUS",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "ferrous"
-  },
-  {
-    "word": "FERROAN",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "ferrous"
-  },
-  {
-    "word": "CHALYBEOUS",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "ferrous"
-  },
-  {
-    "word": "FERREOUS",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "ferrous"
-  },
-  {
-    "word": "FERRIVOROUS",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "ferrous"
-  },
-  {
-    "word": "FERROKINETIC",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "ferrous"
-  },
-  {
-    "word": "AURIGEROUS",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "ferrous"
-  },
-  {
-    "word": "SIDEROGRAPHIC",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "ferrous"
-  },
-  {
-    "word": "ERYTHRITIC",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "ferrous"
-  },
-  {
-    "word": "REROLLABLE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "ductile"
-  },
-  {
-    "word": "ALLOYABLE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "ductile"
-  },
-  {
-    "word": "FORGEABLE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "ductile"
-  },
-  {
-    "word": "DUCTILIMETER",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "ductile"
-  },
-  {
-    "word": "BAL",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "bar"
-  },
-  {
-    "word": "RODS",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "bar"
-  },
-  {
-    "word": "RAILS",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "bar"
-  },
-  {
-    "word": "ROTOR",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "bar"
-  },
-  {
-    "word": "DRAWER",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "sheet"
-  },
-  {
-    "word": "PLUG",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "sheet"
-  },
-  {
-    "word": "LOG",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "sheet"
-  },
-  {
-    "word": "HEADSHEET",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "sheet"
-  },
-  {
-    "word": "GAUZE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "sheet"
-  },
-  {
-    "word": "PACK",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "sheet"
-  },
-  {
-    "word": "SATIN",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "sheet"
-  },
-  {
-    "word": "SECTION",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "sheet"
-  },
-  {
-    "word": "STRING",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "WHISKER",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "WIREDRAWER",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "MAIL",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "SPLINE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "HEADPIN",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "GRILLWORK",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "STABILE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "SHAVING",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "CLEAT",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "CRIMPER",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "PYLON",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "CAGER",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "CARD",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "COMB",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "TRUNCHEON",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "rod"
-  },
-  {
-    "word": "STUD",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "rod"
-  },
-  {
-    "word": "JOURNAL",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "rod"
-  },
-  {
-    "word": "VERGE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "rod"
-  },
-  {
-    "word": "ELECTROMAGNET",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "rod"
-  },
-  {
-    "word": "HACKLE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "rod"
-  },
-  {
-    "word": "SETBOLT",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "rod"
-  },
-  {
-    "word": "GAVELOCK",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "rod"
-  },
-  {
-    "word": "SKEWER",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "rod"
-  },
-  {
-    "word": "TOGGLE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "rod"
-  },
-  {
-    "word": "TRACTOR",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "rod"
-  },
-  {
-    "word": "BRAT",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "rod"
-  },
-  {
-    "word": "COLLAR",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "rod"
-  },
-  {
-    "word": "QUILL",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "pipe"
-  },
-  {
-    "word": "CROSS",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "pipe"
-  },
-  {
-    "word": "HYDRAULIC",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "pipe"
-  },
-  {
-    "word": "BEND",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "pipe"
-  },
-  {
-    "word": "TROUGH",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "tube"
-  },
-  {
-    "word": "BOTTLEBRUSH",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "tube"
-  },
-  {
-    "word": "BOMBILLA",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "tube"
-  },
-  {
-    "word": "REACTIVE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "conductive"
-  },
-  {
-    "word": "GAUGE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "wire"
-  },
-  {
-    "word": "TARNISH",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "rust"
-  },
-  {
-    "word": "SIDEROTECHNY",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "rust"
-  },
-  {
-    "word": "FERROZINE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "rust"
-  },
-  {
-    "word": "FERRIHYDRITE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "rust"
-  },
-  {
-    "word": "CANKER",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "rust"
-  },
-  {
-    "word": "FERRUGINATED",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "rust"
-  },
-  {
-    "word": "POUNCE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "patina"
-  },
-  {
-    "word": "STEELPANNIST",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "patina"
-  },
-  {
-    "word": "PERPYNE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "patina"
-  },
-  {
-    "word": "WASH",
-    "category": "metals",
-    "tier": "easy",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "BONDERIZE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "COPPERIZE",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "BESILVER",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "QUICK",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "ENSILVER",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "OVERSILVER",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "AMALGAMATIZE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "RECOPPER",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "FOUND",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "POLYGONIZE",
-    "category": "metals",
-    "tier": "legendary",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "BEGOLD",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "MERCURIFY",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "SPIKE",
-    "category": "metals",
-    "tier": "medium",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "STONIFY",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "galvanize"
-  },
-  {
-    "word": "ZINCING",
-    "category": "metals",
-    "tier": "hard",
-    "sourceSeed": "galvanize"
+    "sourceSeed": "gold",
+    "clue": "(chemistry) Of an element, unreactive"
   }
 ]

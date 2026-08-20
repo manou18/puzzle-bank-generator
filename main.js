@@ -85,16 +85,31 @@ function hintLeaksWord(word, hint) {
   return h.includes(w);
 }
 
-function buildHintPrompt(category, tier, words, extraReminder = "") {
-  const wordsListStr = JSON.stringify(words);
+function buildHintPrompt(category, tier, items, extraReminder = "") {
+  const wordLines = items
+    .map((it) => {
+      const sense = it.clue
+        ? `Reference sense it was approved under: "${it.clue}"`
+        : "No reference sense provided — use your best judgment for the category.";
+      return `- "${it.word}". ${sense}`;
+    })
+    .join("\n");
+
   return `
     You are given a list of ALREADY APPROVED words for a word puzzle game.
     Category: ${category}
     Difficulty tier: ${tier}
-    Words: ${wordsListStr}
+    Words:
+    ${wordLines}
 
-    For EACH word in the list, write one concise, clear, accurate hint.
+    For EACH word listed above, write one concise, clear, accurate hint.
     - Do NOT invent, skip, merge, or reorder words. Return exactly one entry per input word.
+    - CRITICAL — many English words have several unrelated meanings. When a reference sense is
+      given for a word, your hint MUST describe THAT SPECIFIC sense, not a different (possibly
+      more common) meaning of the same word that has nothing to do with "${category}". For
+      example, if "cast" was approved under the knitting sense "to set up the initial row of
+      stitches", write the hint about that knitting action — not about acting in a play or
+      casting a fishing line.
     - The hint must NEVER contain the target word itself in any form — not as a whole word,
       and not as a substring inside a longer word. For example, if the word is "meter", never
       use "centimeters"; if the word is "south", never use "southern"; if the word is "rule",
@@ -107,9 +122,9 @@ function buildHintPrompt(category, tier, words, extraReminder = "") {
   `;
 }
 
-async function callGeminiOnce(category, tier, words, extraReminder = "") {
+async function callGeminiOnce(category, tier, items, extraReminder = "") {
   const body = {
-    contents: [{ role: "user", parts: [{ text: buildHintPrompt(category, tier, words, extraReminder) }] }],
+    contents: [{ role: "user", parts: [{ text: buildHintPrompt(category, tier, items, extraReminder) }] }],
     generationConfig: {
       responseMimeType: "application/json",
       temperature: 0.5, // أقل من نسخة توليد الكلمات، لأن هذا وصف لكلمة معروفة لا اختراع
@@ -140,20 +155,25 @@ async function callGeminiOnce(category, tier, words, extraReminder = "") {
   return data;
 }
 
-async function fetchHintsForBatch(category, tier, words, retries = 3) {
+/**
+ * items: [{ word, clue }] — clue هو التعريف/المعنى المحدد اللي خلى الكلمة تُعتمد أصلاً
+ * (اختياري، ممكن يكون null لملفات approved_words.json قديمة ما فيها هذا الحقل).
+ */
+async function fetchHintsForBatch(category, tier, items, retries = 3) {
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
-      let data = await callGeminiOnce(category, tier, words);
+      let data = await callGeminiOnce(category, tier, items);
 
       // فحص إفشاء الكلمة داخل تلميحها — نفصل الصالح عن المسرّب.
       const leaked = data.filter((h) => hintLeaksWord(h?.word ?? "", h?.hint ?? ""));
       let clean = data.filter((h) => !hintLeaksWord(h?.word ?? "", h?.hint ?? ""));
 
       if (leaked.length > 0) {
-        const leakedWords = leaked.map((h) => h.word);
+        const leakedWords = new Set(leaked.map((h) => h.word));
+        const leakedItems = items.filter((it) => leakedWords.has(it.word));
         log.warning(
           `⚠️ ${leaked.length} تلميح يفشي الكلمة نفسها بدفعة (${category}/${tier}): ${JSON.stringify(
-            leakedWords
+            [...leakedWords]
           )} — محاولة إعادة صياغة...`
         );
         try {
@@ -161,7 +181,7 @@ async function fetchHintsForBatch(category, tier, words, retries = 3) {
             "IMPORTANT: your previous attempt at these exact words accidentally included the " +
             "target word (or it as a substring of another word) in the hint. Rewrite completely " +
             "differently this time, describing the concept without using any word containing those letters in sequence.";
-          const fixed = await callGeminiOnce(category, tier, leakedWords, retryReminder);
+          const fixed = await callGeminiOnce(category, tier, leakedItems, retryReminder);
           for (const h of fixed) {
             if (!hintLeaksWord(h?.word ?? "", h?.hint ?? "")) {
               clean.push(h);
@@ -187,7 +207,7 @@ async function fetchHintsForBatch(category, tier, words, retries = 3) {
     }
   }
 
-  log.error(`❌ فشلت كل المحاولات لدفعة (${category}/${tier}) بحجم ${words.length}`);
+  log.error(`❌ فشلت كل المحاولات لدفعة (${category}/${tier}) بحجم ${items.length}`);
   return [];
 }
 
@@ -203,10 +223,13 @@ async function loadApprovedWords(inputPath) {
     const category = String(item.category ?? "").trim();
     const tier = String(item.tier ?? "").trim() || "medium";
     const sourceSeed = item.sourceSeed ?? null;
+    // Optional — only present in files exported after this field was added. Absent for older
+    // approved_words.json files, which still work fine; they just lose the sense-grounding below.
+    const clue = item.clue ? String(item.clue).trim() : null;
 
     if (!word || !category || seen.has(word)) continue;
     seen.add(word);
-    cleaned.push({ word, category, tier, sourceSeed });
+    cleaned.push({ word, category, tier, sourceSeed, clue });
   }
 
   log.info(`📥 تم تحميل ${cleaned.length} كلمة معتمدة من ${inputPath}`);
@@ -219,7 +242,7 @@ async function loadExistingOutput(outputPath) {
     try {
       const jsonStr = await fsp.readFile(outputPath, "utf-8");
       const puzzles = JSON.parse(jsonStr);
-      const doneWords = new Set(puzzles.map((p) => p.word));
+      const doneWords = new Set(puzzles.map((p) => String(p.word).trim().toLowerCase()));
       const nextId = puzzles.reduce((max, p) => Math.max(max, p.id), 0) + 1;
       log.info(`🔄 استئناف: ${puzzles.length} لغز بتلميحات جاهزة مسبقاً.`);
       return { puzzles, doneWords, nextId };
@@ -275,7 +298,6 @@ async function generateHintsForApprovedWords(inputPath, outputPath, batchSize = 
   for (const [key, items] of remainingByCombo) {
     const [category, tier] = key.split("\u0000");
     let comboFailures = 0;
-    const wordLookup = new Map(items.map((i) => [i.word, i]));
 
     for (const batch of chunked(items, batchSize)) {
       if (comboFailures >= MAX_CONSECUTIVE_FAILURES_PER_COMBO) {
@@ -283,8 +305,7 @@ async function generateHintsForApprovedWords(inputPath, outputPath, batchSize = 
         break;
       }
 
-      const batchWords = batch.map((b) => b.word);
-      const hintsData = await fetchHintsForBatch(category, tier, batchWords);
+      const hintsData = await fetchHintsForBatch(category, tier, batch);
 
       if (!hintsData.length) {
         comboFailures += 1;
@@ -302,20 +323,20 @@ async function generateHintsForApprovedWords(inputPath, outputPath, batchSize = 
 
       let addedInBatch = 0;
       const missingWords = [];
-      for (const word of batchWords) {
+      for (const item of batch) {
+        const word = item.word;
         const hint = hintByWord.get(word);
         if (!hint) {
           missingWords.push(word);
           continue;
         }
-        const src = wordLookup.get(word);
         puzzles.push({
           id: puzzleId,
           category,
           tier,
           word,
           hint,
-          sourceSeed: src.sourceSeed ?? null,
+          sourceSeed: item.sourceSeed ?? null,
         });
         puzzleId += 1;
         addedInBatch += 1;

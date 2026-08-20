@@ -1,0 +1,786 @@
+[
+  {
+    "id": 1,
+    "category": "metals",
+    "tier": "medium",
+    "word": "bronze",
+    "hint": "A classic alloy of copper and tin often used for third-place medals.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 2,
+    "category": "metals",
+    "tier": "medium",
+    "word": "silver",
+    "hint": "A shiny white precious element prized for jewelry and second-place medals.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 3,
+    "category": "metals",
+    "tier": "medium",
+    "word": "alloy",
+    "hint": "A metallic substance made by mixing two or more elements together.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 4,
+    "category": "metals",
+    "tier": "medium",
+    "word": "steel",
+    "hint": "A strong, common metallic mixture made primarily of iron and carbon.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 5,
+    "category": "metals",
+    "tier": "medium",
+    "word": "mining",
+    "hint": "The industrial process of extracting ores and valuable minerals from the earth.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 6,
+    "category": "metals",
+    "tier": "medium",
+    "word": "copper",
+    "hint": "A reddish-brown element that is an excellent conductor of electricity.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 7,
+    "category": "metals",
+    "tier": "medium",
+    "word": "pewter",
+    "hint": "A malleable mixture traditionally composed mainly of tin with lead or antimony.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 8,
+    "category": "metals",
+    "tier": "medium",
+    "word": "allay",
+    "hint": "To diminish, soothe, or put fears and doubts to rest.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 9,
+    "category": "metals",
+    "tier": "medium",
+    "word": "anneal",
+    "hint": "Heat treatment that softens a material to improve its ductility and reduce internal stress.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 10,
+    "category": "metals",
+    "tier": "medium",
+    "word": "anvil",
+    "hint": "A heavy iron block upon which hot items are shaped with a hammer.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 11,
+    "category": "metals",
+    "tier": "medium",
+    "word": "assay",
+    "hint": "To analyze an ore or composition to determine its quality and precious content.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 12,
+    "category": "metals",
+    "tier": "medium",
+    "word": "blanch",
+    "hint": "To whiten or pale, such as using acid to clean an oxidized metallic surface.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 13,
+    "category": "metals",
+    "tier": "medium",
+    "word": "chase",
+    "hint": "To engrave or emboss decorative designs onto a hard surface using punches.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 14,
+    "category": "metals",
+    "tier": "medium",
+    "word": "chrome",
+    "hint": "A bright, reflective layer made from chromium, often seen on vehicle bumpers.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 15,
+    "category": "metals",
+    "tier": "medium",
+    "word": "cupel",
+    "hint": "A small, porous vessel used in refining precious elements to absorb impurities.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 16,
+    "category": "metals",
+    "tier": "medium",
+    "word": "dross",
+    "hint": "The scum or waste material that forms on the surface of molten liquids.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 17,
+    "category": "metals",
+    "tier": "medium",
+    "word": "elixir",
+    "hint": "A magical potion historically sought by alchemists to transform base items into gold.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 18,
+    "category": "metals",
+    "tier": "medium",
+    "word": "forge",
+    "hint": "A specialized workshop or hearth where hot items are shaped with a hammer.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 19,
+    "category": "metals",
+    "tier": "medium",
+    "word": "forger",
+    "hint": "A craftsperson who shapes heated material, or one who creates illegal copies.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 20,
+    "category": "metals",
+    "tier": "medium",
+    "word": "ingot",
+    "hint": "A mass of precious material cast into a standardized shape like a bar for storage.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 21,
+    "category": "metals",
+    "tier": "medium",
+    "word": "magnet",
+    "hint": "An object that produces an invisible field to attract iron and nickel.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 22,
+    "category": "metals",
+    "tier": "medium",
+    "word": "patina",
+    "hint": "A greenish film that forms naturally on copper or bronze over time due to oxidation.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 23,
+    "category": "metals",
+    "tier": "medium",
+    "word": "plate",
+    "hint": "To coat an object with a thin layer of another precious material.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 24,
+    "category": "metals",
+    "tier": "medium",
+    "word": "plated",
+    "hint": "Covered in a thin outer layer of precious material via electrolysis or heat.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 25,
+    "category": "metals",
+    "tier": "medium",
+    "word": "stope",
+    "hint": "An open step-like excavation underground where valuable ore is extracted.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 26,
+    "category": "metals",
+    "tier": "medium",
+    "word": "barite",
+    "hint": "A dense barium sulfate mineral commonly utilized to increase fluid weight in drilling operations.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 27,
+    "category": "metals",
+    "tier": "medium",
+    "word": "sinter",
+    "hint": "To coalesce powdered material into a solid mass using heat without melting it completely.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 28,
+    "category": "metals",
+    "tier": "medium",
+    "word": "gangue",
+    "hint": "The commercially worthless rock or sediment surrounding valuable ore in a deposit.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 29,
+    "category": "metals",
+    "tier": "medium",
+    "word": "galena",
+    "hint": "A heavy gray sulfide mineral that stands as the primary source material for lead.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 30,
+    "category": "metals",
+    "tier": "medium",
+    "word": "brood",
+    "hint": "Impurities or worthless rocky refuse separated from useful ore during early refining.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 31,
+    "category": "metals",
+    "tier": "medium",
+    "word": "grate",
+    "hint": "A heavy iron grid of parallel bars used to hold fuel or screen large stones.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 32,
+    "category": "metals",
+    "tier": "medium",
+    "word": "matte",
+    "hint": "An intermediate molten sulfur compound of copper or nickel produced during furnace smelting.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 33,
+    "category": "metals",
+    "tier": "medium",
+    "word": "metal",
+    "hint": "A shiny, malleable, and electrically conductive substance like iron, copper, or gold.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 34,
+    "category": "metals",
+    "tier": "medium",
+    "word": "scoria",
+    "hint": "Dark vesicular byproduct similar to volcanic rock or slag formed during high-heat processing.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 35,
+    "category": "metals",
+    "tier": "medium",
+    "word": "trunk",
+    "hint": "A long wooden box or sluice channel used to wash crushed minerals in running water.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 36,
+    "category": "metals",
+    "tier": "medium",
+    "word": "assays",
+    "hint": "Chemical evaluations conducted to determine the precise purity and proportion of fine materials.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 37,
+    "category": "metals",
+    "tier": "medium",
+    "word": "bucker",
+    "hint": "A tool or person employed to break down raw chunks of ore on a flat plate.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 38,
+    "category": "metals",
+    "tier": "medium",
+    "word": "bunny",
+    "hint": "A localized mass or isolated pocket of rich ore found away from the main lode.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 39,
+    "category": "metals",
+    "tier": "medium",
+    "word": "burden",
+    "hint": "The depth or volume of rock standing between an explosive placement and the open cavern face.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 40,
+    "category": "metals",
+    "tier": "medium",
+    "word": "crater",
+    "hint": "A large bowl-shaped depression left in earth or rock after a powerful explosive detonation.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 41,
+    "category": "metals",
+    "tier": "medium",
+    "word": "deads",
+    "hint": "Barren stone or waste material inside a subterranean passage containing no recoverable wealth.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 42,
+    "category": "metals",
+    "tier": "medium",
+    "word": "dozen",
+    "hint": "A standard numerical grouping equal to twelve, historically used to tally extracted lots.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 43,
+    "category": "metals",
+    "tier": "medium",
+    "word": "dredge",
+    "hint": "A heavy barge or machine equipped to scoop rich silt and sediment from river bottoms.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 44,
+    "category": "metals",
+    "tier": "medium",
+    "word": "hybrid",
+    "hint": "Formed by combining disparate elements or different material structures into a single composite.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 45,
+    "category": "metals",
+    "tier": "medium",
+    "word": "monel",
+    "hint": "A tough, corrosion-resistant alloy made predominantly of nickel alongside copper.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 46,
+    "category": "metals",
+    "tier": "medium",
+    "word": "occamy",
+    "hint": "A legendary serpentine creature in fantasy lore famed for laying shells made of pure silver.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 47,
+    "category": "metals",
+    "tier": "medium",
+    "word": "zicral",
+    "hint": "A high-strength aluminum alloy blended with zinc, widely used in aviation engineering.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 48,
+    "category": "metals",
+    "tier": "medium",
+    "word": "ormolu",
+    "hint": "A gold-colored brass alloy historically applied as an ornate finish on bronze furnishings.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 49,
+    "category": "metals",
+    "tier": "medium",
+    "word": "chain",
+    "hint": "Connected series of metal rings or links.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 50,
+    "category": "metals",
+    "tier": "medium",
+    "word": "ferric",
+    "hint": "Containing or relating to iron, especially in its trivalent state.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 51,
+    "category": "metals",
+    "tier": "medium",
+    "word": "rebar",
+    "hint": "Steel rod used to reinforce concrete structures.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 52,
+    "category": "metals",
+    "tier": "medium",
+    "word": "brand",
+    "hint": "To mark hot metal or livestock using a heated iron tool.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 53,
+    "category": "metals",
+    "tier": "medium",
+    "word": "sheet",
+    "hint": "A broad, thin piece or panel of rolled metal.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 54,
+    "category": "metals",
+    "tier": "medium",
+    "word": "horse",
+    "hint": "A frame or trestle used to support metalworking pieces or pipes.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 55,
+    "category": "metals",
+    "tier": "medium",
+    "word": "ferrum",
+    "hint": "The original Latin name and symbol source for iron.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 56,
+    "category": "metals",
+    "tier": "medium",
+    "word": "ironer",
+    "hint": "A machine or person that presses heated metal or flattens materials.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 57,
+    "category": "metals",
+    "tier": "medium",
+    "word": "larget",
+    "hint": "An old term for a small bar or ingot of metal ready for rolling.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 58,
+    "category": "metals",
+    "tier": "medium",
+    "word": "mitis",
+    "hint": "A type of soft, ductile cast steel made by adding aluminum.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 59,
+    "category": "metals",
+    "tier": "medium",
+    "word": "lancet",
+    "hint": "A small, sharp surgical blade or piercing metal tool.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 60,
+    "category": "metals",
+    "tier": "medium",
+    "word": "cramp",
+    "hint": "A device or iron frame used to hold pieces tightly together.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 61,
+    "category": "metals",
+    "tier": "medium",
+    "word": "maiden",
+    "hint": "A frame used in tinplate manufacturing to hold plates during dipping.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 62,
+    "category": "metals",
+    "tier": "medium",
+    "word": "wedge",
+    "hint": "Triangular tool used to split or secure metal objects.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 63,
+    "category": "metals",
+    "tier": "medium",
+    "word": "anchor",
+    "hint": "Heavy iron device dropped to secure a ship to the sea floor.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 64,
+    "category": "metals",
+    "tier": "medium",
+    "word": "forged",
+    "hint": "Shaped by heating and hammering steel or iron.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 65,
+    "category": "metals",
+    "tier": "medium",
+    "word": "billet",
+    "hint": "A semi-finished bar of steel or aluminum ready for processing.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 66,
+    "category": "metals",
+    "tier": "medium",
+    "word": "bloom",
+    "hint": "A large mass of wrought iron ready for further working.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 67,
+    "category": "metals",
+    "tier": "medium",
+    "word": "bluing",
+    "hint": "A chemical process that coats steel to prevent rust and give a dark finish.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 68,
+    "category": "metals",
+    "tier": "medium",
+    "word": "brace",
+    "hint": "A support or clamp used to strengthen or hold metal structures.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 69,
+    "category": "metals",
+    "tier": "medium",
+    "word": "hammer",
+    "hint": "Heavy hand tool used to strike and shape red-hot steel on an anvil.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 70,
+    "category": "metals",
+    "tier": "medium",
+    "word": "train",
+    "hint": "A series of connected rollers used in a mill to shape steel.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 71,
+    "category": "metals",
+    "tier": "medium",
+    "word": "strike",
+    "hint": "To hit a piece of metal sharply during forging or minting.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 72,
+    "category": "metals",
+    "tier": "medium",
+    "word": "lingot",
+    "hint": "An archaic term for a cast block of precious or base metal.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 73,
+    "category": "metals",
+    "tier": "medium",
+    "word": "grain",
+    "hint": "The microscopic crystal structure visible in a fractured metal piece.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 74,
+    "category": "metals",
+    "tier": "medium",
+    "word": "tatara",
+    "hint": "Traditional Japanese clay furnace used to smelt iron ore and produce steel.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 75,
+    "category": "metals",
+    "tier": "medium",
+    "word": "tedge",
+    "hint": "The small metal excess or sprue left on a casting where the molten material entered.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 76,
+    "category": "metals",
+    "tier": "medium",
+    "word": "cupola",
+    "hint": "A vertical blast furnace commonly used in foundries to melt pig iron.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 77,
+    "category": "metals",
+    "tier": "medium",
+    "word": "point",
+    "hint": "The sharpened end of a metal tool or nail designed to pierce or mark materials.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 78,
+    "category": "metals",
+    "tier": "medium",
+    "word": "cinder",
+    "hint": "Incombustible residue or slag left behind after smelting ore at high heat.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 79,
+    "category": "metals",
+    "tier": "medium",
+    "word": "drive",
+    "hint": "To force or hammer a metal pin, rivet, or wedge securely into position.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 80,
+    "category": "metals",
+    "tier": "medium",
+    "word": "faggot",
+    "hint": "A bound bundle of wrought iron bars or scrap prepared for reheating and forging.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 81,
+    "category": "metals",
+    "tier": "medium",
+    "word": "faked",
+    "hint": "Intentionally altered or artificially aged to simulate an authentic antique patina or precious alloy.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 82,
+    "category": "metals",
+    "tier": "medium",
+    "word": "false",
+    "hint": "Describing a counterfeit coin or temporary mold piece used in complex metal casting.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 83,
+    "category": "metals",
+    "tier": "medium",
+    "word": "cradle",
+    "hint": "A wooden rocker device used by early miners to wash gold from gravel and sand.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 84,
+    "category": "metals",
+    "tier": "medium",
+    "word": "tinner",
+    "hint": "An artisan who crafts or repairs household goods made from light metal sheets.",
+    "sourceSeed": "blacksmith"
+  },
+  {
+    "id": 85,
+    "category": "metals",
+    "tier": "medium",
+    "word": "plater",
+    "hint": "A metalworker specialized in applying thin protective or decorative coatings onto surfaces.",
+    "sourceSeed": "blacksmith"
+  },
+  {
+    "id": 86,
+    "category": "metals",
+    "tier": "medium",
+    "word": "brown",
+    "hint": "A classic protective oxidized finish applied to gun barrels and steel components.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 87,
+    "category": "metals",
+    "tier": "medium",
+    "word": "tawny",
+    "hint": "A warm, yellowish-dark hue often seen on aged copper, brass, or bronze surfaces.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 88,
+    "category": "metals",
+    "tier": "medium",
+    "word": "ochre",
+    "hint": "A natural earthy pigment composed primarily of hydrated iron oxide, ranging from yellow to reddish.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 89,
+    "category": "metals",
+    "tier": "medium",
+    "word": "potin",
+    "hint": "An ancient alloy composed of copper, lead, and zinc, historically used to mint coins.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 90,
+    "category": "metals",
+    "tier": "medium",
+    "word": "terne",
+    "hint": "A steel sheet coated with a lead alloy for rust resistance and roofing.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 91,
+    "category": "metals",
+    "tier": "medium",
+    "word": "aerugo",
+    "hint": "The greenish crust or rust that forms naturally on copper and bronze exposed to air.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 92,
+    "category": "metals",
+    "tier": "medium",
+    "word": "barrow",
+    "hint": "A handcart used in foundries and mines to transport heavy ores or slag.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 93,
+    "category": "metals",
+    "tier": "medium",
+    "word": "follis",
+    "hint": "A large bronze or copper coin introduced during the Roman Empire under Diocletian.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 94,
+    "category": "metals",
+    "tier": "medium",
+    "word": "penny",
+    "hint": "A small circulation coin historically minted from copper, bronze, or copper-plated zinc.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 95,
+    "category": "metals",
+    "tier": "medium",
+    "word": "tinsel",
+    "hint": "Decorative thin strips of shiny foil, originally made from beaten silver or copper.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 96,
+    "category": "metals",
+    "tier": "medium",
+    "word": "uncia",
+    "hint": "An ancient Roman bronze coin that represented one-twelfth of a standard base unit.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 97,
+    "category": "metals",
+    "tier": "medium",
+    "word": "knight",
+    "hint": "An armored warrior whose protective suit was forged from heavy steel plates.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 98,
+    "category": "metals",
+    "tier": "medium",
+    "word": "prill",
+    "hint": "A tiny bead or button of pure precious metal left behind after fire assaying.",
+    "sourceSeed": "copper"
+  }
+]

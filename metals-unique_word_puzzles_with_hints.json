@@ -782,5 +782,4237 @@
     "word": "prill",
     "hint": "A tiny bead or button of pure precious metal left behind after fire assaying.",
     "sourceSeed": "copper"
+  },
+  {
+    "id": 99,
+    "category": "metals",
+    "tier": "hard",
+    "word": "metallic",
+    "hint": "Describing qualities, luster, or resonance typical of heavy elemental substances like iron or copper.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 100,
+    "category": "metals",
+    "tier": "hard",
+    "word": "metallike",
+    "hint": "Possessing properties or an appearance similar to conductive elements without actually being one.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 101,
+    "category": "metals",
+    "tier": "hard",
+    "word": "bimetal",
+    "hint": "A composite strip or component constructed from two distinct conductive elements bonded together.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 102,
+    "category": "metals",
+    "tier": "hard",
+    "word": "foundry",
+    "hint": "The specialized craft or establishment dedicated to melting down conductive raw materials and pouring them into molds.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 103,
+    "category": "metals",
+    "tier": "hard",
+    "word": "mineral",
+    "hint": "Any naturally occurring, inorganic substance that is neither animal nor plant in origin.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 104,
+    "category": "metals",
+    "tier": "hard",
+    "word": "metalwork",
+    "hint": "The artisan craft of forging, shaping, or hammering conductive elemental materials into tools or decorative items.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 105,
+    "category": "metals",
+    "tier": "hard",
+    "word": "smelter",
+    "hint": "An industrial facility designed for extracting pure elements from raw mined ores using extreme heat.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 106,
+    "category": "metals",
+    "tier": "hard",
+    "word": "hardware",
+    "hint": "Durable physical items such as bolts, hinges, and structural fasteners crafted from conductive elements.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 107,
+    "category": "metals",
+    "tier": "hard",
+    "word": "platinum",
+    "hint": "A pale, silvery-grey shade named after a valuable, heavy element used in jewelry and catalysts.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 108,
+    "category": "metals",
+    "tier": "hard",
+    "word": "gallium",
+    "hint": "Element 31 on the periodic table, known for its remarkably low melting point that allows it to liquefy in a warm palm.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 109,
+    "category": "metals",
+    "tier": "hard",
+    "word": "antimony",
+    "hint": "A grey, brittle metalloid element historically known in raw form as stibnite, used in compounds and flame retardants.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 110,
+    "category": "metals",
+    "tier": "hard",
+    "word": "crystal",
+    "hint": "A highly ordered, translucent solid formation derived from inorganic compounds, exhibiting geometric facets.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 111,
+    "category": "metals",
+    "tier": "hard",
+    "word": "terranium",
+    "hint": "An imaginary, sci-fi elemental substance often referenced in fictional literature as a rare, highly durable material.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 112,
+    "category": "metals",
+    "tier": "hard",
+    "word": "nanoalloy",
+    "hint": "A microscopic blend formed by combining particles of two or more conductive elements at an atomic scale.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 113,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ferrite",
+    "hint": "A pure, soft magnetic phase of iron featuring a body-centered cubic crystalline lattice structure.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 114,
+    "category": "metals",
+    "tier": "hard",
+    "word": "plating",
+    "hint": "An outer surface layer applied electrochemically to protect or decorate an underlying base element.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 115,
+    "category": "metals",
+    "tier": "hard",
+    "word": "amalgam",
+    "hint": "A dental or chemical mixture produced by combining liquid quicksilver with other conductive elements.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 116,
+    "category": "metals",
+    "tier": "hard",
+    "word": "assayer",
+    "hint": "A professional specialist who conducts quantitative chemical tests to determine the purity of mined ores.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 117,
+    "category": "metals",
+    "tier": "hard",
+    "word": "damascene",
+    "hint": "A decorative technique featuring intricate inlays of precious gold or silver pressed into steel surfaces.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 118,
+    "category": "metals",
+    "tier": "hard",
+    "word": "founder",
+    "hint": "An artisan operator who oversees extreme-heat ore reduction and liquid pour operations in a workshop.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 119,
+    "category": "metals",
+    "tier": "hard",
+    "word": "gunmetal",
+    "hint": "A dark bronze composition predominantly made of copper, tin, and zinc, historically chosen for casting heavy artillery.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 120,
+    "category": "metals",
+    "tier": "hard",
+    "word": "laminate",
+    "hint": "To squeeze solid elemental material into thin sheets or foils by passing it repeatedly through heavy rollers.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 121,
+    "category": "metals",
+    "tier": "hard",
+    "word": "lighting",
+    "hint": "An archaic term for the thermal relief treatment used to soften forged materials by heating and slow cooling.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 122,
+    "category": "metals",
+    "tier": "hard",
+    "word": "metallist",
+    "hint": "A passionate enthusiast or devout fan of heavy, distortion-driven guitar music.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 123,
+    "category": "metals",
+    "tier": "hard",
+    "word": "hematite",
+    "hint": "A heavy, dark red to black substance composed primarily of ferric oxide, representing a principal source of iron.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 124,
+    "category": "metals",
+    "tier": "hard",
+    "word": "taconite",
+    "hint": "A low-grade, flint-like sedimentary rock rich in iron, processed to extract the valuable element.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 125,
+    "category": "metals",
+    "tier": "hard",
+    "word": "magnetite",
+    "hint": "A strongly naturally magnetic oxide mineral that serves as a principal source of iron.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 126,
+    "category": "metals",
+    "tier": "hard",
+    "word": "chromite",
+    "hint": "A dark brown to black mineral composed of iron oxide and chromium oxide, used as a primary ore.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 127,
+    "category": "metals",
+    "tier": "hard",
+    "word": "opencut",
+    "hint": "Describing a method of surface extraction where rock or mineral deposits are exposed from above rather than through tunnels.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 128,
+    "category": "metals",
+    "tier": "hard",
+    "word": "tributer",
+    "hint": "An independent contractor in a mine paid with an agreed percentage of the extracted ore or its total worth.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 129,
+    "category": "metals",
+    "tier": "hard",
+    "word": "proustite",
+    "hint": "A sulfosalt mineral of silver and arsenic, often recognized by its deep red color in vein deposits.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 130,
+    "category": "metals",
+    "tier": "hard",
+    "word": "stannine",
+    "hint": "A metallic gray sulfosalt mineral primarily composed of copper, iron, tin, and sulfur.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 131,
+    "category": "metals",
+    "tier": "hard",
+    "word": "glaucodot",
+    "hint": "A metallic mineral composed of cobalt, iron, arsenic, and sulfur, structurally similar to arsenopyrite.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 132,
+    "category": "metals",
+    "tier": "hard",
+    "word": "uranite",
+    "hint": "A heavy, dark, lustrous radioactive mineral mined historically as an early source of radium.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 133,
+    "category": "metals",
+    "tier": "hard",
+    "word": "triplite",
+    "hint": "A rare, reddish-brown to black phosphate mineral containing manganese and iron.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 134,
+    "category": "metals",
+    "tier": "hard",
+    "word": "niobite",
+    "hint": "Another name for columbite, a dark black mineral that is a chief source of niobium and tantalum.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 135,
+    "category": "metals",
+    "tier": "hard",
+    "word": "coffinite",
+    "hint": "A dark brown or black radioactive silicate mineral that is an important constituent of unoxidized uranium deposits.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 136,
+    "category": "metals",
+    "tier": "hard",
+    "word": "linnaeite",
+    "hint": "A bright metallic cobalt sulfide mineral forming octahedral crystals in hydrothermal veins.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 137,
+    "category": "metals",
+    "tier": "hard",
+    "word": "zinkenite",
+    "hint": "A metallic steel-gray mineral consisting of lead, antimony, and sulfur, typically forming slender hexagonal crystals.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 138,
+    "category": "metals",
+    "tier": "hard",
+    "word": "mispickel",
+    "hint": "An archaic term for arsenopyrite, a metallic steel-gray iron arsenic sulfide mineral.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 139,
+    "category": "metals",
+    "tier": "hard",
+    "word": "dufrenite",
+    "hint": "A hydrous iron phosphate mineral with a distinctive dark green to blackish color.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 140,
+    "category": "metals",
+    "tier": "hard",
+    "word": "tinstone",
+    "hint": "An old miner's term for cassiterite, the primary heavy mineral source of tin.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 141,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ironstone",
+    "hint": "Sedimentary rock containing abundant compounds of a common magnetic metal mixed with clay or silica.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 142,
+    "category": "metals",
+    "tier": "hard",
+    "word": "regulus",
+    "hint": "An intermediate metallic mass produced beneath slag during the pyrometallurgical reduction of sulfides.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 143,
+    "category": "metals",
+    "tier": "hard",
+    "word": "trommel",
+    "hint": "A cylindrical rotating screen or sieve used to size and separate extracted ores or gravels.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 144,
+    "category": "metals",
+    "tier": "hard",
+    "word": "aciculite",
+    "hint": "A needle-like metallic mineral consisting of a complex sulfide of bismuth, lead, and copper.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 145,
+    "category": "metals",
+    "tier": "hard",
+    "word": "bloomery",
+    "hint": "A primitive type of furnace used to directly reduce iron ore into a workable metallic mass.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 146,
+    "category": "metals",
+    "tier": "hard",
+    "word": "blooming",
+    "hint": "The metallurgical process of refining direct-reduction furnace products into workable mass blocks.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 147,
+    "category": "metals",
+    "tier": "hard",
+    "word": "bonanza",
+    "hint": "An exceptionally lucrative deposit or vein yielding large amounts of precious metals like gold or silver.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 148,
+    "category": "metals",
+    "tier": "hard",
+    "word": "cerussite",
+    "hint": "An important lead ore mineral composed of carbon and oxygen bound with heavy metal cations.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 149,
+    "category": "metals",
+    "tier": "hard",
+    "word": "cobbing",
+    "hint": "A manual mining process where raw ore is struck with a hammer to separate valuable minerals from rock.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 150,
+    "category": "metals",
+    "tier": "hard",
+    "word": "cuprite",
+    "hint": "A reddish mineral consisting of cuprous oxide that serves as a minor ore of copper.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 151,
+    "category": "metals",
+    "tier": "hard",
+    "word": "magnalium",
+    "hint": "A lightweight metal mixture composed of three parts aluminium to one part magnesium.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 152,
+    "category": "metals",
+    "tier": "hard",
+    "word": "albronze",
+    "hint": "Shortened term for a durable gold-hued combination of element thirteen and copper.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 153,
+    "category": "metals",
+    "tier": "hard",
+    "word": "amalgama",
+    "hint": "An archaic spelling for a metallic combination containing quicksilver.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 154,
+    "category": "metals",
+    "tier": "hard",
+    "word": "chromoly",
+    "hint": "A high-tensile steel blend enriched with element twenty-four and element forty-two.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 155,
+    "category": "metals",
+    "tier": "hard",
+    "word": "biometal",
+    "hint": "Describing any metallic element or compound that performs a necessary biological role.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 156,
+    "category": "metals",
+    "tier": "hard",
+    "word": "spelter",
+    "hint": "Commercial term for unrefined zinc, commonly cast into blocks or heavy ingots.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 157,
+    "category": "metals",
+    "tier": "hard",
+    "word": "silumin",
+    "hint": "A lightweight material created by fusing element fourteen with element thirteen.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 158,
+    "category": "metals",
+    "tier": "hard",
+    "word": "eutectic",
+    "hint": "Describing a specific mixture whose melting point is lower than that of any of its individual constituents.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 159,
+    "category": "metals",
+    "tier": "hard",
+    "word": "electrum",
+    "hint": "An old commercial trade name once applied to German silver plating.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 160,
+    "category": "metals",
+    "tier": "hard",
+    "word": "standard",
+    "hint": "The legally required ratio of pure bullion to base material set for minting coins.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 161,
+    "category": "metals",
+    "tier": "hard",
+    "word": "bronzine",
+    "hint": "An artificial metallic substance crafted to visually imitate the appearance of element twenty-nine and tin.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 162,
+    "category": "metals",
+    "tier": "hard",
+    "word": "bialkali",
+    "hint": "Pertaining to a chemical structure containing two group-one metallic atoms or ions.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 163,
+    "category": "metals",
+    "tier": "hard",
+    "word": "acolite",
+    "hint": "A vintage dental material made from a combination of tin, antimony, and zinc.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 164,
+    "category": "metals",
+    "tier": "hard",
+    "word": "similor",
+    "hint": "A golden-hued brass alternative made from copper and zinc.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 165,
+    "category": "metals",
+    "tier": "hard",
+    "word": "alloyage",
+    "hint": "A general term for a metallic mixture produced by fusing multiple elements.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 166,
+    "category": "metals",
+    "tier": "hard",
+    "word": "permalloy",
+    "hint": "A class of nickel-iron blends engineered for high magnetic permeability.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 167,
+    "category": "metals",
+    "tier": "hard",
+    "word": "pinchbeck",
+    "hint": "A cheap copper-zinc blend historically used as imitation gold for inexpensive jewelry.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 168,
+    "category": "metals",
+    "tier": "hard",
+    "word": "stainless",
+    "hint": "Describing a durable metallic blend engineered to resist rust, discoloration, and oxidation.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 169,
+    "category": "metals",
+    "tier": "hard",
+    "word": "unalloyed",
+    "hint": "Describing a metallic element in its pure state, unmixed with any other materials.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 170,
+    "category": "metals",
+    "tier": "hard",
+    "word": "brazing",
+    "hint": "A thermal joining method that bonds metallic components together using a melted filler.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 171,
+    "category": "metals",
+    "tier": "hard",
+    "word": "electrine",
+    "hint": "Of or relating to the naturally occurring gold-and-silver mixture or its plate.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 172,
+    "category": "metals",
+    "tier": "hard",
+    "word": "galvanize",
+    "hint": "To coat a surface with a protective layer of material through an electrochemical process.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 173,
+    "category": "metals",
+    "tier": "hard",
+    "word": "hardhead",
+    "hint": "The dense residue of unmelted ore left behind during furnace smelting.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 174,
+    "category": "metals",
+    "tier": "hard",
+    "word": "kamacite",
+    "hint": "A space-origin alloy phase composed primarily of nickel-bearing iron, commonly found in meteorites.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 175,
+    "category": "metals",
+    "tier": "hard",
+    "word": "refined",
+    "hint": "Purified to remove impurities, slag, or unwanted alloyed elements.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 176,
+    "category": "metals",
+    "tier": "hard",
+    "word": "soldering",
+    "hint": "Joining metallic pieces together by melting a lower-melting alloy filler at the joint.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 177,
+    "category": "metals",
+    "tier": "hard",
+    "word": "smithwork",
+    "hint": "Handcrafted items or structural components created by heating and hammering raw iron or steel.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 178,
+    "category": "metals",
+    "tier": "hard",
+    "word": "swaging",
+    "hint": "A cold or hot metalworking technique using specialized grooved tools to alter rod or tube dimensions.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 179,
+    "category": "metals",
+    "tier": "hard",
+    "word": "turning",
+    "hint": "Shaping material on a rotating lathe spindle using stationary cutting tools.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 180,
+    "category": "metals",
+    "tier": "hard",
+    "word": "wiresmith",
+    "hint": "A historical craftsman whose specialty was pounding raw material into thin flexible filaments.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 181,
+    "category": "metals",
+    "tier": "hard",
+    "word": "steelware",
+    "hint": "Utensils, tools, or household goods manufactured from a tough iron-carbon alloy.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 182,
+    "category": "metals",
+    "tier": "hard",
+    "word": "furnace",
+    "hint": "An enclosed high-temperature industrial chamber used for melting ores or heating alloys.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 183,
+    "category": "metals",
+    "tier": "hard",
+    "word": "metalware",
+    "hint": "Utensils, cookware, or decorative objects manufactured from elements like copper, brass, or iron.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 184,
+    "category": "metals",
+    "tier": "hard",
+    "word": "steelwork",
+    "hint": "The load-bearing structural framework of a building constructed from iron-carbon girders.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 185,
+    "category": "metals",
+    "tier": "hard",
+    "word": "flatting",
+    "hint": "Passing an ingot between heavy mechanical rollers to reduce its thickness into thin sheets.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 186,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ironworks",
+    "hint": "An industrial facility dedicated to smelting element 26 and casting structural components.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 187,
+    "category": "metals",
+    "tier": "hard",
+    "word": "tinwork",
+    "hint": "Items, containers, or roofing elements crafted from element 50.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 188,
+    "category": "metals",
+    "tier": "hard",
+    "word": "diework",
+    "hint": "Decorative patterns or raised designs pressed into alloy sheets using carved stamping tools.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 189,
+    "category": "metals",
+    "tier": "hard",
+    "word": "lapping",
+    "hint": "A precision finishing process where fine abrasive paste is rubbed between surfaces to achieve a smooth finish.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 190,
+    "category": "metals",
+    "tier": "hard",
+    "word": "forgeman",
+    "hint": "An industrial heavy-craftsman responsible for operating large hearths and shaping heated ingots.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 191,
+    "category": "metals",
+    "tier": "hard",
+    "word": "viceman",
+    "hint": "A historical artisan in a shop who specialized in bench repairs using a clamping tool rather than an anvil.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 192,
+    "category": "metals",
+    "tier": "hard",
+    "word": "smelters",
+    "hint": "Industrial processing facilities where raw ores are melted down to extract pure elements.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 193,
+    "category": "metals",
+    "tier": "hard",
+    "word": "vegetable",
+    "hint": "Historical British air force slang for an explosive underwater or land explosive charge.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 194,
+    "category": "metals",
+    "tier": "hard",
+    "word": "barites",
+    "hint": "Heavy minerals consisting of barium sulfate, widely used in drilling muds.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 195,
+    "category": "metals",
+    "tier": "hard",
+    "word": "xenotime",
+    "hint": "A rare-earth phosphate mineral containing yttrium, typically appearing in yellow-brown tetragonal crystals.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 196,
+    "category": "metals",
+    "tier": "hard",
+    "word": "siderite",
+    "hint": "A type of meteorite composed almost entirely of nickel-iron alloy rather than stony material.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 197,
+    "category": "metals",
+    "tier": "hard",
+    "word": "idiomorph",
+    "hint": "A mineral crystal that formed completely unimpeded, displaying its full, natural external faces.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 198,
+    "category": "metals",
+    "tier": "hard",
+    "word": "hardrock",
+    "hint": "Solid, dense mineralized deposits in underground mines that require blasting and drilling to extract ores.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 199,
+    "category": "metals",
+    "tier": "hard",
+    "word": "minestone",
+    "hint": "Solid waste material remaining after extracting coal from underground deposits.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 200,
+    "category": "metals",
+    "tier": "hard",
+    "word": "corundom",
+    "hint": "Extremely tough crystalline mineral, rich in aluminum oxide, often utilized for polishing or grinding.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 201,
+    "category": "metals",
+    "tier": "hard",
+    "word": "cryolite",
+    "hint": "Rare sodium aluminum fluoride mineral historically used as a flux in refining bauxite into pure aluminum.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 202,
+    "category": "metals",
+    "tier": "hard",
+    "word": "malachite",
+    "hint": "Soft, pale shade of green named after a copper carbonate gemstone.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 203,
+    "category": "metals",
+    "tier": "hard",
+    "word": "millerite",
+    "hint": "Slender, needle-like mineral composed of nickel sulfide that forms delicate brass-yellow clusters.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 204,
+    "category": "metals",
+    "tier": "hard",
+    "word": "prospect",
+    "hint": "To explore land systematically in search of valuable mineral deposits or precious nuggets.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 205,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ferrous",
+    "hint": "Describing chemical compounds or metallic alloys that contain element twenty-six.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 206,
+    "category": "metals",
+    "tier": "hard",
+    "word": "flatiron",
+    "hint": "Heavy metal laundry tool heated over a stove flame to smooth out fabric wrinkles.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 207,
+    "category": "metals",
+    "tier": "hard",
+    "word": "castiron",
+    "hint": "Rigid alloy of element twenty-six and carbon, shaped by pouring molten metal into a mold.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 208,
+    "category": "metals",
+    "tier": "hard",
+    "word": "loadstone",
+    "hint": "Naturally magnetic piece of mineral magnetite, historically used as a primitive navigational compass.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 209,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ironware",
+    "hint": "Utensils, heavy cookware, and hard tools manufactured from dark elemental metal.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 210,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ironers",
+    "hint": "Mechanical apparatuses featuring heated rollers used to press and smooth freshly washed textiles.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 211,
+    "category": "metals",
+    "tier": "hard",
+    "word": "hepcidin",
+    "hint": "Liver-derived peptide signal that controls systemic absorption and distribution of essential trace minerals in mammals.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 212,
+    "category": "metals",
+    "tier": "hard",
+    "word": "puddler",
+    "hint": "Historical foundry artisan who stirred molten pig metal in a reverberatory furnace to produce malleable wrought metal.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 213,
+    "category": "metals",
+    "tier": "hard",
+    "word": "gridiron",
+    "hint": "Heavy metal frame with parallel bars used for cooking food over an open flame or embers.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 214,
+    "category": "metals",
+    "tier": "hard",
+    "word": "steeling",
+    "hint": "Fortifying or toughening an object or resolve as though reinforcing it with a strong carbon alloy.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 215,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ironsmith",
+    "hint": "Craftsman who heats and hammers dark metallic elements at an anvil to create tools and hardware.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 216,
+    "category": "metals",
+    "tier": "hard",
+    "word": "soleplate",
+    "hint": "Smooth, polished bottom surface of an appliance used to smooth out laundry wrinkles.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 217,
+    "category": "metals",
+    "tier": "hard",
+    "word": "launder",
+    "hint": "To cleanse garments in water and smooth them using heated pressing tools.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 218,
+    "category": "metals",
+    "tier": "hard",
+    "word": "alligator",
+    "hint": "Heavy-duty mechanical jaw crusher used in quarrying to smash tough ore into smaller pieces.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 219,
+    "category": "metals",
+    "tier": "hard",
+    "word": "andradite",
+    "hint": "Calcium-rich nesosilicate mineral belonging to the garnet group, containing significant amounts of element twenty-six.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 220,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ironclad",
+    "hint": "Encased in heavy metallic plating for protection against heavy attack, like 19th-century warships.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 221,
+    "category": "metals",
+    "tier": "hard",
+    "word": "tempered",
+    "hint": "Reheated and cooled in metallurgy to reduce brittleness and increase toughness in hardened alloys.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 222,
+    "category": "metals",
+    "tier": "hard",
+    "word": "steelyard",
+    "hint": "Commercial facility or depot where manufactured structural metal alloys are stored and traded.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 223,
+    "category": "metals",
+    "tier": "hard",
+    "word": "semisteel",
+    "hint": "High-strength cast metal product made by adding scrap metal into molten pig metal during founding.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 224,
+    "category": "metals",
+    "tier": "hard",
+    "word": "oxysteel",
+    "hint": "Alloy created by reacting carbon with ferric oxides to remove oxygen.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 225,
+    "category": "metals",
+    "tier": "hard",
+    "word": "steelie",
+    "hint": "A heavy metal sphere used by children in traditional playground rolling games.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 226,
+    "category": "metals",
+    "tier": "hard",
+    "word": "striker",
+    "hint": "An assistant in a smithy whose main job is swinging a heavy hammer onto hot metal.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 227,
+    "category": "metals",
+    "tier": "hard",
+    "word": "metalman",
+    "hint": "An artisan or laborer who specializes in shaping and refining elements like brass or iron.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 228,
+    "category": "metals",
+    "tier": "hard",
+    "word": "arbalist",
+    "hint": "Medieval ranged weapon crafted with a high-tension alloy bow mounted on a wooden stock.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 229,
+    "category": "metals",
+    "tier": "hard",
+    "word": "blowhole",
+    "hint": "A flaw created when trapped gas forms an empty pocket inside molten material as it sets.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 230,
+    "category": "metals",
+    "tier": "hard",
+    "word": "fashion",
+    "hint": "An obsolete verb meaning to fabricate fraudulent coins or metals through smithing.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 231,
+    "category": "metals",
+    "tier": "hard",
+    "word": "fabricate",
+    "hint": "To shape material into a component, or to deceptively construct something false.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 232,
+    "category": "metals",
+    "tier": "hard",
+    "word": "falsify",
+    "hint": "To alter or craft an imitation of a metal seal or coin with intent to deceive.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 233,
+    "category": "metals",
+    "tier": "hard",
+    "word": "smithing",
+    "hint": "The trade of heating and hammering raw iron or bronze into useful tools and weapons.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 234,
+    "category": "metals",
+    "tier": "hard",
+    "word": "tundish",
+    "hint": "A broad-mouthed reservoir that regulates the flow of liquefied iron into molds during casting.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 235,
+    "category": "metals",
+    "tier": "hard",
+    "word": "leadworks",
+    "hint": "An industrial facility dedicated to smelting and refining dense, soft heavy elements.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 236,
+    "category": "metals",
+    "tier": "hard",
+    "word": "dropforge",
+    "hint": "To shape glowing alloy parts by repeatedly letting a heavy die fall onto them.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 237,
+    "category": "metals",
+    "tier": "hard",
+    "word": "reforge",
+    "hint": "To heat and hammer a damaged iron blade back into shape a second time.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 238,
+    "category": "metals",
+    "tier": "hard",
+    "word": "clinker",
+    "hint": "Stony residue or oxidized slag left behind during high-temperature ironworking.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 239,
+    "category": "metals",
+    "tier": "hard",
+    "word": "dresser",
+    "hint": "A specialized heavy pick used underground for trimming and squaring extracted fuel blocks.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 240,
+    "category": "metals",
+    "tier": "hard",
+    "word": "forgeries",
+    "hint": "Plural term for the technical processes of shaping heated elements using heavy impact.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 241,
+    "category": "metals",
+    "tier": "hard",
+    "word": "forgery",
+    "hint": "The process or art of working glowing iron into an intended form using anvil tools.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 242,
+    "category": "metals",
+    "tier": "hard",
+    "word": "goldsmith",
+    "hint": "A craftsman who fashions ornate rings and ingots from a precious yellow element.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 243,
+    "category": "metals",
+    "tier": "hard",
+    "word": "redsmith",
+    "hint": "An artisan who works primarily with a reddish, highly conductive non-ferrous material.",
+    "sourceSeed": "blacksmith"
+  },
+  {
+    "id": 244,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ironmaker",
+    "hint": "An industrialist or furnace operator producing crude pig blocks from raw mined ore.",
+    "sourceSeed": "blacksmith"
+  },
+  {
+    "id": 245,
+    "category": "metals",
+    "tier": "hard",
+    "word": "pansmith",
+    "hint": "A tradesperson dedicated to hammering and soldering metallic cookware vessels.",
+    "sourceSeed": "blacksmith"
+  },
+  {
+    "id": 246,
+    "category": "metals",
+    "tier": "hard",
+    "word": "metaller",
+    "hint": "Informal term for an enthusiastic fan devoted to loud, guitar-driven hard rock subgenres.",
+    "sourceSeed": "blacksmith"
+  },
+  {
+    "id": 247,
+    "category": "metals",
+    "tier": "hard",
+    "word": "coalminer",
+    "hint": "A subterranean laborer whose job involves extracting dark carbonaceous rock from beneath the earth.",
+    "sourceSeed": "blacksmith"
+  },
+  {
+    "id": 248,
+    "category": "metals",
+    "tier": "hard",
+    "word": "coppery",
+    "hint": "Having a distinctive bright brownish-pink metallic luster like element twenty-nine.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 249,
+    "category": "metals",
+    "tier": "hard",
+    "word": "silvers",
+    "hint": "A collective term for coins forged from shiny white precious metal.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 250,
+    "category": "metals",
+    "tier": "hard",
+    "word": "silvery",
+    "hint": "Describing something with a shiny, pale white luster akin to polished precious metal.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 251,
+    "category": "metals",
+    "tier": "hard",
+    "word": "verdigris",
+    "hint": "The blue-green oxidation layer or film that develops naturally on aging copper surfaces.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 252,
+    "category": "metals",
+    "tier": "hard",
+    "word": "silvered",
+    "hint": "Coated with a thin layer of precious white metal to create a reflective surface, as on a mirror back.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 253,
+    "category": "metals",
+    "tier": "hard",
+    "word": "blister",
+    "hint": "An unrefined, crude form of smelted copper characterized by a bubbly surface caused by trapped gases.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 254,
+    "category": "metals",
+    "tier": "hard",
+    "word": "coppering",
+    "hint": "The process or action of applying a protective outer layer of reddish-brown metal onto a vessel hull.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 255,
+    "category": "metals",
+    "tier": "hard",
+    "word": "findrinny",
+    "hint": "An ancient Irish alloy of metal resembling a reddish bronze, often used in ornamental craftwork.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 256,
+    "category": "metals",
+    "tier": "hard",
+    "word": "goldtone",
+    "hint": "A yellowish metallic finish or pigment applied to imitate the appearance of precious yellow metal.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 257,
+    "category": "metals",
+    "tier": "hard",
+    "word": "aeneous",
+    "hint": "Having a warm greenish-brown metallic sheen similar in shade to aged bronze.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 258,
+    "category": "metals",
+    "tier": "hard",
+    "word": "chariot",
+    "hint": "An ancient two-wheeled vehicle pulled by horses, widely deployed in Bronze Age battles.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 259,
+    "category": "metals",
+    "tier": "hard",
+    "word": "embronze",
+    "hint": "A poetic term meaning to impart a warm brownish metallic hue or appearance to an object.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 260,
+    "category": "metals",
+    "tier": "hard",
+    "word": "vermeil",
+    "hint": "Sterling metal coated with a layer of gold leaf or electroplated yellow precious metal.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 261,
+    "category": "metals",
+    "tier": "hard",
+    "word": "cuprous",
+    "hint": "Describing an inorganic chemical compound that holds monovalent metal ions of a reddish-brown element.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 262,
+    "category": "metals",
+    "tier": "hard",
+    "word": "copperas",
+    "hint": "An old chemical name for hydrated ferrous sulfate, historically used in dyeing and ink making.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 263,
+    "category": "metals",
+    "tier": "hard",
+    "word": "darwinite",
+    "hint": "A rare metallic mineral composed of arsenic and a reddish-brown metal, named after a famous naturalist.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 264,
+    "category": "metals",
+    "tier": "hard",
+    "word": "covellite",
+    "hint": "An indigo-blue sulfide mineral valued as a secondary ore of a common reddish-brown metal.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 265,
+    "category": "metals",
+    "tier": "hard",
+    "word": "djurleite",
+    "hint": "A lusterless grey-to-black sulfide mineral rich in element twenty-nine, closely related to chalcocite.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 266,
+    "category": "metals",
+    "tier": "hard",
+    "word": "bluestone",
+    "hint": "A traditional name for chalcanthite or vitriol, an azure crystalline compound containing element 29 and sulfur.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 267,
+    "category": "metals",
+    "tier": "hard",
+    "word": "vulcanite",
+    "hint": "A rare metallic telluride mineral containing reddish-brown element 29, named after the Roman god of fire.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 268,
+    "category": "metals",
+    "tier": "hard",
+    "word": "aubertite",
+    "hint": "A sky-tinted hydrous sulfate mineral containing aluminum and element 29, found in arid environments.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 269,
+    "category": "metals",
+    "tier": "hard",
+    "word": "copperish",
+    "hint": "Possessing characteristics or hues reminiscent of element twenty-nine, such as a reddish-brown tint.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 270,
+    "category": "metals",
+    "tier": "hard",
+    "word": "cupreous",
+    "hint": "Having a distinct reddish-brown shade characteristic of polished element twenty-nine.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 271,
+    "category": "metals",
+    "tier": "hard",
+    "word": "cyanosite",
+    "hint": "An obsolete mineralogical name for hydrated sulfate of element 29, known for its brilliant azure crystals.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 272,
+    "category": "metals",
+    "tier": "hard",
+    "word": "dioptase",
+    "hint": "An intense emerald-to-teal cyclosilicate mineral containing element 29, popular among collectors.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 273,
+    "category": "metals",
+    "tier": "hard",
+    "word": "erinite",
+    "hint": "An emerald-green hydrous arsenate mineral containing element 29, named after an old poetic term for Ireland.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 274,
+    "category": "metals",
+    "tier": "hard",
+    "word": "diamond",
+    "hint": "A brilliant gemstone composed of pure carbon, often used in fine jewelry.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 275,
+    "category": "metals",
+    "tier": "hard",
+    "word": "sovereign",
+    "hint": "A former Australian coin struck from precious yellow metal, valued at one pound.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 276,
+    "category": "metals",
+    "tier": "hard",
+    "word": "solidus",
+    "hint": "An obsolete term for historic grey metal coinage from various Italian states.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 277,
+    "category": "metals",
+    "tier": "hard",
+    "word": "alluvial",
+    "hint": "Describing earthy deposits settled by river flow, especially rich in mineral deposits in Australia.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 278,
+    "category": "metals",
+    "tier": "hard",
+    "word": "aurated",
+    "hint": "Having the appearance, hue, or composition of precious yellow element; gilded.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 279,
+    "category": "metals",
+    "tier": "hard",
+    "word": "aureity",
+    "hint": "The distinctive property or intrinsic essence belonging specifically to gold.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 280,
+    "category": "metals",
+    "tier": "hard",
+    "word": "aurulent",
+    "hint": "Exhibiting a rich yellow shade resembling precious leaf metal in tone.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 281,
+    "category": "metals",
+    "tier": "hard",
+    "word": "bracteate",
+    "hint": "Describing coins or ornaments crafted from very thin, beaten metallic leaf with a hollow back.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 282,
+    "category": "metals",
+    "tier": "hard",
+    "word": "champagne",
+    "hint": "A pale brownish-yellow shade named after a famous sparkling wine.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 283,
+    "category": "metals",
+    "tier": "hard",
+    "word": "chaplet",
+    "hint": "A metallic support bracket designed to secure or hold a cylindrical pipe.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 284,
+    "category": "metals",
+    "tier": "hard",
+    "word": "chekmak",
+    "hint": "A traditional Turkish textile made of silk and cotton interwoven with shiny yellow thread.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 285,
+    "category": "metals",
+    "tier": "hard",
+    "word": "silverish",
+    "hint": "Having a pale, lustrous grayish tone resembling a common precious coinage element.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 286,
+    "category": "metals",
+    "tier": "hard",
+    "word": "argentate",
+    "hint": "To coat or treat a substance using a chemical salt of element forty-seven.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 287,
+    "category": "metals",
+    "tier": "hard",
+    "word": "sterling",
+    "hint": "Denoting standard-grade precious grey coinage metal of high purity.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 288,
+    "category": "metals",
+    "tier": "hard",
+    "word": "argention",
+    "hint": "An archaic chemical term for an atom of precious grey metal carrying an electric charge.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 289,
+    "category": "metals",
+    "tier": "hard",
+    "word": "argentic",
+    "hint": "Describing chemical compounds containing element forty-seven in a higher valence state.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 290,
+    "category": "metals",
+    "tier": "hard",
+    "word": "argentous",
+    "hint": "Pertaining to chemical compounds containing univalent element forty-seven.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 291,
+    "category": "metals",
+    "tier": "hard",
+    "word": "argentry",
+    "hint": "An obsolete noun for precious grey metal items or a lustrous grayish appearance.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 292,
+    "category": "metals",
+    "tier": "hard",
+    "word": "argentum",
+    "hint": "The classical Latin name for element forty-seven, symbol Ag.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 293,
+    "category": "metals",
+    "tier": "hard",
+    "word": "argyrol",
+    "hint": "A mild antiseptic protein compound incorporating element forty-seven.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 294,
+    "category": "metals",
+    "tier": "hard",
+    "word": "clinquant",
+    "hint": "A cheap brass alloy leaf used to imitate real gold gilding.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 295,
+    "category": "metals",
+    "tier": "hard",
+    "word": "colliery",
+    "hint": "A British industrial facility encompassing an underground coal mine and its surface structures.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 296,
+    "category": "metals",
+    "tier": "hard",
+    "word": "blasting",
+    "hint": "The controlled detonation of explosives to break up rock face during extraction.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 297,
+    "category": "metals",
+    "tier": "hard",
+    "word": "winning",
+    "hint": "A newly opened shaft or excavation site created to gain access to ore bodies.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 298,
+    "category": "metals",
+    "tier": "hard",
+    "word": "panning",
+    "hint": "Swirling river gravel and water in a shallow dish to isolate heavy precious flakes.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 299,
+    "category": "metals",
+    "tier": "hard",
+    "word": "goldfield",
+    "hint": "A region rich in deposits of a precious yellow metal.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 300,
+    "category": "metals",
+    "tier": "hard",
+    "word": "washery",
+    "hint": "A surface facility where extracted coal is cleansed of impurities.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 301,
+    "category": "metals",
+    "tier": "hard",
+    "word": "minable",
+    "hint": "Describing a subterranean resource that is economically viable to extract.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 302,
+    "category": "metals",
+    "tier": "hard",
+    "word": "quarries",
+    "hint": "Open-pit excavation sites used to extract architectural stone or slate.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 303,
+    "category": "metals",
+    "tier": "hard",
+    "word": "offtake",
+    "hint": "The formal withdrawal of stored petroleum or raw chemicals from a depot.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 304,
+    "category": "metals",
+    "tier": "hard",
+    "word": "bandsman",
+    "hint": "Historically, a coal loader operating as part of an organized group.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 305,
+    "category": "metals",
+    "tier": "hard",
+    "word": "gallery",
+    "hint": "A horizontal passage or level dug out during subterranean excavation.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 306,
+    "category": "metals",
+    "tier": "hard",
+    "word": "goldmine",
+    "hint": "An excavation site dug specifically to extract a valuable yellow precious element.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 307,
+    "category": "metals",
+    "tier": "hard",
+    "word": "mullock",
+    "hint": "Refuse rock or discarded tailings left behind after processing metal-bearing earth.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 308,
+    "category": "metals",
+    "tier": "hard",
+    "word": "pithead",
+    "hint": "The surface area surrounding the entrance to a coal shaft.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 309,
+    "category": "metals",
+    "tier": "hard",
+    "word": "stannary",
+    "hint": "A specialized enterprise or excavation devoted to extracting and processing tin.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 310,
+    "category": "metals",
+    "tier": "hard",
+    "word": "timberman",
+    "hint": "A worker responsible for setting up wooden supports inside subterranean shafts.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 311,
+    "category": "metals",
+    "tier": "hard",
+    "word": "tramcar",
+    "hint": "A wheeled vehicle running on tracks to transport heavy subterranean loads.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 312,
+    "category": "metals",
+    "tier": "hard",
+    "word": "alloying",
+    "hint": "The process of fusing different metallic elements together to form a composite material.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 313,
+    "category": "metals",
+    "tier": "hard",
+    "word": "grating",
+    "hint": "A metal framework of parallel or crossed bars designed to support burning fuel.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 314,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ironing",
+    "hint": "Smoothing out wrinkles in freshly washed garments using a heated appliance.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 315,
+    "category": "metals",
+    "tier": "hard",
+    "word": "siderurgy",
+    "hint": "The specialized branch of metallurgy focused on manufacturing steel and its parent metal.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 316,
+    "category": "metals",
+    "tier": "hard",
+    "word": "foundries",
+    "hint": "Industrial operations or facilities dedicated to pouring liquid metals into molds.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 317,
+    "category": "metals",
+    "tier": "hard",
+    "word": "fluxing",
+    "hint": "Applying a purifying agent to surface joints to promote clean soldering or welding.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 318,
+    "category": "metals",
+    "tier": "hard",
+    "word": "deadmelt",
+    "hint": "Superheating liquefied steel to completely purge it of dissolved oxygen.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 319,
+    "category": "metals",
+    "tier": "hard",
+    "word": "refusion",
+    "hint": "The process of liquefying a solid metallic substance a second time.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 320,
+    "category": "metals",
+    "tier": "hard",
+    "word": "recovery",
+    "hint": "The yield percentage of valuable elemental material extracted during processing.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 321,
+    "category": "metals",
+    "tier": "hard",
+    "word": "bronzing",
+    "hint": "Imparting a reddish-brown metallic luster to an object's surface.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 322,
+    "category": "metals",
+    "tier": "hard",
+    "word": "fixation",
+    "hint": "The property of a metallic substance remaining non-volatile under intense heat.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 323,
+    "category": "metals",
+    "tier": "hard",
+    "word": "silvering",
+    "hint": "A shiny reflective metallic layer applied to glass when manufacturing mirrors.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 324,
+    "category": "metals",
+    "tier": "hard",
+    "word": "pesting",
+    "hint": "The complete degradation of a metallic material into a fine powder caused by severe oxidation.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 325,
+    "category": "metals",
+    "tier": "hard",
+    "word": "chelation",
+    "hint": "A chemical process where a complex molecule binds a metal ion through multiple coordinate bonds.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 326,
+    "category": "metals",
+    "tier": "hard",
+    "word": "smeltery",
+    "hint": "An industrial facility designed for extracting pure elemental material from raw ore using intense heat.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 327,
+    "category": "metals",
+    "tier": "hard",
+    "word": "furnaces",
+    "hint": "High-temperature industrial chambers used for melting raw ores or baking ceramics.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 328,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ignescent",
+    "hint": "Describing a material that yields bright sparks of fire when struck by hard steel.",
+    "sourceSeed": "ingot"
+  },
+  {
+    "id": 329,
+    "category": "metals",
+    "tier": "hard",
+    "word": "brasque",
+    "hint": "A lining compound made of crushed charcoal and clay used inside high-heat hearths.",
+    "sourceSeed": "ingot"
+  },
+  {
+    "id": 330,
+    "category": "metals",
+    "tier": "hard",
+    "word": "galinstan",
+    "hint": "A low-toxicity metallic blend composed of gallium, indium, and tin that remains liquid at room temperature.",
+    "sourceSeed": "ingot"
+  },
+  {
+    "id": 331,
+    "category": "metals",
+    "tier": "hard",
+    "word": "handstein",
+    "hint": "A decorative piece crafted primarily from a visually striking specimen of raw ore.",
+    "sourceSeed": "ingot"
+  },
+  {
+    "id": 332,
+    "category": "metals",
+    "tier": "hard",
+    "word": "prillion",
+    "hint": "Historically, small droplets of valuable tin recovered from residual smelting slag.",
+    "sourceSeed": "ingot"
+  },
+  {
+    "id": 333,
+    "category": "metals",
+    "tier": "hard",
+    "word": "jointer",
+    "hint": "A curved iron piece used as a fastener to secure adjacent blocks of stone together.",
+    "sourceSeed": "anvil"
+  },
+  {
+    "id": 334,
+    "category": "metals",
+    "tier": "hard",
+    "word": "headstock",
+    "hint": "The tall structural framework built above a deep shaft to support hoisting equipment.",
+    "sourceSeed": "anvil"
+  },
+  {
+    "id": 335,
+    "category": "metals",
+    "tier": "hard",
+    "word": "beakiron",
+    "hint": "The tapered, horn-shaped end of a blacksmithing anvil used to shape curves.",
+    "sourceSeed": "anvil"
+  },
+  {
+    "id": 336,
+    "category": "metals",
+    "tier": "hard",
+    "word": "bickern",
+    "hint": "A specialized forging block featuring two distinct projecting tapered ends.",
+    "sourceSeed": "anvil"
+  },
+  {
+    "id": 337,
+    "category": "metals",
+    "tier": "hard",
+    "word": "mineshaft",
+    "hint": "A deep vertical passageway driven through rock layers to access buried ore deposits.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 338,
+    "category": "metals",
+    "tier": "hard",
+    "word": "minework",
+    "hint": "The physical labor and operational activities carried out within an excavation facility.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 339,
+    "category": "metals",
+    "tier": "hard",
+    "word": "driftway",
+    "hint": "A horizontal subterranean passageway driven along a layer of valuable ore.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 340,
+    "category": "metals",
+    "tier": "hard",
+    "word": "minesite",
+    "hint": "The specific ground location where an active or historical subterranean excavation is situated.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 341,
+    "category": "metals",
+    "tier": "hard",
+    "word": "openwork",
+    "hint": "An excavation or quarry cut directly into the surface of the earth without underground tunneling.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 342,
+    "category": "metals",
+    "tier": "hard",
+    "word": "workface",
+    "hint": "The actively exposed wall of rock currently being excavated inside an underground tunnel.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 343,
+    "category": "metals",
+    "tier": "hard",
+    "word": "blasthole",
+    "hint": "A cavity drilled into rock to place explosives for shattering hard strata.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 344,
+    "category": "metals",
+    "tier": "hard",
+    "word": "country",
+    "hint": "In geology, the main mass of surrounding rock through which a rich vein of ore passes.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 345,
+    "category": "metals",
+    "tier": "hard",
+    "word": "straddle",
+    "hint": "A vertical structural post used underground to support a wooden timbering set.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 346,
+    "category": "metals",
+    "tier": "hard",
+    "word": "windbore",
+    "hint": "The bottommost perforated pipe at the base of an underground drainage suction pump.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 347,
+    "category": "metals",
+    "tier": "hard",
+    "word": "basseting",
+    "hint": "The natural emerging or cropping out of an underground rock layer at the ground surface.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 348,
+    "category": "metals",
+    "tier": "hard",
+    "word": "workings",
+    "hint": "The entire network of underground tunnels, pits, and galleries that are actively excavated.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 349,
+    "category": "metals",
+    "tier": "hard",
+    "word": "forefield",
+    "hint": "The active, working front edge or exposed rock face within an underground excavation.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 350,
+    "category": "metals",
+    "tier": "hard",
+    "word": "trouble",
+    "hint": "In subterranean geological formations, a structural fault or shift that disrupts a continuous layer of rock or ore.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 351,
+    "category": "metals",
+    "tier": "hard",
+    "word": "downwell",
+    "hint": "A vertical passage or conduit designed to carry liquid downward into subterranean chambers or aquifers.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 352,
+    "category": "metals",
+    "tier": "hard",
+    "word": "windway",
+    "hint": "An underground passage dedicated to circulating fresh air through subterranean tunnels.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 353,
+    "category": "metals",
+    "tier": "hard",
+    "word": "footwall",
+    "hint": "In geology, the subterranean mass of rock that lies beneath an inclined mineral vein or fault plane.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 354,
+    "category": "metals",
+    "tier": "hard",
+    "word": "studdle",
+    "hint": "An upright wooden prop or timber used underground to support a timbering frame or elevated platform.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 355,
+    "category": "metals",
+    "tier": "hard",
+    "word": "headway",
+    "hint": "An underground passage driven across main tunnels to connect parallel workings or improve ventilation.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 356,
+    "category": "metals",
+    "tier": "hard",
+    "word": "dibhole",
+    "hint": "The lowest sump or excavation point underground where runoff naturally collects.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 357,
+    "category": "metals",
+    "tier": "hard",
+    "word": "stenting",
+    "hint": "A passage or portal cut through a subterranean pillar or partition in a subterranean carbon excavation.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 358,
+    "category": "metals",
+    "tier": "hard",
+    "word": "highwall",
+    "hint": "The steep, unexcavated cliff face left along the perimeter of an open-pit excavation.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 359,
+    "category": "metals",
+    "tier": "hard",
+    "word": "coalface",
+    "hint": "The active working boundary at the terminus of an underground chamber where dark fossil fuel is extracted.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 360,
+    "category": "metals",
+    "tier": "hard",
+    "word": "longwall",
+    "hint": "An expansive, continuous face of buried carbon resource extracted in a single broad sweeping motion.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 361,
+    "category": "metals",
+    "tier": "hard",
+    "word": "squeeze",
+    "hint": "The slow inward collapse or narrowing of underground passages caused by immense pressure from rock layers above.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 362,
+    "category": "metals",
+    "tier": "hard",
+    "word": "minelife",
+    "hint": "The total projected duration of productive resource extraction at an excavation site.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 363,
+    "category": "metals",
+    "tier": "hard",
+    "word": "mynpacht",
+    "hint": "In South African legal history, an official concession granting exclusive rights to extract mineral wealth from a plot.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 364,
+    "category": "metals",
+    "tier": "hard",
+    "word": "standage",
+    "hint": "A subterranean basin or sump engineered to collect and store liquid runoff underground.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 365,
+    "category": "metals",
+    "tier": "hard",
+    "word": "dropper",
+    "hint": "In geology, a secondary mineral stream or seam that splits away downward from the principal lode.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 366,
+    "category": "metals",
+    "tier": "hard",
+    "word": "headgear",
+    "hint": "The structural frame and pulley mechanism positioned above a deep vertical shaft to raise and lower cages or loads.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 367,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ginging",
+    "hint": "The technique of masonry work using stone or brick to reinforce and stabilize the walls of a deep vertical pit.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 368,
+    "category": "metals",
+    "tier": "hard",
+    "word": "surface",
+    "hint": "To extract mineral deposits or ore from shallow depths rather than deep underground pits.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 369,
+    "category": "metals",
+    "tier": "hard",
+    "word": "haulier",
+    "hint": "A subterranean laborer tasked with transporting extracted material from the active extraction area to the main shaft.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 370,
+    "category": "metals",
+    "tier": "hard",
+    "word": "container",
+    "hint": "A standardized, heavy-duty metallic cargo vessel used globally to transport freight by ship, train, or truck.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 371,
+    "category": "metals",
+    "tier": "hard",
+    "word": "pondokkie",
+    "hint": "A crude, temporary shack or dwelling constructed from scrap iron or corrugated tin panels.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 372,
+    "category": "metals",
+    "tier": "hard",
+    "word": "repousse",
+    "hint": "Metalworking technique where ornamentation is pushed into relief by hammering the reverse side of a sheet.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 373,
+    "category": "metals",
+    "tier": "hard",
+    "word": "beechwood",
+    "hint": "A small, unincorporated settlement situated within Michigan's Iron County.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 374,
+    "category": "metals",
+    "tier": "hard",
+    "word": "blowtube",
+    "hint": "A narrow pipe used in metallurgy to direct an air stream into a flame to raise heat.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 375,
+    "category": "metals",
+    "tier": "hard",
+    "word": "capsule",
+    "hint": "A tiny metallic shell housing a percussion primer inside ammunition.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 376,
+    "category": "metals",
+    "tier": "hard",
+    "word": "domeykite",
+    "hint": "An isometric mineral compound composed of copper combined with element thirty-three.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 377,
+    "category": "metals",
+    "tier": "hard",
+    "word": "feather",
+    "hint": "One of the stabilizing vanes attached near the nock end of an arrow shaft.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 378,
+    "category": "metals",
+    "tier": "hard",
+    "word": "foliate",
+    "hint": "An archaic action meaning to hammer or flatten a piece of refined element into extremely thin leaves.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 379,
+    "category": "metals",
+    "tier": "hard",
+    "word": "foliation",
+    "hint": "The process of hammering ductile material into ultra-thin sheets or leaves.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 380,
+    "category": "metals",
+    "tier": "hard",
+    "word": "fountain",
+    "hint": "A populated place situated within West Virginia's Mineral County.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 381,
+    "category": "metals",
+    "tier": "hard",
+    "word": "silicon",
+    "hint": "An individual unit atom of atomic number fourteen, essential to modern semiconductors.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 382,
+    "category": "metals",
+    "tier": "hard",
+    "word": "corrosion",
+    "hint": "Chemical degradation and breakdown of a refined surface caused by atmospheric exposure or oxidation.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 383,
+    "category": "metals",
+    "tier": "hard",
+    "word": "organic",
+    "hint": "Describing matter originating from or associated with biological life forms.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 384,
+    "category": "metals",
+    "tier": "hard",
+    "word": "carrier",
+    "hint": "A mobile particle or hole that transports electrical energy through a conductor or semiconductor.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 385,
+    "category": "metals",
+    "tier": "hard",
+    "word": "arsenic",
+    "hint": "Pertaining to pentavalent chemical compounds derived from atomic number thirty-three.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 386,
+    "category": "metals",
+    "tier": "easy",
+    "word": "gold",
+    "hint": "A rich, warm yellow color named after a precious yellow element.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 387,
+    "category": "metals",
+    "tier": "easy",
+    "word": "iron",
+    "hint": "Metal fetters or manacles used to restrain a prisoner's limbs.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 388,
+    "category": "metals",
+    "tier": "easy",
+    "word": "zinc",
+    "hint": "In Nigerian English, a sheet of wavy metal used as roofing material.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 389,
+    "category": "metals",
+    "tier": "easy",
+    "word": "tin",
+    "hint": "A metal pan used when baking or storing food.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 390,
+    "category": "metals",
+    "tier": "easy",
+    "word": "wire",
+    "hint": "A thin, flexible thread or slender strand of metal used to carry electricity.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 391,
+    "category": "metals",
+    "tier": "easy",
+    "word": "rail",
+    "hint": "The long steel bar that forms the track for trains to run on.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 392,
+    "category": "metals",
+    "tier": "easy",
+    "word": "lead",
+    "hint": "A thin strip of metal placed between printed lines of text in typography.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 393,
+    "category": "metals",
+    "tier": "easy",
+    "word": "drum",
+    "hint": "A round, cylindrical stone block that forms part of a column shaft.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 394,
+    "category": "metals",
+    "tier": "easy",
+    "word": "base",
+    "hint": "Describing a common metal that oxidizes easily, unlike silver or gold.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 395,
+    "category": "metals",
+    "tier": "easy",
+    "word": "blue",
+    "hint": "To treat steel or iron with a chemical process to protect against rust.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 396,
+    "category": "metals",
+    "tier": "easy",
+    "word": "coin",
+    "hint": "To stamp or press metal into official currency pieces.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 397,
+    "category": "metals",
+    "tier": "easy",
+    "word": "flux",
+    "hint": "A substance applied to clean metal surfaces before soldering or joining them.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 398,
+    "category": "metals",
+    "tier": "easy",
+    "word": "mat",
+    "hint": "An alloy containing copper and other elements, also known as white metal.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 399,
+    "category": "metals",
+    "tier": "easy",
+    "word": "mine",
+    "hint": "A rich source or abundant supply of valuable information or wealth.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 400,
+    "category": "metals",
+    "tier": "easy",
+    "word": "mute",
+    "hint": "Producing a dull, deadened sound rather than a clear ring when struck.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 401,
+    "category": "metals",
+    "tier": "easy",
+    "word": "pit",
+    "hint": "An excavation in the ground created to extract valuable minerals or ore.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 402,
+    "category": "metals",
+    "tier": "easy",
+    "word": "mill",
+    "hint": "A power tool or machine used for shaping and cutting solid material.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 403,
+    "category": "metals",
+    "tier": "easy",
+    "word": "bank",
+    "hint": "The exposed wall of coal inside a tunnel where workers extract fuel.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 404,
+    "category": "metals",
+    "tier": "easy",
+    "word": "buck",
+    "hint": "To crush or shatter raw ore into smaller pieces for processing.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 405,
+    "category": "metals",
+    "tier": "easy",
+    "word": "rack",
+    "hint": "To clean extracted ore by rinsing it on a slatted wooden frame.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 406,
+    "category": "metals",
+    "tier": "easy",
+    "word": "tye",
+    "hint": "A wooden trough used in extraction sites for washing crushed ore.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 407,
+    "category": "metals",
+    "tier": "easy",
+    "word": "chat",
+    "hint": "The leftover gravelly waste rock produced during lead extraction.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 408,
+    "category": "metals",
+    "tier": "easy",
+    "word": "corf",
+    "hint": "A large sturdy basket used in underground shafts to transport coal.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 409,
+    "category": "metals",
+    "tier": "easy",
+    "word": "crop",
+    "hint": "Extracted metal ore that has been cleaned and made ready for smelting.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 410,
+    "category": "metals",
+    "tier": "easy",
+    "word": "dig",
+    "hint": "The job or act of searching for precious yellow metal underground.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 411,
+    "category": "metals",
+    "tier": "easy",
+    "word": "dish",
+    "hint": "An old mining trough used for measuring extracted ore.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 412,
+    "category": "metals",
+    "tier": "easy",
+    "word": "draw",
+    "hint": "To haul coal or raw mineral deposits up to the surface from deep underground.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 413,
+    "category": "metals",
+    "tier": "easy",
+    "word": "dump",
+    "hint": "A large mound or pile of discarded rock and excavated mineral material.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 414,
+    "category": "metals",
+    "tier": "easy",
+    "word": "rust",
+    "hint": "An oxidized coating formed on a metal surface.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 415,
+    "category": "metals",
+    "tier": "easy",
+    "word": "case",
+    "hint": "A small crack in a mine that lets water leak into the workings.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 416,
+    "category": "metals",
+    "tier": "easy",
+    "word": "gild",
+    "hint": "To apply a thin coat of gold leaf onto a surface.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 417,
+    "category": "metals",
+    "tier": "easy",
+    "word": "gong",
+    "hint": "A heavy metal disc used as a target that rings loudly when struck.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 418,
+    "category": "metals",
+    "tier": "easy",
+    "word": "nill",
+    "hint": "Scales of glowing or hot iron that flake off at the forge.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 419,
+    "category": "metals",
+    "tier": "easy",
+    "word": "work",
+    "hint": "Raw mineral material or ore before it undergoes processing.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 420,
+    "category": "metals",
+    "tier": "easy",
+    "word": "drop",
+    "hint": "The vertical distance from a hanger base down to the shaft axis.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 421,
+    "category": "metals",
+    "tier": "easy",
+    "word": "shoe",
+    "hint": "A heavy iron socket designed to take the structural load of a strut or rafter.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 422,
+    "category": "metals",
+    "tier": "easy",
+    "word": "spa",
+    "hint": "A resort situated near mineral-rich waters or thermal springs.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 423,
+    "category": "metals",
+    "tier": "easy",
+    "word": "pan",
+    "hint": "To swirl earth and water in a shallow basin while searching for gold.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 424,
+    "category": "metals",
+    "tier": "easy",
+    "word": "die",
+    "hint": "A specialized tool or mold used to shape heated metal or plastic.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 425,
+    "category": "metals",
+    "tier": "easy",
+    "word": "stub",
+    "hint": "Refers to a short piece or fragment of iron scrap.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 426,
+    "category": "metals",
+    "tier": "easy",
+    "word": "gilt",
+    "hint": "A thin layer of gold or similar precious metal applied for decoration.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 427,
+    "category": "metals",
+    "tier": "easy",
+    "word": "ire",
+    "hint": "An archaic or historical name for iron.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 428,
+    "category": "metals",
+    "tier": "easy",
+    "word": "pig",
+    "hint": "A block of cast iron or other metal, or the mold in which it is poured.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 429,
+    "category": "metals",
+    "tier": "easy",
+    "word": "bar",
+    "hint": "A long, solid piece or strip of metal, wood, or other material.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 430,
+    "category": "metals",
+    "tier": "easy",
+    "word": "stal",
+    "hint": "The word for steel across various Slavic languages.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 431,
+    "category": "metals",
+    "tier": "easy",
+    "word": "inox",
+    "hint": "A common French-derived term or designation for stainless steel.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 432,
+    "category": "metals",
+    "tier": "easy",
+    "word": "pipe",
+    "hint": "A long, cylindrical vein or deposit of mineral ore.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 433,
+    "category": "metals",
+    "tier": "easy",
+    "word": "rod",
+    "hint": "A thin, straight bar or shaft of metal or wood.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 434,
+    "category": "metals",
+    "tier": "easy",
+    "word": "bit",
+    "hint": "The sharp cutting piece of iron on a woodworking plane.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 435,
+    "category": "metals",
+    "tier": "easy",
+    "word": "cage",
+    "hint": "The large drum or spool used to wind the hoisting rope in a mining winch.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 436,
+    "category": "metals",
+    "tier": "easy",
+    "word": "can",
+    "hint": "A cylindrical tin vessel used for holding liquids or preserved food.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 437,
+    "category": "metals",
+    "tier": "easy",
+    "word": "fake",
+    "hint": "To forge or counterfeit an object, document, or signature.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 438,
+    "category": "metals",
+    "tier": "easy",
+    "word": "set",
+    "hint": "An instrument used by a blacksmith for shaping and dressing heated iron.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 439,
+    "category": "metals",
+    "tier": "easy",
+    "word": "seal",
+    "hint": "To secure a piece of iron firmly into a wall using cement or mortar.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 440,
+    "category": "metals",
+    "tier": "easy",
+    "word": "geat",
+    "hint": "The opening or passage through which liquefied alloy or iron flows into a mold during casting.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 441,
+    "category": "metals",
+    "tier": "easy",
+    "word": "drag",
+    "hint": "A steel mason's tool used to smooth and finish the surface of soft stone.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 442,
+    "category": "metals",
+    "tier": "easy",
+    "word": "bolt",
+    "hint": "An iron leg shackle or fetter used to restrain a prisoner.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 443,
+    "category": "metals",
+    "tier": "easy",
+    "word": "hood",
+    "hint": "A metal canopy over a stove or furnace that extracts smoke and fumes through a vent.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 444,
+    "category": "metals",
+    "tier": "easy",
+    "word": "mint",
+    "hint": "To forge, invent, or create something new, such as a coin or story.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 445,
+    "category": "metals",
+    "tier": "easy",
+    "word": "tilt",
+    "hint": "To shape or forge heavy iron using a heavy powered trip hammer.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 446,
+    "category": "metals",
+    "tier": "easy",
+    "word": "jump",
+    "hint": "A geological fault or offset dislocation occurring within a rock stratum or seam in a mine.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 447,
+    "category": "metals",
+    "tier": "easy",
+    "word": "fire",
+    "hint": "To detonate an explosive charge underground while excavating or blasting a mine.",
+    "sourceSeed": "blacksmith"
+  },
+  {
+    "id": 448,
+    "category": "metals",
+    "tier": "easy",
+    "word": "tosh",
+    "hint": "An old British slang term for copper, or small items made from that reddish metal.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 449,
+    "category": "metals",
+    "tier": "easy",
+    "word": "glut",
+    "hint": "A wooden wedge or block inserted behind timber supports or tubbing in a mine shaft.",
+    "sourceSeed": "bronze"
+  },
+  {
+    "id": 450,
+    "category": "metals",
+    "tier": "easy",
+    "word": "cuse",
+    "hint": "A mineralogical term for a copper selenide compound, also known as klockmannite.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 451,
+    "category": "metals",
+    "tier": "easy",
+    "word": "misy",
+    "hint": "A yellow iron sulfate mineral, also referred to as copiapite or yellow copperas.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 452,
+    "category": "metals",
+    "tier": "easy",
+    "word": "bush",
+    "hint": "A metal sleeve, lining, or thick ring fitted inside a machine to reduce friction.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 453,
+    "category": "metals",
+    "tier": "easy",
+    "word": "mass",
+    "hint": "An archaic term for a quantity of precious metal such as gold or silver bullion.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 454,
+    "category": "metals",
+    "tier": "easy",
+    "word": "unit",
+    "hint": "A historic English gold coin issued under James I, valued at twenty shillings.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 455,
+    "category": "metals",
+    "tier": "easy",
+    "word": "rial",
+    "hint": "A historical English gold coin first minted under Edward IV.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 456,
+    "category": "metals",
+    "tier": "easy",
+    "word": "dust",
+    "hint": "An old-fashioned slang word for money or cash, derived from tiny particles of precious metal.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 457,
+    "category": "metals",
+    "tier": "easy",
+    "word": "tael",
+    "hint": "A traditional East Asian unit of weight for precious metal, especially silver.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 458,
+    "category": "metals",
+    "tier": "easy",
+    "word": "lame",
+    "hint": "Overlapping thin metal armor plates linked together to allow flexibility.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 459,
+    "category": "metals",
+    "tier": "easy",
+    "word": "sol",
+    "hint": "A former silver currency piece used in Spanish America and Peru.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 460,
+    "category": "metals",
+    "tier": "easy",
+    "word": "hall",
+    "hint": "A German-derived family name historically given to a person connected to a salt extraction site or mine.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 461,
+    "category": "metals",
+    "tier": "easy",
+    "word": "try",
+    "hint": "To purify or refine precious ore by melting it down.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 462,
+    "category": "metals",
+    "tier": "easy",
+    "word": "foil",
+    "hint": "A very thin, flexible sheet of metal used for wrapping or lining.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 463,
+    "category": "metals",
+    "tier": "easy",
+    "word": "bat",
+    "hint": "A type of dark shale or bituminous rock found in coal mining.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 464,
+    "category": "metals",
+    "tier": "easy",
+    "word": "tub",
+    "hint": "A sturdy box or container used to transport coal or ore up a mine shaft.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 465,
+    "category": "metals",
+    "tier": "easy",
+    "word": "apex",
+    "hint": "The upper edge or highest point of an ore vein near the ground's surface.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 466,
+    "category": "metals",
+    "tier": "easy",
+    "word": "brow",
+    "hint": "A passageway in a coal mine that runs along the face of the deposit.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 467,
+    "category": "metals",
+    "tier": "easy",
+    "word": "gad",
+    "hint": "A sharp, pointed iron wedge or chisel used to break apart hard rock.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 468,
+    "category": "metals",
+    "tier": "easy",
+    "word": "gin",
+    "hint": "A vertical drum mechanism or whim used for hoisting materials in mining.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 469,
+    "category": "metals",
+    "tier": "easy",
+    "word": "gob",
+    "hint": "Waste rock or refuse left behind in abandoned sections of an underground mine.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 470,
+    "category": "metals",
+    "tier": "easy",
+    "word": "lum",
+    "hint": "A chimney structure positioned over a mine shaft to provide ventilation.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 471,
+    "category": "metals",
+    "tier": "easy",
+    "word": "room",
+    "hint": "An open underground chamber or working area created while extracting coal.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 472,
+    "category": "metals",
+    "tier": "easy",
+    "word": "shot",
+    "hint": "The heavy sphere of iron thrown by track and field athletes in a put event.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 473,
+    "category": "metals",
+    "tier": "easy",
+    "word": "sill",
+    "hint": "One of the wooden or metal shafts attached to a vehicle to harness a draft animal.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 474,
+    "category": "metals",
+    "tier": "easy",
+    "word": "sink",
+    "hint": "A small pit or shallow excavation dug out during underground mining operations.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 475,
+    "category": "metals",
+    "tier": "easy",
+    "word": "skip",
+    "hint": "A large bucket or container used to haul extracted ore up to the surface.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 476,
+    "category": "metals",
+    "tier": "easy",
+    "word": "slag",
+    "hint": "The stony waste matter separated from raw ore during smelting or mining.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 477,
+    "category": "metals",
+    "tier": "easy",
+    "word": "eye",
+    "hint": "The subterranean location where a mine shaft joins the bottom floor or working area.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 478,
+    "category": "metals",
+    "tier": "easy",
+    "word": "jig",
+    "hint": "A device or vibrating mechanical screen used to wash and separate mineral ores.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 479,
+    "category": "metals",
+    "tier": "easy",
+    "word": "slip",
+    "hint": "A fault or structural displacement in a mineral vein that breaks its continuity.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 480,
+    "category": "metals",
+    "tier": "easy",
+    "word": "sow",
+    "hint": "A large block of solidified iron or pig iron formed in a main casting channel.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 481,
+    "category": "metals",
+    "tier": "easy",
+    "word": "test",
+    "hint": "To purify precious metals like gold or silver using a small porous cup called a cupel.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 482,
+    "category": "metals",
+    "tier": "easy",
+    "word": "slug",
+    "hint": "A thick, heavy piece or rough chunk of cast metal.",
+    "sourceSeed": "ingot"
+  },
+  {
+    "id": 483,
+    "category": "metals",
+    "tier": "easy",
+    "word": "wall",
+    "hint": "Either side of the solid rock surface that borders a rich mineral vein.",
+    "sourceSeed": "anvil"
+  },
+  {
+    "id": 484,
+    "category": "metals",
+    "tier": "easy",
+    "word": "burr",
+    "hint": "A protective metallic ring placed near the hand-grip of a weapon like a lance or spear.",
+    "sourceSeed": "anvil"
+  },
+  {
+    "id": 485,
+    "category": "metals",
+    "tier": "easy",
+    "word": "rind",
+    "hint": "An iron cross-piece mounted on the upper stone of a flour mill.",
+    "sourceSeed": "anvil"
+  },
+  {
+    "id": 486,
+    "category": "metals",
+    "tier": "easy",
+    "word": "web",
+    "hint": "A thin sheet, plate, or strip of lead or other material.",
+    "sourceSeed": "anvil"
+  },
+  {
+    "id": 487,
+    "category": "metals",
+    "tier": "easy",
+    "word": "flat",
+    "hint": "Describing a golf club whose head forms a very obtuse angle with its shaft.",
+    "sourceSeed": "anvil"
+  },
+  {
+    "id": 488,
+    "category": "metals",
+    "tier": "easy",
+    "word": "road",
+    "hint": "An underground tunnel or passageway inside a mine.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 489,
+    "category": "metals",
+    "tier": "easy",
+    "word": "cave",
+    "hint": "A sudden collapse or fall of earth inside a mine working.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 490,
+    "category": "metals",
+    "tier": "easy",
+    "word": "delf",
+    "hint": "An archaic or dialect term for a quarry, mine, or excavation pit.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 491,
+    "category": "metals",
+    "tier": "easy",
+    "word": "crut",
+    "hint": "A mining passage or drift cut across rock strata.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 492,
+    "category": "metals",
+    "tier": "easy",
+    "word": "sole",
+    "hint": "The bottom floor or lowest level of a mine drift or vein.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 493,
+    "category": "metals",
+    "tier": "easy",
+    "word": "tail",
+    "hint": "Residue or leftover refuse material separated during ore processing.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 494,
+    "category": "metals",
+    "tier": "easy",
+    "word": "gulf",
+    "hint": "A large accumulation or mass of ore situated within a lode.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 495,
+    "category": "metals",
+    "tier": "easy",
+    "word": "fork",
+    "hint": "The lowest point of a pit or drainage basin in a mine where water gathers.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 496,
+    "category": "metals",
+    "tier": "easy",
+    "word": "goaf",
+    "hint": "Waste rock or rubble left behind in abandoned areas of a mine.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 497,
+    "category": "metals",
+    "tier": "easy",
+    "word": "bord",
+    "hint": "A mine passageway driven parallel to the natural cleavage or joints of coal.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 498,
+    "category": "metals",
+    "tier": "easy",
+    "word": "tram",
+    "hint": "An obsolete term for one of the wooden shafts attached to a cart.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 499,
+    "category": "metals",
+    "tier": "easy",
+    "word": "pot",
+    "hint": "A historical iron headpiece with a broad brim used for protection in battle.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 500,
+    "category": "metals",
+    "tier": "easy",
+    "word": "rock",
+    "hint": "A solid naturally occurring mass composed of one or more minerals.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 501,
+    "category": "metals",
+    "tier": "easy",
+    "word": "raw",
+    "hint": "Relating to a diet consisting entirely of uncooked food.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 502,
+    "category": "metals",
+    "tier": "easy",
+    "word": "vein",
+    "hint": "A sheet-like deposit of crystallized minerals embedded within surrounding stone.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 503,
+    "category": "metals",
+    "tier": "easy",
+    "word": "band",
+    "hint": "A specific range or interval of frequencies within the electromagnetic spectrum.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 504,
+    "category": "metals",
+    "tier": "easy",
+    "word": "acid",
+    "hint": "In chemistry, a chemical substance capable of donating a proton to a base.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 505,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "argentiferous",
+    "hint": "Describing geological deposits or rock strata yielding a high concentration of silver.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 506,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "auriferous",
+    "hint": "Describing geological formations or stream gravels rich in natural gold deposits.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 507,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "bimetallic",
+    "hint": "Describing a strip, object, or nanoparticle composed of two distinct elemental conductors.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 508,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "metalworking",
+    "hint": "The craft, art, and industrial process of shaping, forging, and machining conductive elements.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 509,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "electroplate",
+    "hint": "A thin layer of conductor deposited onto a surface through electrolytic action.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 510,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "metallurgic",
+    "hint": "Relating to the scientific study, extraction, smelting, and structural engineering of alloys.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 511,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "radiometal",
+    "hint": "An unstable, decay-emitting isotope of a heavy element used as a tracer in nuclear medicine.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 512,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "martensite",
+    "hint": "A hard, needle-like crystalline phase in steel produced by the rapid quenching of austenite.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 513,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "hydrogenium",
+    "hint": "An obsolete name for element 1, used when scientists hypothesized it existed as a solid conductor.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 514,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "amalgamation",
+    "hint": "The product or process of blending quicksilver with other conductive elements to yield an alloy.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 515,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "metallography",
+    "hint": "A planographic printing process using prepared conductive plates in place of lithographic stones.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 516,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "metallophobia",
+    "hint": "An intense, irrational dread of seeing or touching conductive objects.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 517,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "metallurgist",
+    "hint": "A scientific expert specializing in the extraction, refining, and alloy behavior of conductors.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 518,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "nonferrous",
+    "hint": "Describing materials, such as copper, aluminum, or bronze, that contain no iron.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 519,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ullmannite",
+    "hint": "A metallic cubic sulfide mineral containing nickel and antimony.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 520,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ferrochromium",
+    "hint": "An essential master alloy composed of iron and element 24, widely used in stainless steel production.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 521,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "mineralizer",
+    "hint": "A volatile substance or element that combines with a conductive element to form an ore body.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 522,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "stephanite",
+    "hint": "An orthorhombic black mineral composed of silver, antimony, and sulfur, often called black silver.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 523,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "bismuthinite",
+    "hint": "A soft, lead-gray sulfide mineral that serves as the principal ore source of element 83.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 524,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "dyscrasite",
+    "hint": "A rare, lustrous orthorhombic mineral composed solely of silver and antimony.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 525,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "miargyrite",
+    "hint": "A monoclinic sulfide mineral of silver and antimony featuring deep red internal reflections.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 526,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "aurichalcite",
+    "hint": "A soft, sky-blue or green basic carbonate mineral containing both copper and zinc.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 527,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "volborthite",
+    "hint": "An olive-green to yellow-green mineral composed of hydrated copper vanadate.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 528,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "manganiferous",
+    "hint": "Describing rock strata, slag, or mineral compositions rich in element 25.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 529,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "bournonite",
+    "hint": "An orthorhombic sulfosalt mineral of lead, copper, and antimony, often forming cogwheel twins.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 530,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "triploidite",
+    "hint": "Rare monoclinic manganese iron phosphate crystal.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 531,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "chalcanthite",
+    "hint": "Vibrant blue water-soluble copper sulfate crystal.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 532,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "brochantite",
+    "hint": "Emerald-green basic copper sulfate crystal forming in arid oxidation zones.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 533,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "mineraloid",
+    "hint": "An inorganic solid resembling a natural crystalline material but lacking a definite atomic lattice.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 534,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "xylanthrax",
+    "hint": "Archaic term for wood coal or charcoal as distinguished from mined coal.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 535,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "fergusonite",
+    "hint": "Rare-earth oxide crystal typically containing yttrium, niobium, and tantalum.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 536,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "calaverite",
+    "hint": "Metallic telluride crystal valued as a primary gold-bearing ore.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 537,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "lepidocrocite",
+    "hint": "Hydrated iron oxide species found in rust, structurally distinct from goethite.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 538,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "senarmontite",
+    "hint": "Isometric antimony trioxide crystal formed by the oxidation of stibnite.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 539,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "caledonite",
+    "hint": "Deep blue-green basic carbonate-sulfate species containing copper and lead.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 540,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "chalcocite",
+    "hint": "Dark grey cuprous sulfide ore prized as a major source of copper.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 541,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "cupriferous",
+    "hint": "Descriptive of rock or soil containing or producing copper.",
+    "sourceSeed": "ore"
+  },
+  {
+    "id": 542,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "microalloy",
+    "hint": "Metallic material enhanced by minute trace additions of secondary elements.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 543,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ferroaluminum",
+    "hint": "Master mixture composed primarily of iron and aluminum used in metallurgy.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 544,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ferrometal",
+    "hint": "Broad term for any metallic material composed predominantly of iron.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 545,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "symmetallism",
+    "hint": "Monetary standard based on a combined fixed ratio of two precious bullion elements.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 546,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "metalcraft",
+    "hint": "The artistic shaping, forging, or fabrication of iron, copper, and bronze objects.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 547,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "argentalium",
+    "hint": "Historical light alloy produced from a mix of silver and aluminum.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 548,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ferronickel",
+    "hint": "Crude alloy of iron and nickel refined mainly for stainless steel production.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 549,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "sterrometal",
+    "hint": "Obsolete brass-like alloy containing copper, zinc, tin, and iron used for ordnance.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 550,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ferrotungsten",
+    "hint": "Iron-heavy master alloy containing tungsten used in high-speed tool steel.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 551,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "amalgamate",
+    "hint": "To combine a base or precious element with mercury to form a soft alloy.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 552,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "cupellation",
+    "hint": "Metallurgical refining process separating noble elements from base lead using a porous shallow dish.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 553,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "cupronickel",
+    "hint": "Corrosion-resistant copper alloy containing ten to forty percent nickel, widely used in coinage.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 554,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ferrosilicon",
+    "hint": "Iron and silicon blend added during steelmaking as a deoxidizer.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 555,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "metalworker",
+    "hint": "An artisan skilled in shaping forged or cast refined elements into functional items.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 556,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "blacksmithery",
+    "hint": "The traditional trade or craft associated with shaping heated dark alloy on an anvil.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 557,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ironsmithing",
+    "hint": "The ancient forge craft dedicated to fashioning heavy magnetic element bars with heat and blows.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 558,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "metalmaking",
+    "hint": "The industrial production and refining of raw elemental substances from unrefined ores.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 559,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "blacksmithy",
+    "hint": "The forge workshop where dark alloy items are pounded on an anvil.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 560,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "steelworking",
+    "hint": "The industrial processing or forging of high-tensile carbon-ferrous alloys into structural goods.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 561,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "blacksmithing",
+    "hint": "The enterprise or occupation centered on heating and hammering dark elemental bars.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 562,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ironworking",
+    "hint": "The historic craft of shaping magnetic elemental bars into decorative or structural items.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 563,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "steelmaking",
+    "hint": "The manufacturing process of refining molten pig element into durable carbon-reinforced alloy.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 564,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "steelworks",
+    "hint": "An industrial plant where molten carbon-ferrous alloys are smelted, molded, and shaped.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 565,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "bronzeworking",
+    "hint": "The ancient artistic craft of casting or beating copper-tin alloy into tools or statues.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 566,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "metalworks",
+    "hint": "A manufacturing facility dedicated to processing and refining element alloys.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 567,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "silverworking",
+    "hint": "The delicate craft of shaping lustrous precious white element into ornaments or bullion wares.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 568,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "bellfounding",
+    "hint": "The specialized casting process used to mold reverberating bronze chime instruments.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 569,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "silverwork",
+    "hint": "Decorative items or jewelry fashioned from a precious, reflective white element.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 570,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "smithwright",
+    "hint": "An archaic term for a craftsman who shapes heated dark alloy at an anvil.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 571,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "copperworking",
+    "hint": "The trade of shaping reddish-brown elemental sheets or wires into functional products.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 572,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "hammerscale",
+    "hint": "Flaky oxide debris dislodged from hot dark alloy during heavy anvil striking.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 573,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "bronzeworks",
+    "hint": "A specialized foundry facility where copper-tin alloys are melted and cast into shapes.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 574,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ironmongery",
+    "hint": "Mountaineering slang for technical gear like pitons, carabiners, and removable protection.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 575,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "copperwork",
+    "hint": "Objects, vessels, or roofing elements crafted from a malleable reddish-brown element.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 576,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "blacksmith",
+    "hint": "A tradesman who heats dark elemental bars in a forge to shape them with heavy blows.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 577,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "mineralogy",
+    "hint": "Naturally occurring inorganic substances and crystalline earth solids collectively.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 578,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "nonmineral",
+    "hint": "Describing organic or synthetic matter that lacks a crystalline inorganic structure.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 579,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "rhodochrosite",
+    "hint": "A rose-pink to cherry-red manganese carbonate crystal prized by collectors.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 580,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ferruginous",
+    "hint": "Describing rocks, soils, or water rich in reddish-brown element number 26.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 581,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "multimineral",
+    "hint": "Describing a dietary supplement or ore deposit containing a combination of several distinct inorganic crystalline substances.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 582,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "microminerals",
+    "hint": "Essential inorganic dietary elements required by the human body in extremely tiny daily amounts, such as copper or selenium.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 583,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "pyrophyllite",
+    "hint": "A soft, greasy silicate inorganic compound composed of aluminum and hydrogen, often confused with talc.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 584,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "paragenesis",
+    "hint": "The chronological order in which different inorganic crystalline structures assemble within a rock mass over geological time.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 585,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "polymetallic",
+    "hint": "Describing an ore deposit or alloy that contains a variety of distinct elemental conductors.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 586,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "biomineral",
+    "hint": "An inorganic crystalline compound, like calcium phosphate in bones, generated through biological processes.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 587,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "zincsilite",
+    "hint": "A rare silicate compound named for containing element 30 alongside oxygen and silicon.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 588,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "zincochromite",
+    "hint": "A rare dark brown or black oxide featuring element 30 paired with chromium.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 589,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "zincocalcite",
+    "hint": "A variety of calcium carbonate in which element 30 partially replaces the primary cation.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 590,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "cordierite",
+    "hint": "A blue-ish silicate crystal containing magnesium, ferric elements, and aluminum, known for displaying strong pleochroism.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 591,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "depressant",
+    "hint": "A chemical additive in froth ore separation that selectively prevents certain inorganic target compounds from floating.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 592,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "mineralize",
+    "hint": "To transform organic matter into an inorganic stone-like state over vast periods of time.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 593,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "proteinate",
+    "hint": "A chelated organic compound formed by combining a trace elemental cation with amino acid chains for enhanced absorption.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 594,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ferroportin",
+    "hint": "A cellular membrane channel that exports element 26 out of intestinal cells into the bloodstream.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 595,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ironmaking",
+    "hint": "The industrial extraction process of smelting raw hematite or magnetite to synthesize elemental Fe.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 596,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ironmaster",
+    "hint": "An 18th- or 19th-century industrialist who owned and operated a blast furnace for heavy Fe production.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 597,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ironfounder",
+    "hint": "A specialized artisan or business that casts liquid Fe into molds to create heavy components.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 598,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "aerosiderite",
+    "hint": "A celestial mass composed mostly of nickel-bearing Fe that has fallen to Earth from space.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 599,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "aventurine",
+    "hint": "A decorative, shimmering glass or quartz infused with tiny glinting flakes of copper or chromium mica.",
+    "sourceSeed": "iron"
+  },
+  {
+    "id": 600,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "structurals",
+    "hint": "Load-bearing alloy beams, girders, and channels used as the framework in building construction.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 601,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "steelmaker",
+    "hint": "An industrial enterprise dedicated to refining molten pig Fe into carbon-doped alloys on a commercial scale.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 602,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "electrosteel",
+    "hint": "A refined carbon-Fe alloy produced using arc furnaces rather than traditional coal-fired blast furnaces.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 603,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "adamantium",
+    "hint": "An unbreakable fictional alloy famous in comic lore for coating Wolverine's skeletal structure.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 604,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "galvanneal",
+    "hint": "A matte-gray coated alloy sheet produced by dipping in liquid element 30 followed by heat treatment to form a paintable alloy layer.",
+    "sourceSeed": "steel"
+  },
+  {
+    "id": 605,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "habilitation",
+    "hint": "The act of providing financial backing or funding to operate an ore extraction site.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 606,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "countermine",
+    "hint": "A tunnel excavated by defenders to intercept an enemy's underground passage.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 607,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "sideromancy",
+    "hint": "Foretelling the future by observing how straws burn upon hot iron.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 608,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "pyrotechnic",
+    "hint": "Relating to high-heat thermal processes used in chemical or elemental extraction arts.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 609,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "salamander",
+    "hint": "A mass of cooled, unrecovered slag and crude elemental deposit left at the bottom of a blast furnace hearth.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 610,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "metallurgists",
+    "hint": "Experts skilled in the science and craft of extracting, refining, and working elemental substances and alloys.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 611,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "amalgamating",
+    "hint": "Combining quicksilver with another elemental element to produce an alloy.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 612,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "amalgamations",
+    "hint": "Blended elemental mixtures or alloys produced by uniting quicksilver with other elements.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 613,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "eliquation",
+    "hint": "A metallurgical separation process that separates elements of an alloy using their differing melting points.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 614,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "granulation",
+    "hint": "Decorative technique of fusing tiny spheres of precious elements onto a base surface in fine jewelry making.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 615,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "refraction",
+    "hint": "A measure of the ability of a material or elemental compound to withstand extreme temperatures without melting.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 616,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "dealloying",
+    "hint": "The corrosion process in which one constituent element is selectively leached away from a metallic mixture.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 617,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "acieration",
+    "hint": "The process of converting elemental iron into steel.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 618,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "beneficiate",
+    "hint": "To treat raw excavated ore in order to improve its purity or concentrate its valuable content.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 619,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "silverfish",
+    "hint": "A freshwater ray-finned species native to African rivers, known scientifically as Raiamas senegalensis.",
+    "sourceSeed": "smelting"
+  },
+  {
+    "id": 620,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "knockstone",
+    "hint": "A heavy block of rock used in ore processing as a surface upon which raw material is crushed manually.",
+    "sourceSeed": "ingot"
+  },
+  {
+    "id": 621,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "scratchbrush",
+    "hint": "A stiff tool bristled with tough wire strands, designed for scouring scale and oxide off metallic surfaces.",
+    "sourceSeed": "anvil"
+  },
+  {
+    "id": 622,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "underlayer",
+    "hint": "A vertical excavation sunk deep into the earth to intersect a mineral vein at a chosen depth.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 623,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "hardground",
+    "hint": "A firm, compact geologic stratum of dense rock encountered in subterranean excavations, distinct from coal seams.",
+    "sourceSeed": "mine shaft"
+  },
+  {
+    "id": 624,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "ferrumination",
+    "hint": "An obsolete term for joining or soldering two metallic pieces together using heat.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 625,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "metalliform",
+    "hint": "Possessing an appearance, physical structure, or texture resembling that of copper, iron, or tin.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 626,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "chalcographer",
+    "hint": "An artisan who incises designs onto copper sheets for the purpose of transferring prints to paper.",
+    "sourceSeed": "tin"
+  },
+  {
+    "id": 627,
+    "category": "metals",
+    "tier": "legendary",
+    "word": "quicksilver",
+    "hint": "A heavy, dense element that remains liquid at room temperature, also known as mercury.",
+    "sourceSeed": "tin"
   }
 ]

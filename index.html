@@ -1016,6 +1016,25 @@
 
         const GENERIC_WORDS = new Set(['thing', 'object', 'item', 'stuff', 'something', 'anything', 'everything', 'one', 'person', 'people', 'man', 'woman']);
 
+        // A handful of real, dictionary-attested English words have no a/e/i/o/u and no
+        // non-initial "y" acting as a vowel (Welsh loanwords, onomatopoeia). Everything else in
+        // that shape is almost always an abbreviation, initialism, or industry acronym (e.g. the
+        // "RMG" — Ready-Made Garments — that slipped into a real batch) rather than a word a
+        // player could actually guess letter by letter.
+        const NO_VOWEL_ALLOWLIST = new Set([
+            'cwm', 'cwms', 'crwth', 'crwths', 'nth',
+            'tsk', 'tsktsk', 'shh', 'shhh', 'brr', 'brrr', 'grr', 'grrr', 'pfft', 'psst', 'hmm', 'hmmm'
+        ]);
+        function looksLikeAbbreviation(word) {
+            const w = word.toLowerCase();
+            if (NO_VOWEL_ALLOWLIST.has(w)) return false;
+            if (/[aeiou]/.test(w)) return false;
+            // "y" counts as a vowel when it's not the very first letter (sky, gym, myth, rhythm) —
+            // only a string with literally no vowel sound anywhere reads as an abbreviation.
+            if (/[^aeiou]y/.test(w)) return false;
+            return true;
+        }
+
         function levenshteinDistance(a, b) {
             const m = a.length, n = b.length;
             const dp = Array.from({ length: m + 1 }, (_, i) => Array(n + 1).fill(0));
@@ -1102,6 +1121,12 @@
             // 1. Generic words → strong negative
             if (GENERIC_WORDS.has(r.word.toLowerCase())) {
                 return { verdict: 'rejected', reason: 'Generic word', score: -10 };
+            }
+
+            // 1b. No-vowel strings almost always read as abbreviations/acronyms, not guessable
+            // words — catches anything that slipped into a basket before this check existed.
+            if (looksLikeAbbreviation(r.word)) {
+                return { verdict: 'rejected', reason: 'No vowel — looks like an abbreviation', score: -10 };
             }
 
             // 2. Theme match (keywords or stems)
@@ -1272,6 +1297,7 @@
             for (const entry of data) {
                 const word = (entry.word || '').toUpperCase();
                 if (!/^[A-Z]{3,13}$/.test(word)) continue;
+                if (looksLikeAbbreviation(word)) continue; // e.g. "RMG" — reads as an acronym, not a guessable word
                 if (existing.has(word)) continue;
                 if (seenSoFar.has(word)) continue;
                 const allDefs = (entry.defs || []).map(cleanDatamuseDef).filter(Boolean);
@@ -1487,7 +1513,12 @@
                     const r = candidates[idx];
                     const hadDomainTag = defDomainTags(r.clue).length > 0;
                     const hadThemeMatch = wordMatchesTheme(r.word, r.clue, cat, keywords);
-                    const wasLexicallyTrusted = hadDomainTag || hadThemeMatch;
+                    // A word that only got in via the weaker concept-rescue path (association +
+                    // a merely-positive relevance score, not the strict initial match) shouldn't
+                    // also get a free pass here if the dictionary has never heard of it — that
+                    // combination of two weak signals is exactly how things like "nehallewars"
+                    // or "habilatory" slipped through undetected before.
+                    const wasLexicallyTrusted = (hadDomainTag || hadThemeMatch) && !r._assocRescued;
                     const info = await lookupFreeDictionary(r.word);
                     if (info.found === false && !wasLexicallyTrusted) {
                         r._dictReject = true;
@@ -1597,7 +1628,12 @@
                         const s = scoreDefinitionForRescue(r.word, d, cat, keywords);
                         if (s > bestDefScore) { bestDefScore = s; bestDef = d; }
                     }
-                    if (bestDef !== null && bestDefScore > 0) {
+                    if (bestDef !== null && bestDefScore >= 2) {
+                        // Threshold is 2, not >0 — a single weak signal (e.g. +1 "close spelling"
+                        // from a coincidental Levenshtein match) isn't real evidence on its own;
+                        // requiring at least two, or one solid one (morphological/relational
+                        // phrase/theme match, all worth 2+), cuts out the coincidental matches
+                        // that let unrelated words slip through as "rescued".
                         r.clue = bestDef;
                         r._assocRescued = true;
                         r._assocScore = bestAssocScore;
@@ -1958,7 +1994,12 @@
                 word: r.word,
                 category: activeCat,
                 tier: r.tier,
-                sourceSeed: r.sourceSeed || null
+                sourceSeed: r.sourceSeed || null,
+                // The specific sense/definition that got this word approved — passed through so
+                // the hint-generation step can write a hint consistent with THIS meaning instead
+                // of guessing at (and possibly landing on) a different, more common sense of the
+                // same word that has nothing to do with the category.
+                clue: r.clue || null
             })), null, 2);
         }
 

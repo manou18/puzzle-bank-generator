@@ -122,6 +122,14 @@ function buildHintPrompt(category, tier, items, extraReminder = "") {
   `;
 }
 
+/** يُرمى تحديداً عند 429 (نفاد الحصة) — يميّزه عن أي خطأ ثاني عشان يُعامل بدون إعادة محاولة. */
+class QuotaExceededError extends Error {
+  constructor(message) {
+    super(message);
+    this.name = "QuotaExceededError";
+  }
+}
+
 async function callGeminiOnce(category, tier, items, extraReminder = "") {
   const body = {
     contents: [{ role: "user", parts: [{ text: buildHintPrompt(category, tier, items, extraReminder) }] }],
@@ -139,6 +147,11 @@ async function callGeminiOnce(category, tier, items, extraReminder = "") {
 
   if (!res.ok) {
     const errText = await res.text().catch(() => "");
+    if (res.status === 429) {
+      // خطأ حصة يومية/فوترة عادةً ما يتعافى خلال ثوانٍ — إعادة المحاولة بتأخير قصير مضمونة
+      // الفشل، فنميّزه برمي خاص يوقف التشغيل كله فوراً بدل إهدار عشرات الطلبات على نفس الخطأ.
+      throw new QuotaExceededError(`HTTP 429 (quota exceeded): ${errText.slice(0, 300)}`);
+    }
     throw new Error(`HTTP ${res.status}: ${errText.slice(0, 300)}`);
   }
 
@@ -191,8 +204,14 @@ function stemPrefix(w) {
  */
 function hintDriftsFromClue(clue, hint) {
   if (!clue) return false;
-  const clueTerms = significantTerms(clue);
-  if (clueTerms.length === 0) return false;
+  // Strip a leading register/usage tag like "(colloquial)", "(now rare)", "(archaic)" before
+  // extracting content words — those tags aren't part of the meaning a hint needs to echo, and
+  // counting them as "content" made ultra-common clues like "(colloquial) Food" look like they
+  // had two real terms ("colloquial", "food") when really there's only one ("food"). A single
+  // bare word is too thin a basis to judge paraphrase fidelity against, so it's excluded below.
+  const clueBody = clue.replace(/^\([^)]*\)\s*/, '');
+  const clueTerms = significantTerms(clueBody);
+  if (clueTerms.length < 2) return false;
   const hintStems = new Set(significantTerms(hint).map(stemPrefix));
   return !clueTerms.some((t) => hintStems.has(stemPrefix(t)));
 }
@@ -229,6 +248,7 @@ async function fetchHintsForBatch(category, tier, items, retries = 3) {
             }
           }
         } catch (e) {
+          if (e instanceof QuotaExceededError) throw e; // لا تُبتلع — لازم توقف التشغيل كله
           log.warning(`⚠️ فشلت محاولة إعادة صياغة التلميحات المسرّبة (${category}/${tier}): ${e.message}`);
         }
       }
@@ -265,12 +285,19 @@ async function fetchHintsForBatch(category, tier, items, retries = 3) {
             }
           }
         } catch (e) {
+          if (e instanceof QuotaExceededError) throw e; // لا تُبتلع — لازم توقف التشغيل كله
           log.warning(`⚠️ فشلت محاولة إعادة صياغة التلميحات المنحرفة (${category}/${tier}): ${e.message}`);
         }
       }
 
       return clean;
     } catch (e) {
+      if (e instanceof QuotaExceededError) {
+        log.error(
+          `🛑 نفدت حصة Gemini API — إيقاف التشغيل بالكامل فوراً بدل إهدار عشرات المحاولات المضمونة الفشل: ${e.message}`
+        );
+        throw e; // بلا إعادة محاولة وبلا انتظار — يوقف كل شي فوراً حتى main()
+      }
       if (e instanceof SyntaxError) {
         log.warning(`⚠️ JSON غير صالح (${category}/${tier}), محاولة ${attempt}/${retries}: ${e.message}`);
       } else {
@@ -481,7 +508,14 @@ async function main() {
 
 if (require.main === module) {
   main().catch((e) => {
-    log.error(`💥 خطأ غير متوقع: ${e.stack || e.message}`);
+    if (e instanceof QuotaExceededError) {
+      log.error(
+        `🛑 توقف التشغيل: نفدت حصة Gemini API لهذا المفتاح. راجع خطتك على https://ai.dev/rate-limit ` +
+          `أو جرّب لاحقاً — أي محاولات إضافية الآن ستفشل بنفس الخطأ. (${e.message})`
+      );
+    } else {
+      log.error(`💥 خطأ غير متوقع: ${e.stack || e.message}`);
+    }
     process.exit(1);
   });
 }
@@ -494,4 +528,5 @@ module.exports = {
   generateHintsForApprovedWords,
   hintLeaksWord,
   hintDriftsFromClue,
+  QuotaExceededError,
 };

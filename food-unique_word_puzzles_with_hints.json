@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "category": "food",
+    "tier": "hard",
+    "word": "foodstuff",
+    "hint": "Raw substance or basic material suitable for human consumption or culinary preparation.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 2,
+    "category": "food",
+    "tier": "hard",
+    "word": "feeding",
+    "hint": "The act or process of providing sustenance to humans or animals.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 3,
+    "category": "food",
+    "tier": "hard",
+    "word": "petfood",
+    "hint": "Commercially prepared sustenance specifically designed for domestic animals like dogs or cats.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 4,
+    "category": "food",
+    "tier": "hard",
+    "word": "provender",
+    "hint": "Dry fodder or general sustenance set aside for livestock such as horses and cattle.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 5,
+    "category": "food",
+    "tier": "hard",
+    "word": "culinary",
+    "hint": "Pertaining to the art, practice, or appliances of meal preparation in a kitchen.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 6,
+    "category": "food",
+    "tier": "hard",
+    "word": "cuisine",
+    "hint": "A characteristic style or tradition of dish preparation associated with a specific culture.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 7,
+    "category": "food",
+    "tier": "hard",
+    "word": "cooking",
+    "hint": "The process of using thermal energy to transform raw ingredients into a prepared meal.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 8,
+    "category": "food",
+    "tier": "hard",
+    "word": "kitchen",
+    "hint": "A dedicated room or area equipped with appliances for preparing meals.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 9,
+    "category": "food",
+    "tier": "hard",
+    "word": "foraging",
+    "hint": "Searching wild areas to gather wild plants, berries, or other edible items.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 10,
+    "category": "food",
+    "tier": "hard",
+    "word": "trophic",
+    "hint": "Relating to nutrition, feeding levels, or energy transfers in an ecosystem.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 11,
+    "category": "food",
+    "tier": "hard",
+    "word": "foodborne",
+    "hint": "Describing an illness or pathogen transmitted into the body through consumed meals.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 12,
+    "category": "food",
+    "tier": "hard",
+    "word": "gourmet",
+    "hint": "A refined epicure or connoisseur who takes fine dining and dishes seriously.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 13,
+    "category": "food",
+    "tier": "hard",
+    "word": "provision",
+    "hint": "An item of stock or supplies, particularly sustenance, gathered for future use.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 14,
+    "category": "food",
+    "tier": "hard",
+    "word": "micrantha",
+    "hint": "A wild citrus tree native to the Philippines, or its small, sour fruit.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 15,
+    "category": "food",
+    "tier": "hard",
+    "word": "eatables",
+    "hint": "An informal plural term for various consumable items or treats.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 16,
+    "category": "food",
+    "tier": "hard",
+    "word": "nutriment",
+    "hint": "A source of essential organic nourishment required to sustain life and growth.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 17,
+    "category": "food",
+    "tier": "hard",
+    "word": "nonfood",
+    "hint": "Describing items or household goods that are inedible and not meant for consumption.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 18,
+    "category": "food",
+    "tier": "hard",
+    "word": "dessert",
+    "hint": "The final sweet course served at the end of a dinner.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 19,
+    "category": "food",
+    "tier": "hard",
+    "word": "vegetable",
+    "hint": "Historical British Royal Air Force slang for an air-dropped explosive sea mine.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 20,
+    "category": "food",
+    "tier": "hard",
+    "word": "breakfast",
+    "hint": "The initial meal eaten in the morning to conclude an overnight period of fasting.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 21,
+    "category": "food",
+    "tier": "hard",
+    "word": "cookery",
+    "hint": "An obsolete or historical term for a physical location or room where meal preparation takes place.",
+    "sourceSeed": "food"
+  }
+]

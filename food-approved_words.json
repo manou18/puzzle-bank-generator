@@ -6767,5 +6767,733 @@
     "tier": "medium",
     "sourceSeed": "cooking",
     "clue": "(chiefly UK, Ireland) A cookstove"
+  },
+  {
+    "word": "STRONG",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fresh",
+    "clue": "Having a high concentration of an essential or active ingredient"
+  },
+  {
+    "word": "PURE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fresh",
+    "clue": "(programming) Having no side effects"
+  },
+  {
+    "word": "CRUNCHY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fresh",
+    "clue": "Likely to crunch, especially with reference to food when it is eaten"
+  },
+  {
+    "word": "WET",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fresh",
+    "clue": "Of a burrito, sandwich, or other food: covered in a sauce"
+  },
+  {
+    "word": "MILD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fresh",
+    "clue": "(of food, drink, or a drug) Not sharp or bitter; not strong in flavor"
+  },
+  {
+    "word": "COST",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fresh",
+    "clue": "(obsolete) A rib; a side"
+  },
+  {
+    "word": "SMOOTH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fresh",
+    "clue": "(of food or drink) Not grainy; having an even texture"
+  },
+  {
+    "word": "TENDER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fresh",
+    "clue": "(of food) Soft and easily chewed"
+  },
+  {
+    "word": "RIPE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fresh",
+    "clue": "Of a food, advanced to the state of fitness for use; mellow"
+  },
+  {
+    "word": "LUSH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fresh",
+    "clue": "(of food) Savoury, delicious"
+  },
+  {
+    "word": "SPICED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fresh",
+    "clue": "Having spice added, spicy"
+  },
+  {
+    "word": "BLOOM",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fresh",
+    "clue": "(cooking) To bring out the flavor of a spice by cooking it in oil"
+  },
+  {
+    "word": "FLUSH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fresh",
+    "clue": "(Singapore, chiefly military) To move, shift or align to one side"
+  },
+  {
+    "word": "RANCID",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fresh",
+    "clue": "(of oily or fatty food) Rank in taste or smell"
+  },
+  {
+    "word": "GAMEY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spicy",
+    "clue": "Having the smell, taste and texture of game meat"
+  },
+  {
+    "word": "MEATY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spicy",
+    "clue": "Of, relating to, or containing meat"
+  },
+  {
+    "word": "NIP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "spicy",
+    "clue": "A small amount of food or drink, (particularly) a small amount of liquor"
+  },
+  {
+    "word": "JERK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "spicy",
+    "clue": "To cure (meat) by cutting it into strips and drying it, originally in the sun"
+  },
+  {
+    "word": "PITANGA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spicy",
+    "clue": "A Eugenia uniflora tree or its fruit"
+  },
+  {
+    "word": "SPARERIBS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spicy",
+    "clue": "Cut of pork from the rib section with most of the meat trimmed off"
+  },
+  {
+    "word": "TANGERINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spicy",
+    "clue": "A deep yellowish-orange colour, like that of a tangerine fruit"
+  },
+  {
+    "word": "SWEATING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "smell",
+    "clue": "(cooking, figurative) The gentle heating of vegetables in oil or butter"
+  },
+  {
+    "word": "MOUTHGASM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "smell",
+    "clue": "(slang) A sense of pleasure derived from eating food which tastes good"
+  },
+  {
+    "word": "SWEET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "smell",
+    "clue": "(countable, especially UK) A food eaten for dessert"
+  },
+  {
+    "word": "HOUND",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "smell",
+    "clue": "A side bar used to strengthen portions of the running gear of a vehicle"
+  },
+  {
+    "word": "BRAAI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "grill",
+    "clue": "(uncountable) Meat cooked by this method"
+  },
+  {
+    "word": "GRIDIRON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "grill",
+    "clue": "An iron rack or grate used for broiling meat and fish over coals"
+  },
+  {
+    "word": "GRILLWARE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "grill",
+    "clue": "Utensils and equipment used for grilling food"
+  },
+  {
+    "word": "RIND",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "grill",
+    "clue": "A hard, tough outer layer, particularly on food such as fruit, cheese, etc"
+  },
+  {
+    "word": "FLUTE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "grill",
+    "clue": "A long French bread roll, baguette"
+  },
+  {
+    "word": "WINDSCREEN",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "grill",
+    "clue": "A draught screen at the side of a passenger train doorway"
+  },
+  {
+    "word": "GRADER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "grill",
+    "clue": "A machine used to sort food by size or quality"
+  },
+  {
+    "word": "CHINOIS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "grill",
+    "clue": "(cooking) A fine-meshed conical strainer"
+  },
+  {
+    "word": "SPIT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "grill",
+    "clue": "(transitive) To use a spit to cook; to attend to food that is cooking on a spit"
+  },
+  {
+    "word": "KEBAB",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "grill",
+    "clue": "(US) A shish kebab or any other food on a skewer"
+  },
+  {
+    "word": "MELT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "grill",
+    "clue": "Variant spelling of milt, the semen of a male fish, used as food"
+  },
+  {
+    "word": "MESQUITE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "grill",
+    "clue": "The wood of these trees, used for smoking food, or charcoal made from this wood"
+  },
+  {
+    "word": "CELLAR",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "grill",
+    "clue": "(transitive) To store (something, especially food or wine) in a cellar"
+  },
+  {
+    "word": "INN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "grill",
+    "clue": "Any establishment where travellers can procure lodging, food, and drink"
+  },
+  {
+    "word": "LOCK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "grill",
+    "clue": "(Scots law, historical) A quantity of meal, the perquisite of a mill-servant"
+  },
+  {
+    "word": "STEAMBOAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "steam",
+    "clue": "(uncountable, Singapore, Malaysia) Hot pot (Chinese dish)"
+  },
+  {
+    "word": "BOILERS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "steam",
+    "clue": "A kitchen vessel for steaming, boiling or heating food"
+  },
+  {
+    "word": "STEAMERS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "steam",
+    "clue": "(cooking) A cooking appliance that cooks by steaming"
+  },
+  {
+    "word": "FLIPPER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "steam",
+    "clue": "A kitchen spatula"
+  },
+  {
+    "word": "FURRING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "steam",
+    "clue": "(shipbuilding) Double planking of a ship's side"
+  },
+  {
+    "word": "HEADS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "steam",
+    "clue": "One side of a coin:"
+  },
+  {
+    "word": "HACK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "chop",
+    "clue": "A food-rack for cattle"
+  },
+  {
+    "word": "SEAL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "chop",
+    "clue": "(cooking, transitive) To fry (meat) at a high temperature to retain the juices"
+  },
+  {
+    "word": "HOP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "chop",
+    "clue": "The fruit of the dog rose; a hip"
+  },
+  {
+    "word": "CARVE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "chop",
+    "clue": "To cut meat in order to serve it"
+  },
+  {
+    "word": "LOP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "chop",
+    "clue": "To hang downward; to be pendent; to lean to one side"
+  },
+  {
+    "word": "CHOPLET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "(rare) A food product consisting of meat moulded into the form of a chop"
+  },
+  {
+    "word": "COLLOP",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "chop",
+    "clue": "(Northern England) A slice of meat"
+  },
+  {
+    "word": "ESCALOPE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "A thin slice of meat, especially veal or poultry"
+  },
+  {
+    "word": "LOINEYE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "A cut of meat from the longissimus of a pig"
+  },
+  {
+    "word": "SHIVE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "chop",
+    "clue": "A slice, especially of bread"
+  },
+  {
+    "word": "CROWN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "chop",
+    "clue": "A whole bird with the legs and wings removed to produce a joint of white meat"
+  },
+  {
+    "word": "CHUET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "chop",
+    "clue": "(obsolete) minced meat"
+  },
+  {
+    "word": "ESCALLOP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "A thin slice of meat, especially veal, normally shallow-fried"
+  },
+  {
+    "word": "CHEWET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "chop",
+    "clue": "(obsolete) A kind of meat pie"
+  },
+  {
+    "word": "MEZZALUNA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "A crescent-shaped steel blade attached to a wooden handle, used to chop food"
+  },
+  {
+    "word": "NECKBONE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "Any bone in the neck; often of poultry, in cooking"
+  },
+  {
+    "word": "COIN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "chop",
+    "clue": "A small circular slice of food"
+  },
+  {
+    "word": "KUAI",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "chop",
+    "clue": "A historical Chinese dish consisting of finely cut strips of raw fish or meat"
+  },
+  {
+    "word": "SCHNITZEL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "(by extension) A Germanic dish of breaded and deep-fried meat cutlet"
+  },
+  {
+    "word": "CAPRETTO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "Meat from a kid, or young goat"
+  },
+  {
+    "word": "CHEVON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "chop",
+    "clue": "The meat of a goat"
+  },
+  {
+    "word": "CHUPE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "chop",
+    "clue": "A stew containing meat and potatoes, part of Chilean and Peruvian cuisine"
+  },
+  {
+    "word": "GOPCHANG",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "A Korean dish of grilled intestines of cattle or pork"
+  },
+  {
+    "word": "BAVETTE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "(meat) A kind of beefsteak"
+  },
+  {
+    "word": "ROULADE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "(cooking) A slice of meat that is rolled up, stuffed, and cooked"
+  },
+  {
+    "word": "PORCHETTA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "A savory and moist boneless pork roast, part of Italian cuisine"
+  },
+  {
+    "word": "SHOESTRING",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "chop",
+    "clue": "(cooking) A long, narrow cut of a food; a julienne"
+  },
+  {
+    "word": "FLATTIE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "(South Africa) A flat marinated cut of meat"
+  },
+  {
+    "word": "CHOLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "chop",
+    "clue": "(Indian cooking) Chickpeas, or a curry consisting mainly of chickpeas"
+  },
+  {
+    "word": "RILLETTE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "A dish of meat cooked in fat then shredded and served in a ramekin"
+  },
+  {
+    "word": "CHOWCHOW",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "A fruit ketchup"
+  },
+  {
+    "word": "RING",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "chop",
+    "clue": "(UK) A burner on a kitchen stove"
+  },
+  {
+    "word": "SKEWER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "chop",
+    "clue": "A long pin, normally made of metal or wood, used to secure food during cooking"
+  },
+  {
+    "word": "CRISPY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "chop",
+    "clue": "(informal) The well-baked fat on the surface of a piece of roasted meat"
+  },
+  {
+    "word": "HACKING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "(massage) The act of striking the muscles with the side of the hand"
+  },
+  {
+    "word": "BLITZ",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "chop",
+    "clue": "(cooking) The act of blending or puréeing food using a blender or processor"
+  },
+  {
+    "word": "GROUNDER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "chop",
+    "clue": "A fruit that has fallen to the ground rather than being picked; a windfall"
+  },
+  {
+    "word": "WOK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "chop",
+    "clue": "(cooking) A large, round-bottomed cooking pan used in East Asian cooking"
+  },
+  {
+    "word": "CHAFF",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "chop",
+    "clue": "Straw or hay cut up fine for the food of cattle"
+  },
+  {
+    "word": "TIP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "slice",
+    "clue": "(chiefly in the plural) A small piece of meat"
+  },
+  {
+    "word": "BRACKET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "slice",
+    "clue": "(military) The cheek or side of an ordnance carriage, supporting the trunnions"
+  },
+  {
+    "word": "PRIMAL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "slice",
+    "clue": "A primal cut (of meat)"
+  },
+  {
+    "word": "WEDGE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "slice",
+    "clue": "A piece (of food, metal, wood etc.) having this shape"
+  },
+  {
+    "word": "SHRED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "slice",
+    "clue": "(cooking) A thin strip of fruit peel, a vegetable, etc., cut so that it curls"
+  },
+  {
+    "word": "DOORSTEP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "slice",
+    "clue": "(UK, informal) A thick slice, especially of bread"
+  },
+  {
+    "word": "SHAG",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "slice",
+    "clue": "(UK, Ireland, archaic) A roughly-cut or torn-off piece of bread or cheese"
+  },
+  {
+    "word": "FRITTER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "slice",
+    "clue": "A dish made by deep-frying food coated in batter"
+  },
+  {
+    "word": "SCRAP",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "slice",
+    "clue": "(usually in the plural) Leftover food"
+  },
+  {
+    "word": "GRISKIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "slice",
+    "clue": "A lean cut of meat from the loin of a pig"
+  },
+  {
+    "word": "FORESHANK",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "slice",
+    "clue": "A cut of meat from this part"
+  },
+  {
+    "word": "TRENCHER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "slice",
+    "clue": "(archaic or historical) A plate on which food is served or cut"
+  },
+  {
+    "word": "SHAVE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "slice",
+    "clue": "(transitive) To cut finely, for example slices of meat"
+  },
+  {
+    "word": "DRAW",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "slice",
+    "clue": "The result of a contest that neither side has won"
+  },
+  {
+    "word": "SANDWICH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "slice",
+    "clue": "(US) Of a meal or serving size that is smaller than a dinner"
+  },
+  {
+    "word": "CHOPPED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "slice",
+    "clue": "(chiefly of meat) Ground, having been processed by grinding"
+  },
+  {
+    "word": "GIGGOT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "slice",
+    "clue": "Obsolete spelling of gigot. [(cooking) A leg of lamb or mutton.]"
+  },
+  {
+    "word": "SPEAR",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "slice",
+    "clue": "A long, thin strip from a vegetable"
+  },
+  {
+    "word": "THIBLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "slice",
+    "clue": "(UK, dialect, obsolete) A stick for stirring food"
   }
 ]

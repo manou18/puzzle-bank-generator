@@ -159,10 +159,49 @@ async function callGeminiOnce(category, tier, items, extraReminder = "") {
  * items: [{ word, clue }] — clue هو التعريف/المعنى المحدد اللي خلى الكلمة تُعتمد أصلاً
  * (اختياري، ممكن يكون null لملفات approved_words.json قديمة ما فيها هذا الحقل).
  */
+const DRIFT_STOPWORDS = new Set([
+  "a", "an", "the", "of", "in", "on", "at", "to", "for", "and", "or", "with", "by", "is", "are",
+  "was", "were", "be", "been", "its", "this", "that", "as", "such", "from", "not", "also", "used",
+  "use", "one", "which", "who", "whom", "whose", "into", "onto", "about", "often", "sometimes",
+  "especially", "typically", "usually", "commonly", "generally", "various", "other", "another",
+  "some", "any", "many", "much", "more", "most", "less", "least", "very", "quite", "rather",
+  "having", "being", "than", "when", "where", "while",
+]);
+
+function significantTerms(text) {
+  return (text || "")
+    .toLowerCase()
+    .replace(/[^a-z\s]/g, " ")
+    .split(/\s+/)
+    .filter((w) => w.length >= 4 && !DRIFT_STOPWORDS.has(w));
+}
+
+function stemPrefix(w) {
+  return w.length >= 5 ? w.slice(0, 5) : w;
+}
+
+/**
+ * Heuristic safety net for the "Gemini ignored the given reference sense" failure mode — e.g.
+ * approved under "(archaic) to mix (metals); to alloy" but the generated hint describes soothing
+ * fears instead (a completely different, more common sense of "allay"). Not real semantic
+ * verification, just a keyword/stem-overlap check: if the clue has real content words and NONE
+ * of them (even loosely, by 5-char stem) show up anywhere in the hint, that's a strong signal
+ * the hint drifted to an unintended sense of the word. A clue-less item (no reference sense was
+ * available) is never flagged — there's nothing for it to be unfaithful to.
+ */
+function hintDriftsFromClue(clue, hint) {
+  if (!clue) return false;
+  const clueTerms = significantTerms(clue);
+  if (clueTerms.length === 0) return false;
+  const hintStems = new Set(significantTerms(hint).map(stemPrefix));
+  return !clueTerms.some((t) => hintStems.has(stemPrefix(t)));
+}
+
 async function fetchHintsForBatch(category, tier, items, retries = 3) {
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
       let data = await callGeminiOnce(category, tier, items);
+      const itemByWord = new Map(items.map((it) => [it.word, it]));
 
       // فحص إفشاء الكلمة داخل تلميحها — نفصل الصالح عن المسرّب.
       const leaked = data.filter((h) => hintLeaksWord(h?.word ?? "", h?.hint ?? ""));
@@ -191,6 +230,42 @@ async function fetchHintsForBatch(category, tier, items, retries = 3) {
           }
         } catch (e) {
           log.warning(`⚠️ فشلت محاولة إعادة صياغة التلميحات المسرّبة (${category}/${tier}): ${e.message}`);
+        }
+      }
+
+      // فحص الانحراف عن المعنى المعتمد — بس للكلمات اللي فعلاً كان عندها clue مرجعي.
+      const drifted = clean.filter((h) => {
+        const it = itemByWord.get(h.word);
+        return it && hintDriftsFromClue(it.clue, h.hint);
+      });
+      if (drifted.length > 0) {
+        const driftedSet = new Set(drifted.map((h) => h.word));
+        clean = clean.filter((h) => !driftedSet.has(h.word));
+        const driftedItems = items.filter((it) => driftedSet.has(it.word));
+        log.warning(
+          `⚠️ ${drifted.length} تلميح يبدو منحرفاً عن المعنى المعتمد بدفعة (${category}/${tier}): ${JSON.stringify(
+            [...driftedSet]
+          )} — محاولة إعادة الصياغة بالتقيّد الصارم بالمعنى المعتمد...`
+        );
+        try {
+          const retryReminder =
+            "IMPORTANT: your previous attempt at these exact words ignored the given reference " +
+            "sense and described a different, more common meaning of the word instead. You MUST " +
+            "write about the SPECIFIC reference sense given for each word below, even if it is " +
+            "rare or archaic — do not substitute a more familiar meaning of the word.";
+          const fixed = await callGeminiOnce(category, tier, driftedItems, retryReminder);
+          for (const h of fixed) {
+            const it = itemByWord.get(h.word);
+            const stillLeaks = hintLeaksWord(h?.word ?? "", h?.hint ?? "");
+            const stillDrifts = it && hintDriftsFromClue(it.clue, h?.hint ?? "");
+            if (!stillLeaks && !stillDrifts) {
+              clean.push(h);
+            } else {
+              log.warning(`⚠️ استمر انحراف/تسريب الكلمة '${h.word}' حتى بعد إعادة الصياغة — سيتم تخطيها بهذه الدفعة.`);
+            }
+          }
+        } catch (e) {
+          log.warning(`⚠️ فشلت محاولة إعادة صياغة التلميحات المنحرفة (${category}/${tier}): ${e.message}`);
         }
       }
 
@@ -418,4 +493,5 @@ module.exports = {
   saveProgress,
   generateHintsForApprovedWords,
   hintLeaksWord,
+  hintDriftsFromClue,
 };

@@ -965,10 +965,21 @@
         }
 
         /* ============================= DOMAIN-DRIFT FILTER ============================= */
+        // A handful of domain markers show up as plain prose instead of a bracketed "(domain)"
+        // tag — most importantly surnames, e.g. "A surname from German for someone associated
+        // with a salt mine" (real case: "hall" slipped through metals this way, since the
+        // "mine" keyword matched but nothing flagged it as fundamentally a surname entry).
+        const PROSE_DOMAIN_HINTS = [
+            { re: /^(a|an)\s+surname\b/i, domain: 'surname' },
+            { re: /^(a|an)\s+(family|clan)\s+name\b/i, domain: 'surname' },
+        ];
         function defDomainTags(defText) {
             const m = defText.match(/^\(([^)]+)\)/);
-            if (!m) return [];
-            return m[1].toLowerCase().split(',').map(t => t.trim());
+            const tags = m ? m[1].toLowerCase().split(',').map(t => t.trim()) : [];
+            for (const hint of PROSE_DOMAIN_HINTS) {
+                if (hint.re.test(defText)) tags.push(hint.domain);
+            }
+            return tags;
         }
         function isDefDomainAvoided(defText, avoidDomains) {
             if (!avoidDomains || avoidDomains.length === 0) return false;
@@ -1002,10 +1013,46 @@
 
         const SCIENCE_DOMAINS = ['biology', 'chemistry', 'physics', 'astronomy', 'geology', 'botany', 'zoology', 'ecology', 'meteorology', 'oceanography'];
 
+        // Some category keywords are common enough as everyday words that a single bare mention
+        // proves nothing — a golf club and an arrow both have a "shaft" (unrelated to a mine
+        // shaft); a fish or a fabric thread can be described as "silver"/"gold" (unrelated to
+        // the metal); "mine" means an explosive device as often as an excavation. A lone hit on
+        // one of these needs a second, independent hit before it's trusted.
+        const AMBIGUOUS_KEYWORDS = new Set(['mine', 'shaft', 'gold', 'silver']);
+
+        /**
+         * A keyword that's also a common word can coincidentally appear inside an unrelated
+         * capitalized proper noun — "Iron County", "Bronze Age", "Mineral County" — where it
+         * says nothing about relevance. Returns true only if EVERY occurrence of `keyword` in
+         * the original (case-preserved) text looks like part of such a phrase (capitalized and
+         * immediately followed by another Title-Case word), so a single genuine lowercase/plain
+         * use elsewhere still counts normally.
+         */
+        function isOnlyProperNounUse(originalText, keyword) {
+            const re = new RegExp('\\b(' + keyword + ')\\b', 'gi');
+            let m, total = 0, properNoun = 0;
+            while ((m = re.exec(originalText)) !== null) {
+                total++;
+                const matched = m[1];
+                const isCapitalized = matched[0] === matched[0].toUpperCase() && matched[0] !== matched[0].toLowerCase();
+                const rest = originalText.slice(m.index + matched.length);
+                if (isCapitalized && /^\s+[A-Z][a-z]+/.test(rest)) properNoun++;
+            }
+            return total > 0 && properNoun === total;
+        }
+
         function wordMatchesTheme(word, clue, cat, keywords) {
-            const haystack = (word + ' ' + clue).toLowerCase();
+            const original = word + ' ' + clue;
+            const haystack = original.toLowerCase();
+            const hits = [];
             for (const kw of keywords) {
-                if (new RegExp('\\b' + kw + '\\b').test(haystack)) return true;
+                if (!new RegExp('\\b' + kw + '\\b').test(haystack)) continue;
+                if (isOnlyProperNounUse(original, kw)) continue;
+                hits.push(kw);
+            }
+            if (hits.length > 0) {
+                if (hits.some(k => !AMBIGUOUS_KEYWORDS.has(k))) return true;
+                if (hits.length >= 2) return true; // two independent ambiguous hits is real corroboration
             }
             const stems = cat.themeStems || [];
             for (const stem of stems) {
@@ -1090,7 +1137,11 @@
             for (const phrase of phrases) {
                 const idx = lower.indexOf(phrase);
                 if (idx !== -1) {
-                    const after = lower.slice(idx + phrase.length).trim().split(/\s+/);
+                    // Filtering out stopwords/short tokens here matters — without it, a definition
+                    // like "...pertaining to a diet of raw food" matches "metals" purely because
+                    // the very next word "a" is trivially a substring of "metals" (met-A-ls).
+                    const after = lower.slice(idx + phrase.length).trim().split(/\s+/)
+                        .filter(w => w.length > 2 && !STOPWORDS.has(w));
                     for (const word of catWords) {
                         if (after.some(a => a.includes(word) || word.includes(a))) return true;
                     }
@@ -1127,6 +1178,14 @@
             // words — catches anything that slipped into a basket before this check existed.
             if (looksLikeAbbreviation(r.word)) {
                 return { verdict: 'rejected', reason: 'No vowel — looks like an abbreviation', score: -10 };
+            }
+
+            // 1c. Long AND obscure — catches anything that slipped into a basket before the
+            // frequency check existed at fetch time (r.freq is only present on candidates
+            // fetched after that fix). A long word should feel hard because it's long, not
+            // because the player has never seen it before.
+            if (r.word.length > 9 && typeof r.freq === 'number' && r.freq < MIN_FREQUENCY_FOR_LONG_WORDS) {
+                return { verdict: 'rejected', reason: 'Long but too rare — obscure/archaic word', score: -10 };
             }
 
             // 2. Theme match (keywords or stems)
@@ -1176,12 +1235,14 @@
                 }
             }
 
-            // 9. Science domains bonus — but only for tags this category hasn't already flagged as
-            // avoidDomains. Some categories (e.g. "magic" avoiding "physics", "food" avoiding
-            // "zoology") intentionally exclude a domain that's also in SCIENCE_DOMAINS; without this
-            // guard, that domain got -3 for the avoidance and +2 for the science bonus in the same
-            // pass, blunting the exclusion the category explicitly asked for.
-            if (!hasAvoid && tags.some(tag => SCIENCE_DOMAINS.some(sci => tag.includes(sci)))) {
+            // 9. Science domains bonus — but only as a *secondary* signal on top of some other
+            // already-established relevance (score > 0), never enough to admit a word on its own.
+            // A definition merely being tagged e.g. "(biology)" or "(zoology)" says nothing about
+            // whether THAT science relates to this category — "organic (biology)" and
+            // "silverfish (zoology)" have nothing to do with metals, yet this bonus alone used to
+            // be enough to clear the keep threshold. Also skips tags this category's avoidDomains
+            // already flagged (see the note above on "magic"/"food" etc).
+            if (!hasAvoid && score > 0 && tags.some(tag => SCIENCE_DOMAINS.some(sci => tag.includes(sci)))) {
                 score += 2;
                 reasons.push('science domain');
             }
@@ -1276,9 +1337,24 @@
         }
 
         /* ============================= DATAMUSE FETCH ============================= */
+        // Datamuse's own corpus-frequency metadata (occurrences per million words, from Google
+        // Books) — used below to keep "legendary" (>9-letter) words to ones a player has
+        // actually plausibly seen before ("constellation", "thunderstorm"), not just whatever's
+        // long AND happens to be loosely associated with the seed ("nehallewars", "habilatory").
+        // Shorter tiers are left alone: this is specifically about the "long AND familiar, not
+        // long AND obscure" goal — a rarer but short domain term (e.g. "warp", "weft") is still
+        // fine, since length alone isn't what made it feel accessible or not.
+        const MIN_FREQUENCY_FOR_LONG_WORDS = 0.05; // tune after seeing real results; 0 = disabled
+        function getWordFrequency(entry) {
+            const tag = (entry.tags || []).find(t => t.startsWith('f:'));
+            if (!tag) return 0; // md=f didn't return a frequency at all — treat as unattested/rare
+            const val = parseFloat(tag.slice(2));
+            return Number.isFinite(val) ? val : 0;
+        }
+
         async function fetchOneSeed(seed, existing, seenSoFar) {
             const url =
-            `https://api.datamuse.com/words?ml=${encodeURIComponent(seed)}&md=d&max=1000`;
+            `https://api.datamuse.com/words?ml=${encodeURIComponent(seed)}&md=df&max=1000`;
             const controller = new AbortController();
             const timeout = setTimeout(() => controller.abort(), 12000);
             let res;
@@ -1300,6 +1376,8 @@
                 if (looksLikeAbbreviation(word)) continue; // e.g. "RMG" — reads as an acronym, not a guessable word
                 if (existing.has(word)) continue;
                 if (seenSoFar.has(word)) continue;
+                const freq = getWordFrequency(entry);
+                if (word.length > 9 && freq < MIN_FREQUENCY_FOR_LONG_WORDS) continue; // long AND obscure — excluded
                 const allDefs = (entry.defs || []).map(cleanDatamuseDef).filter(Boolean);
                 if (allDefs.length === 0) continue;
                 const onDomainDefs = allDefs.filter(d => !isDefDomainAvoided(d, avoidDomains));
@@ -1323,12 +1401,12 @@
                     // later gets rescued via word-association, the rescue step can pick whichever
                     // definition actually carries some thematic content instead of being stuck with
                     // an arbitrary, possibly unrelated, first definition.
-                    nearMisses.push({ word, clue: onDomainDefs[0], defs: onDomainDefs, tier: tierForLength(word.length), status: 'pending', sourceSeed: seed });
+                    nearMisses.push({ word, clue: onDomainDefs[0], defs: onDomainDefs, tier: tierForLength(word.length), status: 'pending', sourceSeed: seed, freq });
                     continue;
                 }
                 if (!isSafeCandidate(entry, clue)) continue;
                 seenSoFar.add(word);
-                found.push({ word, clue, tier: tierForLength(word.length), status: 'pending', sourceSeed: seed });
+                found.push({ word, clue, tier: tierForLength(word.length), status: 'pending', sourceSeed: seed, freq });
             }
             return { found, nearMisses };
         }
@@ -1585,7 +1663,9 @@
             const tags = defDomainTags(defText);
             const avoidHit = tags.some(t => (cat.avoidDomains || []).some(a => t.includes(a)));
             if (avoidHit) score -= 3;
-            if (!avoidHit && tags.some(t => SCIENCE_DOMAINS.some(s => t.includes(s)))) score += 2;
+            // Same corroboration requirement as scoreWord — the science bonus alone shouldn't be
+            // enough to rescue a word (see the note there for why).
+            if (!avoidHit && score > 0 && tags.some(t => SCIENCE_DOMAINS.some(s => t.includes(s)))) score += 2;
             return score;
         }
 

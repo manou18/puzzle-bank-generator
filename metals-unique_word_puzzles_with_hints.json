@@ -5014,5 +5014,381 @@
     "word": "quicksilver",
     "hint": "A heavy, dense element that remains liquid at room temperature, also known as mercury.",
     "sourceSeed": "tin"
+  },
+  {
+    "id": 628,
+    "category": "metals",
+    "tier": "medium",
+    "word": "steels",
+    "hint": "Market shares or financial listings for companies producing the strong iron alloy.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 629,
+    "category": "metals",
+    "tier": "medium",
+    "word": "ironed",
+    "hint": "Describes garments or fabrics made flat and smooth using a heated metal appliance.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 630,
+    "category": "metals",
+    "tier": "medium",
+    "word": "latten",
+    "hint": "A type of sheet metal, historically made of brass or thin plate coated in tin.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 631,
+    "category": "metals",
+    "tier": "medium",
+    "word": "matrix",
+    "hint": "In traditional typesetting, a metal mold used to cast individual characters or type.",
+    "sourceSeed": "alloy"
+  },
+  {
+    "id": 632,
+    "category": "metals",
+    "tier": "medium",
+    "word": "melter",
+    "hint": "An industrial furnace designed to liquefy solid metals inside a foundry.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 633,
+    "category": "metals",
+    "tier": "medium",
+    "word": "swage",
+    "hint": "A specialized shaping block or tool used by blacksmiths to form heated metal.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 634,
+    "category": "metals",
+    "tier": "medium",
+    "word": "tinker",
+    "hint": "A traveling craftsman who historically repaired metal household pots and cookware.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 635,
+    "category": "metals",
+    "tier": "medium",
+    "word": "shear",
+    "hint": "A heavy industrial mechanical tool designed to cut through thick sheet metal.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 636,
+    "category": "metals",
+    "tier": "medium",
+    "word": "armor",
+    "hint": "Heavy protective plating attached to military vessels, tanks, or aircraft.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 637,
+    "category": "metals",
+    "tier": "medium",
+    "word": "bodge",
+    "hint": "Water used by a blacksmith to rapidly cool and temper hot items from a forge.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 638,
+    "category": "metals",
+    "tier": "medium",
+    "word": "brake",
+    "hint": "A mechanical device used in metalworking to bend and fold sheet metal into angles.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 639,
+    "category": "metals",
+    "tier": "medium",
+    "word": "smithy",
+    "hint": "The workshop or forge where a metalworker shapes iron over an anvil.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 640,
+    "category": "metals",
+    "tier": "medium",
+    "word": "stiddy",
+    "hint": "A dialectal term for a heavy iron block used for hammering and shaping metal.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 641,
+    "category": "metals",
+    "tier": "medium",
+    "word": "stithy",
+    "hint": "An archaic name for a metalworker's anvil used to hammer hot iron.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 642,
+    "category": "metals",
+    "tier": "medium",
+    "word": "topper",
+    "hint": "A mill worker tasked with removing the defective upper portion of cast ingots.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 643,
+    "category": "metals",
+    "tier": "medium",
+    "word": "trade",
+    "hint": "Mining terminology for worthless waste material or rubbish extracted alongside ore.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 644,
+    "category": "metals",
+    "tier": "medium",
+    "word": "halite",
+    "hint": "The natural mineral form of sodium chloride, commonly known as rock salt.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 645,
+    "category": "metals",
+    "tier": "medium",
+    "word": "paste",
+    "hint": "In geology, the fine groundmass material that surrounds embedded crystals or minerals.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 646,
+    "category": "metals",
+    "tier": "medium",
+    "word": "field",
+    "hint": "A distinct geological area rich in a specific subterranean natural resource or ore.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 647,
+    "category": "metals",
+    "tier": "medium",
+    "word": "fluor",
+    "hint": "An obsolete term for a colorful calcium-based halide mineral used as a flux.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 648,
+    "category": "metals",
+    "tier": "medium",
+    "word": "maltha",
+    "hint": "A viscous, dark mineral tar or heavy petroleum substance.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 649,
+    "category": "metals",
+    "tier": "medium",
+    "word": "platy",
+    "hint": "Describing rock or mineral structures formed from thin, flat, leaf-like layers.",
+    "sourceSeed": "mineral"
+  },
+  {
+    "id": 650,
+    "category": "metals",
+    "tier": "medium",
+    "word": "cuprum",
+    "hint": "The Latin name and origin for the chemical element copper.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 651,
+    "category": "metals",
+    "tier": "medium",
+    "word": "cupric",
+    "hint": "Pertaining to or derived from divalent copper.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 652,
+    "category": "metals",
+    "tier": "medium",
+    "word": "aerose",
+    "hint": "Resemblant of brass or copper in nature or composition.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 653,
+    "category": "metals",
+    "tier": "medium",
+    "word": "bullet",
+    "hint": "A metal projectile fired from a firearm at high speed.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 654,
+    "category": "metals",
+    "tier": "medium",
+    "word": "double",
+    "hint": "A historical copper coin from Guernsey, valued at an eighth of a penny.",
+    "sourceSeed": "copper"
+  },
+  {
+    "id": 655,
+    "category": "metals",
+    "tier": "medium",
+    "word": "yamboo",
+    "hint": "An archaic term for a traditional Chinese metal ingot used as currency.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 656,
+    "category": "metals",
+    "tier": "medium",
+    "word": "stater",
+    "hint": "An ancient Greek coin struck from gold, silver, or electrum.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 657,
+    "category": "metals",
+    "tier": "medium",
+    "word": "nugget",
+    "hint": "In computing, a compact piece of useful knowledge derived from data mining.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 658,
+    "category": "metals",
+    "tier": "medium",
+    "word": "button",
+    "hint": "A small bead of metal remaining in a crucible after fusion or assaying.",
+    "sourceSeed": "gold"
+  },
+  {
+    "id": 659,
+    "category": "metals",
+    "tier": "medium",
+    "word": "argent",
+    "hint": "An archaic poetic term for the metal silver.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 660,
+    "category": "metals",
+    "tier": "medium",
+    "word": "azogue",
+    "hint": "A mining term for silver ores suitable for processing via mercury amalgamation.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 661,
+    "category": "metals",
+    "tier": "medium",
+    "word": "spoon",
+    "hint": "A shiny metallic fishing lure shaped like the bowl of an eating utensil.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 662,
+    "category": "metals",
+    "tier": "medium",
+    "word": "bawbee",
+    "hint": "A Scottish copper coin of minor value, or any trivial amount of money.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 663,
+    "category": "metals",
+    "tier": "medium",
+    "word": "color",
+    "hint": "Tiny particles or specks of gold spotted by a prospector.",
+    "sourceSeed": "silver"
+  },
+  {
+    "id": 664,
+    "category": "metals",
+    "tier": "medium",
+    "word": "quarry",
+    "hint": "An open pit from which construction materials like slate or limestone are dug.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 665,
+    "category": "metals",
+    "tier": "medium",
+    "word": "tying",
+    "hint": "The mining operation of rinsing and separating mineral ores in a buddle.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 666,
+    "category": "metals",
+    "tier": "medium",
+    "word": "clean",
+    "hint": "Describing refined metal that is relatively free from defects or impurities.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 667,
+    "category": "metals",
+    "tier": "medium",
+    "word": "strip",
+    "hint": "A long trough or sluice used by miners to wash mineral deposits.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 668,
+    "category": "metals",
+    "tier": "medium",
+    "word": "shoot",
+    "hint": "A rich, localized vein of mineral deposit running through a lode.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 669,
+    "category": "metals",
+    "tier": "medium",
+    "word": "bonnet",
+    "hint": "A metallic protective cover fitted over the valve chamber of a pump.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 670,
+    "category": "metals",
+    "tier": "medium",
+    "word": "drift",
+    "hint": "A subterranean horizontal passage driven along an underground mineral layer.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 671,
+    "category": "metals",
+    "tier": "medium",
+    "word": "grass",
+    "hint": "A mining term referring to the open land directly above a pit.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 672,
+    "category": "metals",
+    "tier": "medium",
+    "word": "hutch",
+    "hint": "A box or enclosure built to house a flour bolt in processing plants.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 673,
+    "category": "metals",
+    "tier": "medium",
+    "word": "jigger",
+    "hint": "A vibrating sieve or apparatus used for grading and sorting ore.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 674,
+    "category": "metals",
+    "tier": "medium",
+    "word": "kibble",
+    "hint": "A large iron bucket used to hoist ore or debris out of a shaft.",
+    "sourceSeed": "mining"
   }
 ]

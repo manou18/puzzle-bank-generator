@@ -5390,5 +5390,949 @@
     "word": "kibble",
     "hint": "A large iron bucket used to hoist ore or debris out of a shaft.",
     "sourceSeed": "mining"
+  },
+  {
+    "id": 675,
+    "category": "metals",
+    "tier": "hard",
+    "word": "migrant",
+    "hint": "An animal, especially a feathered creature, that seasonally shifts locations.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 676,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ornithoid",
+    "hint": "Exhibiting physical characteristics resembling those of a feathered creature.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 677,
+    "category": "metals",
+    "tier": "hard",
+    "word": "tickbird",
+    "hint": "An oxpecker, known for perching on large mammals to feed on parasites.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 678,
+    "category": "metals",
+    "tier": "hard",
+    "word": "aviphile",
+    "hint": "A person who possesses a deep fascination with or affection for feathered creatures.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 679,
+    "category": "metals",
+    "tier": "hard",
+    "word": "carinate",
+    "hint": "Any feathered creature possessing a keeled breastbone to anchor flight muscles.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 680,
+    "category": "metals",
+    "tier": "hard",
+    "word": "secretary",
+    "hint": "An African raptor of species Sagittarius serpentarius with long legs and a crest of quill-like feathers.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 681,
+    "category": "metals",
+    "tier": "hard",
+    "word": "turkeys",
+    "hint": "The edible meat derived from a large, domesticated game bird native to North America.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 682,
+    "category": "metals",
+    "tier": "hard",
+    "word": "accentor",
+    "hint": "A small Eurasian passerine such as the dunnock, belonging to the genus Prunella.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 683,
+    "category": "metals",
+    "tier": "hard",
+    "word": "aepyornis",
+    "hint": "An extinct, massive flightless giant of Madagascar, also known as an elephant creature.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 684,
+    "category": "metals",
+    "tier": "hard",
+    "word": "altricial",
+    "hint": "Describing a newborn animal hatched in a helpless, undeveloped state requiring parental care.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 685,
+    "category": "metals",
+    "tier": "hard",
+    "word": "anhinga",
+    "hint": "A water fowl of tropical America, often called a darter or snake-necked swimmer.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 686,
+    "category": "metals",
+    "tier": "hard",
+    "word": "apteryx",
+    "hint": "An older name for the flightless kiwi native to New Zealand.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 687,
+    "category": "metals",
+    "tier": "hard",
+    "word": "avicular",
+    "hint": "Describing something that relates or pertains to winged, egg-laying, feathered creatures.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 688,
+    "category": "metals",
+    "tier": "hard",
+    "word": "birdman",
+    "hint": "A mythical entity featuring a hybrid form of a human and an avian creature.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 689,
+    "category": "metals",
+    "tier": "hard",
+    "word": "bittern",
+    "hint": "A cryptic marsh wader belonging to the subfamily Botaurinae within the heron family.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 690,
+    "category": "metals",
+    "tier": "hard",
+    "word": "codfish",
+    "hint": "A cold-water marine vertebrate of the genus Gadus, prized commercially for its white flesh.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 691,
+    "category": "metals",
+    "tier": "hard",
+    "word": "seafood",
+    "hint": "Edible marine life harvested from ocean environments, including aquatic creatures, shellfish, and algae.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 692,
+    "category": "metals",
+    "tier": "hard",
+    "word": "mackerel",
+    "hint": "A fast-swimming predatory marine swimmer of the tribe Scombrini, often striped along its back.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 693,
+    "category": "metals",
+    "tier": "hard",
+    "word": "swordfish",
+    "hint": "A large pelagic marine predator featuring a flattened, upper-jaw bill used for hunting.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 694,
+    "category": "metals",
+    "tier": "hard",
+    "word": "goldfish",
+    "hint": "A small, orange-hued freshwater pet species of the carp family, Carassius auratus.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 695,
+    "category": "metals",
+    "tier": "hard",
+    "word": "sockeye",
+    "hint": "The edible flesh of a Pacific salmon species known for its vibrant crimson hue during spawning.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 696,
+    "category": "metals",
+    "tier": "hard",
+    "word": "redfish",
+    "hint": "Any of several aquatic species featuring crimson-tinted skin or flesh, such as the ocean perch.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 697,
+    "category": "metals",
+    "tier": "hard",
+    "word": "catfish",
+    "hint": "Edible flesh of a whiskered bottom-dweller, often served fried in Southern cuisine.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 698,
+    "category": "metals",
+    "tier": "hard",
+    "word": "fishery",
+    "hint": "An aquatic farm dedicated to breeding and harvesting marine life.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 699,
+    "category": "metals",
+    "tier": "hard",
+    "word": "mercury",
+    "hint": "An annual or perennial herbaceous plant belonging to the genus Mercurialis.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 700,
+    "category": "metals",
+    "tier": "hard",
+    "word": "whiting",
+    "hint": "A common commercial marine species related to cod, having pale flesh and a slender body.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 701,
+    "category": "metals",
+    "tier": "hard",
+    "word": "snapper",
+    "hint": "A commercially valuable marine species with sharp teeth, belonging to the family Lutjanidae.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 702,
+    "category": "metals",
+    "tier": "hard",
+    "word": "anglers",
+    "hint": "Deep-sea predatory species belonging to the Lophiidae family, known for fleshy bioluminescent lures.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 703,
+    "category": "metals",
+    "tier": "hard",
+    "word": "fishers",
+    "hint": "The pelt or coat harvested from a North American marten species.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 704,
+    "category": "metals",
+    "tier": "hard",
+    "word": "harpoon",
+    "hint": "A thrown heavy spear with a barbed tip attached to a rope, used to hunt large sea mammals.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 705,
+    "category": "metals",
+    "tier": "hard",
+    "word": "rockfish",
+    "hint": "A small, spiny-rayed genus endemic to New Zealand tide pools, such as Acanthoclinus.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 706,
+    "category": "metals",
+    "tier": "hard",
+    "word": "bullheads",
+    "hint": "Plural name for Gobiomorphus gobioides, a species of freshwater eleotrid native to New Zealand.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 707,
+    "category": "metals",
+    "tier": "hard",
+    "word": "salmonid",
+    "hint": "Any ray-finned member of the family that includes trout, char, and grayling.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 708,
+    "category": "metals",
+    "tier": "hard",
+    "word": "milkfish",
+    "hint": "Chanos chanos, a silver-colored tropical marine species widely farmed for food across Southeast Asia.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 709,
+    "category": "metals",
+    "tier": "hard",
+    "word": "seafoods",
+    "hint": "Various edible marine organisms and plants harvested from aquatic habitats for human consumption.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 710,
+    "category": "metals",
+    "tier": "hard",
+    "word": "whitebait",
+    "hint": "Collective term for small, immature marine species often floured and fried whole as a delicacy.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 711,
+    "category": "metals",
+    "tier": "hard",
+    "word": "cyprinids",
+    "hint": "Members of the largest freshwater family, which includes carps, daces, and chubs.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 712,
+    "category": "metals",
+    "tier": "hard",
+    "word": "salmonids",
+    "hint": "Aquatic members belonging to the family Salmonidae, such as trouts and graylings.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 713,
+    "category": "metals",
+    "tier": "hard",
+    "word": "whitings",
+    "hint": "Multiple food species resembling the European Merlangius merlangus, favored for tender pale flesh.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 714,
+    "category": "metals",
+    "tier": "hard",
+    "word": "mackerels",
+    "hint": "Fast-swimming oceanic species in the tribe Scombrini, recognized by their wavy dark stripes across the back.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 715,
+    "category": "metals",
+    "tier": "hard",
+    "word": "cyprinid",
+    "hint": "A member of the freshwater fish family encompassing carps, minnows, and related species.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 716,
+    "category": "metals",
+    "tier": "hard",
+    "word": "guppies",
+    "hint": "Plural term for tiny, miniature aquatic gill-breathers, often kept in home aquariums.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 717,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ichthyoid",
+    "hint": "Possessing the physical shape or characteristics of a cold-blooded aquatic vertebrate.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 718,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ratfish",
+    "hint": "A bottom-dwelling cartilaginous aquatic creature belonging to the family Chimaeridae.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 719,
+    "category": "metals",
+    "tier": "hard",
+    "word": "horsefish",
+    "hint": "A marine creature classified within the taxonomic family Congiopodidae, known for its distinct snout.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 720,
+    "category": "metals",
+    "tier": "hard",
+    "word": "filefish",
+    "hint": "A highly compressed, thin-bodied marine swimmer belonging to the family Monacanthidae.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 721,
+    "category": "metals",
+    "tier": "hard",
+    "word": "killifish",
+    "hint": "A small, colorful aquatic swimmer classified within the order Cyprinodontiformes.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 722,
+    "category": "metals",
+    "tier": "hard",
+    "word": "cavefish",
+    "hint": "An aquatic vertebrate of the family Amblyopsidae, often adapted to lightless subterranean habitats.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 723,
+    "category": "metals",
+    "tier": "hard",
+    "word": "frogfish",
+    "hint": "An archaic term for an aquatic angler creature belonging to the genus Lophius.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 724,
+    "category": "metals",
+    "tier": "hard",
+    "word": "whalefish",
+    "hint": "A deep-water ray-finned aquatic creature belonging to the order Cetomimiformes.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 725,
+    "category": "metals",
+    "tier": "hard",
+    "word": "snakefish",
+    "hint": "An elongated aquatic swimmer that structurally resembles a limbless crawling reptile.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 726,
+    "category": "metals",
+    "tier": "hard",
+    "word": "firefish",
+    "hint": "A brightly colored marine creature belonging to genera such as Pterois or Parapterois.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 727,
+    "category": "metals",
+    "tier": "hard",
+    "word": "swellfish",
+    "hint": "An aquatic creature, like a puffer, capable of inflating its body with water or air when threatened.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 728,
+    "category": "metals",
+    "tier": "hard",
+    "word": "knifefish",
+    "hint": "An aquatic swimmer whose body shape tapers dramatically to resemble a bladed cutting tool.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 729,
+    "category": "metals",
+    "tier": "hard",
+    "word": "citharid",
+    "hint": "A flat marine swimmer belonging to a specific family of large-toothed flounders.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 730,
+    "category": "metals",
+    "tier": "hard",
+    "word": "boxfish",
+    "hint": "A heavily armored, rigid-bodied marine creature from the family Ostraciidae.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 731,
+    "category": "metals",
+    "tier": "hard",
+    "word": "chimaerid",
+    "hint": "A cartilaginous deep-sea marine creature related to sharks and rays, known as a ghost shark or rabbitfish.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 732,
+    "category": "metals",
+    "tier": "hard",
+    "word": "crestfish",
+    "hint": "An elongated deep-sea swimmer of the family Lophotidae, known for a prominent forehead projection.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 733,
+    "category": "metals",
+    "tier": "hard",
+    "word": "teleost",
+    "hint": "Any member of a vast infraclass comprising the vast majority of ray-finned aquatic vertebrates with fully ossified skeletons.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 734,
+    "category": "metals",
+    "tier": "hard",
+    "word": "alewife",
+    "hint": "An anadromous ocean-going swimmer native to North America, known for moving up rivers to spawn in freshwater lakes.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 735,
+    "category": "metals",
+    "tier": "hard",
+    "word": "cichlid",
+    "hint": "A diverse family of tropical freshwater species popular in home tanks, including tilapia and discus.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 736,
+    "category": "metals",
+    "tier": "hard",
+    "word": "clupeid",
+    "hint": "A soft-finned marine swimmer belonging to the family of schooling coastal species that includes pilchards and shads.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 737,
+    "category": "metals",
+    "tier": "hard",
+    "word": "herring",
+    "hint": "A small, oily ocean swimmer of the genus Clupea, frequently preserved by smoking or pickling.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 738,
+    "category": "metals",
+    "tier": "hard",
+    "word": "percoid",
+    "hint": "A member of a massive superfamily of spiny-rayed aquatic vertebrates that includes perch and sea basses.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 739,
+    "category": "metals",
+    "tier": "hard",
+    "word": "sciaenid",
+    "hint": "A member of a family known as drums or croakers, capable of producing drumming noises using swim bladder muscles.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 740,
+    "category": "metals",
+    "tier": "hard",
+    "word": "scombroid",
+    "hint": "Food toxicity resulting from the ingestion of spoiled dark-fleshed marine species due to elevated histamine levels.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 741,
+    "category": "metals",
+    "tier": "hard",
+    "word": "serranid",
+    "hint": "A member of a widespread family of marine predators that includes groupers and sea basses.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 742,
+    "category": "metals",
+    "tier": "hard",
+    "word": "surgeon",
+    "hint": "A medical specialist who performs invasive procedures to treat injuries, diseases, or deformities.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 743,
+    "category": "metals",
+    "tier": "hard",
+    "word": "carangid",
+    "hint": "A fast-swimming predatory marine member of the jack family, often found in warm coastal ocean waters.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 744,
+    "category": "metals",
+    "tier": "hard",
+    "word": "farming",
+    "hint": "The practice or industry of cultivating agricultural crops, breeding livestock, or rearing aquaculture stock.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 745,
+    "category": "metals",
+    "tier": "hard",
+    "word": "lookdown",
+    "hint": "A flattened, metallic-silver Atlantic marine swimmer of the species Selene vomer, recognizable by its steep frontal profile.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 746,
+    "category": "metals",
+    "tier": "hard",
+    "word": "poeciliid",
+    "hint": "A live-bearing freshwater member of a warm-water family that includes guppies, mollies, and swordtails.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 747,
+    "category": "metals",
+    "tier": "hard",
+    "word": "rattail",
+    "hint": "A common name for the spotted chimaera, a cartilaginous Pacific dweller with a long, slender body tapering to a fine point.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 748,
+    "category": "metals",
+    "tier": "hard",
+    "word": "abdominal",
+    "hint": "An obsolete zoological classification describing an order of soft-finned aquatic creatures with pelvic fins positioned on the belly.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 749,
+    "category": "metals",
+    "tier": "hard",
+    "word": "angelfish",
+    "hint": "A colorful tropical reef dweller belonging to Pomacanthidae, known for vibrant patterns and laterally compressed bodies.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 750,
+    "category": "metals",
+    "tier": "hard",
+    "word": "argulus",
+    "hint": "A genus of parasitic crustaceans, commonly called water lice, that attach to aquatic vertebrates.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 751,
+    "category": "metals",
+    "tier": "hard",
+    "word": "boarfish",
+    "hint": "Any member of two distinct marine families characterized by a prominent snout protruding from a flattened body.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 752,
+    "category": "metals",
+    "tier": "hard",
+    "word": "bullhead",
+    "hint": "A small freshwater species endemic to New Zealand waterways, scientifically named Gobiomorphus gobioides.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 753,
+    "category": "metals",
+    "tier": "hard",
+    "word": "bycatch",
+    "hint": "An accidental inclusion of a person or object in the background of a photograph or movie scene.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 754,
+    "category": "metals",
+    "tier": "hard",
+    "word": "romeriid",
+    "hint": "An extinct amniote belonging to an early family of tetrapods from the Carboniferous and Permian periods.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 755,
+    "category": "metals",
+    "tier": "hard",
+    "word": "chelonian",
+    "hint": "A shelled vertebrate belonging to the order Testudines, such as a turtle or tortoise.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 756,
+    "category": "metals",
+    "tier": "hard",
+    "word": "gavialid",
+    "hint": "A slender-snouted aquatic crocodilian belonging to a specialized Asian family that feeds primarily on fish.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 757,
+    "category": "metals",
+    "tier": "hard",
+    "word": "placodont",
+    "hint": "An extinct Triassic marine creature distinguished by flat, heavy teeth adapted for crushing hard shells.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 758,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ophidian",
+    "hint": "A legless slithering vertebrate belonging to the suborder Serpentes.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 759,
+    "category": "metals",
+    "tier": "hard",
+    "word": "creeper",
+    "hint": "An animal, such as a serpent, that slithers or crawls along the ground.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 760,
+    "category": "metals",
+    "tier": "hard",
+    "word": "hatchling",
+    "hint": "A young animal that has very recently emerged from its protective shell.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 761,
+    "category": "metals",
+    "tier": "hard",
+    "word": "podotheca",
+    "hint": "The scaly epidermal sheath covering the lower foot of a bird or small animal.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 762,
+    "category": "metals",
+    "tier": "hard",
+    "word": "preocular",
+    "hint": "A small protective epidermal plate positioned immediately in front of an animal's eye.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 763,
+    "category": "metals",
+    "tier": "hard",
+    "word": "gharial",
+    "hint": "A critically endangered Asian crocodilian distinguished by its elongated, narrow snout full of interlocking teeth.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 764,
+    "category": "metals",
+    "tier": "hard",
+    "word": "hexapod",
+    "hint": "A six-limbed creature, traditionally used as a general term for bugs.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 765,
+    "category": "metals",
+    "tier": "hard",
+    "word": "odonate",
+    "hint": "A predatory flying bug belonging to the order that includes dragonflies and damselflies.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 766,
+    "category": "metals",
+    "tier": "hard",
+    "word": "dipteran",
+    "hint": "A two-winged flying bug belonging to the large group that includes gnats and mosquitoes.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 767,
+    "category": "metals",
+    "tier": "hard",
+    "word": "orthopter",
+    "hint": "A member of the insect group that includes grasshoppers and crickets.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 768,
+    "category": "metals",
+    "tier": "hard",
+    "word": "insectoid",
+    "hint": "A bug-like entity or alien creature commonly depicted in science fiction.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 769,
+    "category": "metals",
+    "tier": "hard",
+    "word": "apocritan",
+    "hint": "A member of the narrow-waisted wasp, bee, or ant suborder.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 770,
+    "category": "metals",
+    "tier": "hard",
+    "word": "metaleg",
+    "hint": "Either of the rearmost ambulatory limbs on a bug's thorax.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 771,
+    "category": "metals",
+    "tier": "hard",
+    "word": "nymphid",
+    "hint": "A split-footed lacewing belonging to an Australasian family of neuropterans.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 772,
+    "category": "metals",
+    "tier": "hard",
+    "word": "terricole",
+    "hint": "A ground-dwelling bug that typically inhabits soil or leaf litter, often lacking flight capabilities.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 773,
+    "category": "metals",
+    "tier": "hard",
+    "word": "aurelia",
+    "hint": "An archaic term for a butterfly pupa, named for its golden luster.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 774,
+    "category": "metals",
+    "tier": "hard",
+    "word": "midtibia",
+    "hint": "The fourth segment of the midleg of an insect, located between the femur and tarsus.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 775,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ithonid",
+    "hint": "A member of a family of primitive neuropteran insects known as moth lacewings.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 776,
+    "category": "metals",
+    "tier": "hard",
+    "word": "conehead",
+    "hint": "A katydid characterized by a pointed, elongated extension on its crown.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 777,
+    "category": "metals",
+    "tier": "hard",
+    "word": "neopteran",
+    "hint": "An insect belonging to a group distinguished by the ability to fold its flight structures over its abdomen.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 778,
+    "category": "metals",
+    "tier": "hard",
+    "word": "chrysopid",
+    "hint": "A delicate insect belonging to the green lacewing family.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 779,
+    "category": "metals",
+    "tier": "hard",
+    "word": "fledgling",
+    "hint": "A juvenile avian that has recently acquired its first flight plumage.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 780,
+    "category": "metals",
+    "tier": "hard",
+    "word": "adelgid",
+    "hint": "A small sap-sucking bug belonging to the genus Adelges, known for attacking conifers.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 781,
+    "category": "metals",
+    "tier": "hard",
+    "word": "dealate",
+    "hint": "Describing an insect, such as a queen ant, that has shed its flight organs after mating.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 782,
+    "category": "metals",
+    "tier": "hard",
+    "word": "mandible",
+    "hint": "Either half of an avian bill or beak structure used for grasping food.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 783,
+    "category": "metals",
+    "tier": "hard",
+    "word": "predatory",
+    "hint": "Characterized by an instinct to hunt and feed upon other living organisms.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 784,
+    "category": "metals",
+    "tier": "hard",
+    "word": "prowler",
+    "hint": "A creature that stealthily wanders through its territory in search of prey.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 785,
+    "category": "metals",
+    "tier": "hard",
+    "word": "scavenger",
+    "hint": "An organism that obtains nutrients by consuming dead animal tissue or organic waste.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 786,
+    "category": "metals",
+    "tier": "hard",
+    "word": "seedeater",
+    "hint": "A small avian species whose diet consists primarily of plant grains and kernels.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 787,
+    "category": "metals",
+    "tier": "hard",
+    "word": "granivore",
+    "hint": "An animal whose primary dietary intake consists of grains and plant seeds.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 788,
+    "category": "metals",
+    "tier": "hard",
+    "word": "ambivore",
+    "hint": "A creature whose diet is restricted to exactly two specific types of food sources.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 789,
+    "category": "metals",
+    "tier": "hard",
+    "word": "polyphage",
+    "hint": "An organism that feeds on a wide range of different plant or animal species.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 790,
+    "category": "metals",
+    "tier": "hard",
+    "word": "euryphage",
+    "hint": "An animal adapted to feed on a broad diversity of food sources within its ecosystem.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 791,
+    "category": "metals",
+    "tier": "hard",
+    "word": "polyodont",
+    "hint": "An animal characterized by possessing numerous teeth.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 792,
+    "category": "metals",
+    "tier": "hard",
+    "word": "wolfing",
+    "hint": "The practice or activity of hunting wild apex canines for their pelts.",
+    "sourceSeed": "imported"
   }
 ]

@@ -705,6 +705,30 @@
                 </div>
             </div>
 
+            <section class="card" id="importCard">
+                <h3 class="card-title"><span class="icon">📥</span>Import a ready-made word list</h3>
+                <p class="card-sub">
+                    Already have a finished JSON list of words? Upload or paste it here to skip Datamuse gathering
+                    and the dictionary check entirely. Accepts the same shape as an exported
+                    <code>&lt;category&gt;-approved_words.json</code> — an array of objects like
+                    <code>{"word":"IRON","tier":"easy","clue":"..."}</code> (a bare <code>"category"</code> field
+                    is fine too and, if every item agrees on one, switches the sidebar to it automatically).
+                    Imported words land in Results below already marked <strong>kept</strong>, ready to export or
+                    push straight to GitHub for Gemini hints.
+                </p>
+                <div class="btn-row">
+                    <input type="file" id="importFile" accept="application/json,.json" style="display:none;" />
+                    <button class="btn small" id="importFileBtn">📁 Choose JSON file…</button>
+                    <span id="importFileName" style="opacity:.7;font-size:.85em;"></span>
+                </div>
+                <textarea id="importTextarea" placeholder='Or paste JSON here, e.g. [{"word":"IRON","tier":"easy","clue":"A silvery-grey metal, magnetic in its pure form"}]'></textarea>
+                <div class="btn-row" style="margin-top:8px;">
+                    <button class="btn gold small" id="importBtn">Import into Results →</button>
+                    <button class="btn small ghost" id="importClearBtn">Clear</button>
+                </div>
+                <div class="status-line" id="importStatusLine"></div>
+            </section>
+
             <section class="card accent" id="seedCard" style="--cat-color:#d4a24c;">
                 <h3 class="card-title"><span class="icon" id="catIconLabel">⛏️</span><span id="catNameLabel">Metals</span></h3>
                 <p class="card-sub">Search terms sent to Datamuse. Defaults are tuned to this category — add your own to dig further, or remove ones that drift off-topic. 20 seeds means a richer bank, but gathering runs seed-by-seed, so a full pass can take fifteen seconds or so — the status line below tracks progress.</p>
@@ -2082,6 +2106,132 @@
                 clue: r.clue || null
             })), null, 2);
         }
+
+        /* ============================= IMPORT READY JSON (skip Datamuse + dictionary) =============================
+           Lets someone paste/upload an already-finished word list — e.g. produced by another tool,
+           hand-curated, or a previous export from this same page — and drop it straight into
+           `results` as 'kept' entries. No Datamuse call, no free-dictionary verification: the file
+           is treated as already approved, exactly like words a person checked by hand in the
+           Results grid below. From there it's indistinguishable from a normal session, so the
+           existing Export / Export JSON / GitHub push buttons all just work on it unchanged. */
+        function setImportStatus(msg, kind) {
+            const line = document.getElementById('importStatusLine');
+            line.textContent = msg;
+            line.className = 'status-line' + (kind ? ' ' + kind : '');
+        }
+
+        document.getElementById('importFileBtn').addEventListener('click', () => {
+            document.getElementById('importFile').click();
+        });
+
+        document.getElementById('importFile').addEventListener('change', async (e) => {
+            const file = e.target.files[0];
+            if (!file) return;
+            document.getElementById('importFileName').textContent = file.name;
+            try {
+                document.getElementById('importTextarea').value = await file.text();
+            } catch (err) {
+                setImportStatus(`Couldn't read that file: ${err.message}`, 'err');
+            }
+        });
+
+        document.getElementById('importClearBtn').addEventListener('click', () => {
+            document.getElementById('importTextarea').value = '';
+            document.getElementById('importFile').value = '';
+            document.getElementById('importFileName').textContent = '';
+            setImportStatus('', '');
+        });
+
+        document.getElementById('importBtn').addEventListener('click', () => {
+            const raw = document.getElementById('importTextarea').value.trim();
+            if (!raw) {
+                setImportStatus("Paste some JSON or choose a file first.", 'err');
+                return;
+            }
+
+            let data;
+            try {
+                data = JSON.parse(raw);
+            } catch (err) {
+                setImportStatus(`Invalid JSON: ${err.message}`, 'err');
+                return;
+            }
+            if (!Array.isArray(data) || data.length === 0) {
+                setImportStatus('Expected a non-empty JSON array of word objects (or plain word strings).', 'err');
+                return;
+            }
+
+            // Normalize each entry — accept either a full object ({word, tier, clue, category,
+            // sourceSeed}) or a bare string (just the word, defaults filled in below).
+            const rows = data.map(it => (typeof it === 'string') ? { word: it } : (it || {}));
+
+            // If every item that names a category agrees on exactly one, and it's a category this
+            // page knows about, switch the sidebar to it — mirrors what happens after picking a
+            // category from the dropdown. Disagreement across categories is rejected rather than
+            // silently mixed, since export/GitHub push are always scoped to one active category.
+            const categoriesFound = new Set(
+                rows.map(r => String(r.category || '').trim().toLowerCase()).filter(Boolean)
+            );
+            if (categoriesFound.size > 1) {
+                setImportStatus(
+                    `This list mixes ${categoriesFound.size} different categories — import one category at a time.`,
+                    'err'
+                );
+                return;
+            }
+            if (categoriesFound.size === 1) {
+                const [onlyCat] = [...categoriesFound];
+                if (CATEGORIES[onlyCat]) {
+                    saveBasket(); // persist the outgoing category's basket before switching, same as the dropdown handler
+                    activeCat = onlyCat;
+                    activeSeeds = [...CATEGORIES[activeCat].seeds];
+                    results = loadBasket(activeCat);
+                }
+            }
+
+            const existingWords = new Set(results.map(r => r.word));
+            let imported = 0, skippedDupes = 0, skippedInvalid = 0;
+            for (const r of rows) {
+                const word = String(r.word ?? '').trim().toUpperCase();
+                if (!/^[A-Z]{2,}$/.test(word)) { skippedInvalid++; continue; }
+                if (existingWords.has(word)) { skippedDupes++; continue; }
+                existingWords.add(word);
+                results.push({
+                    word,
+                    clue: r.clue ? String(r.clue).trim() : '',
+                    tier: String(r.tier || '').trim() || tierForLength(word.length),
+                    status: 'kept', // already approved by whoever/whatever produced this file
+                    sourceSeed: r.sourceSeed ? String(r.sourceSeed) : 'imported',
+                    imported: true,
+                });
+                imported++;
+            }
+
+            if (imported === 0) {
+                setImportStatus(
+                    `Nothing new to import` +
+                        (skippedDupes ? ` — ${skippedDupes} word(s) already in this category's basket` : '') +
+                        (skippedInvalid ? ` — ${skippedInvalid} entry/entries had no usable word` : '') +
+                        '.',
+                    'err'
+                );
+                return;
+            }
+
+            saveBasket();
+            renderCategoryDropdown();
+            renderSeedCard();
+            document.getElementById('resultsCard').style.display = 'block';
+            document.getElementById('exportCard').style.display = 'none';
+            renderResults();
+            renderSeedAnalysis();
+
+            const parts = [`✅ Imported ${imported} word(s) into "${CATEGORIES[activeCat].label}", marked kept.`];
+            if (skippedDupes) parts.push(`Skipped ${skippedDupes} already present.`);
+            if (skippedInvalid) parts.push(`Skipped ${skippedInvalid} invalid entr${skippedInvalid === 1 ? 'y' : 'ies'}.`);
+            setImportStatus(parts.join(' '), 'ok');
+            document.getElementById('resultsCard').scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
 
         /* ============================= EVENTS ============================= */
         document.getElementById('catSelect').addEventListener('change', (e) => {

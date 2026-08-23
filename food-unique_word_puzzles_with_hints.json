@@ -1926,5 +1926,1821 @@
     "word": "starve",
     "hint": "To suffer severely or perish due to a complete lack of nourishment over a prolonged period.",
     "sourceSeed": "meal"
+  },
+  {
+    "id": 242,
+    "category": "food",
+    "tier": "medium",
+    "word": "eating",
+    "hint": "The daily act of consuming meals or ingesting sustenance.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 243,
+    "category": "food",
+    "tier": "medium",
+    "word": "hunger",
+    "hint": "The strong physical sensation or urge indicating a need to consume meals.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 244,
+    "category": "food",
+    "tier": "medium",
+    "word": "pastry",
+    "hint": "The food group encompassing baked items made from a rich dough of flour, fat, and liquid.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 245,
+    "category": "food",
+    "tier": "medium",
+    "word": "roast",
+    "hint": "A cut of meat prepared by heat in an oven, often served for Sunday dinner.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 246,
+    "category": "food",
+    "tier": "medium",
+    "word": "bolter",
+    "hint": "Someone whose job is to pass crushed grain or flour through a sieve.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 247,
+    "category": "food",
+    "tier": "medium",
+    "word": "baked",
+    "hint": "Cooked in an oven using dry heat, like a potato or loaf of bread.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 248,
+    "category": "food",
+    "tier": "medium",
+    "word": "stove",
+    "hint": "A kitchen appliance with burners used for heating pots and pans.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 249,
+    "category": "food",
+    "tier": "medium",
+    "word": "grill",
+    "hint": "Meat or vegetables intended to be cooked directly over an open flame or hot grate.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 250,
+    "category": "food",
+    "tier": "medium",
+    "word": "baste",
+    "hint": "A moistening of cooking meat by pouring juices or melted fat over it.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 251,
+    "category": "food",
+    "tier": "medium",
+    "word": "baster",
+    "hint": "A tube-like kitchen instrument used to collect pan juices and pour them over meat.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 252,
+    "category": "food",
+    "tier": "medium",
+    "word": "braise",
+    "hint": "A meal made by searing meat then simmering it slowly in a covered pot with liquid.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 253,
+    "category": "food",
+    "tier": "medium",
+    "word": "broil",
+    "hint": "Culinary items prepared under direct, intense overhead heat.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 254,
+    "category": "food",
+    "tier": "medium",
+    "word": "brown",
+    "hint": "To sear ingredients in hot oil until the surface turns a toasted color.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 255,
+    "category": "food",
+    "tier": "medium",
+    "word": "devil",
+    "hint": "To prepare food with intense spicy seasonings or hot peppers, as with certain eggs.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 256,
+    "category": "food",
+    "tier": "medium",
+    "word": "fennel",
+    "hint": "An aromatic vegetable with an anise-like flavor, often shaved into salads.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 257,
+    "category": "food",
+    "tier": "medium",
+    "word": "flambe",
+    "hint": "A cooking style where alcohol is added to a pan and ignited briefly to create fire.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 258,
+    "category": "food",
+    "tier": "medium",
+    "word": "gigot",
+    "hint": "A culinary cut of meat consisting of a leg of lamb or mutton.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 259,
+    "category": "food",
+    "tier": "medium",
+    "word": "gravy",
+    "hint": "A savory sauce made from meat drippings and thickened with flour.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 260,
+    "category": "food",
+    "tier": "medium",
+    "word": "kalua",
+    "hint": "A native island technique involving slow cooking meat using hot rocks in an underground pit.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 261,
+    "category": "food",
+    "tier": "medium",
+    "word": "olive",
+    "hint": "A thin strip of beef or veal rolled around a savory filling and simmered.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 262,
+    "category": "food",
+    "tier": "medium",
+    "word": "puree",
+    "hint": "Food crushed or blended into a smooth, thick, liquid-like paste.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 263,
+    "category": "food",
+    "tier": "medium",
+    "word": "range",
+    "hint": "An obsolete dialect sieve used to sift coarsely ground flour or grain.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 264,
+    "category": "food",
+    "tier": "medium",
+    "word": "scald",
+    "hint": "To warm a liquid until it is just below its boiling point during preparation.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 265,
+    "category": "food",
+    "tier": "medium",
+    "word": "slush",
+    "hint": "Discarded fat and grease collected during maritime galley preparation.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 266,
+    "category": "food",
+    "tier": "medium",
+    "word": "stewed",
+    "hint": "Cooked slowly by simmering ingredients gently in liquid over low heat.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 267,
+    "category": "food",
+    "tier": "medium",
+    "word": "aspic",
+    "hint": "A savory jelly prepared from clear meat broth or fish stock.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 268,
+    "category": "food",
+    "tier": "medium",
+    "word": "basin",
+    "hint": "An old shallow vessel used for serving a single portion of liquid meal.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 269,
+    "category": "food",
+    "tier": "medium",
+    "word": "biffin",
+    "hint": "A dark red British heirloom apple traditionally dried and used in baking.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 270,
+    "category": "food",
+    "tier": "medium",
+    "word": "boiler",
+    "hint": "A large metal kitchen pot used for steaming or heating ingredients in hot water.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 271,
+    "category": "food",
+    "tier": "medium",
+    "word": "broths",
+    "hint": "Clear savory liquids produced by simmering meat, bones, or vegetables in water.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 272,
+    "category": "food",
+    "tier": "medium",
+    "word": "burner",
+    "hint": "A single heating zone or flame unit located on top of a stovetop.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 273,
+    "category": "food",
+    "tier": "medium",
+    "word": "remove",
+    "hint": "In historical formal dining, the act of replacing one dish with another during a course.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 274,
+    "category": "food",
+    "tier": "medium",
+    "word": "round",
+    "hint": "A single cut piece of bread from a loaf, as referred to in British usage.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 275,
+    "category": "food",
+    "tier": "medium",
+    "word": "server",
+    "hint": "A large utensil or spoon designed to dish out portions from a main platter.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 276,
+    "category": "food",
+    "tier": "medium",
+    "word": "sauce",
+    "hint": "A flavorful liquid condiment poured over a meal to add moisture and taste.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 277,
+    "category": "food",
+    "tier": "medium",
+    "word": "saucer",
+    "hint": "A small, shallow plate designed to support a drink cup and catch spills.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 278,
+    "category": "food",
+    "tier": "medium",
+    "word": "dipper",
+    "hint": "A finger food piece, like a tortilla chip, made for plunging into savory spreads.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 279,
+    "category": "food",
+    "tier": "medium",
+    "word": "ashet",
+    "hint": "A large, flat, oval platter used primarily in Scotland for presenting meat or meals.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 280,
+    "category": "food",
+    "tier": "medium",
+    "word": "tureen",
+    "hint": "A deep covered dish from which hot soup or stew is ladle-portioned at table.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 281,
+    "category": "food",
+    "tier": "medium",
+    "word": "coulis",
+    "hint": "A smooth purée of strained fruits or vegetables used to drizzle over and decorate dishes.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 282,
+    "category": "food",
+    "tier": "medium",
+    "word": "bonbon",
+    "hint": "A tiny, spherical bite-sized savory snack or hors d'oeuvre.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 283,
+    "category": "food",
+    "tier": "medium",
+    "word": "dollop",
+    "hint": "A shapeless lump or soft scoop of food, such as sour cream or jam.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 284,
+    "category": "food",
+    "tier": "medium",
+    "word": "unadon",
+    "hint": "A Japanese rice bowl topped with grilled, sweet-glazed eel fillets.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 285,
+    "category": "food",
+    "tier": "medium",
+    "word": "bacon",
+    "hint": "Salt-cured pork cut from the pig's belly or back, often fried for breakfast.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 286,
+    "category": "food",
+    "tier": "medium",
+    "word": "ginger",
+    "hint": "To enliven or add zest and energy to something.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 287,
+    "category": "food",
+    "tier": "medium",
+    "word": "toast",
+    "hint": "Slices of baked grain dough browned by dry heat exposure.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 288,
+    "category": "food",
+    "tier": "medium",
+    "word": "chine",
+    "hint": "A cut of meat containing part of an animal's spine and attached flesh.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 289,
+    "category": "food",
+    "tier": "medium",
+    "word": "corner",
+    "hint": "An individual who cures or preserves meat using salt brine.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 290,
+    "category": "food",
+    "tier": "medium",
+    "word": "flake",
+    "hint": "The edible flesh of a small shark, commonly served in Australian fish shops.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 291,
+    "category": "food",
+    "tier": "medium",
+    "word": "flank",
+    "hint": "A lean, flat cut of beef taken from a cow's lower belly region.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 292,
+    "category": "food",
+    "tier": "medium",
+    "word": "floor",
+    "hint": "The dining section of a restaurant where servers attend to seated guests.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 293,
+    "category": "food",
+    "tier": "medium",
+    "word": "masala",
+    "hint": "A South Asian dish cooked with a fragrant blend of seasonings.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 294,
+    "category": "food",
+    "tier": "medium",
+    "word": "taste",
+    "hint": "A tiny sample or morsel of food or drink taken to evaluate it.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 295,
+    "category": "food",
+    "tier": "medium",
+    "word": "niblet",
+    "hint": "A tiny bite-sized piece of food or snack.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 296,
+    "category": "food",
+    "tier": "medium",
+    "word": "mixie",
+    "hint": "A kitchen electric appliance used in India to grind, puree, or blend ingredients.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 297,
+    "category": "food",
+    "tier": "medium",
+    "word": "juice",
+    "hint": "The natural drink squeezed or pressed from fresh fruits or vegetables.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 298,
+    "category": "food",
+    "tier": "medium",
+    "word": "sossle",
+    "hint": "A messy or unappealing mixture of mixed culinary leftovers.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 299,
+    "category": "food",
+    "tier": "medium",
+    "word": "opsony",
+    "hint": "An obsolete term for any savory item eaten alongside bread.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 300,
+    "category": "food",
+    "tier": "medium",
+    "word": "subji",
+    "hint": "An Indian term for a prepared vegetable dish or cooked greens.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 301,
+    "category": "food",
+    "tier": "medium",
+    "word": "tomato",
+    "hint": "A glossy red, juicy fruit often treated as a vegetable in salads and sauces.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 302,
+    "category": "food",
+    "tier": "medium",
+    "word": "berry",
+    "hint": "A small, fleshy, edible fruit like a currant, grape, or cherry.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 303,
+    "category": "food",
+    "tier": "medium",
+    "word": "brandy",
+    "hint": "A strong spirit created by distilling wine or fermented fruit mash.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 304,
+    "category": "food",
+    "tier": "medium",
+    "word": "carob",
+    "hint": "A sweet, chocolate-like product made from tree pods, often used as a cocoa substitute.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 305,
+    "category": "food",
+    "tier": "medium",
+    "word": "celery",
+    "hint": "Long, fibrous green stalks often chopped into soups or eaten raw for crunch.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 306,
+    "category": "food",
+    "tier": "medium",
+    "word": "citron",
+    "hint": "A large citrus fruit with a thick, fragrant peel, closely related to lemons.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 307,
+    "category": "food",
+    "tier": "medium",
+    "word": "citrus",
+    "hint": "Relating to tart, thick-peeled fruits like oranges, lemons, and limes.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 308,
+    "category": "food",
+    "tier": "medium",
+    "word": "clear",
+    "hint": "Describing broth made without flour, cream, or other heavy thickeners.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 309,
+    "category": "food",
+    "tier": "medium",
+    "word": "drawer",
+    "hint": "A hidden side panel in a software menu that slides out to display extra options.",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "id": 310,
+    "category": "food",
+    "tier": "medium",
+    "word": "larder",
+    "hint": "A stored collection or pantry supply of provisions.",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "id": 311,
+    "category": "food",
+    "tier": "medium",
+    "word": "hearth",
+    "hint": "A firebox, brazier, or open fireplace used for heating or cooking.",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "id": 312,
+    "category": "food",
+    "tier": "medium",
+    "word": "bunker",
+    "hint": "In Scottish slang, a counter or work surface in the kitchen.",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "id": 313,
+    "category": "food",
+    "tier": "medium",
+    "word": "eatery",
+    "hint": "An informal restaurant, diner, or café where meals are served.",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "id": 314,
+    "category": "food",
+    "tier": "medium",
+    "word": "beater",
+    "hint": "A kitchen tool or attachment used to whisk, whip, or blend ingredients.",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "id": 315,
+    "category": "food",
+    "tier": "medium",
+    "word": "corer",
+    "hint": "A kitchen utensil used to extract the central seed-bearing part of an apple.",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "id": 316,
+    "category": "food",
+    "tier": "medium",
+    "word": "corers",
+    "hint": "Kitchen utensils designed to extract central seed-bearing sections from apples or pears.",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "id": 317,
+    "category": "food",
+    "tier": "medium",
+    "word": "mincer",
+    "hint": "A kitchen device used to chop meat fine into tiny pieces.",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "id": 318,
+    "category": "food",
+    "tier": "medium",
+    "word": "batch",
+    "hint": "A single group of baked goods produced together in one oven session.",
+    "sourceSeed": "recipe"
+  },
+  {
+    "id": 319,
+    "category": "food",
+    "tier": "medium",
+    "word": "season",
+    "hint": "To enhance the flavor of a dish by adding salt, pepper, or herbs.",
+    "sourceSeed": "recipe"
+  },
+  {
+    "id": 320,
+    "category": "food",
+    "tier": "medium",
+    "word": "spoon",
+    "hint": "An oval-bowled utensil with a handle used for stirring cooking pots.",
+    "sourceSeed": "recipe"
+  },
+  {
+    "id": 321,
+    "category": "food",
+    "tier": "medium",
+    "word": "beaten",
+    "hint": "Vigorously mixed or whipped with an implement until smooth, as with eggs or cream.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 322,
+    "category": "food",
+    "tier": "medium",
+    "word": "bisque",
+    "hint": "A rich, creamy soup traditionally strained and crafted from shellfish like lobster.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 323,
+    "category": "food",
+    "tier": "medium",
+    "word": "matzot",
+    "hint": "Crisp, flat, unleavened flatbread eaten during Passover traditions.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 324,
+    "category": "food",
+    "tier": "medium",
+    "word": "matzos",
+    "hint": "Plural form for the flat unleavened flatbreads eaten during Passover.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 325,
+    "category": "food",
+    "tier": "medium",
+    "word": "breads",
+    "hint": "Various baked foods prepared from cereal flour dough and water.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 326,
+    "category": "food",
+    "tier": "medium",
+    "word": "drying",
+    "hint": "A preservation technique that removes moisture from meat, fruits, or herbs.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 327,
+    "category": "food",
+    "tier": "medium",
+    "word": "loaves",
+    "hint": "Formed blocks of baked dough ready to be sliced.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 328,
+    "category": "food",
+    "tier": "medium",
+    "word": "stone",
+    "hint": "To extract the hard central pit or seed from a fruit such as a cherry or olive.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 329,
+    "category": "food",
+    "tier": "medium",
+    "word": "sheet",
+    "hint": "A flat tray used in ovens to bake cookies or roast vegetables.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 330,
+    "category": "food",
+    "tier": "medium",
+    "word": "sifter",
+    "hint": "A mesh utensil used to aerate flour and separate lumps from powdered ingredients.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 331,
+    "category": "food",
+    "tier": "medium",
+    "word": "panary",
+    "hint": "Pertaining to or associated with the process of making bread.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 332,
+    "category": "food",
+    "tier": "medium",
+    "word": "powder",
+    "hint": "An archaic term meaning to preserve or season meat by sprinkling it with salt.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 333,
+    "category": "food",
+    "tier": "medium",
+    "word": "prove",
+    "hint": "To allow yeast dough to expand and rise before baking.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 334,
+    "category": "food",
+    "tier": "medium",
+    "word": "bagel",
+    "hint": "A dense, ring-shaped roll that is boiled briefly before baking.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 335,
+    "category": "food",
+    "tier": "medium",
+    "word": "blind",
+    "hint": "Describing a plant stem or shoot that fails to blossom or yield fruit.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 336,
+    "category": "food",
+    "tier": "medium",
+    "word": "burnt",
+    "hint": "Charred or turned to carbon due to overcooking or excessive heat.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 337,
+    "category": "food",
+    "tier": "medium",
+    "word": "pigeon",
+    "hint": "The game meat derived from a squab or adult dove-like bird.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 338,
+    "category": "food",
+    "tier": "medium",
+    "word": "spicy",
+    "hint": "Having a hot, zesty, or pungent flavor profile from seasoning.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 339,
+    "category": "food",
+    "tier": "medium",
+    "word": "relish",
+    "hint": "An archaic term meaning to sample, eat, or savor a bite of dish or drink.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 340,
+    "category": "food",
+    "tier": "medium",
+    "word": "jeera",
+    "hint": "An Indian cooking term for aromatic cumin seeds.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 341,
+    "category": "food",
+    "tier": "medium",
+    "word": "achar",
+    "hint": "A tangy, spicy South Asian pickle typically made by preserving fruits or vegetables in oil and spices.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 342,
+    "category": "food",
+    "tier": "medium",
+    "word": "saunf",
+    "hint": "An Indian culinary term for sweet fennel seeds often chewed after dinner.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 343,
+    "category": "food",
+    "tier": "medium",
+    "word": "zeera",
+    "hint": "A common variant spelling for cumin seeds used in South Asian dishes.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 344,
+    "category": "food",
+    "tier": "medium",
+    "word": "misal",
+    "hint": "A hot Indian dish featuring sprouted beans or produce simmered in a seasoned gravy.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 345,
+    "category": "food",
+    "tier": "medium",
+    "word": "pickle",
+    "hint": "A cucumber or other produce preserved in brine or vinegar.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 346,
+    "category": "food",
+    "tier": "medium",
+    "word": "nutmeg",
+    "hint": "An aromatic oval seed ground to flavor autumn desserts and eggnog.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 347,
+    "category": "food",
+    "tier": "medium",
+    "word": "maces",
+    "hint": "Pungent reddish spices derived from the lacey outer coating of nutmeg seeds.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 348,
+    "category": "food",
+    "tier": "medium",
+    "word": "sintoc",
+    "hint": "A fragrant spice harvested from the bark of an East Indian tree.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 349,
+    "category": "food",
+    "tier": "medium",
+    "word": "caudle",
+    "hint": "A historic warm drink made with wine or ale, thickened with bread or egg.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 350,
+    "category": "food",
+    "tier": "medium",
+    "word": "diable",
+    "hint": "A traditional unglazed clay pot or casserole vessel used for slow cooking.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 351,
+    "category": "food",
+    "tier": "medium",
+    "word": "junket",
+    "hint": "An elaborate feast, banquet, or merry gathering centered on eating.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 352,
+    "category": "food",
+    "tier": "medium",
+    "word": "festa",
+    "hint": "A traditional Italian or Portuguese religious celebration or festival day.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 353,
+    "category": "food",
+    "tier": "medium",
+    "word": "treat",
+    "hint": "A delicious snack or item of confection consumed as a special indulgence.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 354,
+    "category": "food",
+    "tier": "medium",
+    "word": "festal",
+    "hint": "Pertaining to a grand banquet, festival, or joyful celebration.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 355,
+    "category": "food",
+    "tier": "medium",
+    "word": "famine",
+    "hint": "A widespread, severe shortage of nourishment in a community.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 356,
+    "category": "food",
+    "tier": "medium",
+    "word": "regale",
+    "hint": "An uncommon noun referring to a luxurious banquet or lavish meal.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 357,
+    "category": "food",
+    "tier": "medium",
+    "word": "greeze",
+    "hint": "Bermudian slang for a very hearty, satisfying meal or feast.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 358,
+    "category": "food",
+    "tier": "medium",
+    "word": "broast",
+    "hint": "To prepare chicken by cooking it simultaneously in oil and under high pressure.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 359,
+    "category": "food",
+    "tier": "medium",
+    "word": "double",
+    "hint": "A category of high-ranking liturgical feast day in the Christian church calendar.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 360,
+    "category": "food",
+    "tier": "medium",
+    "word": "bridal",
+    "hint": "An archaic term for a wedding celebration or nuptial feast.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 361,
+    "category": "food",
+    "tier": "medium",
+    "word": "feria",
+    "hint": "An ordinary weekday on a church calendar when no specific saint or festival is commemorated.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 362,
+    "category": "food",
+    "tier": "medium",
+    "word": "halmas",
+    "hint": "An old name for the Christian festival celebrating All Saints' Day.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 363,
+    "category": "food",
+    "tier": "medium",
+    "word": "dearth",
+    "hint": "A severe shortage or scarcity of provisions leading to famine.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 364,
+    "category": "food",
+    "tier": "medium",
+    "word": "marrow",
+    "hint": "A large green squash-like gourd commonly cooked as a culinary vegetable.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 365,
+    "category": "food",
+    "tier": "medium",
+    "word": "cannon",
+    "hint": "A culinary cut consisting of a tender loin of meat boned and neatly rolled.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 366,
+    "category": "food",
+    "tier": "medium",
+    "word": "steaks",
+    "hint": "Thick slices of beef, pork, or fish typically grilled or pan-seared.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 367,
+    "category": "food",
+    "tier": "medium",
+    "word": "mutton",
+    "hint": "The strong-flavored meat of a mature sheep, often slow-cooked in stews.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 368,
+    "category": "food",
+    "tier": "medium",
+    "word": "offal",
+    "hint": "The consumable entrails and internal organs of a butchered animal.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 369,
+    "category": "food",
+    "tier": "medium",
+    "word": "porks",
+    "hint": "Meats derived from swine or pigs, prepared in various culinary styles.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 370,
+    "category": "food",
+    "tier": "medium",
+    "word": "veggie",
+    "hint": "An informal term for a plant raised for edible roots, leaves, or seeds.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 371,
+    "category": "food",
+    "tier": "medium",
+    "word": "cutlet",
+    "hint": "A small, thin piece of meat, often breaded and fried.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 372,
+    "category": "food",
+    "tier": "medium",
+    "word": "speck",
+    "hint": "A culinary term for animal fat, lard, or cured fatty meat.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 373,
+    "category": "food",
+    "tier": "medium",
+    "word": "buccan",
+    "hint": "A wooden grill or rack used historically for drying or roasting meats.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 374,
+    "category": "food",
+    "tier": "medium",
+    "word": "salami",
+    "hint": "A dry-cured, seasoned sausage of Italian tradition, typically thinly sliced.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 375,
+    "category": "food",
+    "tier": "medium",
+    "word": "glaze",
+    "hint": "A shiny, smooth coating brushed onto pastries or savory dishes.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 376,
+    "category": "food",
+    "tier": "medium",
+    "word": "jerky",
+    "hint": "To preserve lean meat by slicing it into strips and thoroughly drying it.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 377,
+    "category": "food",
+    "tier": "medium",
+    "word": "smoked",
+    "hint": "Flavored or preserved through exposure to wood fumes during processing.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 378,
+    "category": "food",
+    "tier": "medium",
+    "word": "tripe",
+    "hint": "The edible stomach lining of cattle or other ruminant livestock.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 379,
+    "category": "food",
+    "tier": "medium",
+    "word": "bigos",
+    "hint": "A hearty traditional Polish hunter's stew featuring sauerkraut and mixed meats.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 380,
+    "category": "food",
+    "tier": "medium",
+    "word": "boning",
+    "hint": "Applying crushed skeletal material to agricultural soil as an enriching fertilizer.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 381,
+    "category": "food",
+    "tier": "medium",
+    "word": "brewis",
+    "hint": "A traditional hearty broth or dish thickened with bread scraps or oatmeal.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 382,
+    "category": "food",
+    "tier": "medium",
+    "word": "broach",
+    "hint": "A pointed rod or spit used to hold meat while roasting over an open fire.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 383,
+    "category": "food",
+    "tier": "medium",
+    "word": "noodle",
+    "hint": "An old-fashioned boiled dumpling served in broth, similar to a knaidel.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 384,
+    "category": "food",
+    "tier": "medium",
+    "word": "purees",
+    "hint": "Smooth, thick pastes or liquids made from blended or crushed ingredients.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 385,
+    "category": "food",
+    "tier": "medium",
+    "word": "lentil",
+    "hint": "A small, edible lens-shaped pulse seed often used in stews.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 386,
+    "category": "food",
+    "tier": "medium",
+    "word": "bearer",
+    "hint": "A tree or plant that produces an edible harvest.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 387,
+    "category": "food",
+    "tier": "medium",
+    "word": "chard",
+    "hint": "Blanched artichoke shoots or leaf stalks prepared as a vegetable dish.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 388,
+    "category": "food",
+    "tier": "medium",
+    "word": "fresh",
+    "hint": "Describing produce or meat in its original, raw state without being preserved or frozen.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 389,
+    "category": "food",
+    "tier": "medium",
+    "word": "pasty",
+    "hint": "A baked half-moon pastry filled with savory ingredients like seasoned meat and potatoes.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 390,
+    "category": "food",
+    "tier": "medium",
+    "word": "potpie",
+    "hint": "A regional American stew containing meat, vegetables, and boiled dumplings.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 391,
+    "category": "food",
+    "tier": "medium",
+    "word": "prunes",
+    "hint": "Dehydrated, dark, wrinkled produce made from certain dried purple tree crops.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 392,
+    "category": "food",
+    "tier": "medium",
+    "word": "mango",
+    "hint": "A tropical stone fruit with sweet orange flesh and a large flat pit.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 393,
+    "category": "food",
+    "tier": "medium",
+    "word": "plums",
+    "hint": "Sweet, smooth-skinned stone fruits that turn into prunes when dried.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 394,
+    "category": "food",
+    "tier": "medium",
+    "word": "vegies",
+    "hint": "An informal, shortened term for garden produce like carrots, broccoli, and spinach.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 395,
+    "category": "food",
+    "tier": "medium",
+    "word": "lychee",
+    "hint": "A soapberry family tree native to China that produces sweet, red-shelled yields.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 396,
+    "category": "food",
+    "tier": "medium",
+    "word": "papaya",
+    "hint": "A large tropical fruit with bright orange flesh and a central cavity full of black seeds.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 397,
+    "category": "food",
+    "tier": "medium",
+    "word": "salak",
+    "hint": "A pear-shaped, scaly palm crop often called snake produce.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 398,
+    "category": "food",
+    "tier": "medium",
+    "word": "mangos",
+    "hint": "Juicy tropical stone fruits with yellow-orange pulp, often used in chutneys or salsas.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 399,
+    "category": "food",
+    "tier": "medium",
+    "word": "feijoa",
+    "hint": "An oval, green yield from a South American shrub, known for its sweet and tangy flavor.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 400,
+    "category": "food",
+    "tier": "medium",
+    "word": "fruity",
+    "hint": "A British slang term for a coin-operated slot machine in a pub.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 401,
+    "category": "food",
+    "tier": "medium",
+    "word": "sapote",
+    "hint": "A soft, creamy Latin American tree crop, such as the mamey or sapodilla.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 402,
+    "category": "food",
+    "tier": "medium",
+    "word": "juices",
+    "hint": "Potable liquids extracted by pressing or squeezing apples or berries.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 403,
+    "category": "food",
+    "tier": "medium",
+    "word": "lemma",
+    "hint": "A botanical term for the protective outer shell or husk encasing a seed body.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 404,
+    "category": "food",
+    "tier": "medium",
+    "word": "finger",
+    "hint": "A long, narrow strip of food, such as a breaded portion of chicken or fish.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 405,
+    "category": "food",
+    "tier": "medium",
+    "word": "orange",
+    "hint": "Describing a reddish-yellow hue characteristic of carrots or pumpkins.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 406,
+    "category": "food",
+    "tier": "medium",
+    "word": "quince",
+    "hint": "An Asian deciduous tree in the rose family that bears tart, pear-shaped golden crops.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 407,
+    "category": "food",
+    "tier": "medium",
+    "word": "cherry",
+    "hint": "The fleshy exterior casing of the coffee plant that houses its valuable seeds.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 408,
+    "category": "food",
+    "tier": "medium",
+    "word": "pawpaw",
+    "hint": "A tropical tree bearing large, sweet orange fruit, another name for the papaya.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 409,
+    "category": "food",
+    "tier": "medium",
+    "word": "prune",
+    "hint": "A dehydrated, shriveled plum often eaten to aid digestion.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 410,
+    "category": "food",
+    "tier": "medium",
+    "word": "raisin",
+    "hint": "To shrivel and dry up like a grape.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 411,
+    "category": "food",
+    "tier": "medium",
+    "word": "candy",
+    "hint": "To coat or preserve fruit or nuts by cooking them in rich sugar syrup.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 412,
+    "category": "food",
+    "tier": "medium",
+    "word": "citric",
+    "hint": "Relating to or derived from fruits such as lemons, limes, and oranges.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 413,
+    "category": "food",
+    "tier": "medium",
+    "word": "frail",
+    "hint": "An old measure of weight describing the amount of dried fruit packed in a rush basket.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 414,
+    "category": "food",
+    "tier": "medium",
+    "word": "gourd",
+    "hint": "A hard-shelled fruit from plants such as squashes and pumpkins.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 415,
+    "category": "food",
+    "tier": "medium",
+    "word": "crust",
+    "hint": "The baked dough layer that forms the base of a pizza.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 416,
+    "category": "food",
+    "tier": "medium",
+    "word": "loafs",
+    "hint": "Multiple shaped blocks of baked bread.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 417,
+    "category": "food",
+    "tier": "medium",
+    "word": "bagels",
+    "hint": "Ring-shaped dough rolls that are poached in water before baking, often topped with sesame seeds.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 418,
+    "category": "food",
+    "tier": "medium",
+    "word": "crumbs",
+    "hint": "Tiny specks or fragments that fall off a slice of baked dough or cake.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 419,
+    "category": "food",
+    "tier": "medium",
+    "word": "crusts",
+    "hint": "The outer or bottom baked dough layers of pizzas.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 420,
+    "category": "food",
+    "tier": "medium",
+    "word": "boule",
+    "hint": "A traditionally round shape for a French baked bread.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 421,
+    "category": "food",
+    "tier": "medium",
+    "word": "barge",
+    "hint": "A flat circular wooden plate used to hold baked goods on a ship's dining board.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 422,
+    "category": "food",
+    "tier": "medium",
+    "word": "stale",
+    "hint": "Hardened, dry, or no longer fresh after sitting out too long.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 423,
+    "category": "food",
+    "tier": "medium",
+    "word": "wafer",
+    "hint": "A paper-thin crisp piece of sacred flat dough consumed during religious services.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 424,
+    "category": "food",
+    "tier": "medium",
+    "word": "assay",
+    "hint": "To test or sample food or drink by tasting it.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 425,
+    "category": "food",
+    "tier": "medium",
+    "word": "azyme",
+    "hint": "An archaic term for unleavened bread used in religious rituals.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 426,
+    "category": "food",
+    "tier": "medium",
+    "word": "bunny",
+    "hint": "A South African street meal made from a hollowed piece of dough stuffed with spicy curry.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 427,
+    "category": "food",
+    "tier": "medium",
+    "word": "cheat",
+    "hint": "An obsolete term for a low-grade or coarse type of bread.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 428,
+    "category": "food",
+    "tier": "medium",
+    "word": "potage",
+    "hint": "A thick, hearty soup, often made creamy with pureed ingredients.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 429,
+    "category": "food",
+    "tier": "medium",
+    "word": "ramen",
+    "hint": "Japanese wheat strands served hot in a savory seasoned broth with rich toppings.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 430,
+    "category": "food",
+    "tier": "medium",
+    "word": "laksa",
+    "hint": "A rich, spicy noodle soup popular in Malaysian and Indonesian cuisine.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 431,
+    "category": "food",
+    "tier": "medium",
+    "word": "sofky",
+    "hint": "A traditional Native American culinary preparation made from hominy and meat cooked in liquid.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 432,
+    "category": "food",
+    "tier": "medium",
+    "word": "dashi",
+    "hint": "A savory Japanese cooking stock typically prepared with kelp and dried fish flakes.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 433,
+    "category": "food",
+    "tier": "medium",
+    "word": "ragout",
+    "hint": "A rich, well-seasoned dish made of slow-cooked meat and vegetables.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 434,
+    "category": "food",
+    "tier": "medium",
+    "word": "stewp",
+    "hint": "A hearty bowlful that is thicker than broth-based dishes yet lighter than a full braise.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 435,
+    "category": "food",
+    "tier": "medium",
+    "word": "nimono",
+    "hint": "A category of simmered Japanese items cooked in a savory liquid.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 436,
+    "category": "food",
+    "tier": "medium",
+    "word": "gukbap",
+    "hint": "A Korean dish consisting of warm grain served inside a hot bowl of broth.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 437,
+    "category": "food",
+    "tier": "medium",
+    "word": "mousse",
+    "hint": "A savory light dish made from whipped meat or seafood set with gelatin.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 438,
+    "category": "food",
+    "tier": "medium",
+    "word": "fideo",
+    "hint": "A thin type of noodle often used in traditional Spanish and Mexican simmered bowls.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 439,
+    "category": "food",
+    "tier": "medium",
+    "word": "soupy",
+    "hint": "Having a wet, broth-like, or creamy consistency.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 440,
+    "category": "food",
+    "tier": "medium",
+    "word": "saimin",
+    "hint": "A Hawaiian noodle dish served in broth and topped with sliced green onions.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 441,
+    "category": "food",
+    "tier": "medium",
+    "word": "poach",
+    "hint": "To gently cook delicate items like eggs or fish in simmering liquid.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 442,
+    "category": "food",
+    "tier": "medium",
+    "word": "stewer",
+    "hint": "An older bird, like a mature chicken, best prepared by slow braising in liquid.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 443,
+    "category": "food",
+    "tier": "medium",
+    "word": "chafer",
+    "hint": "A heating vessel or warm pan used at buffets to keep warm dishes ready.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 444,
+    "category": "food",
+    "tier": "medium",
+    "word": "stodge",
+    "hint": "Heavy, dense, and filling food such as a rich British steamed pudding.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 445,
+    "category": "food",
+    "tier": "medium",
+    "word": "scogie",
+    "hint": "A Scottish term for a domestic helper or servant working in the kitchen.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 446,
+    "category": "food",
+    "tier": "medium",
+    "word": "slash",
+    "hint": "A Scottish term for a large portion of watery liquid food like thin broth.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 447,
+    "category": "food",
+    "tier": "medium",
+    "word": "skink",
+    "hint": "An obsolete Scottish pottage made from a rich broth of simmered beef shin.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 448,
+    "category": "food",
+    "tier": "medium",
+    "word": "gulyas",
+    "hint": "A rich Hungarian meat dish heavily spiced with paprika.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 449,
+    "category": "food",
+    "tier": "medium",
+    "word": "purloo",
+    "hint": "A traditional Southern American rice dish cooked with poultry or small game.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 450,
+    "category": "food",
+    "tier": "medium",
+    "word": "dished",
+    "hint": "Formed with a concave or hollowed shape, like a serving bowl.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 451,
+    "category": "food",
+    "tier": "medium",
+    "word": "seeder",
+    "hint": "A utensil designed for removing small pit-like centers from fruits.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 452,
+    "category": "food",
+    "tier": "medium",
+    "word": "truss",
+    "hint": "To secure a turkey or chicken with kitchen twine before roasting.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 453,
+    "category": "food",
+    "tier": "medium",
+    "word": "unfed",
+    "hint": "Describing a blood-seeking insect, such as a mosquito, before its meal.",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "id": 454,
+    "category": "food",
+    "tier": "medium",
+    "word": "forage",
+    "hint": "To search for and gather wild plants and grass to feed livestock.",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "id": 455,
+    "category": "food",
+    "tier": "medium",
+    "word": "hangi",
+    "hint": "A traditional Māori meal cooked underground using heated stones in an earth oven.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 456,
+    "category": "food",
+    "tier": "medium",
+    "word": "wokery",
+    "hint": "An eatery specializing in Cantonese dishes prepared in a deep, round-bottomed pan.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 457,
+    "category": "food",
+    "tier": "medium",
+    "word": "palate",
+    "hint": "The roof of an animal's mouth, historically prepared and eaten as a delicacy.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 458,
+    "category": "food",
+    "tier": "medium",
+    "word": "strata",
+    "hint": "An American casserole dish made by layering bread, eggs, and cheese before baking.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 459,
+    "category": "food",
+    "tier": "medium",
+    "word": "khana",
+    "hint": "A general term for a meal or edible sustenance in South Asian cultures.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 460,
+    "category": "food",
+    "tier": "medium",
+    "word": "karahi",
+    "hint": "A thick South Asian curry named after the deep circular pot it is prepared in.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 461,
+    "category": "food",
+    "tier": "medium",
+    "word": "goujon",
+    "hint": "A small, narrow strip of fish or poultry, usually breaded and deep-fried.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 462,
+    "category": "food",
+    "tier": "medium",
+    "word": "light",
+    "hint": "Describing baked goods or batter that is airy, spongy, and well-risen rather than dense.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 463,
+    "category": "food",
+    "tier": "medium",
+    "word": "daikon",
+    "hint": "A large, mild white winter radish commonly used in East Asian cuisine.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 464,
+    "category": "food",
+    "tier": "medium",
+    "word": "ambry",
+    "hint": "An old-fashioned or rare term for a cupboard used to store provisions.",
+    "sourceSeed": "pantry"
+  },
+  {
+    "id": 465,
+    "category": "food",
+    "tier": "medium",
+    "word": "caddy",
+    "hint": "A small container with a lid designed to hold scraps and organic kitchen waste.",
+    "sourceSeed": "pantry"
+  },
+  {
+    "id": 466,
+    "category": "food",
+    "tier": "medium",
+    "word": "catery",
+    "hint": "An obsolete term for a storeroom or pantry where edible supplies were kept.",
+    "sourceSeed": "pantry"
+  },
+  {
+    "id": 467,
+    "category": "food",
+    "tier": "medium",
+    "word": "stall",
+    "hint": "A small booth or open counter in a market where vendors sell edible items.",
+    "sourceSeed": "pantry"
+  },
+  {
+    "id": 468,
+    "category": "food",
+    "tier": "medium",
+    "word": "cooker",
+    "hint": "A kitchen appliance used for heating and preparing meals, commonly called a stove.",
+    "sourceSeed": "cooking"
   }
 ]

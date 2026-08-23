@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "category": "food",
+    "tier": "hard",
+    "word": "foodstuff",
+    "hint": "Raw ingredients or consumable substances intended for eating.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 2,
+    "category": "food",
+    "tier": "hard",
+    "word": "feeding",
+    "hint": "The act or process of supplying nourishment to people, animals, or infants.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 3,
+    "category": "food",
+    "tier": "hard",
+    "word": "aliment",
+    "hint": "An archaic or formal term for any substance that provides nourishment.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 4,
+    "category": "food",
+    "tier": "hard",
+    "word": "petfood",
+    "hint": "Commercially prepared chow tailored for domestic animals like dogs or cats.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 5,
+    "category": "food",
+    "tier": "hard",
+    "word": "cuisine",
+    "hint": "A specific style or tradition of preparing dishes characteristic of a region or culture.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 6,
+    "category": "food",
+    "tier": "hard",
+    "word": "cooking",
+    "hint": "The application of heat to transform raw ingredients into prepared meals.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 7,
+    "category": "food",
+    "tier": "hard",
+    "word": "kitchen",
+    "hint": "The dedicated room or space equipped for preparing and baking meals.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 8,
+    "category": "food",
+    "tier": "hard",
+    "word": "foraging",
+    "hint": "Searching wild areas to gather berries, roots, or other naturally occurring items.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 9,
+    "category": "food",
+    "tier": "hard",
+    "word": "trophic",
+    "hint": "Relating to biological nutrition or energy transfer pathways within an ecosystem web.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 10,
+    "category": "food",
+    "tier": "hard",
+    "word": "foodborne",
+    "hint": "Describing an illness or pathogen transmitted to humans through consuming contaminated sustenance.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 11,
+    "category": "food",
+    "tier": "hard",
+    "word": "gourmet",
+    "hint": "A connoisseur of refined dining who possesses a discerning palate for fine dishes.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 12,
+    "category": "food",
+    "tier": "hard",
+    "word": "provision",
+    "hint": "A supply of necessary items or stored rations set aside for future consumption.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 13,
+    "category": "food",
+    "tier": "hard",
+    "word": "aliments",
+    "hint": "Plural term used historically to refer to items that furnish biological nourishment.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 14,
+    "category": "food",
+    "tier": "hard",
+    "word": "micrantha",
+    "hint": "A wild citrus species native to the Philippines, known for its small, sour fruit.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 15,
+    "category": "food",
+    "tier": "hard",
+    "word": "nutriment",
+    "hint": "Substances that supply essential nourishment to maintain life and support growth.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 16,
+    "category": "food",
+    "tier": "hard",
+    "word": "nonfood",
+    "hint": "Describing items that are not meant to be ingested or consumed as sustenance.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 17,
+    "category": "food",
+    "tier": "hard",
+    "word": "dessert",
+    "hint": "A sweet treat, such as pie or cake, served to conclude a formal meal.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 18,
+    "category": "food",
+    "tier": "hard",
+    "word": "vegetable",
+    "hint": "An edible plant component like a root, stem, or leaf, typically served savory.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 19,
+    "category": "food",
+    "tier": "hard",
+    "word": "breakfast",
+    "hint": "The morning meal that ends an overnight period without dining.",
+    "sourceSeed": "food"
+  }
+]

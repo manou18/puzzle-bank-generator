@@ -150,5 +150,1781 @@
     "word": "breakfast",
     "hint": "The morning meal that ends an overnight period without dining.",
     "sourceSeed": "food"
+  },
+  {
+    "id": 20,
+    "category": "food",
+    "tier": "easy",
+    "word": "feed",
+    "hint": "Nourishment or grain given to livestock or pets.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 21,
+    "category": "food",
+    "tier": "easy",
+    "word": "chow",
+    "hint": "Casual slang word for food or a hearty snack.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 22,
+    "category": "food",
+    "tier": "easy",
+    "word": "eats",
+    "hint": "Informal term for snacks or food items served at a gathering.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 23,
+    "category": "food",
+    "tier": "easy",
+    "word": "meal",
+    "hint": "Breakfast, lunch, or dinner served as a complete repast.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 24,
+    "category": "food",
+    "tier": "easy",
+    "word": "dish",
+    "hint": "A specific prepared recipe or course served at a dinner table.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 25,
+    "category": "food",
+    "tier": "easy",
+    "word": "eat",
+    "hint": "Informal term for a single item of food or a light repast.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 26,
+    "category": "food",
+    "tier": "easy",
+    "word": "diet",
+    "hint": "The usual selection of nourishment consumed daily by a person or animal.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 27,
+    "category": "food",
+    "tier": "easy",
+    "word": "rice",
+    "hint": "Small white or brown grain cultivated from a cereal plant and boiled as a staple food.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 28,
+    "category": "food",
+    "tier": "easy",
+    "word": "fuel",
+    "hint": "Energy-providing nourishment that keeps a body or organism running.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 29,
+    "category": "food",
+    "tier": "easy",
+    "word": "grub",
+    "hint": "Informal slang term for a meal or hearty spread of cooking.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 30,
+    "category": "food",
+    "tier": "easy",
+    "word": "mess",
+    "hint": "In India, a dining hall or simple eatery serving home-cooked style meals.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 31,
+    "category": "food",
+    "tier": "easy",
+    "word": "fare",
+    "hint": "A range of dishes and drinks provided at a dining establishment.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 32,
+    "category": "food",
+    "tier": "easy",
+    "word": "fish",
+    "hint": "Edible flesh from aquatic creatures like salmon or tuna.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 33,
+    "category": "food",
+    "tier": "easy",
+    "word": "duck",
+    "hint": "Poultry flesh from a waterfowl, often roasted with crispy skin.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 34,
+    "category": "food",
+    "tier": "easy",
+    "word": "nosh",
+    "hint": "A Yiddish-derived slang word for a light snack or nibble.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 35,
+    "category": "food",
+    "tier": "easy",
+    "word": "crab",
+    "hint": "Edible flesh of a sideways-walking sea crustacean with claws.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 36,
+    "category": "food",
+    "tier": "easy",
+    "word": "tack",
+    "hint": "Traditional hard bread or simple provisions, often associated with sailors.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 37,
+    "category": "food",
+    "tier": "easy",
+    "word": "loaf",
+    "hint": "A shaped block of baked dough, sliced into pieces for sandwiches.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 38,
+    "category": "food",
+    "tier": "easy",
+    "word": "stew",
+    "hint": "A thick, hearty dish of vegetables and protein slowly simmered in broth.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 39,
+    "category": "food",
+    "tier": "easy",
+    "word": "pork",
+    "hint": "Culinary flesh derived from swine, such as bacon or ham.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 40,
+    "category": "food",
+    "tier": "easy",
+    "word": "menu",
+    "hint": "A printed or displayed list of options available to order at a restaurant.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 41,
+    "category": "food",
+    "tier": "easy",
+    "word": "noms",
+    "hint": "Playful internet slang for delicious snacks or tasty treats.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 42,
+    "category": "food",
+    "tier": "easy",
+    "word": "fast",
+    "hint": "To abstain from consuming nourishment for a religious or health reason.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 43,
+    "category": "food",
+    "tier": "easy",
+    "word": "bite",
+    "hint": "A small mouthful or single portion of food.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 44,
+    "category": "food",
+    "tier": "easy",
+    "word": "cate",
+    "hint": "An archaic term for a choice delicacy or sweet treat.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 45,
+    "category": "food",
+    "tier": "easy",
+    "word": "cook",
+    "hint": "A person whose job is to prepare meals in a kitchen.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 46,
+    "category": "food",
+    "tier": "easy",
+    "word": "ham",
+    "hint": "Cured pork meat cut from the thigh of a pig.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 47,
+    "category": "food",
+    "tier": "easy",
+    "word": "deli",
+    "hint": "A store where ready-to-eat prepared meats, cheeses, and salads are sold.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 48,
+    "category": "food",
+    "tier": "easy",
+    "word": "dip",
+    "hint": "In West Midlands English, a slice of bread fried in bacon grease or oil.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 49,
+    "category": "food",
+    "tier": "easy",
+    "word": "dry",
+    "hint": "In Southeast Asian cuisine, noodles tossed with sauce rather than served in broth.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 50,
+    "category": "food",
+    "tier": "easy",
+    "word": "fat",
+    "hint": "Oily or greasy, describing heavy and rich dishes.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 51,
+    "category": "food",
+    "tier": "easy",
+    "word": "butt",
+    "hint": "The heel or end crust slice of a loaf of bread.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 52,
+    "category": "food",
+    "tier": "easy",
+    "word": "food",
+    "hint": "Nourishment or any edible material eaten for sustenance.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 53,
+    "category": "food",
+    "tier": "easy",
+    "word": "soup",
+    "hint": "A warm liquid meal consisting of broth, vegetables, or meat served in a bowl.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 54,
+    "category": "food",
+    "tier": "easy",
+    "word": "grit",
+    "hint": "Tiny, hard, unwanted particles in poorly washed greens or grain.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 55,
+    "category": "food",
+    "tier": "easy",
+    "word": "hall",
+    "hint": "In British university slang, a communal dinner eaten in a college dining room.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 56,
+    "category": "food",
+    "tier": "easy",
+    "word": "snap",
+    "hint": "A regional British term for a packed lunch or quick midday meal.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 57,
+    "category": "food",
+    "tier": "easy",
+    "word": "bone",
+    "hint": "To remove the skeleton or hard internal parts from meat prior to cooking.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 58,
+    "category": "food",
+    "tier": "easy",
+    "word": "bus",
+    "hint": "To clear dirty dishes and leftovers off restaurant tables after a customer leaves.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 59,
+    "category": "food",
+    "tier": "easy",
+    "word": "tea",
+    "hint": "A hot, liquid meat broth served as a savory drink.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 60,
+    "category": "food",
+    "tier": "easy",
+    "word": "wait",
+    "hint": "An outdated expression meaning to delay or postpone eating a meal.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 61,
+    "category": "food",
+    "tier": "easy",
+    "word": "bait",
+    "hint": "Poisoned sustenance set out to kill vermin or rodents.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 62,
+    "category": "food",
+    "tier": "easy",
+    "word": "bolt",
+    "hint": "To gulp down or swallow a meal hastily without chewing.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 63,
+    "category": "food",
+    "tier": "easy",
+    "word": "chef",
+    "hint": "The primary culinary professional leading a kitchen staff.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 64,
+    "category": "food",
+    "tier": "easy",
+    "word": "fry",
+    "hint": "To cook food in hot oil or fat.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 65,
+    "category": "food",
+    "tier": "easy",
+    "word": "oven",
+    "hint": "An enclosed appliance used for roasting or baking.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 66,
+    "category": "food",
+    "tier": "easy",
+    "word": "bake",
+    "hint": "The process of cooking food using dry heat inside an oven.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 67,
+    "category": "food",
+    "tier": "easy",
+    "word": "boil",
+    "hint": "A seafood dish or feast prepared in hot liquid, such as a Cajun crawfish meal.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 68,
+    "category": "food",
+    "tier": "easy",
+    "word": "cure",
+    "hint": "To preserve meat or fish by salting, drying, or smoking.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 69,
+    "category": "food",
+    "tier": "easy",
+    "word": "raw",
+    "hint": "Describing food that has not been cooked or heated.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 70,
+    "category": "food",
+    "tier": "easy",
+    "word": "fork",
+    "hint": "To lift or shift food using a pronged eating utensil.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 71,
+    "category": "food",
+    "tier": "easy",
+    "word": "lard",
+    "hint": "To insert strips of bacon or fat into meat prior to cooking.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 72,
+    "category": "food",
+    "tier": "easy",
+    "word": "oil",
+    "hint": "To coat or grease a pan with liquid fat before frying.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 73,
+    "category": "food",
+    "tier": "easy",
+    "word": "pan",
+    "hint": "A broad, shallow metal container used on the stove for frying or cooking.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 74,
+    "category": "food",
+    "tier": "easy",
+    "word": "salt",
+    "hint": "A small tabletop vessel used to hold savory white seasoning granules.",
+    "sourceSeed": "cooking"
+  },
+  {
+    "id": 75,
+    "category": "food",
+    "tier": "easy",
+    "word": "side",
+    "hint": "A secondary dish served together with the main course of a meal.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 76,
+    "category": "food",
+    "tier": "easy",
+    "word": "sowl",
+    "hint": "A tasty sauce, relish, or dainty eaten together with bread.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 77,
+    "category": "food",
+    "tier": "easy",
+    "word": "tapa",
+    "hint": "Cured or dried slices of seasoned beef or pork in Filipino cuisine.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 78,
+    "category": "food",
+    "tier": "easy",
+    "word": "yam",
+    "hint": "A starchy, edible tropical root vegetable similar to a sweet potato.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 79,
+    "category": "food",
+    "tier": "easy",
+    "word": "hash",
+    "hint": "A dish of finely chopped meat and potatoes cooked together.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 80,
+    "category": "food",
+    "tier": "easy",
+    "word": "part",
+    "hint": "A unit of measure equal to 3.5 centiliters of an ingredient in a cocktail recipe.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 81,
+    "category": "food",
+    "tier": "easy",
+    "word": "boat",
+    "hint": "An elongated serving dish shaped like a small vessel, often used for gravy.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 82,
+    "category": "food",
+    "tier": "easy",
+    "word": "dice",
+    "hint": "Small, uniform cubes of food created by chopping.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 83,
+    "category": "food",
+    "tier": "easy",
+    "word": "beef",
+    "hint": "The culinary flesh derived from adult cattle.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 84,
+    "category": "food",
+    "tier": "easy",
+    "word": "mash",
+    "hint": "A wet blend of grain, meal, or bran prepared as feed for livestock.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 85,
+    "category": "food",
+    "tier": "easy",
+    "word": "eye",
+    "hint": "A single heating element or burner on the top of a cooking stove.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 86,
+    "category": "food",
+    "tier": "easy",
+    "word": "pass",
+    "hint": "To press or force food through a fine strainer or sieve.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 87,
+    "category": "food",
+    "tier": "easy",
+    "word": "pit",
+    "hint": "The hard central stone or single seed found inside fruits like cherries or peaches.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 88,
+    "category": "food",
+    "tier": "easy",
+    "word": "rib",
+    "hint": "A cut of meat containing curved chest bones, often grilled or smoked.",
+    "sourceSeed": "side dish"
+  },
+  {
+    "id": 89,
+    "category": "food",
+    "tier": "easy",
+    "word": "mush",
+    "hint": "A soft, thick, semisolid porridge or wet mixture of food.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 90,
+    "category": "food",
+    "tier": "easy",
+    "word": "must",
+    "hint": "Freshly pressed grape juice that is undergoing or ready for fermentation into wine.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 91,
+    "category": "food",
+    "tier": "easy",
+    "word": "chip",
+    "hint": "A small basket or container used for holding freshly picked strawberries or small fruit.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 92,
+    "category": "food",
+    "tier": "easy",
+    "word": "base",
+    "hint": "The foundational component or main starting ingredient used to make a soup or sauce.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 93,
+    "category": "food",
+    "tier": "easy",
+    "word": "beat",
+    "hint": "To stir or agitate ingredients rapidly with a whisk or prongs.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 94,
+    "category": "food",
+    "tier": "easy",
+    "word": "code",
+    "hint": "A common type of ocean fish often used for fish and chips.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 95,
+    "category": "food",
+    "tier": "easy",
+    "word": "jar",
+    "hint": "To preserve produce inside a glass container with a lid.",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "id": 96,
+    "category": "food",
+    "tier": "easy",
+    "word": "mace",
+    "hint": "A warm spice made from the lacy outer shell of nutmeg seeds.",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "id": 97,
+    "category": "food",
+    "tier": "easy",
+    "word": "olla",
+    "hint": "A traditional clay cooking pot used in Spanish cuisine.",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "id": 98,
+    "category": "food",
+    "tier": "easy",
+    "word": "chop",
+    "hint": "A cut of meat, such as pork or lamb, often attached to a bone.",
+    "sourceSeed": "recipe"
+  },
+  {
+    "id": 99,
+    "category": "food",
+    "tier": "easy",
+    "word": "hot",
+    "hint": "Spicy and fiery in flavor, like a chili pepper.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 100,
+    "category": "food",
+    "tier": "easy",
+    "word": "eggy",
+    "hint": "Dipped in or coated with beaten yolks and whites.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 101,
+    "category": "food",
+    "tier": "easy",
+    "word": "good",
+    "hint": "Describing food that is fresh, tasty, and satisfying to eat.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 102,
+    "category": "food",
+    "tier": "easy",
+    "word": "burn",
+    "hint": "To scorch or char food by cooking it for too long or at a temperature that is too high.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 103,
+    "category": "food",
+    "tier": "easy",
+    "word": "tin",
+    "hint": "A metal pan used for baking bread or cakes in an oven.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 104,
+    "category": "food",
+    "tier": "easy",
+    "word": "tins",
+    "hint": "Metal pans used in the kitchen for baking cakes or pies.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 105,
+    "category": "food",
+    "tier": "easy",
+    "word": "zest",
+    "hint": "The colorful outer peel of a lemon or orange scraped for flavor.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 106,
+    "category": "food",
+    "tier": "easy",
+    "word": "pain",
+    "hint": "An old culinary term for a loaf of dough stuffed with a savory filling.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 107,
+    "category": "food",
+    "tier": "easy",
+    "word": "rack",
+    "hint": "A cut of lamb or pork that includes several adjacent ribs.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 108,
+    "category": "food",
+    "tier": "easy",
+    "word": "rub",
+    "hint": "A dry blend of spices massaged onto raw meat before grilling.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 109,
+    "category": "food",
+    "tier": "easy",
+    "word": "bun",
+    "hint": "A small, soft bread roll that is often sweetened.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 110,
+    "category": "food",
+    "tier": "easy",
+    "word": "fond",
+    "hint": "The flavorful browned bits left in a pan after searing meat.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 111,
+    "category": "food",
+    "tier": "easy",
+    "word": "fete",
+    "hint": "A large public celebration or feast with delicious food.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 112,
+    "category": "food",
+    "tier": "easy",
+    "word": "dine",
+    "hint": "To feed someone or provide them with a formal evening meal.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 113,
+    "category": "food",
+    "tier": "easy",
+    "word": "cat",
+    "hint": "The meat derived from a feline animal.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 114,
+    "category": "food",
+    "tier": "easy",
+    "word": "farm",
+    "hint": "To cultivate land and grow crops or raise livestock.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 115,
+    "category": "food",
+    "tier": "easy",
+    "word": "luau",
+    "hint": "A traditional Hawaiian party that features a massive feast and roasted pig.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 116,
+    "category": "food",
+    "tier": "easy",
+    "word": "mark",
+    "hint": "A numbered setting on a dial indicating a gas oven temperature.",
+    "sourceSeed": "feast"
+  },
+  {
+    "id": 117,
+    "category": "food",
+    "tier": "easy",
+    "word": "core",
+    "hint": "The tough middle portion of an apple or pear holding the seeds.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 118,
+    "category": "food",
+    "tier": "easy",
+    "word": "pith",
+    "hint": "The bitter, white spongy layer inside a citrus peel.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 119,
+    "category": "food",
+    "tier": "easy",
+    "word": "veal",
+    "hint": "Meat from a young calf, often used in dishes like cutlets or parmigiana.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 120,
+    "category": "food",
+    "tier": "easy",
+    "word": "skin",
+    "hint": "The peel or outer casing of an apple, banana, or potato.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 121,
+    "category": "food",
+    "tier": "easy",
+    "word": "pig",
+    "hint": "Meat obtained from swine, often eaten as ham, bacon, or chops.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 122,
+    "category": "food",
+    "tier": "easy",
+    "word": "lamb",
+    "hint": "Tender meat from a young sheep, often served roasted with mint sauce.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 123,
+    "category": "food",
+    "tier": "easy",
+    "word": "game",
+    "hint": "Wild animals that are hunted for meat, such as venison or pheasant.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 124,
+    "category": "food",
+    "tier": "easy",
+    "word": "tofu",
+    "hint": "A protein-rich plant block made from curdled soy milk, common in Asian dishes.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 125,
+    "category": "food",
+    "tier": "easy",
+    "word": "goat",
+    "hint": "Meat from a horned livestock animal, popular in curries and stews worldwide.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 126,
+    "category": "food",
+    "tier": "easy",
+    "word": "loin",
+    "hint": "A tender cut of meat taken from the back section of an animal.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 127,
+    "category": "food",
+    "tier": "easy",
+    "word": "lean",
+    "hint": "Describing meat that has very little fat content.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 128,
+    "category": "food",
+    "tier": "easy",
+    "word": "mart",
+    "hint": "An old term for beef that has been cured or preserved with salt.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 129,
+    "category": "food",
+    "tier": "easy",
+    "word": "buff",
+    "hint": "An informal term for the meat of a bison or water bison.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 130,
+    "category": "food",
+    "tier": "easy",
+    "word": "spam",
+    "hint": "A famous brand of canned, processed meat made primarily from pork and ham.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 131,
+    "category": "food",
+    "tier": "easy",
+    "word": "cut",
+    "hint": "A specific section or slab of meat, such as a ribeye or tenderloin.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 132,
+    "category": "food",
+    "tier": "easy",
+    "word": "bird",
+    "hint": "Culinary slang for poultry served on a dinner plate, like chicken or turkey.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 133,
+    "category": "food",
+    "tier": "easy",
+    "word": "cow",
+    "hint": "An uncommon term referring directly to beef as meat from cattle.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 134,
+    "category": "food",
+    "tier": "easy",
+    "word": "nut",
+    "hint": "A hard-shelled fruit containing an edible seed, like an almond or acorn.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 135,
+    "category": "food",
+    "tier": "easy",
+    "word": "bad",
+    "hint": "Describing food that has spoiled, gone sour, or turned rotten.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 136,
+    "category": "food",
+    "tier": "easy",
+    "word": "bar",
+    "hint": "A casual dining establishment or counter serving light meals and drinks.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 137,
+    "category": "food",
+    "tier": "easy",
+    "word": "bard",
+    "hint": "To wrap meat in a thin layer of fat bacon before roasting to keep it moist.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 138,
+    "category": "food",
+    "tier": "easy",
+    "word": "bark",
+    "hint": "The dark, flavorful outer crust formed on slow-cooked smoked meat.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 139,
+    "category": "food",
+    "tier": "easy",
+    "word": "bear",
+    "hint": "The meat harvested from a large wild mammal known for loving honey.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 140,
+    "category": "food",
+    "tier": "easy",
+    "word": "blow",
+    "hint": "What a fly does when it deposits eggs inside exposed meat.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 141,
+    "category": "food",
+    "tier": "easy",
+    "word": "veg",
+    "hint": "Informal slang for plant produce served at dinner, short for produce like carrots or peas.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 142,
+    "category": "food",
+    "tier": "easy",
+    "word": "lump",
+    "hint": "An old slang term for a portion of food given to a traveler to eat on the road.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 143,
+    "category": "food",
+    "tier": "easy",
+    "word": "kale",
+    "hint": "A dark green, leafy vegetable that is a type of cabbage.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 144,
+    "category": "food",
+    "tier": "easy",
+    "word": "seed",
+    "hint": "A small, hard part of a plant from which a new one can grow.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 145,
+    "category": "food",
+    "tier": "easy",
+    "word": "pepo",
+    "hint": "A type of fleshy, hard-skinned fruit produced by plants like gourds and pumpkins.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 146,
+    "category": "food",
+    "tier": "easy",
+    "word": "jus",
+    "hint": "A savory French-style sauce made from the natural drippings of cooked meat.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 147,
+    "category": "food",
+    "tier": "easy",
+    "word": "peel",
+    "hint": "The outer skin or rind of a fruit or vegetable.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 148,
+    "category": "food",
+    "tier": "easy",
+    "word": "pear",
+    "hint": "A fruit tree that produces sweet, bell-shaped fruit with soft juicy flesh.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 149,
+    "category": "food",
+    "tier": "easy",
+    "word": "plum",
+    "hint": "A smooth-skinned stone fruit that is typically purple or red, growing on a tree.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 150,
+    "category": "food",
+    "tier": "easy",
+    "word": "coco",
+    "hint": "A large, hard-shelled tropical fruit containing sweet milk and edible white meat.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 151,
+    "category": "food",
+    "tier": "easy",
+    "word": "fig",
+    "hint": "A soft, tear-shaped fruit filled with many small edible seeds, often dried.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 152,
+    "category": "food",
+    "tier": "easy",
+    "word": "sloe",
+    "hint": "A small, dark blue, sour wild fruit used to flavor gin.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 153,
+    "category": "food",
+    "tier": "easy",
+    "word": "kiwi",
+    "hint": "A small fuzzy brown fruit with bright green flesh and tiny black seeds inside.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 154,
+    "category": "food",
+    "tier": "easy",
+    "word": "hand",
+    "hint": "A cluster or bunch of bananas growing together on a single stem.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 155,
+    "category": "food",
+    "tier": "easy",
+    "word": "hull",
+    "hint": "The outer shell or protective leafy top of a strawberry or grain.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 156,
+    "category": "food",
+    "tier": "easy",
+    "word": "ice",
+    "hint": "A frozen dessert made from water, sugar, and fruit flavoring.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 157,
+    "category": "food",
+    "tier": "easy",
+    "word": "pulp",
+    "hint": "The soft, fleshy interior part of a fruit containing the juice.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 158,
+    "category": "food",
+    "tier": "easy",
+    "word": "pav",
+    "hint": "A soft, fluffy bread roll popular in Indian street food dishes like vada.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 159,
+    "category": "food",
+    "tier": "easy",
+    "word": "bap",
+    "hint": "A large, soft, round bread roll originating in Scotland.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 160,
+    "category": "food",
+    "tier": "easy",
+    "word": "host",
+    "hint": "The thin wafer of sacramental bread used in Christian communion services.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 161,
+    "category": "food",
+    "tier": "easy",
+    "word": "sops",
+    "hint": "Morsels or pieces of bread soaked in milk, broth, or gravy.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 162,
+    "category": "food",
+    "tier": "easy",
+    "word": "bao",
+    "hint": "A fluffy, warm Chinese steamed bun that is often stuffed with meat or vegetables.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 163,
+    "category": "food",
+    "tier": "easy",
+    "word": "barm",
+    "hint": "A flat, round individual loaf or roll of soft bread.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 164,
+    "category": "food",
+    "tier": "easy",
+    "word": "cob",
+    "hint": "A round, crusty bread roll often eaten with butter or soup.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 165,
+    "category": "food",
+    "tier": "easy",
+    "word": "sup",
+    "hint": "A very small taste, sip, or small portion of a drink or liquid food.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 166,
+    "category": "food",
+    "tier": "easy",
+    "word": "sop",
+    "hint": "A piece of bread meant to be dipped into gravy or sauce.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 167,
+    "category": "food",
+    "tier": "easy",
+    "word": "raft",
+    "hint": "Diner slang term for a slice of toast.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 168,
+    "category": "food",
+    "tier": "easy",
+    "word": "olio",
+    "hint": "A traditional rich Spanish stew made with meat and vegetables.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 169,
+    "category": "food",
+    "tier": "easy",
+    "word": "slop",
+    "hint": "Inferior, watery, or unappetizing semi-liquid food.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 170,
+    "category": "food",
+    "tier": "easy",
+    "word": "jug",
+    "hint": "To cook or stew ingredients slowly in an earthenware vessel.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 171,
+    "category": "food",
+    "tier": "easy",
+    "word": "fool",
+    "hint": "A sweet dessert made by folding mashed fruit into whipped cream.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 172,
+    "category": "food",
+    "tier": "easy",
+    "word": "land",
+    "hint": "Soil described in terms of its quality for growing crops.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 173,
+    "category": "food",
+    "tier": "easy",
+    "word": "bunk",
+    "hint": "A farm trough used to hold food for livestock.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 174,
+    "category": "food",
+    "tier": "easy",
+    "word": "cod",
+    "hint": "A common ocean fish frequently served in fish and chips.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 175,
+    "category": "food",
+    "tier": "medium",
+    "word": "snack",
+    "hint": "A small portion of nourishment consumed between main dining times.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 176,
+    "category": "food",
+    "tier": "medium",
+    "word": "supper",
+    "hint": "A light meal consumed late in the evening before sleeping.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 177,
+    "category": "food",
+    "tier": "medium",
+    "word": "dinner",
+    "hint": "The principal meal of the day, typically served in the evening.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 178,
+    "category": "food",
+    "tier": "medium",
+    "word": "lunch",
+    "hint": "A modest mid-day meal or light repast served at gatherings.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 179,
+    "category": "food",
+    "tier": "medium",
+    "word": "buffet",
+    "hint": "A self-serve spread of various dishes laid out on a table for guests.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 180,
+    "category": "food",
+    "tier": "medium",
+    "word": "grain",
+    "hint": "An individual seed harvested from cereal crops like wheat or rice.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 181,
+    "category": "food",
+    "tier": "medium",
+    "word": "bread",
+    "hint": "A staple baked item created from baked flour dough and water.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 182,
+    "category": "food",
+    "tier": "medium",
+    "word": "hungry",
+    "hint": "Feeling a strong physical urge or craving to ingest sustenance.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 183,
+    "category": "food",
+    "tier": "medium",
+    "word": "fuels",
+    "hint": "Sustenance that energizes a living organism; nourishing supplies.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 184,
+    "category": "food",
+    "tier": "medium",
+    "word": "meals",
+    "hint": "Scheduled repasts such as breakfast, lunch, or dinner.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 185,
+    "category": "food",
+    "tier": "medium",
+    "word": "sushi",
+    "hint": "A traditional Japanese dish often prepared with raw seafood and vinegared rice.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 186,
+    "category": "food",
+    "tier": "medium",
+    "word": "liquor",
+    "hint": "Savory fluid leftover from boiling or simmering meats and vegetables.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 187,
+    "category": "food",
+    "tier": "medium",
+    "word": "pizza",
+    "hint": "An Italian dish consisting of a flat crust topped with tomato sauce, cheese, and baked.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 188,
+    "category": "food",
+    "tier": "medium",
+    "word": "fruit",
+    "hint": "The sweet, seed-bearing produce of a plant, like apples or berries.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 189,
+    "category": "food",
+    "tier": "medium",
+    "word": "liver",
+    "hint": "An organ meat from poultry or cattle, rich in iron and cooked as a dish.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 190,
+    "category": "food",
+    "tier": "medium",
+    "word": "flesh",
+    "hint": "The soft edible tissue of animals, distinct from bone or skin.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 191,
+    "category": "food",
+    "tier": "medium",
+    "word": "starch",
+    "hint": "A complex carbohydrate found abundantly in potatoes, rice, and corn.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 192,
+    "category": "food",
+    "tier": "medium",
+    "word": "bewist",
+    "hint": "An archaic or dialect term for daily sustenance, provisions, or livelihood.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 193,
+    "category": "food",
+    "tier": "medium",
+    "word": "viand",
+    "hint": "An old-fashioned term for a choice item of cooked nourishment.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 194,
+    "category": "food",
+    "tier": "medium",
+    "word": "turkey",
+    "hint": "Meat from a large North American fowl, traditionally served at Thanksgiving.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 195,
+    "category": "food",
+    "tier": "medium",
+    "word": "broth",
+    "hint": "A clear, seasoned liquid made by simmering meats, bones, or vegetables in water.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 196,
+    "category": "food",
+    "tier": "medium",
+    "word": "nugget",
+    "hint": "A bite-sized chunk of fried chicken or other tasty edible.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 197,
+    "category": "food",
+    "tier": "medium",
+    "word": "quail",
+    "hint": "Game bird meat harvested for dining.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 198,
+    "category": "food",
+    "tier": "medium",
+    "word": "pantry",
+    "hint": "A small closet or room in a kitchen where non-perishable ingredients and provisions are kept.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 199,
+    "category": "food",
+    "tier": "medium",
+    "word": "diets",
+    "hint": "The regular provisions of nourishment consumed by a person or animal.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 200,
+    "category": "food",
+    "tier": "medium",
+    "word": "lemon",
+    "hint": "A sour, yellow citrus fruit often used for its juice and zest.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 201,
+    "category": "food",
+    "tier": "medium",
+    "word": "munga",
+    "hint": "An old Australian and New Zealand slang term for grub or chow.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 202,
+    "category": "food",
+    "tier": "medium",
+    "word": "apple",
+    "hint": "A crisp, round orchard fruit that comes in varieties like Gala or Granny Smith.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 203,
+    "category": "food",
+    "tier": "medium",
+    "word": "baking",
+    "hint": "The act or process of producing a fresh batch of oven-made goods.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 204,
+    "category": "food",
+    "tier": "medium",
+    "word": "batter",
+    "hint": "To dip or cover food in a liquid flour mixture prior to deep-frying.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 205,
+    "category": "food",
+    "tier": "medium",
+    "word": "brine",
+    "hint": "To soak meat or vegetables in heavily salted water to preserve them.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 206,
+    "category": "food",
+    "tier": "medium",
+    "word": "cream",
+    "hint": "A dish prepared by thorough whipping or blending, like a thick soup.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 207,
+    "category": "food",
+    "tier": "medium",
+    "word": "crumb",
+    "hint": "A tiny piece that flakes off from a loaf of bread or a baked sweet.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 208,
+    "category": "food",
+    "tier": "medium",
+    "word": "dress",
+    "hint": "To butcher or clean a slaughtered animal's carcass for cooking.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 209,
+    "category": "food",
+    "tier": "medium",
+    "word": "repast",
+    "hint": "A formal, literary, or traditional word for a meal.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 210,
+    "category": "food",
+    "tier": "medium",
+    "word": "plate",
+    "hint": "A flat, round dish from which a portion of food is eaten.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 211,
+    "category": "food",
+    "tier": "medium",
+    "word": "feast",
+    "hint": "A grand, lavish meal prepared for a special celebration or holiday.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 212,
+    "category": "food",
+    "tier": "medium",
+    "word": "spread",
+    "hint": "An abundant array of varied dishes set out together across a dining table.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 213,
+    "category": "food",
+    "tier": "medium",
+    "word": "salad",
+    "hint": "A raw leafy green or crisp vegetable typically tossed before eating.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 214,
+    "category": "food",
+    "tier": "medium",
+    "word": "steak",
+    "hint": "A thick piece of fish cut perpendicular to its backbone.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 215,
+    "category": "food",
+    "tier": "medium",
+    "word": "foods",
+    "hint": "Edible items and provisions consumed for daily nourishment.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 216,
+    "category": "food",
+    "tier": "medium",
+    "word": "mains",
+    "hint": "The principal, heartiest dishes served during a multi-course dinner.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 217,
+    "category": "food",
+    "tier": "medium",
+    "word": "course",
+    "hint": "A specific individual stage or part of a multi-step dinner service.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 218,
+    "category": "food",
+    "tier": "medium",
+    "word": "morsel",
+    "hint": "A very small bite, piece, or fragment of something edible.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 219,
+    "category": "food",
+    "tier": "medium",
+    "word": "sample",
+    "hint": "A tiny portion of food offered free at a market or grocery store so customers can taste it first.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 220,
+    "category": "food",
+    "tier": "medium",
+    "word": "thali",
+    "hint": "A traditional Indian metal dish or tray containing several small bowls of various dishes.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 221,
+    "category": "food",
+    "tier": "medium",
+    "word": "picnic",
+    "hint": "An outdoor feast brought from home, often eaten on a blanket spread over the grass.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 222,
+    "category": "food",
+    "tier": "medium",
+    "word": "tidbit",
+    "hint": "A small, delicious bite or delicate morsel of food.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 223,
+    "category": "food",
+    "tier": "medium",
+    "word": "mince",
+    "hint": "Meat that has been finely chopped or ground, often used in savory pies.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 224,
+    "category": "food",
+    "tier": "medium",
+    "word": "goody",
+    "hint": "An Irish sweet dish created by simmering bread slices in sweetened, spiced milk.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 225,
+    "category": "food",
+    "tier": "medium",
+    "word": "matzo",
+    "hint": "Crisp, flat, unleavened bread traditionally consumed during Passover ceremonies.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 226,
+    "category": "food",
+    "tier": "medium",
+    "word": "parcel",
+    "hint": "A folded pocket of dough or pastry filled with sweet or savory ingredients.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 227,
+    "category": "food",
+    "tier": "medium",
+    "word": "recipe",
+    "hint": "A written guide listing ingredients and steps needed to prepare a specific dish.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 228,
+    "category": "food",
+    "tier": "medium",
+    "word": "nummet",
+    "hint": "A traditional dialect term for a small midday snack or light refreshment between larger meals.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 229,
+    "category": "food",
+    "tier": "medium",
+    "word": "cater",
+    "hint": "An old term for a person or service that provides food and provisions for events.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 230,
+    "category": "food",
+    "tier": "medium",
+    "word": "coffee",
+    "hint": "The final phase of a formal dinner when hot dark brewed beverages are served to guests.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 231,
+    "category": "food",
+    "tier": "medium",
+    "word": "grace",
+    "hint": "A brief prayer offered before eating to give thanks for the nourishment provided.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 232,
+    "category": "food",
+    "tier": "medium",
+    "word": "table",
+    "hint": "The generous spread of food and hospitality offered by a host to guests.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 233,
+    "category": "food",
+    "tier": "medium",
+    "word": "tiffin",
+    "hint": "A light afternoon snack or lunch, commonly packed in stacked metal containers in India.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 234,
+    "category": "food",
+    "tier": "medium",
+    "word": "acorn",
+    "hint": "The hard nut produced by an oak tree, set inside a small woody cap.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 235,
+    "category": "food",
+    "tier": "medium",
+    "word": "afters",
+    "hint": "Informal evening party or drinks taking place following a formal wedding dinner.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 236,
+    "category": "food",
+    "tier": "medium",
+    "word": "champ",
+    "hint": "An Irish side dish made by whipping boiled potatoes with milk, butter, and chopped green onions.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 237,
+    "category": "food",
+    "tier": "medium",
+    "word": "chili",
+    "hint": "A pungent red spice powder ground from dried hot peppers, used to add heat to dishes.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 238,
+    "category": "food",
+    "tier": "medium",
+    "word": "chuck",
+    "hint": "A cut of beef taken from the upper shoulder region, ideal for pot roasts and stews.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 239,
+    "category": "food",
+    "tier": "medium",
+    "word": "cooked",
+    "hint": "Describing food that has been prepared with heat rather than served raw.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 240,
+    "category": "food",
+    "tier": "medium",
+    "word": "corned",
+    "hint": "Cured and preserved in brine or coarse salt crystals, as with a famous cut of beef.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 241,
+    "category": "food",
+    "tier": "medium",
+    "word": "starve",
+    "hint": "To suffer severely or perish due to a complete lack of nourishment over a prolonged period.",
+    "sourceSeed": "meal"
   }
 ]

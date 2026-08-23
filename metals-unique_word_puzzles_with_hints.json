@@ -1966,5 +1966,125 @@
     "word": "cerussite",
     "hint": "A secondary mineral composed of lead carbonate, known for its high luster and heavy density, serving as an important source of lead.",
     "sourceSeed": "ore"
+  },
+  {
+    "id": 247,
+    "category": "metals",
+    "tier": "medium",
+    "word": "steel",
+    "hint": "A hard, strong alloy of iron and carbon widely used for tools, blades, and construction beams.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 248,
+    "category": "metals",
+    "tier": "medium",
+    "word": "allay",
+    "hint": "(archaic) To combine a precious metal with a baser one, diminishing its purity.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 249,
+    "category": "metals",
+    "tier": "medium",
+    "word": "chrome",
+    "hint": "A shiny, silvery coating applied over another metal for a bright, protective finish.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 250,
+    "category": "metals",
+    "tier": "medium",
+    "word": "stiddy",
+    "hint": "(dialectal) A blacksmith's heavy iron block used for hammering hot metal into shape.",
+    "sourceSeed": "smithing"
+  },
+  {
+    "id": 251,
+    "category": "metals",
+    "tier": "medium",
+    "word": "lingot",
+    "hint": "A cast bar of metal poured straight from the furnace, shaped for storage or transport.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 252,
+    "category": "metals",
+    "tier": "medium",
+    "word": "cradle",
+    "hint": "(mining) A rocking box-like device used by prospectors to wash gravel and separate out gold.",
+    "sourceSeed": "forge"
+  },
+  {
+    "id": 253,
+    "category": "metals",
+    "tier": "medium",
+    "word": "hutch",
+    "hint": "(mining) A small wheeled tub or wagon used underground to haul ore to the surface.",
+    "sourceSeed": "mining"
+  },
+  {
+    "id": 254,
+    "category": "metals",
+    "tier": "medium",
+    "word": "scale",
+    "hint": "The thin, flaky oxide layer that flakes off a piece of metal when it is heated or forged.",
+    "sourceSeed": "metallurgy"
+  },
+  {
+    "id": 255,
+    "category": "metals",
+    "tier": "medium",
+    "word": "linget",
+    "hint": "An older term for a cast bar of metal, shaped for storage after being poured molten.",
+    "sourceSeed": "ingot"
+  },
+  {
+    "id": 256,
+    "category": "metals",
+    "tier": "medium",
+    "word": "string",
+    "hint": "(mining) A thin, thread-like branch running off a larger vein of ore.",
+    "sourceSeed": "wire"
+  },
+  {
+    "id": 257,
+    "category": "metals",
+    "tier": "medium",
+    "word": "cager",
+    "hint": "(mining) A worker or mechanism that operates the elevator car moving up and down a mineshaft.",
+    "sourceSeed": "wire"
+  },
+  {
+    "id": 258,
+    "category": "metals",
+    "tier": "hard",
+    "word": "metallic",
+    "hint": "Having the look, feel, or properties characteristic of a hard, shiny material like iron or gold.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 259,
+    "category": "metals",
+    "tier": "hard",
+    "word": "smelter",
+    "hint": "A facility where ore is heated to extract and purify its metal content.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 260,
+    "category": "metals",
+    "tier": "hard",
+    "word": "nanoalloy",
+    "hint": "A blended material made from ultra-tiny particles of two or more different metals, mixed at the nanoscale.",
+    "sourceSeed": "metal"
+  },
+  {
+    "id": 261,
+    "category": "metals",
+    "tier": "hard",
+    "word": "amalgam",
+    "hint": "(metallurgy) A soft, moldable blend formed when mercury combines with another metal.",
+    "sourceSeed": "metal"
   }
 ]

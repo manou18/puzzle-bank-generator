@@ -6126,5 +6126,709 @@
     "word": "callaloo",
     "hint": "A spicy Caribbean potage made from leafy greens simmered with hot peppers.",
     "sourceSeed": "soup"
+  },
+  {
+    "id": 767,
+    "category": "food",
+    "tier": "hard",
+    "word": "eatables",
+    "hint": "Solid items suitable for human consumption; edible provisions.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 768,
+    "category": "food",
+    "tier": "hard",
+    "word": "protein",
+    "hint": "An item on a dinner plate high in essential amino acids, often represented by meat, eggs, or legumes.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 769,
+    "category": "food",
+    "tier": "hard",
+    "word": "mealtime",
+    "hint": "The designated hour when breakfast, lunch, or dinner is customarily served.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 770,
+    "category": "food",
+    "tier": "hard",
+    "word": "barbecue",
+    "hint": "A social gathering centered around items cooked outdoors over an open flame or grill.",
+    "sourceSeed": "meal"
+  },
+  {
+    "id": 771,
+    "category": "food",
+    "tier": "hard",
+    "word": "bergmeal",
+    "hint": "A fine, earthy deposit found in mountains, historically used as an emergency flour substitute.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 772,
+    "category": "food",
+    "tier": "hard",
+    "word": "flavoring",
+    "hint": "An added ingredient like vanilla extract or spices that imparts a specific taste to a dish.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 773,
+    "category": "food",
+    "tier": "hard",
+    "word": "grillroom",
+    "hint": "An eatery specializing in food cooked over direct heat on metal grates.",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "id": 774,
+    "category": "food",
+    "tier": "hard",
+    "word": "dishwater",
+    "hint": "Liquid left over in the sink after scrubbing plates, pots, and utensils.",
+    "sourceSeed": "kitchen"
+  },
+  {
+    "id": 775,
+    "category": "food",
+    "tier": "hard",
+    "word": "amandine",
+    "hint": "The primary vegetable protein substance extracted from a specific sweet nut.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 776,
+    "category": "food",
+    "tier": "hard",
+    "word": "allspiced",
+    "hint": "Flavored with a ground dried berry that combines notes of cinnamon, nutmeg, and clove.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 777,
+    "category": "food",
+    "tier": "hard",
+    "word": "matzoth",
+    "hint": "Flat, crispy unleavened bread traditionally consumed during Passover.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 778,
+    "category": "food",
+    "tier": "hard",
+    "word": "meatcake",
+    "hint": "A savory dish prepared with ground flesh, mashed spuds, and vegetables, shaped to resemble a baked dessert.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 779,
+    "category": "food",
+    "tier": "hard",
+    "word": "neckbeef",
+    "hint": "An old term for flesh harvested from the throat region of cattle.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 780,
+    "category": "food",
+    "tier": "hard",
+    "word": "catfish",
+    "hint": "Edible flesh from whisker-bearing aquatic creatures, popular battered and fried in Southern cooking.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 781,
+    "category": "food",
+    "tier": "hard",
+    "word": "beefalo",
+    "hint": "Edible tissue harvested from a hybrid offspring of cattle and bison.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 782,
+    "category": "food",
+    "tier": "hard",
+    "word": "boneless",
+    "hint": "Describing a cut of poultry prepared entirely free of skeleton parts.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 783,
+    "category": "food",
+    "tier": "hard",
+    "word": "bouilli",
+    "hint": "Flesh slow-cooked and simmered gently in rich juices.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 784,
+    "category": "food",
+    "tier": "hard",
+    "word": "breadkind",
+    "hint": "Caribbean designation for starchy crops like yams or plantains.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 785,
+    "category": "food",
+    "tier": "hard",
+    "word": "parsnip",
+    "hint": "Cream-colored root vegetable with an earthy, sweet flavor when roasted.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 786,
+    "category": "food",
+    "tier": "hard",
+    "word": "basketry",
+    "hint": "Traditional handcraft of weaving flexible plant fibers to construct containers.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 787,
+    "category": "food",
+    "tier": "hard",
+    "word": "beignet",
+    "hint": "In British usage, a fried pastry pocket packed with sweet or savory fillings.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 788,
+    "category": "food",
+    "tier": "hard",
+    "word": "fruition",
+    "hint": "The natural state or process of a tree bearing its mature edible yield.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 789,
+    "category": "food",
+    "tier": "hard",
+    "word": "sapodilla",
+    "hint": "Tropical tree crop with brown skin and sweet, grainy, brown pulp.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 790,
+    "category": "food",
+    "tier": "hard",
+    "word": "rambutans",
+    "hint": "Plural name for hairy Southeast Asian tree produce with translucent pulp.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 791,
+    "category": "food",
+    "tier": "hard",
+    "word": "fruiter",
+    "hint": "Historically, a specialized cargo vessel built for transporting fresh orchard yields across oceans.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 792,
+    "category": "food",
+    "tier": "hard",
+    "word": "fruitling",
+    "hint": "An immature or delicate young produce piece recently set on a branch.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 793,
+    "category": "food",
+    "tier": "hard",
+    "word": "fruitery",
+    "hint": "An archaic name for a dedicated cold room or building used to store harvested orchard produce.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 794,
+    "category": "food",
+    "tier": "hard",
+    "word": "forefruit",
+    "hint": "Produce that reaches early maturity ahead of the main seasonal harvest.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 795,
+    "category": "food",
+    "tier": "hard",
+    "word": "crowberry",
+    "hint": "Small, dark, juicy fruit borne by low-growing subarctic heath shrubs, often harvested in cold northern climates",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 796,
+    "category": "food",
+    "tier": "hard",
+    "word": "carambola",
+    "hint": "A tropical produce item whose cross-section forms a five-pointed star shape.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 797,
+    "category": "food",
+    "tier": "hard",
+    "word": "fruiterer",
+    "hint": "A British term for a merchant who sells fresh orchard produce like apples and pears.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 798,
+    "category": "food",
+    "tier": "hard",
+    "word": "baguettes",
+    "hint": "Long, slender French loaves featuring a crisp outer crust and chewy interior.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 799,
+    "category": "food",
+    "tier": "hard",
+    "word": "breadcorn",
+    "hint": "Any cereal grain, such as rye or wheat, cultivated primarily to be milled into flour for baking loaves.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 800,
+    "category": "food",
+    "tier": "hard",
+    "word": "oatbread",
+    "hint": "A baked loaf made primarily from rolled or ground cereal grains harvested from Avena sativa.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 801,
+    "category": "food",
+    "tier": "hard",
+    "word": "spoonmeat",
+    "hint": "An obsolete term for liquid or soft nourishment eaten with a bowl utensil, such as broth or pap.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 802,
+    "category": "food",
+    "tier": "hard",
+    "word": "leftovers",
+    "hint": "Unconsumed remaining food kept from a previous meal to be eaten later.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 803,
+    "category": "food",
+    "tier": "hard",
+    "word": "lentils",
+    "hint": "Edible pulse seeds from a small legume plant, commonly boiled into thick dahl or hearty soups.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 804,
+    "category": "food",
+    "tier": "hard",
+    "word": "matelote",
+    "hint": "A traditional French dish prepared by simmering freshwater fish in a red or white wine sauce.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 805,
+    "category": "food",
+    "tier": "hard",
+    "word": "porringer",
+    "hint": "An archaic term for a cap or headpiece shaped like a shallow serving dish.",
+    "sourceSeed": "soup"
+  },
+  {
+    "id": 806,
+    "category": "food",
+    "tier": "hard",
+    "word": "stewpot",
+    "hint": "A large, heavy vessel used on a stove for slow-cooking chunky meat and vegetable dishes.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 807,
+    "category": "food",
+    "tier": "hard",
+    "word": "sufuria",
+    "hint": "A handleless, flat-bottomed deep aluminum or steel vessel widely used for culinary preparation in East Africa.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 808,
+    "category": "food",
+    "tier": "hard",
+    "word": "britches",
+    "hint": "A culinary term for the egg masses or roe of codfish prepared as food.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 809,
+    "category": "food",
+    "tier": "hard",
+    "word": "beanhole",
+    "hint": "A pit dug in the earth where legumes in a covered vessel are slow-cooked over hot coals.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 810,
+    "category": "food",
+    "tier": "hard",
+    "word": "goashore",
+    "hint": "A regional New Zealand term for a three-legged iron vessel used over fires.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 811,
+    "category": "food",
+    "tier": "hard",
+    "word": "lobscuse",
+    "hint": "A traditional nautical mixture of salted beef, hardtack, and vegetables simmered together.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 812,
+    "category": "food",
+    "tier": "hard",
+    "word": "bourride",
+    "hint": "A savory French seafood dish prepared with monkfish, garlic mayonnaise, and finely diced vegetables.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 813,
+    "category": "food",
+    "tier": "hard",
+    "word": "carbonade",
+    "hint": "A traditional Belgian or French savory dish where meat is slow-cooked in beer.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 814,
+    "category": "food",
+    "tier": "hard",
+    "word": "cassoulet",
+    "hint": "A rich, slow-cooked casserole from southwestern France featuring white beans and pork or poultry.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 815,
+    "category": "food",
+    "tier": "hard",
+    "word": "stewish",
+    "hint": "Having the consistency or characteristics of a slow-cooked, thick, hearty simmered soup.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 816,
+    "category": "food",
+    "tier": "hard",
+    "word": "waterzooi",
+    "hint": "A traditional Flemish dish made by slow-cooking fish or chicken in a creamy vegetable broth.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 817,
+    "category": "food",
+    "tier": "hard",
+    "word": "zarzuela",
+    "hint": "A flavorful Catalan seafood dish named after a form of Spanish musical theater.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 818,
+    "category": "food",
+    "tier": "hard",
+    "word": "marjoram",
+    "hint": "An aromatic herb closely related to oregano, commonly used dried to season savory dishes.",
+    "sourceSeed": "stew"
+  },
+  {
+    "id": 819,
+    "category": "food",
+    "tier": "hard",
+    "word": "farmland",
+    "hint": "A terrain suitable for cultivation and raising agricultural crops.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 820,
+    "category": "food",
+    "tier": "hard",
+    "word": "ranching",
+    "hint": "The practice or industry of managing a large pastoral property to raise cattle or other livestock.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 821,
+    "category": "food",
+    "tier": "hard",
+    "word": "broadacre",
+    "hint": "Describing large-scale Australian agricultural operations that cover extensive tracts of country.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 822,
+    "category": "food",
+    "tier": "hard",
+    "word": "feasting",
+    "hint": "An occasion marked by abundant eating and lavish celebration.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 823,
+    "category": "food",
+    "tier": "hard",
+    "word": "kolkhoz",
+    "hint": "A state-controlled communal agricultural estate operated in the former Soviet Union.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 824,
+    "category": "food",
+    "tier": "hard",
+    "word": "barnyard",
+    "hint": "Describing a funky, earthy profile in wines, cheeses, or fermented products reminiscent of a rural property.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 825,
+    "category": "food",
+    "tier": "hard",
+    "word": "trophism",
+    "hint": "A biological process of nourishment derived from consuming the organic tissues of a host or prey.",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "id": 826,
+    "category": "food",
+    "tier": "hard",
+    "word": "dietetics",
+    "hint": "The scientific study of daily food intake, meal planning, and metabolic nourishment for human health.",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "id": 827,
+    "category": "food",
+    "tier": "hard",
+    "word": "dietary",
+    "hint": "Pertaining to or constituting a source of edible sustenance.",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "id": 828,
+    "category": "food",
+    "tier": "hard",
+    "word": "nutritive",
+    "hint": "Providing essential elements required for bodily growth, health, and sustenance.",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "id": 829,
+    "category": "food",
+    "tier": "hard",
+    "word": "nutriture",
+    "hint": "An obsolete term for the overall condition of receiving wholesome nourishment.",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "id": 830,
+    "category": "food",
+    "tier": "hard",
+    "word": "sitology",
+    "hint": "The formal scientific study or branch of knowledge dealing with sustenance and human nourishment.",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "id": 831,
+    "category": "food",
+    "tier": "hard",
+    "word": "sitiology",
+    "hint": "The scientific field devoted to analyzing diet, nourishment, and edible items.",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "id": 832,
+    "category": "food",
+    "tier": "hard",
+    "word": "capsule",
+    "hint": "A small, shallow laboratory dish, typically porcelain, used for heating liquids to evaporation.",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "id": 833,
+    "category": "food",
+    "tier": "hard",
+    "word": "cookline",
+    "hint": "The organized array of hot-preparation equipment in a restaurant where culinary staff prepare hot dishes.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 834,
+    "category": "food",
+    "tier": "hard",
+    "word": "nonpareil",
+    "hint": "A decorative tiny confection of baked sugar beads, or a chocolate disc topped with them.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 835,
+    "category": "food",
+    "tier": "hard",
+    "word": "washoku",
+    "hint": "The traditional culinary heritage and culinary practices of Japan.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 836,
+    "category": "food",
+    "tier": "hard",
+    "word": "cutchery",
+    "hint": "An old term for a seasoned mixture or spiced dish related to kedgeree.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 837,
+    "category": "food",
+    "tier": "hard",
+    "word": "polonaise",
+    "hint": "A classic culinary topping featuring melted butter mixed with toasted crumbs and fresh greenery.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 838,
+    "category": "food",
+    "tier": "hard",
+    "word": "cataplana",
+    "hint": "A traditional Portuguese seafood meal prepared and served inside a hinged copper clam-shaped vessel.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 839,
+    "category": "food",
+    "tier": "hard",
+    "word": "foodoir",
+    "hint": "An autobiographical book centered around culinary experiences and included recipes.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 840,
+    "category": "food",
+    "tier": "hard",
+    "word": "foodporn",
+    "hint": "Visually attractive, highly appetizing imagery of delicious meals designed to arouse culinary desire.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 841,
+    "category": "food",
+    "tier": "hard",
+    "word": "croustade",
+    "hint": "A crisp, baked pastry shell or bread casing used to hold savory fillings.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 842,
+    "category": "food",
+    "tier": "hard",
+    "word": "timbale",
+    "hint": "A cup-shaped vessel or drum-like metal casing used for shaping baked dishes.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 843,
+    "category": "food",
+    "tier": "hard",
+    "word": "cannelon",
+    "hint": "A savory rolled dish, often made of meat or minced ingredients, baked in a tubular shape.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 844,
+    "category": "food",
+    "tier": "hard",
+    "word": "chausson",
+    "hint": "A French pastry crescent or pocket enclosing a sweet fruit filling, typically apple.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 845,
+    "category": "food",
+    "tier": "hard",
+    "word": "calamari",
+    "hint": "The flesh of cephalopods prepared for eating, often sliced into batter-coated fried rings.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 846,
+    "category": "food",
+    "tier": "hard",
+    "word": "octopus",
+    "hint": "The edible meat of an eight-armed marine mollusk, often grilled or braised in Mediterranean dining.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 847,
+    "category": "food",
+    "tier": "hard",
+    "word": "tostada",
+    "hint": "A Latin American culinary item made from a flat, crisp tortilla or toasted slice.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 848,
+    "category": "food",
+    "tier": "hard",
+    "word": "rechauffe",
+    "hint": "A dish made from previously prepared culinary leftovers warmed up again for another meal.",
+    "sourceSeed": "cuisine"
+  },
+  {
+    "id": 849,
+    "category": "food",
+    "tier": "hard",
+    "word": "butlery",
+    "hint": "A small household storage room or pantry adjacent to a dining hall where table linens and silver are kept.",
+    "sourceSeed": "pantry"
+  },
+  {
+    "id": 850,
+    "category": "food",
+    "tier": "hard",
+    "word": "breadroom",
+    "hint": "A specialized compartment in a ship's hold dedicated to storing baked loaf supplies.",
+    "sourceSeed": "pantry"
+  },
+  {
+    "id": 851,
+    "category": "food",
+    "tier": "hard",
+    "word": "sideboard",
+    "hint": "A long item of dining room furniture with drawers used to store serving flatware and tableware.",
+    "sourceSeed": "pantry"
+  },
+  {
+    "id": 852,
+    "category": "food",
+    "tier": "legendary",
+    "word": "foodservice",
+    "hint": "The commercial industry encompassing catering, culinary distribution, and dining provision.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 853,
+    "category": "food",
+    "tier": "legendary",
+    "word": "subsistence",
+    "hint": "Minimal means of sustaining life, such as basic nutrients and water necessary for survival.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 854,
+    "category": "food",
+    "tier": "legendary",
+    "word": "gingerbread",
+    "hint": "A spiced, dark baked dessert heavily flavored with a pungent, aromatic root and sweetened with molasses.",
+    "sourceSeed": "spice"
   }
 ]

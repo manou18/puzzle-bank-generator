@@ -1,0 +1,6554 @@
+[
+  {
+    "word": "FOODSTUFF",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "A material that may be used as food or as an ingredient of food"
+  },
+  {
+    "word": "FEED",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(uncountable) Food given to (especially herbivorous) non-human animals"
+  },
+  {
+    "word": "FEEDING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(uncountable) The act or process of giving food"
+  },
+  {
+    "word": "FEEDER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "One who feeds, or gives food to another"
+  },
+  {
+    "word": "ALIMENT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(now rare) Food"
+  },
+  {
+    "word": "CHOW",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(slang, uncountable) Food, especially snacks"
+  },
+  {
+    "word": "SNACK",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "An item of food eaten between meals"
+  },
+  {
+    "word": "GASTRONOMY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "The art of preparing and eating good food"
+  },
+  {
+    "word": "EATS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(colloquial) Food"
+  },
+  {
+    "word": "EATING",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "The act of ingesting food"
+  },
+  {
+    "word": "PETFOOD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "Food prepared for domestic pet animals"
+  },
+  {
+    "word": "PROVENDER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(dated) Food, especially for livestock"
+  },
+  {
+    "word": "CULINARY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "Relating to the practice of cookery or the activity of cooking"
+  },
+  {
+    "word": "MEAL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(countable) Food served or eaten as a repast"
+  },
+  {
+    "word": "SUPPER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "Food consumed before going to bed"
+  },
+  {
+    "word": "NUTRITIONAL",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "Of, pertaining to, or providing nutrition"
+  },
+  {
+    "word": "NOURISHMENT",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "Something that nourishes; food"
+  },
+  {
+    "word": "NUTRITIOUS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "(of food or drink) Providing nutrients; healthy to eat or drink"
+  },
+  {
+    "word": "FOODSERVICE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "The business of providing food and related services"
+  },
+  {
+    "word": "DINNER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "The main meal of the day, often eaten in the evening"
+  },
+  {
+    "word": "CUISINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(countable, uncountable) The food prepared using such style"
+  },
+  {
+    "word": "ALIMENTARY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "Of, or relating to food, nutrition or digestion"
+  },
+  {
+    "word": "COOKING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(uncountable) The process of preparing food by using heat"
+  },
+  {
+    "word": "KITCHEN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "A room or area for preparing food"
+  },
+  {
+    "word": "LUNCH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(Minnesota, US) Any small meal, especially one eaten at a social gathering"
+  },
+  {
+    "word": "DISH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(metonymic) A specific type of prepared food"
+  },
+  {
+    "word": "EAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(colloquial) Something to be eaten; a meal; a food item"
+  },
+  {
+    "word": "BUFFET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "Food laid out in this way, to which diners serve themselves"
+  },
+  {
+    "word": "MEAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(countable) A type of meat, by anatomic position and provenance"
+  },
+  {
+    "word": "DIET",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "The food and beverage a person or animal consumes"
+  },
+  {
+    "word": "GRAIN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(countable) A single seed of grass food crops"
+  },
+  {
+    "word": "BREAD",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(uncountable) A foodstuff made by baking dough made from cereals"
+  },
+  {
+    "word": "FORAGING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "The act of searching for food or other items"
+  },
+  {
+    "word": "RICE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(uncountable) The seeds of this plant used as food"
+  },
+  {
+    "word": "TROPHIC",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "Of or pertaining to nutrition"
+  },
+  {
+    "word": "FUEL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "Substance that provides nourishment for a living organism; food"
+  },
+  {
+    "word": "HUNGRY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "Affected by hunger; having the physical need for food"
+  },
+  {
+    "word": "HUNGER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "A need or compelling desire for food"
+  },
+  {
+    "word": "FOODBORNE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "Transmitted through food"
+  },
+  {
+    "word": "STARVATION",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "A condition of severe suffering due to a lack of nutrition"
+  },
+  {
+    "word": "GRUB",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(uncountable, slang) Food"
+  },
+  {
+    "word": "GOURMET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "A connoisseur in eating and drinking; someone who takes their food seriously"
+  },
+  {
+    "word": "MESS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(India) a type of restaurant characterized by homely-style cooking and food"
+  },
+  {
+    "word": "SUBSISTENCE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "Something (food, water, money, etc.) that is required to stay alive"
+  },
+  {
+    "word": "PROVISION",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "An item of goods or supplies, especially food, obtained for future use"
+  },
+  {
+    "word": "ALIMENTS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(now rare) Food"
+  },
+  {
+    "word": "FOODSTUFFS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "A material that may be used as food or as an ingredient of food"
+  },
+  {
+    "word": "FUELS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "Substance that provides nourishment for a living organism; food"
+  },
+  {
+    "word": "MEALS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(countable) Food served or eaten as a repast"
+  },
+  {
+    "word": "MICRANTHA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "The tree Citrus micrantha or its fruit"
+  },
+  {
+    "word": "FARE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(uncountable) Food and drink"
+  },
+  {
+    "word": "VICTUALS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "Any substance that can be used as food"
+  },
+  {
+    "word": "EDIBLES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "Suitability for use as food"
+  },
+  {
+    "word": "EATABLES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(chiefly in the plural) Anything edible; food"
+  },
+  {
+    "word": "NUTRIMENT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "A source of nourishment; food"
+  },
+  {
+    "word": "NONFOOD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "Not intended for consumption as a food"
+  },
+  {
+    "word": "DESSERT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "The last course of a meal, consisting of fruit, sweet confections etc"
+  },
+  {
+    "word": "SUSHI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(proscribed) Raw fish, especially as a Japanese dish"
+  },
+  {
+    "word": "VEGETABLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "A plant, or part of a plant, used as food, such as a root, tuber, leaf, or stem"
+  },
+  {
+    "word": "ENTERTAINMENT",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "(obsolete) A reception; a (provision of) food to guests or travellers"
+  },
+  {
+    "word": "LIQUOR",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "A liquid obtained by cooking meat or vegetables (or both)"
+  },
+  {
+    "word": "PIZZA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(countable) A single instance of this dish"
+  },
+  {
+    "word": "BREAKFAST",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "The first meal of the day, usually eaten in the morning"
+  },
+  {
+    "word": "FRUIT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(botany) The seed-bearing structure of a plant, especially one that is sweet and edible"
+  },
+  {
+    "word": "COOKERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(archaic) A place where cooking is done"
+  },
+  {
+    "word": "FISH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(uncountable) The flesh of the fish used as food"
+  },
+  {
+    "word": "FEEDSTUFF",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(uncountable) Feed for animals; fodder; an ingredient thereof"
+  },
+  {
+    "word": "PROTEIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(nutrition, countable) A food rich in protein, often a meat or meat substitute"
+  },
+  {
+    "word": "LIVER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(countable, uncountable) This organ, as taken from animals used as food"
+  },
+  {
+    "word": "CHICKEN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(uncountable) The meat from this bird eaten as food"
+  },
+  {
+    "word": "FLESH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "Animal tissue regarded as food; meat (but sometimes excluding fish)"
+  },
+  {
+    "word": "PABULUM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(figuratively) Food for thought"
+  },
+  {
+    "word": "VICTUAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(archaic) Food fit for human (or occasionally animal) consumption"
+  },
+  {
+    "word": "COMMONS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "Food in general; rations"
+  },
+  {
+    "word": "FOODERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "A place that serves food"
+  },
+  {
+    "word": "STARCH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(nutrition, countable) Carbohydrates, as with grain and potato based foods"
+  },
+  {
+    "word": "DUCK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(uncountable) The flesh of a duck used as food"
+  },
+  {
+    "word": "BEWIST",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(Now chiefly UK dialectal) Food; provision; victual; a living"
+  },
+  {
+    "word": "MUNCHIES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(slang) Food, especially convenience snack foods"
+  },
+  {
+    "word": "VIAND",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(archaic) An item of food"
+  },
+  {
+    "word": "TURKEY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(uncountable) The flesh or meat of this bird eaten as food"
+  },
+  {
+    "word": "FOODSTYLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "One's lifestyle with regard to food; eating habits"
+  },
+  {
+    "word": "PASTA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(uncountable) A dish or serving of pasta"
+  },
+  {
+    "word": "NOSH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(slang, US) A light meal or snack"
+  },
+  {
+    "word": "BROTH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(uncountable) Water in which food (meat, vegetable, etc.) has been boiled"
+  },
+  {
+    "word": "VICTUALRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "Food"
+  },
+  {
+    "word": "INGREDIENT",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "One of the substances present in a mixture, especially food"
+  },
+  {
+    "word": "CODFISH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(uncountable) The flesh of the cod as food"
+  },
+  {
+    "word": "CRAB",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(uncountable) The meat of this crustacean, served as food; crabmeat"
+  },
+  {
+    "word": "PUDDING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(UK, Australia, New Zealand) Dessert; the dessert course of a meal"
+  },
+  {
+    "word": "FOODWARE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "Utensils for holding, cooking, or serving food"
+  },
+  {
+    "word": "CHOCOLATE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(chiefly uncountable) A food made from ground roasted cocoa beans"
+  },
+  {
+    "word": "VIETNAMESE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "(uncountable) Vietnamese cuisine; traditional Vietnamese food"
+  },
+  {
+    "word": "NUGGET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(countable) A small piece of tasty food, a tidbit"
+  },
+  {
+    "word": "PASTRY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(uncountable) The food group formed by the various kinds of pastries"
+  },
+  {
+    "word": "FOODERIE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "Alternative form of foodery. [A place that serves food.]"
+  },
+  {
+    "word": "TACK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "Food generally; fare, especially of the hard bread or breadlike kind"
+  },
+  {
+    "word": "LOAF",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(also loaf of bread) A block of bread after baking"
+  },
+  {
+    "word": "STEW",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(uncountable, countable) A dish cooked by stewing"
+  },
+  {
+    "word": "PINEAPPLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(uncountable) The flesh of a pineapple fruit used as a food item"
+  },
+  {
+    "word": "PORK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(chiefly uncountable) The meat of a pig"
+  },
+  {
+    "word": "QUAIL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(uncountable) The meat from this bird eaten as food"
+  },
+  {
+    "word": "MENU",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "The food or drinks that are available in a restaurant, café, or bar"
+  },
+  {
+    "word": "NOMS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(slang) Food, especially tasty food"
+  },
+  {
+    "word": "FAST",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(intransitive) To practice religious abstinence, especially from food"
+  },
+  {
+    "word": "ORGANIC",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "An organic food"
+  },
+  {
+    "word": "PANTRY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "A small room or cupboard used for storing food"
+  },
+  {
+    "word": "BITE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "A piece of food of a size that would be produced by biting; a mouthful"
+  },
+  {
+    "word": "CATE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(in the plural) A delicacy or item of food"
+  },
+  {
+    "word": "COOK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(cooking) A person who prepares food"
+  },
+  {
+    "word": "DIETS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "The food and beverage a person or animal consumes"
+  },
+  {
+    "word": "ENZYMES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(biochemistry) Proteins that catalyze the breakdown of food during digestion"
+  },
+  {
+    "word": "HAM",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(uncountable) Meat from the thigh and/or buttock of a hog cured for food"
+  },
+  {
+    "word": "INGREDIENTS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "One of the substances present in a mixture, especially food"
+  },
+  {
+    "word": "LEMON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "A yellowish citrus fruit"
+  },
+  {
+    "word": "LUNCHES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(Minnesota, US) Any small meal, especially one eaten at a social gathering"
+  },
+  {
+    "word": "MUCKAMUCK",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(uncountable, US, dialectal, possibly dated) Food"
+  },
+  {
+    "word": "MUNGA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(Australia, New Zealand, slang, dated) Food"
+  },
+  {
+    "word": "RASORIAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "Scratching the ground for food, as domestic fowl or other gallinaceous birds"
+  },
+  {
+    "word": "SCOFF",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(British, Newfoundland, slang) To eat food quickly"
+  },
+  {
+    "word": "SUPPLEMENTS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "A surcharge, additional cost, especially for food in a restaurant"
+  },
+  {
+    "word": "TAKEOUT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(Canada, US, Philippines) Food purchased from a takeaway"
+  },
+  {
+    "word": "APPLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "A common, firm, round fruit produced by a tree of the genus Malus"
+  },
+  {
+    "word": "BAKING",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(countable) The production of a batch of baked product"
+  },
+  {
+    "word": "BATTER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(cooking) To coat with batter (the food ingredient)"
+  },
+  {
+    "word": "BRINE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(transitive) To preserve food in a salt solution"
+  },
+  {
+    "word": "BUTTERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "A room for keeping food or beverages; a storeroom"
+  },
+  {
+    "word": "CABBAGE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(uncountable, vegetable) The leaves of this plant eaten as a vegetable"
+  },
+  {
+    "word": "CARAMEL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(transitive, cooking, dated) To caramelize"
+  },
+  {
+    "word": "COMMISSARIAT",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "food",
+    "clue": "A supply of food"
+  },
+  {
+    "word": "CREAM",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "A dish prepared through creaming, particularly cream of"
+  },
+  {
+    "word": "CRUMB",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "A small piece which breaks off from baked food (such as cake, biscuit or bread)"
+  },
+  {
+    "word": "DELI",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(informal) A shop that sells cooked or prepared food ready for serving"
+  },
+  {
+    "word": "DIP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(UK, dialect, uncountable, Birmingham) Fried bread"
+  },
+  {
+    "word": "DRESS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "food",
+    "clue": "(transitive) (butchering) To cut up (an animal or its flesh) for food"
+  },
+  {
+    "word": "DRESSING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "(cooking) A sauce, especially a cold one for salads"
+  },
+  {
+    "word": "DRY",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(Malaysia, Singapore, of noodles) Mixed with sauce and not served in a soup"
+  },
+  {
+    "word": "FAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "Oily; greasy; unctuous; rich (said of food)"
+  },
+  {
+    "word": "BUTT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "food",
+    "clue": "(US) A crust end-piece of a loaf of bread"
+  },
+  {
+    "word": "REPAST",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(countable) (archaic or literary) A meal"
+  },
+  {
+    "word": "LUNCHEON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "A formal meal served in the middle of the day"
+  },
+  {
+    "word": "PLATE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "A slightly curved but almost flat dish from which food is served or eaten"
+  },
+  {
+    "word": "BANQUET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "A large celebratory meal; a feast"
+  },
+  {
+    "word": "FEAST",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "A very large meal, often of a ceremonial nature"
+  },
+  {
+    "word": "PLATTER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "A main dish and side dishes served together on one plate"
+  },
+  {
+    "word": "FOOD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal",
+    "clue": "(countable) A foodstuff"
+  },
+  {
+    "word": "PASTURE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "(obsolete) Food, nourishment"
+  },
+  {
+    "word": "SOUP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal",
+    "clue": "(countable) A serving of such a dish, typically in a bowl"
+  },
+  {
+    "word": "GRIT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal",
+    "clue": "Small, hard, inedible particles in food"
+  },
+  {
+    "word": "APPETITE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "A desire to eat food or consume drinks"
+  },
+  {
+    "word": "SPREAD",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "A large meal, especially one laid out on a table"
+  },
+  {
+    "word": "DINNERS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "The main meal of the day, often eaten in the evening"
+  },
+  {
+    "word": "LUNCHEONS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "A formal meal served in the middle of the day"
+  },
+  {
+    "word": "SNACKING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "An item of food eaten between meals"
+  },
+  {
+    "word": "COLLATION",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "Discussion, light meal"
+  },
+  {
+    "word": "MEALTIME",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "The appointed time at which a meal is served or eaten"
+  },
+  {
+    "word": "SALAD",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "A raw vegetable of the kind used in salads"
+  },
+  {
+    "word": "APPETIZER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "A small, light, and usually savory first course in a meal"
+  },
+  {
+    "word": "STEAK",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "A slice of meat cut across the grain (perpendicular to the spine) from a fish"
+  },
+  {
+    "word": "MEALTIMES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "The appointed time at which a meal is served or eaten"
+  },
+  {
+    "word": "REPASTS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "(countable) (archaic or literary) A meal"
+  },
+  {
+    "word": "SUPPERS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "Food consumed before going to bed"
+  },
+  {
+    "word": "BREAKFASTS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "meal",
+    "clue": "The first meal of the day, usually eaten in the morning"
+  },
+  {
+    "word": "FOODS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(uncountable) Various types of food; things eaten for nourishment"
+  },
+  {
+    "word": "MAINS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "The main course of a meal"
+  },
+  {
+    "word": "CHOWTIME",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "(slang) The time when food is eaten; a mealtime"
+  },
+  {
+    "word": "COURSE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(cooking) A stage of a meal"
+  },
+  {
+    "word": "MORSEL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "A small fragment or share of something, commonly applied to food"
+  },
+  {
+    "word": "NOONMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "(rare, archaic) A midday meal (especially including meat)"
+  },
+  {
+    "word": "MIDMEAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "The middle of a meal"
+  },
+  {
+    "word": "SAMPLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(cooking) A small quantity of food for tasting, typically given away for free"
+  },
+  {
+    "word": "THALI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "A round metal platter used to serve food in India"
+  },
+  {
+    "word": "PICNIC",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "The meal eaten at such a gathering"
+  },
+  {
+    "word": "STARTER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "The first course of a meal, consisting of a small, usually savoury, dish"
+  },
+  {
+    "word": "MEALBAG",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "A bag in which meal is stored"
+  },
+  {
+    "word": "TIDBIT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "A tasty morsel (of food)"
+  },
+  {
+    "word": "OATMEAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "Meal made from rolled or round oats"
+  },
+  {
+    "word": "BEANMEAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "The meal (flour) ground from beans"
+  },
+  {
+    "word": "MINCE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(uncountable) Finely chopped meat; minced meat"
+  },
+  {
+    "word": "GOODY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(Ireland) Pudding made by boiling bread in milk with sugar and spices"
+  },
+  {
+    "word": "BELLYFUL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "Enough to fill one's belly; a large portion of food eaten"
+  },
+  {
+    "word": "MATZO",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(uncountable) Thin, unleavened bread in Jewish cuisine"
+  },
+  {
+    "word": "PARCEL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "A small amount of food that has been wrapped up, for example a pastry"
+  },
+  {
+    "word": "RECIPE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "Now especially, a set of instructions for making or preparing food dishes"
+  },
+  {
+    "word": "HALL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal",
+    "clue": "(Oxbridge slang) A meal served and eaten at a college's hall"
+  },
+  {
+    "word": "ROAST",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "A piece of meat suited to roasting; meat that has been roasted"
+  },
+  {
+    "word": "SNAP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal",
+    "clue": "(UK, regional) A small meal, a snack; lunch"
+  },
+  {
+    "word": "MELTITH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "(UK, Scotland, dialect, obsolete) A meal"
+  },
+  {
+    "word": "MEATBALL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "A ball of minced or ground meat, seasoned and cooked"
+  },
+  {
+    "word": "NUMMET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "A light meal"
+  },
+  {
+    "word": "BONE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal",
+    "clue": "To prepare (meat, etc) by removing the bone or bones from"
+  },
+  {
+    "word": "BLESSING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "A prayer before a meal; grace"
+  },
+  {
+    "word": "BUS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal",
+    "clue": "(transitive, US, food service) To clear meal remains from"
+  },
+  {
+    "word": "CATER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(obsolete) Synonym of caterer: any provider of food"
+  },
+  {
+    "word": "COFFEE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "The end of a meal, when coffee is served"
+  },
+  {
+    "word": "CORNMEAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "Dried corn (maize) milled (ground) to a meal, especially a coarse one"
+  },
+  {
+    "word": "DEJEUNER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "Alternative form of déjeuner. [The French midday meal.]"
+  },
+  {
+    "word": "GRACE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(countable) A short prayer of thanks before or after a meal"
+  },
+  {
+    "word": "PORRIDGE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "(rare) A type of thick soup or stew, especially thickened with barley"
+  },
+  {
+    "word": "REFECTION",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "Physical refreshment, especially with food or drink"
+  },
+  {
+    "word": "TABLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "A supply of food or entertainment"
+  },
+  {
+    "word": "TABLEWARE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "The cutlery, crockery and glassware used in setting a table for a meal"
+  },
+  {
+    "word": "TEA",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal",
+    "clue": "(uncountable, in combination) Meat stock served as a hot drink"
+  },
+  {
+    "word": "TIFFIN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(British, India) A (light) midday meal or snack; luncheon"
+  },
+  {
+    "word": "WAIT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal",
+    "clue": "(obsolete, colloquial) To defer or postpone (especially a meal)"
+  },
+  {
+    "word": "ACORN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "The fruit of the oak, being an oval nut growing in a woody cup or cupule"
+  },
+  {
+    "word": "AFTERS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(informal) The festivities held after a wedding meal"
+  },
+  {
+    "word": "AMBROSIA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "Any food with an especially delicious flavour or fragrance"
+  },
+  {
+    "word": "BAIT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal",
+    "clue": "Food containing poison or a harmful additive to kill animals that are pests"
+  },
+  {
+    "word": "BARBECUE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "A meal or event highlighted by food cooked in such an apparatus"
+  },
+  {
+    "word": "BOLT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal",
+    "clue": "(transitive) To swallow food without chewing it"
+  },
+  {
+    "word": "BOLTER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "A person who sifts flour or meal"
+  },
+  {
+    "word": "BOLTING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meal",
+    "clue": "A sifting, as of flour or meal"
+  },
+  {
+    "word": "CHAMP",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(Ireland) A dish comprising mashed potato and chopped scallions"
+  },
+  {
+    "word": "CHEF",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meal",
+    "clue": "The presiding cook in the kitchen of a large household"
+  },
+  {
+    "word": "CHILI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(uncountable) Powdered chili pepper, used as a spice or flavouring in cooking"
+  },
+  {
+    "word": "CHUCK",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(cooking) Meat from the shoulder of a cow or other animal"
+  },
+  {
+    "word": "COOKED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(of food) Prepared by cooking"
+  },
+  {
+    "word": "CORNED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(of meat) Preserved in salt"
+  },
+  {
+    "word": "STARVE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meal",
+    "clue": "(intransitive) To die because of lack of food or of not eating"
+  },
+  {
+    "word": "FRY",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking",
+    "clue": "A method of cooking food"
+  },
+  {
+    "word": "OVEN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking",
+    "clue": "A chamber used for baking or heating"
+  },
+  {
+    "word": "BAKE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking",
+    "clue": "The act of cooking food by baking"
+  },
+  {
+    "word": "BAKED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "That has been cooked by baking"
+  },
+  {
+    "word": "TAPIOCA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "A starchy food made from the cassava plant, used in puddings"
+  },
+  {
+    "word": "STOVE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "A device for heating food, (UK) a cooker"
+  },
+  {
+    "word": "BOIL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking",
+    "clue": "A dish of boiled food, especially seafood"
+  },
+  {
+    "word": "CURE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking",
+    "clue": "To preserve (food), typically by salting"
+  },
+  {
+    "word": "PREPARATION",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "cooking",
+    "clue": "The act or process of getting food ready for cooking or eating"
+  },
+  {
+    "word": "RAW",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking",
+    "clue": "(cooking) (of food) Not cooked"
+  },
+  {
+    "word": "KITCHENS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "A room or area for preparing food"
+  },
+  {
+    "word": "SEARING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "Cooking food quickly at high temperature"
+  },
+  {
+    "word": "BROILING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "A food prepared by broiling"
+  },
+  {
+    "word": "SAUTEING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "Cooking in fat or oil in a pan or griddle"
+  },
+  {
+    "word": "RECIPES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "Now especially, a set of instructions for making or preparing food dishes"
+  },
+  {
+    "word": "COOKWARE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "The assorted objects, such as pots, pans, baking sheets, etc., used for cooking"
+  },
+  {
+    "word": "STOVETOP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "(cooking, US, Canada) The top of a stove; usually specifically the burners"
+  },
+  {
+    "word": "GRILL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "Food (designed to be) cooked on a grill"
+  },
+  {
+    "word": "COOKPOT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "Cooking pot"
+  },
+  {
+    "word": "STEAM",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "The act of cooking by steaming"
+  },
+  {
+    "word": "STEAMING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "The method of cooking by immersion in steam"
+  },
+  {
+    "word": "SALTING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "(chiefly uncountable) The act of sprinkling salt, as on food or on an icy road"
+  },
+  {
+    "word": "BUTTERING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "(cooking) The application of butter (n.) to something"
+  },
+  {
+    "word": "TOASTING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "The process by which something, such as bread, is toasted"
+  },
+  {
+    "word": "REDUCTION",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "(cooking) The process of rapidly boiling a sauce to concentrate it"
+  },
+  {
+    "word": "SLAUGHTER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "(uncountable) The killing of animals, generally for food"
+  },
+  {
+    "word": "DISHING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "A dish shape or deformation; a concavity"
+  },
+  {
+    "word": "BASTING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "The act by which a food item is basted"
+  },
+  {
+    "word": "CONCOCTION",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "cooking",
+    "clue": "The preparing of a medicine, food or other substance out of many ingredients"
+  },
+  {
+    "word": "FORK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking",
+    "clue": "(transitive) To move with a fork (as hay or food)"
+  },
+  {
+    "word": "BASTE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "A basting; a sprinkling of drippings etc. in cooking"
+  },
+  {
+    "word": "BASTER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "A tool for basting meat with fat or gravy"
+  },
+  {
+    "word": "BRAISE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "A dish (usually meat) prepared by braising"
+  },
+  {
+    "word": "BROIL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "Food prepared by broiling"
+  },
+  {
+    "word": "BROWN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "(cooking, transitive) To cook something until it becomes brown"
+  },
+  {
+    "word": "CASSEROLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "Food, such as a stew, cooked in such a dish"
+  },
+  {
+    "word": "DEVIL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "To grill with cayenne pepper; to season highly in cooking, as with pepper"
+  },
+  {
+    "word": "FENNEL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "(cooking) The bulb, leaves, or stalks of the plant, eaten as a vegetable"
+  },
+  {
+    "word": "FLAMBE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "Alternative spelling of flambé. [(cooking) Being, or having been, flambéed.]"
+  },
+  {
+    "word": "FRICASSEE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "(transitive, cooking) To cook meat or poultry in this manner"
+  },
+  {
+    "word": "GIGOT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "(cooking) A leg of lamb or mutton"
+  },
+  {
+    "word": "GRAVY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "A dark savoury sauce prepared from stock and usually meat juices; brown gravy"
+  },
+  {
+    "word": "GRIDDLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "A stone or metal flat plate or surface on which food is fried or baked"
+  },
+  {
+    "word": "HAIRNET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "A net designed to keep hair up and out of the way, e.g. while cooking"
+  },
+  {
+    "word": "HIBACHI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "(Canada, US) The griddle used in such cuisine; teppan"
+  },
+  {
+    "word": "KALUA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "A traditional Hawaiian cooking method, using an underground oven called an imu"
+  },
+  {
+    "word": "LARD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking",
+    "clue": "(cooking) To stuff (meat) with bacon or pork before cooking"
+  },
+  {
+    "word": "OIL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking",
+    "clue": "(transitive) To grease with oil for cooking"
+  },
+  {
+    "word": "OLIVE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "(cooking) A small slice of meat seasoned, rolled up, and cooked"
+  },
+  {
+    "word": "OREGANO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "The leaves of these plants used in flavouring food"
+  },
+  {
+    "word": "OVENWARE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "Cooking utensils that can be safely used in an oven"
+  },
+  {
+    "word": "PAN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking",
+    "clue": "A wide, flat receptacle used around the house, especially for cooking"
+  },
+  {
+    "word": "PLANTAIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "The fruit of the plant, usually cooked before eating and used like potatoes"
+  },
+  {
+    "word": "PUREE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "A food that has been ground or crushed into a thick liquid or paste"
+  },
+  {
+    "word": "RANGE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "(obsolete, UK, dialect) A bolting sieve to sift meal"
+  },
+  {
+    "word": "ROASTER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "(cooking) A kitchen utensil used for roasting"
+  },
+  {
+    "word": "SALT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cooking",
+    "clue": "(obsolete, countable) A dish for salt at table; a salt cellar"
+  },
+  {
+    "word": "SCALD",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "(cooking) To heat almost to boiling"
+  },
+  {
+    "word": "SKILLET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "(US, sometimes attributive) A dish or meal cooked in such a pan"
+  },
+  {
+    "word": "SLUSH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "The refuse grease and fat collected in cooking, especially on shipboard"
+  },
+  {
+    "word": "STEAMER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "(cooking) A cooking appliance that cooks by steaming"
+  },
+  {
+    "word": "STEWED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "Having been cooked by slowly boiling or simmering (see stew)"
+  },
+  {
+    "word": "TANDOORI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "(of food) Cooked in a tandoor"
+  },
+  {
+    "word": "TERRINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "A pâté baked in such a dish and served cold"
+  },
+  {
+    "word": "ASPIC",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "A meat or fish jelly"
+  },
+  {
+    "word": "BASIN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "(obsolete) A shallow bowl used for a single serving of a drink or liquidy food"
+  },
+  {
+    "word": "BIFFIN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "A deep-red cooking apple native to Britain"
+  },
+  {
+    "word": "BOILER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "A kitchen vessel for steaming, boiling or heating food"
+  },
+  {
+    "word": "BROCHETTE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cooking",
+    "clue": "Food cooked on such a device"
+  },
+  {
+    "word": "BROTHS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "(uncountable) Water in which food (meat, vegetable, etc.) has been boiled"
+  },
+  {
+    "word": "BURNER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "An element on a kitchen stove that generates localized heat for cooking"
+  },
+  {
+    "word": "SIDE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish",
+    "clue": "A dish, other than the main course, served as an accompaniment to a meal"
+  },
+  {
+    "word": "SECOND",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "(usually in the plural) An additional helping of food"
+  },
+  {
+    "word": "FIXINGS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "Side dishes or other appropriate accompaniments such as condiments; trimmings"
+  },
+  {
+    "word": "HOTDISH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "A main course or sidedish served hot during a meal"
+  },
+  {
+    "word": "REMOVE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "(obsolete, formal) To replace a dish within a course"
+  },
+  {
+    "word": "TRIMMINGS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "Accompaniments to a meal"
+  },
+  {
+    "word": "SAUCEDISH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "A dish for serving sauce"
+  },
+  {
+    "word": "REFILL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "An additional helping of food or drink at reduced cost"
+  },
+  {
+    "word": "ROUND",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "(UK) One slice of bread"
+  },
+  {
+    "word": "SERVER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "A spoon for serving food"
+  },
+  {
+    "word": "SAUCE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "A liquid (often thickened) condiment or accompaniment to food"
+  },
+  {
+    "word": "COMPOTE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "A dessert made of fruit cooked in sugary syrup"
+  },
+  {
+    "word": "BANCHAN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "A small dish of food served with cooked rice in Korean cuisine"
+  },
+  {
+    "word": "SAUCER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "A small shallow dish to hold a cup and catch drips"
+  },
+  {
+    "word": "DIPPER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "Any snack food intended to be dipped in sauce"
+  },
+  {
+    "word": "SCITAMENT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "A pleasant dish or delicacy"
+  },
+  {
+    "word": "ASHET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "A large, shallow, oval dish used for serving food"
+  },
+  {
+    "word": "COMPOTIER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "A dish for holding fruit or compotes"
+  },
+  {
+    "word": "TUREEN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "A broad, deep serving dish used for serving soup or stew"
+  },
+  {
+    "word": "SATSIVI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "A poultry, fish, or vegetable appetizer made with the satsivi sauce"
+  },
+  {
+    "word": "COULIS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "A thick sauce made with pureed vegetable or fruit and often used as a garnish"
+  },
+  {
+    "word": "BONBON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "(cooking) A small, spherical savory snack or canapé"
+  },
+  {
+    "word": "DISHWARE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "Crockery used for serving or cooking food"
+  },
+  {
+    "word": "BOLOGNESE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "An Italian sauce made from ground meat and tomato, originating in Bologna"
+  },
+  {
+    "word": "RISOTTO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "An Italian savoury dish made with rice and other ingredients"
+  },
+  {
+    "word": "SAUCIER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "Sauce boat (a pitcher, dish, or, bowl, used to serve sauce)"
+  },
+  {
+    "word": "SALATIM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "Cold dishes served as a course in Israeli cuisine"
+  },
+  {
+    "word": "MACEDOINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "A mixture of diced vegetables or fruit served as a salad"
+  },
+  {
+    "word": "GUESTMEAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "A meal in which there is at least one guest"
+  },
+  {
+    "word": "DOLLOP",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "A considerable lump, scoop, or quantity of something, especially soft food"
+  },
+  {
+    "word": "SOWL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish",
+    "clue": "(British, dialectal) A dainty; a relish; a sauce; anything eaten with bread"
+  },
+  {
+    "word": "UNADON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "A Japanese dish of grilled glazed eel fillets served on steamed white rice"
+  },
+  {
+    "word": "TAPA",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish",
+    "clue": "Seasoned slices of dried or cured meat in Filipino cuisine"
+  },
+  {
+    "word": "JULIENNE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "(cooking) A garnish of vegetables cut into long, thin strips"
+  },
+  {
+    "word": "RAVIOLI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "Small square parcels of pasta filled with meat, cheese, spinach etc"
+  },
+  {
+    "word": "YAM",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish",
+    "clue": "The edible, starchy, tuberous root of that plant, a tropical staple food"
+  },
+  {
+    "word": "BACON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "Cured meat from the sides, belly, or back of a pig"
+  },
+  {
+    "word": "HASH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish",
+    "clue": "Food, especially meat and potatoes, chopped and mixed together"
+  },
+  {
+    "word": "GINGER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "(idiomatic, transitive) To enliven, to spice (up)"
+  },
+  {
+    "word": "SAUSAGE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "side dish",
+    "clue": "An individual item of this food"
+  },
+  {
+    "word": "TOAST",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "(chiefly uncountable) Bread that has been toasted (cooked lightly by browning)"
+  },
+  {
+    "word": "PART",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish",
+    "clue": "3.5 centiliters of one ingredient in a mixed drink"
+  },
+  {
+    "word": "BOAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish",
+    "clue": "A conveyance, utensil, or dish somewhat resembling a boat in shape"
+  },
+  {
+    "word": "DICE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish",
+    "clue": "(uncountable, formerly countable, cooking) That which has been diced"
+  },
+  {
+    "word": "BEEF",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish",
+    "clue": "(uncountable) The meat from cattle or other bovines"
+  },
+  {
+    "word": "MASH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish",
+    "clue": "A mixture of meal or bran and water fed to animals"
+  },
+  {
+    "word": "CHINE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "A piece of the backbone of an animal, with the adjoining parts, cut for cooking"
+  },
+  {
+    "word": "CORNER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "One who corns, or preserves food in salt"
+  },
+  {
+    "word": "EYE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish",
+    "clue": "(US) A burner on a kitchen stove"
+  },
+  {
+    "word": "FLAKE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "(Australia) The meat of the gummy shark"
+  },
+  {
+    "word": "FLANK",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "(cooking) A cut of beef taken from the abdominal muscles of the cow, below the loin"
+  },
+  {
+    "word": "FLOOR",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "side dish",
+    "clue": "The area of an establishment where food and drink are served to customers"
+  },
+  {
+    "word": "PASS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish",
+    "clue": "(transitive, cooking) To put through a sieve"
+  },
+  {
+    "word": "PIT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish",
+    "clue": "(Northern US) A seed inside a fruit; a stone or pip inside a fruit"
+  },
+  {
+    "word": "RIB",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "side dish",
+    "clue": "A cut of meat enclosing one or more rib bones"
+  },
+  {
+    "word": "BATCHING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "The quantity of bread or other baked goods baked at one time"
+  },
+  {
+    "word": "SPICE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "(uncountable) The quality of being spicy"
+  },
+  {
+    "word": "MASALA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "Any dish prepared with such spices"
+  },
+  {
+    "word": "TASTE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "A small sample of food, drink, or recreational drugs"
+  },
+  {
+    "word": "STUFFING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "Any of many food items used to stuff another"
+  },
+  {
+    "word": "MUSH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "ingredient",
+    "clue": "A somewhat liquid mess, often of food; a soft or semisolid substance"
+  },
+  {
+    "word": "TASTING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "A small amount of food or drink"
+  },
+  {
+    "word": "NIBLET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "A small piece of something, especially of snack food"
+  },
+  {
+    "word": "MUST",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "ingredient",
+    "clue": "Fruit juice that will ferment or has fermented, usually from grapes"
+  },
+  {
+    "word": "BERGMEAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "Mountain meal"
+  },
+  {
+    "word": "CHIP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "ingredient",
+    "clue": "(New Zealand, northern) A receptacle, usually for strawberries or other fruit"
+  },
+  {
+    "word": "MIXIE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "(India) mixer; food processor; blender"
+  },
+  {
+    "word": "COOKABLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "Anything suitable for cooking"
+  },
+  {
+    "word": "INMEATS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "(archaic, rare) The viscera of animals, as meat"
+  },
+  {
+    "word": "JUICE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "(uncountable) A liquid made from plant, especially fruit"
+  },
+  {
+    "word": "SOSSLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "An incongruous mixture of food; slop"
+  },
+  {
+    "word": "SMOOTHIE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "A drink made from whole fruit, thus thicker than fruit juice"
+  },
+  {
+    "word": "SKINFOOD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "Alternative form of skin food. [A moisturizing cream for the skin.]"
+  },
+  {
+    "word": "RAISING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "The substance used to make bread rise"
+  },
+  {
+    "word": "ESPRESSO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "A drink that includes espresso as an ingredient"
+  },
+  {
+    "word": "OPSONY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "(obsolete) Any food that is eaten with bread"
+  },
+  {
+    "word": "SUBJI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "Alternative form of sabzi. [(India) Any green vegetable.]"
+  },
+  {
+    "word": "ESSENTIAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "A necessary ingredient"
+  },
+  {
+    "word": "TOMATO",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "A widely cultivated plant, Solanum lycopersicum, having edible fruit"
+  },
+  {
+    "word": "BASE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "ingredient",
+    "clue": "(cooking, painting, pharmacy) A basic but essential component or ingredient"
+  },
+  {
+    "word": "FLAVORING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "(American spelling) Something that gives flavor, usually a food ingredient"
+  },
+  {
+    "word": "INCORPORATE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "ingredient",
+    "clue": "(transitive) To mix (something in) as an ingredient; to blend"
+  },
+  {
+    "word": "INTERMIXTURE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "ingredient",
+    "clue": "Admixture; an additional ingredient"
+  },
+  {
+    "word": "APRICOT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "A pale yellow-orange colour, like that of an apricot fruit"
+  },
+  {
+    "word": "AVOCADO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "The large, usually yellowish-green or black, savory fruit of the avocado tree"
+  },
+  {
+    "word": "BEAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "ingredient",
+    "clue": "To mix food in a rapid fashion. Compare whip"
+  },
+  {
+    "word": "BERRY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "A small succulent fruit, of any one of many varieties"
+  },
+  {
+    "word": "BRANDY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "(uncountable) An alcoholic liquor distilled from wine or fermented fruit juice"
+  },
+  {
+    "word": "CAROB",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "A sweet chocolate-like confection made with the pulp of the fruit"
+  },
+  {
+    "word": "CAYENNE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "(figurative) Spice or verve"
+  },
+  {
+    "word": "CELERY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "(uncountable, vegetable) The stalks of this herb eaten as a vegetable"
+  },
+  {
+    "word": "CHESTNUT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "(by extension) Things resembling a chestnut fruit in appearance or colour"
+  },
+  {
+    "word": "CHIPOTLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "A ripe jalapeño pepper, dried and smoked for use in cooking"
+  },
+  {
+    "word": "CITRON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "The fruit of a citron tree"
+  },
+  {
+    "word": "CITRUS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "Of, relating to, or similar to citrus plants or fruit"
+  },
+  {
+    "word": "CLEAR",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "ingredient",
+    "clue": "(of a soup) Without a thickening ingredient"
+  },
+  {
+    "word": "COCONUT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "(uncountable) The edible white flesh of this fruit"
+  },
+  {
+    "word": "CODE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "ingredient",
+    "clue": "Alternative form of cod. [A type of sea fish or the meat from said fish.]"
+  },
+  {
+    "word": "CRABMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "The meat of a crab"
+  },
+  {
+    "word": "CROUTON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "A small, often seasoned, piece of dry or fried bread"
+  },
+  {
+    "word": "CUCUMBER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "ingredient",
+    "clue": "The edible fruit of this plant, having a green rind and crisp white flesh"
+  },
+  {
+    "word": "DRAWER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen",
+    "clue": "(graphical user interface) A side panel containing supplementary content"
+  },
+  {
+    "word": "KITCHENETTE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "kitchen",
+    "clue": "A small kitchen or area for preparing food, often just a part of a room"
+  },
+  {
+    "word": "COOKROOM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "(India, historical) A kitchen or room for cookery"
+  },
+  {
+    "word": "COOKHOUSE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "A small building where cooking takes place"
+  },
+  {
+    "word": "LARDER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen",
+    "clue": "A food supply"
+  },
+  {
+    "word": "HEARTH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen",
+    "clue": "A brazier, chafing dish, or firebox"
+  },
+  {
+    "word": "COUNTERTOP",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "kitchen",
+    "clue": "The top surface of a counter, for preparation of food etc"
+  },
+  {
+    "word": "CUPBOARD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "(obsolete) Things stored in a cupboard; particularly food"
+  },
+  {
+    "word": "CUPBOARDS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "(obsolete) Things stored in a cupboard; particularly food"
+  },
+  {
+    "word": "UTENSILS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "An instrument or device for domestic use, especially in the kitchen"
+  },
+  {
+    "word": "UTENSIL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "An instrument or device for domestic use, especially in the kitchen"
+  },
+  {
+    "word": "COUNTERTOPS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "kitchen",
+    "clue": "The top surface of a counter, for preparation of food etc"
+  },
+  {
+    "word": "COOKTOP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "(cooking, US, Canada) An assembly of burners for cooking"
+  },
+  {
+    "word": "COOKSHOP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "A shop that sells cooked food"
+  },
+  {
+    "word": "STILLROOM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "A pantry adjoining a kitchen where drinks etc were stored or prepared"
+  },
+  {
+    "word": "GRILLROOM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "A restaurant serving grilled food"
+  },
+  {
+    "word": "BUNKER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen",
+    "clue": "(Scotland) (slang) A kitchen worktop"
+  },
+  {
+    "word": "COOKSHED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "An outdoor building for cooking"
+  },
+  {
+    "word": "CAFETERIE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "(dated) Pantry, stillroom"
+  },
+  {
+    "word": "EATERY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen",
+    "clue": "(informal) A restaurant or café; a place to purchase and eat food"
+  },
+  {
+    "word": "FOODSTALL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "A stall, typically in a market, at which food is sold"
+  },
+  {
+    "word": "FOODSTORE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "A shop that sells food"
+  },
+  {
+    "word": "BEATER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen",
+    "clue": "A kitchen implement for mixing"
+  },
+  {
+    "word": "CODLING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "Any of various greenish, elongated English apple varieties, used for cooking"
+  },
+  {
+    "word": "CORER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen",
+    "clue": "A utensil for removing the core from apples and similar fruit or vegetables"
+  },
+  {
+    "word": "CORERS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen",
+    "clue": "A utensil for removing the core from apples and similar fruit or vegetables"
+  },
+  {
+    "word": "DISHWATER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "Water that dishes and cooking utensils have been washed in"
+  },
+  {
+    "word": "EGGBEATER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "A kitchen utensil that uses rotating blades to beat eggs"
+  },
+  {
+    "word": "GALLOPIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "(obsolete) An underservant in the kitchen; a scullion, or cook's errand boy"
+  },
+  {
+    "word": "GARBAGE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "Food waste material of any kind"
+  },
+  {
+    "word": "HOUSEWORK",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "Domestic household chores such as cleaning and cooking"
+  },
+  {
+    "word": "JAR",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "kitchen",
+    "clue": "(transitive) To preserve (food) in a jar"
+  },
+  {
+    "word": "MACE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "kitchen",
+    "clue": "A spice obtained from the outer layer of the kernel of the fruit of the nutmeg"
+  },
+  {
+    "word": "MANDOLIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "A kitchen tool for julienning vegetables"
+  },
+  {
+    "word": "MINCER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "kitchen",
+    "clue": "A kitchen utensil used for mincing meat, etc"
+  },
+  {
+    "word": "OLITORY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "kitchen",
+    "clue": "(obsolete) Of or pertaining to a kitchen garden; used for culinary purposes"
+  },
+  {
+    "word": "OLLA",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "kitchen",
+    "clue": "A cooking-pot or earthenware jar used in Spain and Spanish-speaking countries"
+  },
+  {
+    "word": "APERITIVE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "recipe",
+    "clue": "Serving as an apéritif: a pre-meal alcoholic drink"
+  },
+  {
+    "word": "BATCH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "recipe",
+    "clue": "The quantity of bread or other baked goods baked at one time"
+  },
+  {
+    "word": "CHOP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "recipe",
+    "clue": "A cut of meat, often containing a section of a rib"
+  },
+  {
+    "word": "PARBOIL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "recipe",
+    "clue": "To boil food briefly so that it is partly cooked"
+  },
+  {
+    "word": "SEASON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "recipe",
+    "clue": "(transitive) To flavour food with spices, herbs or salt"
+  },
+  {
+    "word": "TABLESPOON",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "recipe",
+    "clue": "(Canada, US) A large spoon, used for eating food from a bowl"
+  },
+  {
+    "word": "SPOON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "recipe",
+    "clue": "An implement for stirring food while being prepared; a wooden spoon"
+  },
+  {
+    "word": "HOT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "baking",
+    "clue": "(of food) Spicy, pungent, piquant, as some chilis and other spices are"
+  },
+  {
+    "word": "PIEBAKING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "Alternative form of pie baking. [The act of baking pies.]"
+  },
+  {
+    "word": "TRAYBAKED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "(cooking) Baked in a tray"
+  },
+  {
+    "word": "BREADEN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "(archaic) Made of bread (in the context of the Eucharist)"
+  },
+  {
+    "word": "BATTERED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "(cooking) Coated with batter (noun)"
+  },
+  {
+    "word": "BUTTERED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "(cooking) Spread with butter"
+  },
+  {
+    "word": "EGGY",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "baking",
+    "clue": "(cooking) Covered with or dipped in egg"
+  },
+  {
+    "word": "RAVELLED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "Of bread: made from flour and bran"
+  },
+  {
+    "word": "WHIPPED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "Of food: prepared by whipping or beating"
+  },
+  {
+    "word": "STUFFED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "(cooking) Filled with a filling and seasoning"
+  },
+  {
+    "word": "BEATEN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "(cooking, of a liquid) Mixed by paddling with a wooden spoon or other implement"
+  },
+  {
+    "word": "KITCHENED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "Equipped with a kitchen"
+  },
+  {
+    "word": "AMANDINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "The vegetable casein of almonds"
+  },
+  {
+    "word": "DUMPOKED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "(cooking) Cooked in the dumpoke style"
+  },
+  {
+    "word": "ALLSPICED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "(cooking) Flavored with allspice"
+  },
+  {
+    "word": "BISQUE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "A thick creamy soup made from fish, shellfish, meat or vegetables"
+  },
+  {
+    "word": "GOOD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "baking",
+    "clue": "(of food) Palatable, fresh, and satisfying to eat"
+  },
+  {
+    "word": "MATZOT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "(uncountable) Thin, unleavened bread in Jewish cuisine"
+  },
+  {
+    "word": "MATZOTH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "(uncountable) Thin, unleavened bread in Jewish cuisine"
+  },
+  {
+    "word": "MATZOS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "(uncountable) Thin, unleavened bread in Jewish cuisine"
+  },
+  {
+    "word": "MILLING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "Such grinding, cutting, or shredding applied to grain to produce meal or flour"
+  },
+  {
+    "word": "BREADS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "(uncountable) A foodstuff made by baking dough made from cereals"
+  },
+  {
+    "word": "DRYING",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "A method of food preservation by removing water"
+  },
+  {
+    "word": "LOAVES",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "(also loaf of bread) A block of bread after baking"
+  },
+  {
+    "word": "STONE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "(transitive) To remove a stone from (fruit etc.)"
+  },
+  {
+    "word": "BURN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "baking",
+    "clue": "(of food) The state of being scorched or charred from overcooking"
+  },
+  {
+    "word": "COCTILE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "Made by baking, or exposure to heat"
+  },
+  {
+    "word": "PRETZEL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "(cooking) A toasted bread or cracker usually in the shape of a loose knot"
+  },
+  {
+    "word": "RAMEKIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "A cheese- or meat-based dish baked in a small mold"
+  },
+  {
+    "word": "SCALLOP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "(cooking) A fillet of meat, escalope"
+  },
+  {
+    "word": "SHEET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "A flat metal pan, often without raised edge, used for baking"
+  },
+  {
+    "word": "SHORTCAKE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "A dessert made with such a cake, typically having layers of cream and fruit"
+  },
+  {
+    "word": "SIFTER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "A tool for sifting, especially one for powdered cooking ingredients"
+  },
+  {
+    "word": "TIN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "baking",
+    "clue": "(countable) A metal pan used for baking, roasting, storing food, etc"
+  },
+  {
+    "word": "CURRANT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "The fruit of various shrubs of the genus Ribes, white, black or red"
+  },
+  {
+    "word": "DUMPLING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "(chiefly US) Specifically, a food composed of a dough wrapper around a filling"
+  },
+  {
+    "word": "PANARY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "Relating to the making of bread"
+  },
+  {
+    "word": "PATTYPAN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "A pan used for baking patties"
+  },
+  {
+    "word": "POWDER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "(obsolete, transitive) To sprinkle with salt; to corn, as meat"
+  },
+  {
+    "word": "PROVE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "(baking) The process of dough proofing"
+  },
+  {
+    "word": "TINS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "baking",
+    "clue": "(countable) A metal pan used for baking, roasting, storing food, etc"
+  },
+  {
+    "word": "VANILLA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "(uncountable) The extract of the fruit of the vanilla plant"
+  },
+  {
+    "word": "BAGEL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "A toroidal bread roll that is boiled before it is baked"
+  },
+  {
+    "word": "BLIND",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "(horticulture) Abortive; failing to produce flowers or fruit"
+  },
+  {
+    "word": "BLOOMER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "A circular loaf of white bread"
+  },
+  {
+    "word": "BOBOTIE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "(South Africa) A dish of curried mince with an egg custard baked on top"
+  },
+  {
+    "word": "BREADBASKET",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "baking",
+    "clue": "A basket used for storing or carrying bread"
+  },
+  {
+    "word": "BREADBOX",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "baking",
+    "clue": "A container for storing bread or other baked goods to keep them fresh"
+  },
+  {
+    "word": "BREADFRUIT",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "baking",
+    "clue": "The large round fruit of this tree"
+  },
+  {
+    "word": "BURNT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "(of food) Carbonised"
+  },
+  {
+    "word": "PIGEON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "baking",
+    "clue": "(uncountable) The meat from this bird"
+  },
+  {
+    "word": "ZEST",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "spice",
+    "clue": "The outer skin of a citrus fruit, used as a flavouring or garnish"
+  },
+  {
+    "word": "SPICY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice",
+    "clue": "Of a food, flavor, or odor, tangy, zesty, or pungent"
+  },
+  {
+    "word": "RELISH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice",
+    "clue": "(transitive) (obsolete) To eat or taste (drink, food, etc.)"
+  },
+  {
+    "word": "PAPRIKA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "A bright reddish orange colour resembling that of the ground spice"
+  },
+  {
+    "word": "JEERA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice",
+    "clue": "(India, cooking) Cumin"
+  },
+  {
+    "word": "SHICHIMI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "A Japanese spice mixture based on coarsely ground red chili pepper"
+  },
+  {
+    "word": "ACHAR",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice",
+    "clue": "(North India) A spicy and salty pickle in Indian cuisine"
+  },
+  {
+    "word": "SAUNF",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice",
+    "clue": "(India, cooking) fennel, fennel seeds"
+  },
+  {
+    "word": "POIVRADE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "A type of sauce (generally a vinaigrette) with pepper as a main ingredient"
+  },
+  {
+    "word": "VINDALOO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "A hot curry made with this spice"
+  },
+  {
+    "word": "PAIN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "spice",
+    "clue": "(obsolete, cooking) Any of various breads stuffed with a filling"
+  },
+  {
+    "word": "ZEERA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice",
+    "clue": "(India, cooking) cumin"
+  },
+  {
+    "word": "MISAL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice",
+    "clue": "An Indian dish of vegetables in a spicy gravy"
+  },
+  {
+    "word": "JAIPHUL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "(India, cooking) nutmeg"
+  },
+  {
+    "word": "PICKLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice",
+    "clue": "(often in the plural) Any vegetable preserved in vinegar and consumed as relish"
+  },
+  {
+    "word": "SABJI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice",
+    "clue": "Alternative form of sabzi. [(India) Any green vegetable.]"
+  },
+  {
+    "word": "MINCEMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "A mixture of fruit, spices and suet used as a filling for mince pies"
+  },
+  {
+    "word": "GINGERBREAD",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "spice",
+    "clue": "(cooking) A type of cake whose main flavoring is ginger"
+  },
+  {
+    "word": "SAUCING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "(archaic) Sauce (for food)"
+  },
+  {
+    "word": "NUTMEG",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice",
+    "clue": "The aromatic seed of this tree, used as a spice"
+  },
+  {
+    "word": "ALEBERRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "A beverage made by boiling ale with spice and sugar and sops of bread"
+  },
+  {
+    "word": "GINGERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "Having a flavour or aroma of the spice ginger; containing that spice"
+  },
+  {
+    "word": "RACK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "spice",
+    "clue": "A cut of meat involving several adjacent ribs"
+  },
+  {
+    "word": "RUB",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "spice",
+    "clue": "A mixture of spices applied to meat before it is barbecued"
+  },
+  {
+    "word": "SEASONED",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "Of a food, often a liquid: containing seasonings"
+  },
+  {
+    "word": "AROMATIC",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "A fragrant plant or spice added to a dish to flavour it"
+  },
+  {
+    "word": "BESPICE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "(transitive) To season with spice, or with some spicy drug"
+  },
+  {
+    "word": "CORIANDER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "(US) The dried fruits thereof, used as a spice"
+  },
+  {
+    "word": "MACES",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice",
+    "clue": "A spice obtained from the outer layer of the kernel of the fruit of the nutmeg"
+  },
+  {
+    "word": "SAFFRON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "To add saffron to (a food), for taste, colour etc"
+  },
+  {
+    "word": "SINTOC",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice",
+    "clue": "A spice from the bark of this tree"
+  },
+  {
+    "word": "BIRYANI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "A spiced dish of rice, blended with meat and/or vegetables"
+  },
+  {
+    "word": "BOUILLABAISSE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "spice",
+    "clue": "A type of fish soup or stew from Provence, France"
+  },
+  {
+    "word": "BUN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "spice",
+    "clue": "A small bread roll that is sweetened or spiced"
+  },
+  {
+    "word": "CANTONESE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "Relating to Cantonese food/cuisine"
+  },
+  {
+    "word": "CAUDLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice",
+    "clue": "A drink given to the sick, consisting of ale or wine, bread, and eggs"
+  },
+  {
+    "word": "DIABLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "spice",
+    "clue": "An unglazed earthenware casserole dish"
+  },
+  {
+    "word": "FOND",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "spice",
+    "clue": "(cooking) Brown residue in pans from cooking meats and vegetables"
+  },
+  {
+    "word": "GOULASH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "spice",
+    "clue": "A stew of beef or veal and vegetables, flavoured with paprika"
+  },
+  {
+    "word": "JUNKET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast",
+    "clue": "A feast or banquet"
+  },
+  {
+    "word": "FESTIVAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "(biblical) A feast or feast day"
+  },
+  {
+    "word": "FETE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "feast",
+    "clue": "A feast, celebration or carnival"
+  },
+  {
+    "word": "DINE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "feast",
+    "clue": "(transitive) To give a dinner to; to furnish with the chief meal; to feed"
+  },
+  {
+    "word": "BLOWOUT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "(slang) A social function, especially one with large quantities of food"
+  },
+  {
+    "word": "CELEBRATION",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "feast",
+    "clue": "The observance of a holiday or feast day, as by solemnities"
+  },
+  {
+    "word": "FESTA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast",
+    "clue": "A public holiday or feast day in Italy, Portugal, etc"
+  },
+  {
+    "word": "TREAT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast",
+    "clue": "A snack food"
+  },
+  {
+    "word": "FEASTINGS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "A feast, or an occasion on which people or animals feast"
+  },
+  {
+    "word": "FEASTER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "One who feasts, who attends a feast"
+  },
+  {
+    "word": "FESTAL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast",
+    "clue": "Festive, relating to a festival or feast"
+  },
+  {
+    "word": "FAMINE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast",
+    "clue": "(uncountable) Extreme shortage of food in a region"
+  },
+  {
+    "word": "SCRUMPTIOUS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "feast",
+    "clue": "Of food: delectable, delicious"
+  },
+  {
+    "word": "FEASTFUL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "Enough for a feast"
+  },
+  {
+    "word": "FOODFEST",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "(informal) An event where plenty of food is available"
+  },
+  {
+    "word": "REGALE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast",
+    "clue": "(rare) A feast, a meal"
+  },
+  {
+    "word": "MEATFEST",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "An occasion where meat is prominently featured or served"
+  },
+  {
+    "word": "JUNKETING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "A celebratory feast or banquet"
+  },
+  {
+    "word": "EATATHON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "(slang) A large feast or pigout"
+  },
+  {
+    "word": "NOSHING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "(slang) A session of eating; a feast"
+  },
+  {
+    "word": "GREEZE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast",
+    "clue": "(Bermuda, countable) A large and fulfilling meal; a feast"
+  },
+  {
+    "word": "BROAST",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast",
+    "clue": "(transitive) To fry (chicken or other food) in oil under pressure"
+  },
+  {
+    "word": "TIGHTENER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "(UK, slang, archaic) A large meal; a feast or blowout"
+  },
+  {
+    "word": "CARVERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "A meal consisting of such food"
+  },
+  {
+    "word": "BOUFFAGE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "(rare) A satisfying meal"
+  },
+  {
+    "word": "DOUBLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast",
+    "clue": "(Christianity) A double feast"
+  },
+  {
+    "word": "EPULATION",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "(obsolete) A feast or banquet"
+  },
+  {
+    "word": "BRIDAL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast",
+    "clue": "(archaic) A wedding feast or festival; a wedding"
+  },
+  {
+    "word": "BRIDALTY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "(obsolete) celebration of the wedding feast; wedding reception"
+  },
+  {
+    "word": "CAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "feast",
+    "clue": "(uncountable) The flesh of this animal eaten as food"
+  },
+  {
+    "word": "CONVIVAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "(obsolete) Relating to a feast or festivity; convivial"
+  },
+  {
+    "word": "CONVIVE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "feast",
+    "clue": "(obsolete) To feast with others"
+  },
+  {
+    "word": "FARM",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "feast",
+    "clue": "(transitive) To devote (land) to farming"
+  },
+  {
+    "word": "FERIA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast",
+    "clue": "A weekday on a Church calendar on which no feast is observed"
+  },
+  {
+    "word": "HALMAS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast",
+    "clue": "The feast of All Saints' Day"
+  },
+  {
+    "word": "LUAU",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "feast",
+    "clue": "An elaborate Hawaiian feast featuring traditional foods and entertainment"
+  },
+  {
+    "word": "MARK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "feast",
+    "clue": "(cooking) A specified level on a scale denoting gas-powered oven temperatures"
+  },
+  {
+    "word": "DEARTH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "feast",
+    "clue": "A period or condition when food is rare and hence expensive; famine"
+  },
+  {
+    "word": "CORE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "The central part of a fruit, containing the kernels or seeds"
+  },
+  {
+    "word": "PITH",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(botany) The albedo (“whitish inner portion of the rind”) of a citrus fruit"
+  },
+  {
+    "word": "MARROW",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "A kind of vegetable similar to a large courgette, zucchini or squash"
+  },
+  {
+    "word": "BRISKET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "A smoked meat dish made from cow brisket popular in Texas"
+  },
+  {
+    "word": "VEAL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "The flesh of a calf (i.e. a young bovine) used for food"
+  },
+  {
+    "word": "BROILER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "A chicken raised for meat"
+  },
+  {
+    "word": "VENISON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The meat of a deer, especially one that was hunted in its own natural habitat"
+  },
+  {
+    "word": "SKIN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(uncountable) The outer protective layer of the fruit of a plant"
+  },
+  {
+    "word": "PIG",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(uncountable) The edible meat of such an animal; pork"
+  },
+  {
+    "word": "POULTRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The meat from a domestic fowl"
+  },
+  {
+    "word": "GOOSE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "The flesh of the goose used as food"
+  },
+  {
+    "word": "CANNON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "(cooking) A rolled and filleted loin of meat"
+  },
+  {
+    "word": "STEAKS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "A slice of meat cut across the grain (perpendicular to the spine) from a fish"
+  },
+  {
+    "word": "LAMB",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(uncountable) The flesh of a lamb or sheep used as food"
+  },
+  {
+    "word": "MUTTON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "The meat of sheep used as food"
+  },
+  {
+    "word": "GAME",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(uncountable) Wild animals hunted for food"
+  },
+  {
+    "word": "SAUSAGES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "An individual item of this food"
+  },
+  {
+    "word": "VEGGIES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "(informal) A vegetable"
+  },
+  {
+    "word": "NONMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "That is not meat, or unrelated to meat"
+  },
+  {
+    "word": "OFFAL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "The internal organs of an animal (entrails or innards), used as food"
+  },
+  {
+    "word": "GRISTLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "Cartilage; now especially: cartilage present, as a tough substance, in meat"
+  },
+  {
+    "word": "PORKS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "(chiefly uncountable) The meat of a pig"
+  },
+  {
+    "word": "VEGGIE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "(informal) A vegetable"
+  },
+  {
+    "word": "TENDERLOIN",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "meat",
+    "clue": "The tenderest part of a loin of meat, especially of pork or beef"
+  },
+  {
+    "word": "PIGMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The meat or flesh of a pig, used especially for food; pork"
+  },
+  {
+    "word": "HORSEMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The meat from a horse"
+  },
+  {
+    "word": "TOFU",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "A protein-rich food made from curdled soy milk"
+  },
+  {
+    "word": "GOAT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(uncountable) The meat of the aforementioned animal"
+  },
+  {
+    "word": "LOIN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "Any of several cuts of meat taken from this part of an animal"
+  },
+  {
+    "word": "SHEEPMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The meat of a sheep, used as food; mutton"
+  },
+  {
+    "word": "CATMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "Alternative form of cat meat. [Cat eaten as meat.]"
+  },
+  {
+    "word": "COWFLESH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The meat or flesh of a cow; beef"
+  },
+  {
+    "word": "LEAN",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(of meat) Having little fat"
+  },
+  {
+    "word": "GOATMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The meat of a goat, used as food; chevon"
+  },
+  {
+    "word": "WHALEMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The meat of a whale"
+  },
+  {
+    "word": "GOATFLESH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The flesh of a goat used as food"
+  },
+  {
+    "word": "CALFFLESH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "(nonstandard) The meat or flesh of a calf; veal"
+  },
+  {
+    "word": "OXFLESH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The flesh or meat of an ox or similar bovine; beef"
+  },
+  {
+    "word": "SHARKMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The meat of a shark"
+  },
+  {
+    "word": "BATMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The meat of a bat, used as food"
+  },
+  {
+    "word": "MEATWORKS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "(Australia, New Zealand) A slaughterhouse or meat processing plant"
+  },
+  {
+    "word": "TERRAPIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "(uncountable, obsolete) The flesh of such a turtle used as food"
+  },
+  {
+    "word": "CUTLET",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "A thin slice of meat, usually fried"
+  },
+  {
+    "word": "MEATCAKE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "(US) A cake made with meat, mashed potatoes, and vegetables"
+  },
+  {
+    "word": "NECKBEEF",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "(obsolete) Meat from the neck of cattle"
+  },
+  {
+    "word": "SPECK",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "Fat; lard; fat meat"
+  },
+  {
+    "word": "BUCCAN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "A framework or grill upon which meat is laid to dry, or to be roasted"
+  },
+  {
+    "word": "SNAKEMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The meat of a snake"
+  },
+  {
+    "word": "CATFISH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The meat of such a fish, popular in the Southern U.S. and Central Europe"
+  },
+  {
+    "word": "MART",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(by extension, the animal or its meat) Salt beef"
+  },
+  {
+    "word": "BUFF",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(informal) A buffalo, or the meat of a buffalo"
+  },
+  {
+    "word": "GIBLETS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The internal organs of poultry birds, used as food"
+  },
+  {
+    "word": "SPAM",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "A type of tinned meat made mainly from ham"
+  },
+  {
+    "word": "CUT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "A slab or slice, especially of meat"
+  },
+  {
+    "word": "SALAMI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "A large cured meat sausage of Italian origin, served in slices"
+  },
+  {
+    "word": "BIRD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(cooking, slang) A chicken or turkey used as food"
+  },
+  {
+    "word": "CARBONADO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "(cooking, dated) Meat or fish that has been scored and broiled"
+  },
+  {
+    "word": "COW",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(uncommon, uncountable) Beef: the meat of cattle as food"
+  },
+  {
+    "word": "GLAZE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "A smooth edible coating applied to food"
+  },
+  {
+    "word": "JERKY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "(transitive) To cure and preserve (meat) by drying it, making jerky"
+  },
+  {
+    "word": "NUT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(botany, strictly) Such a fruit that is indehiscent"
+  },
+  {
+    "word": "POTPOURRI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "A ragout or stew of meat and vegetables"
+  },
+  {
+    "word": "PRESERVER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "A person who prepares preserves of fruit or preserved meats"
+  },
+  {
+    "word": "ROTISSERIE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "meat",
+    "clue": "A cooking device with which food is roasted on a rotating spit"
+  },
+  {
+    "word": "SMOKED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "Of food, treated with smoke, often for flavor or as a method of preservation"
+  },
+  {
+    "word": "SMOKEHOUSE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "meat",
+    "clue": "A structure used to smoke food to preserve it and to add flavor"
+  },
+  {
+    "word": "TRIPE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "The lining of the large stomach of ruminating animals, when prepared for food"
+  },
+  {
+    "word": "BAD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(of food) Spoiled, rotten, overripe"
+  },
+  {
+    "word": "BAR",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "An informal establishment selling food to be consumed on the premises"
+  },
+  {
+    "word": "BARBACOA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "Meat slow-cooked over an open fire, characteristic of Latin American cuisine"
+  },
+  {
+    "word": "BARD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(cooking) A thin slice of fat bacon used to cover any meat or game"
+  },
+  {
+    "word": "BARK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "The crust formed on barbecued meat that has had a rub applied to it"
+  },
+  {
+    "word": "BEAR",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(cooking, uncountable) The meat of this animal"
+  },
+  {
+    "word": "BEEFALO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "The meat of such a hybrid"
+  },
+  {
+    "word": "BIGOS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "A traditional Polish stew containing cabbage and meat"
+  },
+  {
+    "word": "BLOW",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "meat",
+    "clue": "(intransitive) (of a fly) To lay eggs; to breed (in flesh or meat)"
+  },
+  {
+    "word": "BONELESS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "Without bones, especially as pertaining to meat or poultry prepared for eating"
+  },
+  {
+    "word": "BONING",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "The fertilization of a field with bone meal"
+  },
+  {
+    "word": "BOUILLI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "meat",
+    "clue": "Meat stewed with juice"
+  },
+  {
+    "word": "BREWIS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "(obsolete or dialectal) a kind of broth thickened with bread or meal"
+  },
+  {
+    "word": "BROACH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "meat",
+    "clue": "A spit for cooking food"
+  },
+  {
+    "word": "VEGETAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "(obsolete, chiefly botany) Any vegetable organism"
+  },
+  {
+    "word": "VEGETATION",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "vegetable",
+    "clue": "The act or process of vegetating, or growing as a plant does; vegetable growth"
+  },
+  {
+    "word": "VEG",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable",
+    "clue": "(colloquial) vegetable(s)"
+  },
+  {
+    "word": "NOODLE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable",
+    "clue": "(archaic) A dumpling cooked by boiling and served in soup; a knaidel or knödel"
+  },
+  {
+    "word": "LUMP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable",
+    "clue": "(obsolete, slang) Food given to a tramp to be eaten on the road"
+  },
+  {
+    "word": "PRODUCE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "(Australia) Livestock and pet food supplies"
+  },
+  {
+    "word": "PUREES",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable",
+    "clue": "A food that has been ground or crushed into a thick liquid or paste"
+  },
+  {
+    "word": "ROOT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable",
+    "clue": "A root vegetable"
+  },
+  {
+    "word": "GREENCROP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "Any green vegetable crop, such as grasses or turnips"
+  },
+  {
+    "word": "KALE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable",
+    "clue": "Any of several cabbage-like food plants that are kinds of Brassica oleracea"
+  },
+  {
+    "word": "BREADKIND",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "(Caribbean) Any starchy vegetable"
+  },
+  {
+    "word": "STRAWBERRY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "vegetable",
+    "clue": "Any plant of the genus Fragaria (that bears such fruit)"
+  },
+  {
+    "word": "ESCULENT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "Something edible, especially a vegetable; a comestible"
+  },
+  {
+    "word": "SHALLOT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "Any vegetable of certain species in the onion family"
+  },
+  {
+    "word": "ASPARAGUS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "The young shoots of Asparagus officinalis eaten as a vegetable"
+  },
+  {
+    "word": "PARSNIP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "The root of the parsnip, when used as a vegetable"
+  },
+  {
+    "word": "AUBERGINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "(British, Ireland) The fruit of this plant, eaten as a vegetable"
+  },
+  {
+    "word": "CHICKPEA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "A seed of this plant, often used as a food"
+  },
+  {
+    "word": "SEED",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable",
+    "clue": "(countable) Any small seed-like fruit"
+  },
+  {
+    "word": "PEPO",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable",
+    "clue": "A plant producing such a fruit"
+  },
+  {
+    "word": "LENTIL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable",
+    "clue": "The seed of these plants, used as food"
+  },
+  {
+    "word": "BEARER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable",
+    "clue": "A tree or plant yielding fruit"
+  },
+  {
+    "word": "CHARD",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable",
+    "clue": "(cooking) Artichoke leaves and shoots, blanched to eat"
+  },
+  {
+    "word": "EGGPLANT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "(US, Canada) A dark purple color, like that of the skin of this fruit"
+  },
+  {
+    "word": "PEA",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable",
+    "clue": "(cooking) The edible seed of Pisum sativum"
+  },
+  {
+    "word": "VEGETIVE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "(obsolete) vegetable"
+  },
+  {
+    "word": "FRESH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable",
+    "clue": "(of food) Not dried, frozen, or spoiled"
+  },
+  {
+    "word": "HARICOT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "A stew of lamb and vegetables"
+  },
+  {
+    "word": "JUS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable",
+    "clue": "(cooking) The juices given off as meat is cooked"
+  },
+  {
+    "word": "MARGARINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "A butter substitute made from vegetable oils or animal fats"
+  },
+  {
+    "word": "MINERAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "Any inorganic material (as distinguished from animal or vegetable)"
+  },
+  {
+    "word": "PASTY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable",
+    "clue": "A type of seasoned meat and vegetable hand pie, usually of a semicircular shape"
+  },
+  {
+    "word": "PEEL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "vegetable",
+    "clue": "(usually uncountable) The skin or outer layer of a fruit, vegetable, etc"
+  },
+  {
+    "word": "PEELER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable",
+    "clue": "A device for peeling fruit or vegetables"
+  },
+  {
+    "word": "POTPIE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "vegetable",
+    "clue": "(US, regional) A dish of meat and vegetable stew with dumplings"
+  },
+  {
+    "word": "PRIMAVERA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "Describing a light vegetable sauce, especially one served with pasta"
+  },
+  {
+    "word": "PUMPKIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "The round yellow or orange fruit of this plant"
+  },
+  {
+    "word": "VEGETARIAN",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "vegetable",
+    "clue": "That does not eat meat"
+  },
+  {
+    "word": "BASKETRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "The process of weaving unspun vegetable fibers to make a basket"
+  },
+  {
+    "word": "BEIGNET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "(UK) A fritter (with a fruit or vegetable filling)"
+  },
+  {
+    "word": "CHAYOTE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "The fruit of this plant"
+  },
+  {
+    "word": "CHOPPER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "A knife for chopping food, especially one with a large oblong blade"
+  },
+  {
+    "word": "CHOWDER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "A thick, creamy soup or stew"
+  },
+  {
+    "word": "CONSERVE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "A jam or thick syrup made from fruit"
+  },
+  {
+    "word": "COURGETTE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "vegetable",
+    "clue": "(countable, cooking) The edible fruit of this marrow/squash"
+  },
+  {
+    "word": "ORCHARD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "A garden or an area of land for the cultivation of fruit or nut trees"
+  },
+  {
+    "word": "PEAR",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit",
+    "clue": "A type of fruit tree (Pyrus communis)"
+  },
+  {
+    "word": "GRAPEFRUIT",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit",
+    "clue": "The large spherical tart fruit produced by this tree"
+  },
+  {
+    "word": "FRUITFUL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "Favourable to the growth of fruit or useful vegetation; not barren"
+  },
+  {
+    "word": "FRUITION",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "The condition of bearing fruit"
+  },
+  {
+    "word": "BERRIES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "A small succulent fruit, of any one of many varieties"
+  },
+  {
+    "word": "PRUNES",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "The dried, wrinkled fruit of certain species of plum"
+  },
+  {
+    "word": "POMEGRANATE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit",
+    "clue": "The shrub or small tree that bears the fruit"
+  },
+  {
+    "word": "MANGO",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "The fruit of the mango tree"
+  },
+  {
+    "word": "PLUMS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "The fruit and its tree"
+  },
+  {
+    "word": "WATERMELON",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit",
+    "clue": "A plant of the species Citrullus lanatus, bearing a melon-like fruit"
+  },
+  {
+    "word": "RAMBUTAN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "The fruit of this tree"
+  },
+  {
+    "word": "VEGIES",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "(informal) Alternative form of veggie (vegetable) [(informal) A vegetable.]"
+  },
+  {
+    "word": "LYCHEE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "The Chinese tropical fruit tree Litchi chinensis, of the soapberry family"
+  },
+  {
+    "word": "FRUITLETS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "A young, unripe fruit"
+  },
+  {
+    "word": "PAPAYA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "The fruit of this tree"
+  },
+  {
+    "word": "FRUITAGE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "Fruit, collectively"
+  },
+  {
+    "word": "FRUITLET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "A young, unripe fruit"
+  },
+  {
+    "word": "SALAK",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "Pear-shaped fruit of this palm; also called snake fruit"
+  },
+  {
+    "word": "MANGOS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "The fruit of the mango tree"
+  },
+  {
+    "word": "SAPODILLA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "The edible fruit of this tree"
+  },
+  {
+    "word": "FEIJOA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "The green, ellipsoid fruit of this shrub, having a tart and sweet taste"
+  },
+  {
+    "word": "PINEAPPLES",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit",
+    "clue": "(uncountable) The flesh of a pineapple fruit used as a food item"
+  },
+  {
+    "word": "FRUITY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "Alternative form of fruitie (“fruit machine”). [(slang) A fruit machine.]"
+  },
+  {
+    "word": "SAPOTE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "The soft, edible fruit of various South American trees, including the sapodilla"
+  },
+  {
+    "word": "POMEGRANATES",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit",
+    "clue": "The shrub or small tree that bears the fruit"
+  },
+  {
+    "word": "JUICES",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "(uncountable) A liquid made from plant, especially fruit"
+  },
+  {
+    "word": "LYCHEES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "The Chinese tropical fruit tree Litchi chinensis, of the soapberry family"
+  },
+  {
+    "word": "TOMATOES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "A widely cultivated plant, Solanum lycopersicum, having edible fruit"
+  },
+  {
+    "word": "RAMBUTANS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "The fruit of this tree"
+  },
+  {
+    "word": "PLUM",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit",
+    "clue": "The fruit and its tree"
+  },
+  {
+    "word": "FRUITCROP",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "An agricultural crop of fruit"
+  },
+  {
+    "word": "FRUITER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "(historical) A ship for transporting fruit"
+  },
+  {
+    "word": "FRUITLING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "A small or immature fruit"
+  },
+  {
+    "word": "FOLLICLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "(botany) A type of primitive dry fruit produced by certain flowering plants"
+  },
+  {
+    "word": "FRUITERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "(archaic) A place where fruit is stored"
+  },
+  {
+    "word": "FOREFRUIT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "Fruit or produce that ripens before other fruits; a firstfruit"
+  },
+  {
+    "word": "PRIMEUR",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "(in the plural) fruit and vegetables that are available early in the season"
+  },
+  {
+    "word": "POMOLOGY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "(botany) The study of fruit in general and of the cultivation of fruit"
+  },
+  {
+    "word": "LEMMA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "(botany) The outer shell of a fruit or similar body"
+  },
+  {
+    "word": "FINGER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "(cooking) Finger-shaped pieces of food"
+  },
+  {
+    "word": "COCO",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit",
+    "clue": "Coconut, the fruit of the coconut palm"
+  },
+  {
+    "word": "FIG",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit",
+    "clue": "The fruit of the fig tree, pear-shaped and containing many small seeds"
+  },
+  {
+    "word": "ORANGE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "Having the colour of the fruit of an orange tree; yellowred; reddish-yellow"
+  },
+  {
+    "word": "QUINCE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "(countable) The deciduous tree bearing such fruit, native to Asia"
+  },
+  {
+    "word": "RASPBERRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "The juicy aggregate fruit of these plants"
+  },
+  {
+    "word": "SLOE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit",
+    "clue": "The small, astringent, wild fruit of the blackthorn (Prunus spinosa)"
+  },
+  {
+    "word": "BERGAMOT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "The essence or perfume made from the fruit"
+  },
+  {
+    "word": "CHERRY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "The fruit of the coffee plant, containing the seeds or beans"
+  },
+  {
+    "word": "CROWBERRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "A fruit of this plant"
+  },
+  {
+    "word": "KIWI",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit",
+    "clue": "A kiwi fruit"
+  },
+  {
+    "word": "MANDARIN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "A small, sweet citrus fruit"
+  },
+  {
+    "word": "MAYAPPLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "The fruit of the plant Podophyllum peltatum"
+  },
+  {
+    "word": "PAWPAW",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "Papaya (Carica papaya), a widely cultivated tropical fruit tree"
+  },
+  {
+    "word": "PRUNE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "The dried, wrinkled fruit of certain species of plum"
+  },
+  {
+    "word": "RAISIN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "(intransitive) Of fruit: to dry out; to become like raisins"
+  },
+  {
+    "word": "BUCKWHEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "(cooking) The fruit of this plant used as a pseudocereal"
+  },
+  {
+    "word": "BUTTERNUT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "A type of winter squash with sweet, orange flesh and a nutty flavor"
+  },
+  {
+    "word": "CANDY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "(transitive, cooking) To cook in or coat with sugar syrup"
+  },
+  {
+    "word": "CARAMBOLA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "The fruit of this tree, commonly known as star fruit"
+  },
+  {
+    "word": "CARPOLOGY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "The study of the structure of seeds and fruit"
+  },
+  {
+    "word": "CITRIC",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "Of, pertaining to, or derived from, citrus fruit"
+  },
+  {
+    "word": "FRAIL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "The quantity of fruit or other items contained in a frail"
+  },
+  {
+    "word": "FRUITERER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "(British) One who sells fruit"
+  },
+  {
+    "word": "GOOSEBERRY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit",
+    "clue": "A fruit of species Ribes uva-crispa, related to the currant"
+  },
+  {
+    "word": "GOURD",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "fruit",
+    "clue": "A hard-shelled fruit from a plant in Lagenaria or Cucurbita"
+  },
+  {
+    "word": "HACKBERRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "fruit",
+    "clue": "Fruit of these plants"
+  },
+  {
+    "word": "HAND",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit",
+    "clue": "A cluster of bananas or plantains growing together on a stem"
+  },
+  {
+    "word": "HUCKLEBERRY",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "fruit",
+    "clue": "A shrub growing this fruit"
+  },
+  {
+    "word": "HULL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit",
+    "clue": "The outer covering of a fruit or seed"
+  },
+  {
+    "word": "ICE",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "fruit",
+    "clue": "(countable) A frozen dessert made of fruit juice, water and sugar"
+  },
+  {
+    "word": "CRUST",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread",
+    "clue": "The bread-like base of a pizza"
+  },
+  {
+    "word": "PULP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread",
+    "clue": "The soft center of a fruit"
+  },
+  {
+    "word": "BAGUETTE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "A variety of bread that is long and narrow in shape"
+  },
+  {
+    "word": "CIABATTA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "A broad, flat, white Italian bread"
+  },
+  {
+    "word": "FOCACCIA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "(countable) A sandwich made with this type of bread"
+  },
+  {
+    "word": "FLATBREAD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "A thin, flat bread, often made from unleavened dough"
+  },
+  {
+    "word": "CHAPATI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "A flat, unleavened bread from northern India and Pakistan"
+  },
+  {
+    "word": "CORNBREAD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "(US) Bread made from cornmeal"
+  },
+  {
+    "word": "LOAFS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread",
+    "clue": "(also loaf of bread) A block of bread after baking"
+  },
+  {
+    "word": "BREADLESS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "Without bread"
+  },
+  {
+    "word": "BAGUETTES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "A variety of bread that is long and narrow in shape"
+  },
+  {
+    "word": "BAGELS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread",
+    "clue": "A toroidal bread roll that is boiled before it is baked"
+  },
+  {
+    "word": "UNLEAVENED",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "bread",
+    "clue": "(especially of bread or cakes) Without any yeast or other raising agent"
+  },
+  {
+    "word": "PUMPERNICKEL",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "bread",
+    "clue": "A German sourdough bread made from rye"
+  },
+  {
+    "word": "TOASTER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "An electrical device for toasting food, typically sliced bread"
+  },
+  {
+    "word": "CRUMBS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread",
+    "clue": "A small piece which breaks off from baked food (such as cake, biscuit or bread)"
+  },
+  {
+    "word": "CROUTONS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "A small, often seasoned, piece of dry or fried bread"
+  },
+  {
+    "word": "CRUSTS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread",
+    "clue": "The bread-like base of a pizza"
+  },
+  {
+    "word": "MATZOHS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "(uncountable) Thin, unleavened bread in Jewish cuisine"
+  },
+  {
+    "word": "WHOLEMEAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "Meal (flour) milled from the whole grain (including the bran): wholemeal flour"
+  },
+  {
+    "word": "BREADCORN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "Corn or grain from which bread is made"
+  },
+  {
+    "word": "BREADER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "Someone or something that coats food items with breadcrumbs"
+  },
+  {
+    "word": "BOULE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread",
+    "clue": "A round loaf of bread"
+  },
+  {
+    "word": "FRYBREAD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "(Western US) Fried bread"
+  },
+  {
+    "word": "BARGE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread",
+    "clue": "The wooden disk in which bread or biscuit is placed on a mess table"
+  },
+  {
+    "word": "OATBREAD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "Bread made with oatmeal"
+  },
+  {
+    "word": "BISCUITRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "(uncountable) A mass or collection of baked goods such as biscuits and bread"
+  },
+  {
+    "word": "PAV",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread",
+    "clue": "(India) An Indian-style bread roll"
+  },
+  {
+    "word": "BAP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread",
+    "clue": "A soft bread roll, originally from Scotland"
+  },
+  {
+    "word": "HOST",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread",
+    "clue": "(Christianity) The consecrated bread of the Eucharist"
+  },
+  {
+    "word": "SOPS",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread",
+    "clue": "Piece of solid food for dipping in a liquid"
+  },
+  {
+    "word": "SOURBREAD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "Synonym of sourdough bread"
+  },
+  {
+    "word": "STALE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread",
+    "clue": "No longer fresh, in reference to food, urine, straw, wounds, etc"
+  },
+  {
+    "word": "WAFER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread",
+    "clue": "(Christianity) A thin disk of consecrated unleavened bread used in communion"
+  },
+  {
+    "word": "ASSAY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread",
+    "clue": "To try tasting, as food or drink"
+  },
+  {
+    "word": "AZYME",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread",
+    "clue": "(archaic) unleavened bread used in Jewish or Christian religious context"
+  },
+  {
+    "word": "BAO",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread",
+    "clue": "Any of various types of steamed bread or bun used in Chinese cuisine"
+  },
+  {
+    "word": "BARM",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread",
+    "clue": "A small, round, flat individual loaf or roll of bread"
+  },
+  {
+    "word": "BREADBOARD",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "bread",
+    "clue": "A cutting board, especially for cutting bread"
+  },
+  {
+    "word": "BREADLINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "(US) A line of people waiting to receive food from a charity"
+  },
+  {
+    "word": "BUNNY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread",
+    "clue": "(South Africa) Bunny chow; a snack of bread filled with curry"
+  },
+  {
+    "word": "CARAWAY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "bread",
+    "clue": "The seed-like fruit of the caraway plant"
+  },
+  {
+    "word": "CHEAT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "bread",
+    "clue": "(obsolete) A sort of low-quality bread"
+  },
+  {
+    "word": "COB",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "bread",
+    "clue": "(Midlands) A round, often crusty roll or loaf of bread"
+  },
+  {
+    "word": "POTAGE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "A thick soup, especially a creamy one"
+  },
+  {
+    "word": "BORSCHT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup",
+    "clue": "Any similar sour soup made of other ingredients such as sorrel, cabbage, hogweed"
+  },
+  {
+    "word": "SUP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "soup",
+    "clue": "A sip; a small amount, of food or drink, water or rain"
+  },
+  {
+    "word": "SOP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "soup",
+    "clue": "A piece of solid food to be soaked in liquid food"
+  },
+  {
+    "word": "HORSE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "(uncountable) The flesh of a horse as an item of cuisine"
+  },
+  {
+    "word": "TUREENS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup",
+    "clue": "A broad, deep serving dish used for serving soup or stew"
+  },
+  {
+    "word": "RAMEN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "Soup noodles of wheat, with various ingredients (Japanese-Chinese style)"
+  },
+  {
+    "word": "LAKSA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "A spicy noodle stew from Indonesia or Malaysia"
+  },
+  {
+    "word": "SOUPSPOON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup",
+    "clue": "(cooking) A soupspoonful"
+  },
+  {
+    "word": "SOFKY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "(US) A soup or stew made of hominy, cornmeal and bits of meat"
+  },
+  {
+    "word": "SPOONMEAT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup",
+    "clue": "(obsolete) Food to be eaten from a spoon, such as a soup or pap"
+  },
+  {
+    "word": "DASHI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "A type of soup or cooking stock, often made from kelp"
+  },
+  {
+    "word": "RAGOUT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "A stew of meat and vegetables mixed together"
+  },
+  {
+    "word": "SOUCHY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "(cooking) Synonym of water souchy"
+  },
+  {
+    "word": "SOUPBONE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup",
+    "clue": "Alternative form of soup bone. [A bone used in cooking soup.]"
+  },
+  {
+    "word": "STEWP",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "A thick, chunky soup that is thicker than most soups but thinner than a stew"
+  },
+  {
+    "word": "RAFT",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "soup",
+    "clue": "(US, slang, when ordering food) A slice of toast"
+  },
+  {
+    "word": "SUIMONO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup",
+    "clue": "(cooking) clear soup in Japanese cuisine"
+  },
+  {
+    "word": "OLIO",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "soup",
+    "clue": "A rich, thick, Spanish stew consisting of meat and vegetables"
+  },
+  {
+    "word": "NIMONO",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "Any of various stewed dishes in Japanese cuisine"
+  },
+  {
+    "word": "GUKBAP",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "A Korean soup based on rice, with seasonings and various additional ingredients"
+  },
+  {
+    "word": "MOUSSE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "A savory dish, of meat or seafood, containing gelatin"
+  },
+  {
+    "word": "FIDEO",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "(US) noodles or vermicelli, or a dish or soup containing such"
+  },
+  {
+    "word": "STEWPAN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup",
+    "clue": "(archaic, cooking) A saucepan used for stewing"
+  },
+  {
+    "word": "SLOP",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "soup",
+    "clue": "(chiefly in the plural) Inferior, weak drink or semi-liquid food"
+  },
+  {
+    "word": "SOUPY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "Resembling soup; creamy"
+  },
+  {
+    "word": "CALLALOO",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup",
+    "clue": "(cooking) spicy soup or stew made from such leaves"
+  },
+  {
+    "word": "LEFTOVERS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup",
+    "clue": "The uneaten edible remains of a hot or cold meal"
+  },
+  {
+    "word": "LENTILS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup",
+    "clue": "The seed of these plants, used as food"
+  },
+  {
+    "word": "MATELOTE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup",
+    "clue": "A stew made primarily with fish and wine"
+  },
+  {
+    "word": "PORRINGER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup",
+    "clue": "(obsolete) A headdress shaped like such a dish"
+  },
+  {
+    "word": "REGALIA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "soup",
+    "clue": "(by extension, obsolete) Sumptuous food"
+  },
+  {
+    "word": "SAIMIN",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "soup",
+    "clue": "A Hawaiian noodle soup garnished with green onions"
+  },
+  {
+    "word": "POACH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew",
+    "clue": "The act of cooking in simmering liquid"
+  },
+  {
+    "word": "STEWER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew",
+    "clue": "A bird (especially, a chicken) suitable for cooking by stewing"
+  },
+  {
+    "word": "STEWPOT",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew",
+    "clue": "A pot used for making stew, usually large and heavy"
+  },
+  {
+    "word": "CHAFER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew",
+    "clue": "A vessel for heating water; hence, a dish or pan"
+  },
+  {
+    "word": "STODGE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew",
+    "clue": "(British) Heavy, dull, often starchy food, such as a steamed pudding"
+  },
+  {
+    "word": "SCOGIE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew",
+    "clue": "(Scotland, archaic) A kitchen drudge"
+  },
+  {
+    "word": "SLASH",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew",
+    "clue": "(Scotland) A large quantity of watery food such as broth"
+  },
+  {
+    "word": "SUFURIA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew",
+    "clue": "(East Africa, cooking) A deep metal cooking pot with a flat base and no handles"
+  },
+  {
+    "word": "SKINK",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew",
+    "clue": "(chiefly Scotland, obsolete) A soup or pottage made from a boiled shin of beef"
+  },
+  {
+    "word": "BRITCHES",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew",
+    "clue": "(cooking) The roe of cod"
+  },
+  {
+    "word": "BEANHOLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew",
+    "clue": "A hole dug for the purpose of cooking beans underground on hot coals"
+  },
+  {
+    "word": "GOASHORE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew",
+    "clue": "(New Zealand) A three-legged cooking pot"
+  },
+  {
+    "word": "GULYAS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew",
+    "clue": "A rich meat stew highly seasoned with paprika"
+  },
+  {
+    "word": "JUG",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "stew",
+    "clue": "(transitive) To stew in an earthenware jug etc"
+  },
+  {
+    "word": "LOBSCUSE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew",
+    "clue": "A stew of meat and vegetables and hardtack that is eaten by sailors"
+  },
+  {
+    "word": "PURLOO",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew",
+    "clue": "Thick stew made of rice and chicken and small game; southern u.s"
+  },
+  {
+    "word": "BOURRIDE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew",
+    "clue": "A dish made with monkfish, mayonnaise, and a vegetable brunoise"
+  },
+  {
+    "word": "CARBONADE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew",
+    "clue": "A stew of meat cooked in beer"
+  },
+  {
+    "word": "CASSOULET",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew",
+    "clue": "A rich stew originating in southwest France containing beans and meat"
+  },
+  {
+    "word": "DISHED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "stew",
+    "clue": "Shaped like a dish; concave"
+  },
+  {
+    "word": "STEWISH",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew",
+    "clue": "Like a stew or thick soup"
+  },
+  {
+    "word": "WATERZOOI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew",
+    "clue": "A type of Flemish stew, traditionally made with fish"
+  },
+  {
+    "word": "ZARZUELA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew",
+    "clue": "(cooking) A Catalan fish soup or stew"
+  },
+  {
+    "word": "FOOL",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "stew",
+    "clue": "(cooking) A type of dessert made of puréed fruit and custard or cream"
+  },
+  {
+    "word": "KNUCKLE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew",
+    "clue": "A cut of meat of various kinds"
+  },
+  {
+    "word": "MARJORAM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "stew",
+    "clue": "The leaves of this plant, especially dried, used in flavouring food"
+  },
+  {
+    "word": "LAND",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "farming",
+    "clue": "The soil, in respect to its nature or quality for farming"
+  },
+  {
+    "word": "FARMLAND",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming",
+    "clue": "Land that is suitable for farming and agricultural production"
+  },
+  {
+    "word": "RANCHING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming",
+    "clue": "The business or activity of operating a ranch, of farming or raising livestock"
+  },
+  {
+    "word": "DAIRYING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming",
+    "clue": "Synonym of dairy farming"
+  },
+  {
+    "word": "BROADACRE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming",
+    "clue": "(Australia) Of or pertaining to, or suitable for large-scale farming"
+  },
+  {
+    "word": "FORESTRY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming",
+    "clue": "(uncountable) Commercial tree farming"
+  },
+  {
+    "word": "SALMONING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming",
+    "clue": "The industry of raising and preparing salmon as food"
+  },
+  {
+    "word": "FEASTING",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming",
+    "clue": "A feast, or an occasion on which people or animals feast"
+  },
+  {
+    "word": "MEATPACKING",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "farming",
+    "clue": "(US) The slaughter and further processing of animals for meat"
+  },
+  {
+    "word": "KOLKHOZ",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming",
+    "clue": "(historical) A farming collective in the former Soviet Union"
+  },
+  {
+    "word": "SEEDER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "farming",
+    "clue": "An implement used to remove the seeds from fruit etc"
+  },
+  {
+    "word": "FLORICULTURE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "farming",
+    "clue": "The farming of flowers"
+  },
+  {
+    "word": "TRUSS",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "farming",
+    "clue": "(transitive) To tie up a bird before cooking it"
+  },
+  {
+    "word": "BARNYARD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "farming",
+    "clue": "(of food or drink) having an earthy flavor"
+  },
+  {
+    "word": "BUNK",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "farming",
+    "clue": "(farming) A trough or feed bunk used to hold food for livestock"
+  },
+  {
+    "word": "TROPHISM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition",
+    "clue": "Any specific form of nutrition involving the tissue of another organism"
+  },
+  {
+    "word": "DIETETICS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition",
+    "clue": "The study of diet and nutrition in relation to health and disease"
+  },
+  {
+    "word": "NUTRITIONIST",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition",
+    "clue": "An expert or specialist in nutrition"
+  },
+  {
+    "word": "DIETARY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition",
+    "clue": "Comprising a food source"
+  },
+  {
+    "word": "NUTRITIVE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition",
+    "clue": "Nourishing, providing nutrition"
+  },
+  {
+    "word": "NUTRITIONISTS",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition",
+    "clue": "An expert or specialist in nutrition"
+  },
+  {
+    "word": "NUTRITURE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition",
+    "clue": "(obsolete) nutrition; nourishment"
+  },
+  {
+    "word": "SITOLOGY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition",
+    "clue": "The science of food and nutrition"
+  },
+  {
+    "word": "SITIOLOGY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition",
+    "clue": "Alternative form of sitology. [The science of food and nutrition.]"
+  },
+  {
+    "word": "FOODOMICS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition",
+    "clue": "(neologism) The use of omics as a tool in food science"
+  },
+  {
+    "word": "NUTRITIAL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition",
+    "clue": "(obsolete) Pertaining to, or connected with, nutrition; nutritional"
+  },
+  {
+    "word": "OLIGOTROPHIC",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "nutrition",
+    "clue": "(physiology, of a diet) deficient in nutrition (providing little nourishment)"
+  },
+  {
+    "word": "UNFED",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "nutrition",
+    "clue": "(biology) A mosquito that has not had a blood meal"
+  },
+  {
+    "word": "CAPSULE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "nutrition",
+    "clue": "A small, shallow evaporating dish, usually of porcelain"
+  },
+  {
+    "word": "FORAGE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "nutrition",
+    "clue": "To search for and gather food for animals, particularly cattle and horses"
+  },
+  {
+    "word": "HANGI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine",
+    "clue": "(New Zealand, uncountable) Food cooked in this way"
+  },
+  {
+    "word": "WOKERY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine",
+    "clue": "(US) A restaurant serving (especially Cantonese) food cooked in a wok"
+  },
+  {
+    "word": "COOKLINE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "A row of appliances for the preparation of hot food in a restaurant kitchen"
+  },
+  {
+    "word": "PALATE",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine",
+    "clue": "(cooking, historical) The palate of an animal, as an item of food"
+  },
+  {
+    "word": "NONPAREIL",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "(countable, chiefly US, cooking)"
+  },
+  {
+    "word": "WASHOKU",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "Japanese cuisine, traditional Japanese food"
+  },
+  {
+    "word": "CUTCHERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "A spice: kitchery"
+  },
+  {
+    "word": "STRATA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine",
+    "clue": "(US, cooking) A kind of layered casserole dish in American cuisine"
+  },
+  {
+    "word": "KHANA",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine",
+    "clue": "(India, Pakistan) food, a meal"
+  },
+  {
+    "word": "POLONAISE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "(cooking) A garnish made with melted butter, breadcrumbs, and herbs"
+  },
+  {
+    "word": "KARAHI",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine",
+    "clue": "A kind of curry or stew prepared in such a vessel"
+  },
+  {
+    "word": "CATAPLANA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "Any food cooked or served in such a dish"
+  },
+  {
+    "word": "FOODOIR",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "A memoir that focuses on food or includes recipes"
+  },
+  {
+    "word": "FOODPORN",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "(slang) Enticing food imagery"
+  },
+  {
+    "word": "CROUSTADE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "An edible container (often of pastry) filled with a savoury food"
+  },
+  {
+    "word": "TIMBALE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "A drum-shaped mould used to cook food"
+  },
+  {
+    "word": "GOUJON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine",
+    "clue": "(cooking) A thin strip of food, usually fish or chicken"
+  },
+  {
+    "word": "CANNELON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "A dish prepared in such a mold"
+  },
+  {
+    "word": "CHAUSSON",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "A French turnover (food)"
+  },
+  {
+    "word": "CALAMARI",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "(cooking) Squid as food, especially cooked in the form of calamari rings"
+  },
+  {
+    "word": "COD",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cuisine",
+    "clue": "A type of sea fish or the meat from said fish"
+  },
+  {
+    "word": "EPICURE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "A person who takes particular pleasure in fine food and drink"
+  },
+  {
+    "word": "LIGHT",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine",
+    "clue": "(cooking) Not heavy or soggy; spongy; well raised"
+  },
+  {
+    "word": "OCTOPUS",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "(uncountable) The flesh of these marine molluscs eaten as food"
+  },
+  {
+    "word": "TARO",
+    "category": "food",
+    "tier": "easy",
+    "sourceSeed": "cuisine",
+    "clue": "Food from a taro plant"
+  },
+  {
+    "word": "TOSTADA",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "A Latin American toast (toasted bread)"
+  },
+  {
+    "word": "DAIKON",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cuisine",
+    "clue": "(Japanese cuisine) The usual Japanese cultivar, Japanese radish"
+  },
+  {
+    "word": "RECHAUFFE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "cuisine",
+    "clue": "Alternative spelling of réchauffé. [A dish of food that has been reheated.]"
+  },
+  {
+    "word": "AMBRY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "pantry",
+    "clue": "(now rare) A pantry, or place to store food"
+  },
+  {
+    "word": "BUTLERY",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "pantry",
+    "clue": "(countable) A butler's pantry; a serving pantry"
+  },
+  {
+    "word": "BREADROOM",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "pantry",
+    "clue": "An apartment in a ship's hold where the bread is kept"
+  },
+  {
+    "word": "CADDY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "pantry",
+    "clue": "(by extension) A small lidded bin for food waste"
+  },
+  {
+    "word": "KAILYARD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "pantry",
+    "clue": "(Scotland) A kitchen garden"
+  },
+  {
+    "word": "CATERY",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "pantry",
+    "clue": "(obsolete) The place where provisions are deposited, i.e. a pantry or the like"
+  },
+  {
+    "word": "PACKINGHOUSE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "pantry",
+    "clue": "A facility where harvested food is processed into a salable condition"
+  },
+  {
+    "word": "TABERNACLE",
+    "category": "food",
+    "tier": "legendary",
+    "sourceSeed": "pantry",
+    "clue": "A sukkah, the booth or 'tabernacle' used during the Jewish Feast of Sukkot"
+  },
+  {
+    "word": "STALL",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "pantry",
+    "clue": "(countable) A small open-fronted shop, for example in a market, food court, etc"
+  },
+  {
+    "word": "PACKHOUSE",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "pantry",
+    "clue": "A building where fruit and vegetables are packed prior to distribution to shops"
+  },
+  {
+    "word": "POTAGER",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "pantry",
+    "clue": "A kitchen garden; sometimes used attributively"
+  },
+  {
+    "word": "SIDEBOARD",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "pantry",
+    "clue": "A piece of dining-room furniture with cupboards and drawers, used for storing dishes and food"
+  },
+  {
+    "word": "NUTRITION",
+    "category": "food",
+    "tier": "hard",
+    "sourceSeed": "food",
+    "clue": "That which nourishes; nutriment"
+  },
+  {
+    "word": "COOKER",
+    "category": "food",
+    "tier": "medium",
+    "sourceSeed": "cooking",
+    "clue": "(chiefly UK, Ireland) A cookstove"
+  }
+]

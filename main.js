@@ -352,6 +352,7 @@ async function loadExistingOutput(outputPath) {
       log.warning(`⚠️ تعذّرت قراءة ${outputPath} (${e.message})، سيبدأ من الصفر.`);
     }
   }
+  log.info(`🆕 لا يوجد ملف مخرجات سابق باسم "${outputPath}" — سيبدأ التوليد من الصفر (تأكد إن هذا هو الاسم الصحيح إن كنت تتوقع استئنافاً).`);
   return { puzzles: [], doneWords: new Set(), nextId: 1 };
 }
 

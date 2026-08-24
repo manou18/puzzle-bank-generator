@@ -6830,5 +6830,189 @@
     "word": "gingerbread",
     "hint": "A spiced, dark baked dessert heavily flavored with a pungent, aromatic root and sweetened with molasses.",
     "sourceSeed": "spice"
+  },
+  {
+    "id": 855,
+    "category": "food",
+    "tier": "medium",
+    "word": "spice",
+    "hint": "The hot, pungent, or zesty quality that gives food a kick.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 856,
+    "category": "food",
+    "tier": "hard",
+    "word": "provender",
+    "hint": "An old-fashioned term for animal fodder or daily nourishment given to livestock.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 857,
+    "category": "food",
+    "tier": "hard",
+    "word": "victuals",
+    "hint": "A traditional term referring broadly to food provisions or edible sustenance.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 858,
+    "category": "food",
+    "tier": "hard",
+    "word": "pabulum",
+    "hint": "Figuratively used to describe intellectual nourishment or material that fuels thought.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 859,
+    "category": "food",
+    "tier": "hard",
+    "word": "fooderie",
+    "hint": "A less common name for an establishment or venue where dining options are prepared and served.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 860,
+    "category": "food",
+    "tier": "hard",
+    "word": "inmeats",
+    "hint": "An obsolete term for the edible internal organs or viscera of animals.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 861,
+    "category": "food",
+    "tier": "hard",
+    "word": "cayenne",
+    "hint": "A figurative quality of lively bite, sharp zest, or fiery verve.",
+    "sourceSeed": "ingredient"
+  },
+  {
+    "id": 862,
+    "category": "food",
+    "tier": "hard",
+    "word": "vanilla",
+    "hint": "An aromatic culinary flavoring extract derived from cured tropical orchid pods.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 863,
+    "category": "food",
+    "tier": "hard",
+    "word": "vindaloo",
+    "hint": "A highly spiced Indian dish known for its intense heat and rich sauce.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 864,
+    "category": "food",
+    "tier": "hard",
+    "word": "bespice",
+    "hint": "To flavor a dish heavily using aromatic culinary seasonings or pungent drugs.",
+    "sourceSeed": "spice"
+  },
+  {
+    "id": 865,
+    "category": "food",
+    "tier": "hard",
+    "word": "batmeat",
+    "hint": "Flesh derived from a flying mammal, prepared as food in certain tropical regions.",
+    "sourceSeed": "meat"
+  },
+  {
+    "id": 866,
+    "category": "food",
+    "tier": "hard",
+    "word": "aubergine",
+    "hint": "Dark purple British term for the nightshade vegetable also known as eggplant.",
+    "sourceSeed": "vegetable"
+  },
+  {
+    "id": 867,
+    "category": "food",
+    "tier": "hard",
+    "word": "fruitful",
+    "hint": "Yielding abundant crops, produce, or vegetation; highly fertile soil condition.",
+    "sourceSeed": "fruit"
+  },
+  {
+    "id": 868,
+    "category": "food",
+    "tier": "hard",
+    "word": "cornbread",
+    "hint": "A savory or sweet baked loaf made primarily from yellow or white maize meal.",
+    "sourceSeed": "bread"
+  },
+  {
+    "id": 869,
+    "category": "food",
+    "tier": "hard",
+    "word": "forestry",
+    "hint": "The commercial cultivation and management of timber-yielding trees.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 870,
+    "category": "food",
+    "tier": "hard",
+    "word": "foodomics",
+    "hint": "A modern discipline applying high-throughput genomic and metabolic profiling to dietary science.",
+    "sourceSeed": "nutrition"
+  },
+  {
+    "id": 871,
+    "category": "food",
+    "tier": "hard",
+    "word": "potager",
+    "hint": "A French-style ornamental garden patch cultivated for vegetables, herbs, and edible plants.",
+    "sourceSeed": "pantry"
+  },
+  {
+    "id": 872,
+    "category": "food",
+    "tier": "legendary",
+    "word": "nourishment",
+    "hint": "Sustenance or food necessary for maintaining health, growth, and life.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 873,
+    "category": "food",
+    "tier": "legendary",
+    "word": "supplements",
+    "hint": "Extra surcharges added to a restaurant bill for upgraded dining choices or special dishes.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 874,
+    "category": "food",
+    "tier": "legendary",
+    "word": "commissariat",
+    "hint": "Provisions of sustenance or the department tasked with supplying rations.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 875,
+    "category": "food",
+    "tier": "legendary",
+    "word": "breadbasket",
+    "hint": "A woven receptacle designed for serving or storing baked wheat loaves at a dining table.",
+    "sourceSeed": "baking"
+  },
+  {
+    "id": 876,
+    "category": "food",
+    "tier": "easy",
+    "word": "meat",
+    "hint": "A specific cut or type of animal flesh consumed as food, such as beef or pork.",
+    "sourceSeed": "food"
+  },
+  {
+    "id": 877,
+    "category": "food",
+    "tier": "easy",
+    "word": "pea",
+    "hint": "A small, round green edible seed that grows inside a pod.",
+    "sourceSeed": "vegetable"
   }
 ]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "category": "animals",
+    "tier": "medium",
+    "word": "fauna",
+    "hint": "A published volume or catalog detailing the wildlife of a specific region.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 2,
+    "category": "animals",
+    "tier": "medium",
+    "word": "beast",
+    "hint": "A large, wild, or potentially dangerous four-legged land creature.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 3,
+    "category": "animals",
+    "tier": "medium",
+    "word": "brute",
+    "hint": "An unreasoning creature lacking human intellect or moral sense.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 4,
+    "category": "animals",
+    "tier": "medium",
+    "word": "mammal",
+    "hint": "A warm-blooded vertebrate animal that typically nurses its young.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 5,
+    "category": "animals",
+    "tier": "medium",
+    "word": "whale",
+    "hint": "A huge aquatic creature belonging to the marine order Cetacea.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 6,
+    "category": "animals",
+    "tier": "medium",
+    "word": "stock",
+    "hint": "Domesticated agricultural creatures raised on a farm or ranch.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 7,
+    "category": "animals",
+    "tier": "medium",
+    "word": "beasts",
+    "hint": "Large, wild land creatures, often seen as untamed or formidable.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 8,
+    "category": "animals",
+    "tier": "medium",
+    "word": "being",
+    "hint": "Any conscious or living entity existing in nature.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 9,
+    "category": "animals",
+    "tier": "medium",
+    "word": "equine",
+    "hint": "A member of the horse family, such as a stallion or zebra.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 10,
+    "category": "animals",
+    "tier": "medium",
+    "word": "tiger",
+    "hint": "A striped, solitary feline predator native to Asia.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 11,
+    "category": "animals",
+    "tier": "medium",
+    "word": "rabbit",
+    "hint": "Culinary meat harvested from a long-eared, burrowing creature.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 12,
+    "category": "animals",
+    "tier": "medium",
+    "word": "coyote",
+    "hint": "A wild North American canine known for its nocturnal howling.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 13,
+    "category": "animals",
+    "tier": "medium",
+    "word": "avian",
+    "hint": "Describing or relating to birds and feathered flying creatures.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 14,
+    "category": "animals",
+    "tier": "medium",
+    "word": "bovid",
+    "hint": "A cloven-hoofed, cloven-footed horned creature like a goat or antelope.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 15,
+    "category": "animals",
+    "tier": "medium",
+    "word": "turtle",
+    "hint": "An ocean-dwelling reptile with flippers and a protective hard shell.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 16,
+    "category": "animals",
+    "tier": "medium",
+    "word": "member",
+    "hint": "A distinct functional body part of a living creature, like a leg or wing.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 17,
+    "category": "animals",
+    "tier": "medium",
+    "word": "aliped",
+    "hint": "A wing-footed creature, such as a flying bat.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 18,
+    "category": "animals",
+    "tier": "medium",
+    "word": "ovine",
+    "hint": "A woolly, cud-chewing creature belonging to the genus Ovis.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 19,
+    "category": "animals",
+    "tier": "medium",
+    "word": "trail",
+    "hint": "To drive or herd livestock slowly across long distances.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 20,
+    "category": "animals",
+    "tier": "medium",
+    "word": "adult",
+    "hint": "A creature that has reached full maturity and growth.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 21,
+    "category": "animals",
+    "tier": "medium",
+    "word": "armor",
+    "hint": "The tough external plates, shell, or thick scales protecting a creature's body.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 22,
+    "category": "animals",
+    "tier": "medium",
+    "word": "belly",
+    "hint": "The internal organ of a creature where ingested food is broken down.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 23,
+    "category": "animals",
+    "tier": "medium",
+    "word": "biped",
+    "hint": "Any living creature that habitually walks upright on two legs.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 24,
+    "category": "animals",
+    "tier": "medium",
+    "word": "breast",
+    "hint": "The front underside or chest region of an animal's body.",
+    "sourceSeed": "animal"
+  }
+]

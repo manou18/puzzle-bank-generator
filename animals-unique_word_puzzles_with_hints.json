@@ -190,5 +190,125 @@
     "word": "breast",
     "hint": "The front underside or chest region of an animal's body.",
     "sourceSeed": "animal"
+  },
+  {
+    "id": 25,
+    "category": "animals",
+    "tier": "hard",
+    "word": "creature",
+    "hint": "Any living entity, ranging from familiar wildlife to imaginary beasts or extraterrestrials.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 26,
+    "category": "animals",
+    "tier": "hard",
+    "word": "species",
+    "hint": "A basic biological rank comprising organisms capable of interbreeding and producing fertile young.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 27,
+    "category": "animals",
+    "tier": "hard",
+    "word": "livestock",
+    "hint": "Domesticated farm beasts kept for labor, food, or other commercial products.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 28,
+    "category": "animals",
+    "tier": "hard",
+    "word": "monster",
+    "hint": "A mythical, bizarre, or strangely shaped living entity often found in folklore.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 29,
+    "category": "animals",
+    "tier": "hard",
+    "word": "quadruped",
+    "hint": "An organism that uses four limbs for locomotion.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 30,
+    "category": "animals",
+    "tier": "hard",
+    "word": "reptile",
+    "hint": "A cladistic grouping of cold-blooded, egg-laying vertebrates that modern taxonomy extends to include avian lineages.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 31,
+    "category": "animals",
+    "tier": "hard",
+    "word": "carnivore",
+    "hint": "A member of a specific taxonomic order of flesh-eating mammals, such as felids, canids, and ursids.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 32,
+    "category": "animals",
+    "tier": "hard",
+    "word": "dolphin",
+    "hint": "A highly intelligent, aquatic marine mammal known for its echolocation abilities and curved mouth line.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 33,
+    "category": "animals",
+    "tier": "hard",
+    "word": "carcass",
+    "hint": "The remaining physical structure of a deceased flesh-bearing organism.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 34,
+    "category": "animals",
+    "tier": "hard",
+    "word": "raccoon",
+    "hint": "A ring-tailed nocturnal mammal with facial markings resembling a dark mask, belonging to Procyoninae.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 35,
+    "category": "animals",
+    "tier": "hard",
+    "word": "habitat",
+    "hint": "The specific natural environment in which a particular organism or population resides and thrives.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 36,
+    "category": "animals",
+    "tier": "hard",
+    "word": "metazoan",
+    "hint": "A multicellular organism possessing differentiated tissues, forming the kingdom Animalia.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 37,
+    "category": "animals",
+    "tier": "hard",
+    "word": "endofauna",
+    "hint": "Organisms originating from beyond the immediate local ecological niche of a primary subject.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 38,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zoophage",
+    "hint": "An organism that derives its energy primarily by feeding on the flesh or tissues of other fauna.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 39,
+    "category": "animals",
+    "tier": "hard",
+    "word": "anneloid",
+    "hint": "An obsolete biological term for an organism that bears resemblance to segmented worms.",
+    "sourceSeed": "animal"
   }
 ]

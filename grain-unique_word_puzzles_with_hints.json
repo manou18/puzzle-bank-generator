@@ -3734,5 +3734,733 @@
     "word": "cornshock",
     "hint": "A conical bundle of harvested maize stalks stacked upright outdoors to dry.",
     "sourceSeed": "sheaf"
+  },
+  {
+    "id": 468,
+    "category": "grain",
+    "tier": "medium",
+    "word": "bucket",
+    "hint": "Informal basketball slang for a successful field goal that scores points.",
+    "sourceSeed": "grain"
+  },
+  {
+    "id": 469,
+    "category": "grain",
+    "tier": "hard",
+    "word": "kernels",
+    "hint": "Individual seeds or central edible grains of maize or cereal stalks.",
+    "sourceSeed": "grain"
+  },
+  {
+    "id": 470,
+    "category": "grain",
+    "tier": "hard",
+    "word": "harvest",
+    "hint": "The seasonal gathering of mature yield from agricultural fields.",
+    "sourceSeed": "grain crop"
+  },
+  {
+    "id": 471,
+    "category": "grain",
+    "tier": "hard",
+    "word": "splitsaw",
+    "hint": "A manual cutting tool configured to slice timber parallel with its longitudinal fibers.",
+    "sourceSeed": "grain crop"
+  },
+  {
+    "id": 472,
+    "category": "grain",
+    "tier": "hard",
+    "word": "ryelage",
+    "hint": "Fermented agricultural forage made from a specific dark-grained cereal plant.",
+    "sourceSeed": "rye"
+  },
+  {
+    "id": 473,
+    "category": "grain",
+    "tier": "hard",
+    "word": "lentils",
+    "hint": "Small, lens-shaped edible pulse seeds harvested from leguminous plants.",
+    "sourceSeed": "rice"
+  },
+  {
+    "id": 474,
+    "category": "grain",
+    "tier": "hard",
+    "word": "multure",
+    "hint": "A fee paid in grain or money for processing cereal, or the output itself.",
+    "sourceSeed": "grain mill"
+  },
+  {
+    "id": 475,
+    "category": "grain",
+    "tier": "hard",
+    "word": "treadmill",
+    "hint": "A mechanical device turned by animals walking on a revolving platform or belt.",
+    "sourceSeed": "milling"
+  },
+  {
+    "id": 476,
+    "category": "grain",
+    "tier": "hard",
+    "word": "infield",
+    "hint": "Arable plot positioned near a farmhouse, regularly manured and cultivated continuously.",
+    "sourceSeed": "field"
+  },
+  {
+    "id": 477,
+    "category": "grain",
+    "tier": "hard",
+    "word": "forefield",
+    "hint": "The front section of a broad region, combat zone, or visual perspective closest to the observer.",
+    "sourceSeed": "field"
+  },
+  {
+    "id": 478,
+    "category": "grain",
+    "tier": "hard",
+    "word": "thrashing",
+    "hint": "The agricultural process of beating harvested cereal plants to loosen kernels from chaff.",
+    "sourceSeed": "sheaf"
+  },
+  {
+    "id": 479,
+    "category": "grain",
+    "tier": "hard",
+    "word": "seedlep",
+    "hint": "An obsolete container or basket carried across the chest to hold grain during hand-sowing.",
+    "sourceSeed": "sheaf"
+  },
+  {
+    "id": 480,
+    "category": "grain",
+    "tier": "hard",
+    "word": "sidedress",
+    "hint": "To distribute nutrients into the soil alongside established rows of crops to boost growth.",
+    "sourceSeed": "thresh"
+  },
+  {
+    "id": 481,
+    "category": "grain",
+    "tier": "hard",
+    "word": "mowburn",
+    "hint": "Heat damage and fermentation spoilage that occurs when stored damp forage is stacked too tightly.",
+    "sourceSeed": "thresh"
+  },
+  {
+    "id": 482,
+    "category": "grain",
+    "tier": "hard",
+    "word": "thrashed",
+    "hint": "Separated grain kernels from their straw or chaff by beating.",
+    "sourceSeed": "thresh"
+  },
+  {
+    "id": 483,
+    "category": "grain",
+    "tier": "hard",
+    "word": "academy",
+    "hint": "The collective group of recognized scholars whose consensus defines standard authoritative thought.",
+    "sourceSeed": "agriculture"
+  },
+  {
+    "id": 484,
+    "category": "grain",
+    "tier": "hard",
+    "word": "grounding",
+    "hint": "Basic instruction that instills essential underlying knowledge in a beginner.",
+    "sourceSeed": "agriculture"
+  },
+  {
+    "id": 485,
+    "category": "grain",
+    "tier": "hard",
+    "word": "geoponic",
+    "hint": "Pertaining to the cultivation of soil and the production of crops; agricultural.",
+    "sourceSeed": "agriculture"
+  },
+  {
+    "id": 486,
+    "category": "grain",
+    "tier": "hard",
+    "word": "geoponics",
+    "hint": "The formal scientific study and principles of cultivating land and growing crops.",
+    "sourceSeed": "agriculture"
+  },
+  {
+    "id": 487,
+    "category": "grain",
+    "tier": "hard",
+    "word": "sunseed",
+    "hint": "A specialized kernel harvested from tall yellow blossoms to yield heart-healthy cooking fats.",
+    "sourceSeed": "seed grain"
+  },
+  {
+    "id": 488,
+    "category": "grain",
+    "tier": "hard",
+    "word": "teelseed",
+    "hint": "An alternate term for the tiny, oil-rich kernel harvested from the Sesamum plant.",
+    "sourceSeed": "seed grain"
+  },
+  {
+    "id": 489,
+    "category": "grain",
+    "tier": "hard",
+    "word": "lintseed",
+    "hint": "An old-fashioned term for flax kernels, famously pressed to extract a drying oil.",
+    "sourceSeed": "seed grain"
+  },
+  {
+    "id": 490,
+    "category": "grain",
+    "tier": "hard",
+    "word": "fruitcrop",
+    "hint": "The total agricultural yield harvested from orchards or berry fields in a single season.",
+    "sourceSeed": "seed grain"
+  },
+  {
+    "id": 491,
+    "category": "grain",
+    "tier": "hard",
+    "word": "jinjili",
+    "hint": "An East Asian and Indian designation for sesame kernels, prized for cooking oil.",
+    "sourceSeed": "seed grain"
+  },
+  {
+    "id": 492,
+    "category": "grain",
+    "tier": "hard",
+    "word": "greencrop",
+    "hint": "Cultivated leafy vegetables or forage plants grown for livestock fodder or soil enrichment.",
+    "sourceSeed": "seed grain"
+  },
+  {
+    "id": 493,
+    "category": "grain",
+    "tier": "hard",
+    "word": "profichi",
+    "hint": "The early spring yield of wild fig trees, essential for pollinating cultivated varieties.",
+    "sourceSeed": "seed grain"
+  },
+  {
+    "id": 494,
+    "category": "grain",
+    "tier": "hard",
+    "word": "mammoni",
+    "hint": "The secondary summer yield of the caprifig tree that harbors pollinating wasps.",
+    "sourceSeed": "seed grain"
+  },
+  {
+    "id": 495,
+    "category": "grain",
+    "tier": "hard",
+    "word": "sesamoid",
+    "hint": "Describing a bone or anatomical structure resembling a tiny, flat sesame seed.",
+    "sourceSeed": "seed grain"
+  },
+  {
+    "id": 496,
+    "category": "grain",
+    "tier": "hard",
+    "word": "hummock",
+    "hint": "A prominent mound or ridge of frozen water elevated above an expansive ice field.",
+    "sourceSeed": "bushel"
+  },
+  {
+    "id": 497,
+    "category": "grain",
+    "tier": "hard",
+    "word": "bushelage",
+    "hint": "An old tax or duty levied on dry goods based on a standard volumetric unit.",
+    "sourceSeed": "bushel"
+  },
+  {
+    "id": 498,
+    "category": "grain",
+    "tier": "hard",
+    "word": "modiolar",
+    "hint": "Formed or shaped in the likeness of an ancient Roman dry volume measure.",
+    "sourceSeed": "bushel"
+  },
+  {
+    "id": 499,
+    "category": "grain",
+    "tier": "hard",
+    "word": "outcast",
+    "hint": "The gain in total volume of steeped barley resulting from the malting process.",
+    "sourceSeed": "bushel"
+  },
+  {
+    "id": 500,
+    "category": "grain",
+    "tier": "hard",
+    "word": "seminary",
+    "hint": "A dedicated plot of ground where plant embryos are sown to produce stock for transplanting.",
+    "sourceSeed": "granary"
+  },
+  {
+    "id": 501,
+    "category": "grain",
+    "tier": "hard",
+    "word": "rubaboo",
+    "hint": "A traditional North American frontier stew made with ground maize, legumes, and fat.",
+    "sourceSeed": "porridge"
+  },
+  {
+    "id": 502,
+    "category": "grain",
+    "tier": "hard",
+    "word": "bearmeal",
+    "hint": "Coarsely ground flour milled from a hardy four-row or six-row Scottish barley.",
+    "sourceSeed": "porridge"
+  },
+  {
+    "id": 503,
+    "category": "grain",
+    "tier": "hard",
+    "word": "pongali",
+    "hint": "A South Indian dish prepared by boiling rice and lentils with ghee and spices or sweetener.",
+    "sourceSeed": "porridge"
+  },
+  {
+    "id": 504,
+    "category": "grain",
+    "tier": "hard",
+    "word": "payasam",
+    "hint": "A rich South Asian pudding made by simmering cereal crops in milk with sugar and nuts.",
+    "sourceSeed": "porridge"
+  },
+  {
+    "id": 505,
+    "category": "grain",
+    "tier": "hard",
+    "word": "puffcorn",
+    "hint": "An airy extruded maize snack baked to resemble exploded kernels without hulls.",
+    "sourceSeed": "cracker"
+  },
+  {
+    "id": 506,
+    "category": "grain",
+    "tier": "hard",
+    "word": "podosperm",
+    "hint": "The botanical stalk or funicle that anchors an ovule or plant embryo to the ovary wall.",
+    "sourceSeed": "stalk"
+  },
+  {
+    "id": 507,
+    "category": "grain",
+    "tier": "hard",
+    "word": "corcule",
+    "hint": "An obsolete botanical term for the heart or main embryonic center of a plant seed.",
+    "sourceSeed": "stalk"
+  },
+  {
+    "id": 508,
+    "category": "grain",
+    "tier": "hard",
+    "word": "scutellum",
+    "hint": "The shield-like cotyledon in cereal kernels specialized for absorbing nutrients during germination.",
+    "sourceSeed": "stalk"
+  },
+  {
+    "id": 509,
+    "category": "grain",
+    "tier": "hard",
+    "word": "disking",
+    "hint": "The agricultural practice of tilling topsoil using a harrow fitted with sharp, circular rotating plates.",
+    "sourceSeed": "plow"
+  },
+  {
+    "id": 510,
+    "category": "grain",
+    "tier": "hard",
+    "word": "tractors",
+    "hint": "Floorless portable coops moved across pastureland to allow poultry to graze directly on vegetation.",
+    "sourceSeed": "plow"
+  },
+  {
+    "id": 511,
+    "category": "grain",
+    "tier": "hard",
+    "word": "furrows",
+    "hint": "Parallel narrow trenches plowed into soil to receive planted seeds or channel water.",
+    "sourceSeed": "plow"
+  },
+  {
+    "id": 512,
+    "category": "grain",
+    "tier": "hard",
+    "word": "coulter",
+    "hint": "The blade on a seed drill that cuts a clean groove in the ground ahead of planting.",
+    "sourceSeed": "plow"
+  },
+  {
+    "id": 513,
+    "category": "grain",
+    "tier": "hard",
+    "word": "dresser",
+    "hint": "A mechanical sifting apparatus in a flour mill used to separate meal from bran.",
+    "sourceSeed": "millstone"
+  },
+  {
+    "id": 514,
+    "category": "grain",
+    "tier": "hard",
+    "word": "kominuter",
+    "hint": "A Danish grinding apparatus using a revolving cylinder filled with steel spheres to pulverize material.",
+    "sourceSeed": "millstone"
+  },
+  {
+    "id": 515,
+    "category": "grain",
+    "tier": "hard",
+    "word": "pearler",
+    "hint": "Equipment used to dehull and polish cereal grains to produce rounded, refined kernels.",
+    "sourceSeed": "millstone"
+  },
+  {
+    "id": 516,
+    "category": "grain",
+    "tier": "hard",
+    "word": "whopstraw",
+    "hint": "An old term for a farm hand who beats cereal stalks with a flail to separate kernel from chaff.",
+    "sourceSeed": "millstone"
+  },
+  {
+    "id": 517,
+    "category": "grain",
+    "tier": "hard",
+    "word": "maizemeal",
+    "hint": "Coarse ground powder made from yellow or white corn kernels.",
+    "sourceSeed": "semolina"
+  },
+  {
+    "id": 518,
+    "category": "grain",
+    "tier": "hard",
+    "word": "soymeal",
+    "hint": "Ground coarse product derived from pressed legumes, used primarily in livestock feed.",
+    "sourceSeed": "semolina"
+  },
+  {
+    "id": 519,
+    "category": "grain",
+    "tier": "hard",
+    "word": "bergmeal",
+    "hint": "Earthy deposit of microscopic aquatic organism shells, historically mistaken for fine flour.",
+    "sourceSeed": "semolina"
+  },
+  {
+    "id": 520,
+    "category": "grain",
+    "tier": "hard",
+    "word": "freekeh",
+    "hint": "Levantine food staple made from green cereal harvested early and subsequently fire-roasted.",
+    "sourceSeed": "semolina"
+  },
+  {
+    "id": 521,
+    "category": "grain",
+    "tier": "hard",
+    "word": "somyeon",
+    "hint": "Very thin wheat-based strands used in Korean broth or cold noodle dishes.",
+    "sourceSeed": "semolina"
+  },
+  {
+    "id": 522,
+    "category": "grain",
+    "tier": "hard",
+    "word": "mesosperm",
+    "hint": "Botanical membrane representing the middle layer enclosing a plant's reproductive ovule structure.",
+    "sourceSeed": "endosperm"
+  },
+  {
+    "id": 523,
+    "category": "grain",
+    "tier": "hard",
+    "word": "seedcoat",
+    "hint": "The outer protective integument surrounding an embryonic plant within its shell.",
+    "sourceSeed": "endosperm"
+  },
+  {
+    "id": 524,
+    "category": "grain",
+    "tier": "hard",
+    "word": "tickseed",
+    "hint": "Flowering member of Coreopsis whose small fruits resemble blood-sucking parasites.",
+    "sourceSeed": "teff"
+  },
+  {
+    "id": 525,
+    "category": "grain",
+    "tier": "hard",
+    "word": "kaferita",
+    "hint": "Grain hybrid produced by crossing two distinct varieties of cereal sorghum.",
+    "sourceSeed": "sorghum"
+  },
+  {
+    "id": 526,
+    "category": "grain",
+    "tier": "hard",
+    "word": "whitecorn",
+    "hint": "Pale variety of maize grown as a field crop and used for hominy or tortillas.",
+    "sourceSeed": "sorghum"
+  },
+  {
+    "id": 527,
+    "category": "grain",
+    "tier": "hard",
+    "word": "smuttings",
+    "hint": "Low-grade refuse or husks discarded during the historical milling of cereal crops.",
+    "sourceSeed": "bran"
+  },
+  {
+    "id": 528,
+    "category": "grain",
+    "tier": "hard",
+    "word": "tolldish",
+    "hint": "Historical measuring vessel used by a miller to extract their portion of ground cereal.",
+    "sourceSeed": "bran"
+  },
+  {
+    "id": 529,
+    "category": "grain",
+    "tier": "hard",
+    "word": "dustball",
+    "hint": "Compact mass of particulate fiber formed within the intestinal tract of a sick horse.",
+    "sourceSeed": "bran"
+  },
+  {
+    "id": 530,
+    "category": "grain",
+    "tier": "hard",
+    "word": "shucker",
+    "hint": "Farm laborer or kitchen worker who strips outer husks from ears of maize or opens bivalves.",
+    "sourceSeed": "husk"
+  },
+  {
+    "id": 531,
+    "category": "grain",
+    "tier": "hard",
+    "word": "maftool",
+    "hint": "Palestinian culinary staple made from sun-dried durum wheat granules cooked over steam.",
+    "sourceSeed": "couscous"
+  },
+  {
+    "id": 532,
+    "category": "grain",
+    "tier": "hard",
+    "word": "mujaddara",
+    "hint": "Middle Eastern dish consisting of cooked pulse crops paired with rice or cracked wheat.",
+    "sourceSeed": "couscous"
+  },
+  {
+    "id": 533,
+    "category": "grain",
+    "tier": "hard",
+    "word": "khichdi",
+    "hint": "South Asian comfort food prepared by boiling rice together with split pulses and spices.",
+    "sourceSeed": "couscous"
+  },
+  {
+    "id": 534,
+    "category": "grain",
+    "tier": "hard",
+    "word": "khichri",
+    "hint": "Alternative spelling of a traditional Indian dish made from boiled rice and split legumes.",
+    "sourceSeed": "couscous"
+  },
+  {
+    "id": 535,
+    "category": "grain",
+    "tier": "hard",
+    "word": "agrarian",
+    "hint": "Relating to rural land ownership, farming practices, or agricultural economies.",
+    "sourceSeed": "agriculture"
+  },
+  {
+    "id": 536,
+    "category": "grain",
+    "tier": "hard",
+    "word": "agronomy",
+    "hint": "The branch of science concerned with field crop production and soil management.",
+    "sourceSeed": "agriculture"
+  },
+  {
+    "id": 537,
+    "category": "grain",
+    "tier": "hard",
+    "word": "peck",
+    "hint": "A traditional dry volume unit equal to two gallons or eight quarts, historically used for measuring harvested crops.",
+    "sourceSeed": "bushel"
+  },
+  {
+    "id": 538,
+    "category": "grain",
+    "tier": "hard",
+    "word": "ploughland",
+    "hint": "An archaic term for arable soil maintained specifically for growing annual crops like cereal grains.",
+    "sourceSeed": "field"
+  },
+  {
+    "id": 539,
+    "category": "grain",
+    "tier": "hard",
+    "word": "tillage",
+    "hint": "The practice or result of turning and churning soil to prepare an agrarian bed for seeds.",
+    "sourceSeed": "field"
+  },
+  {
+    "id": 540,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "harvesters",
+    "hint": "Mechanical agricultural machines designed to cut, thresh, and collect mature crops from farmland.",
+    "sourceSeed": "harvest"
+  },
+  {
+    "id": 541,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "cultivation",
+    "hint": "The systematic tilling, preparation, and nurturing of soil for agricultural production.",
+    "sourceSeed": "harvest"
+  },
+  {
+    "id": 542,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "cultivations",
+    "hint": "Multiple instances or methods of tilling and preparing land to raise agricultural yields.",
+    "sourceSeed": "harvest"
+  },
+  {
+    "id": 543,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "thanksgiving",
+    "hint": "An autumnal communal festival celebrating a successful seasonal yield and expressing gratitude.",
+    "sourceSeed": "harvest"
+  },
+  {
+    "id": 544,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "clearcutting",
+    "hint": "A forestry technique involving the complete removal of all timber within a designated tract.",
+    "sourceSeed": "harvest"
+  },
+  {
+    "id": 545,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "broadcaster",
+    "hint": "An agricultural farm implement designed to scatter seeds or nutrients evenly across soil.",
+    "sourceSeed": "grain crop"
+  },
+  {
+    "id": 546,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "cottonseed",
+    "hint": "The small reproductive unit of a fiber-producing plant, often processed for culinary oil.",
+    "sourceSeed": "grain crop"
+  },
+  {
+    "id": 547,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "wheatgrass",
+    "hint": "A plant genus within the poaceae family, often cultivated for its nutrient-dense young shoots.",
+    "sourceSeed": "barley"
+  },
+  {
+    "id": 548,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "cornfields",
+    "hint": "Agricultural plots where tall maize stalks are cultivated in long, orderly rows.",
+    "sourceSeed": "corn"
+  },
+  {
+    "id": 549,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "porcupines",
+    "hint": "Savory beef balls mixed with grains of rice so they sprout quill-like projections when cooked in sauce.",
+    "sourceSeed": "rice"
+  },
+  {
+    "id": 550,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "horticulture",
+    "hint": "The science and art of cultivating gardens, small plots, or ornamental plants on a modest scale.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 551,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "sericulture",
+    "hint": "The agricultural practice of raising specific caterpillars to produce lustrous textile fibers.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 552,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "agriculturist",
+    "hint": "An expert or professional practitioner in the science and management of farming and soil management.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 553,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "succession",
+    "hint": "The systematic sequence or rotation of different plantings across seasons to maintain soil nutrients.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 554,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "floriculture",
+    "hint": "The agricultural discipline concerned with cultivating ornamental, flowering plants for commercial markets.",
+    "sourceSeed": "farming"
+  },
+  {
+    "id": 555,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "conversation",
+    "hint": "In an obsolete sense, deep personal engagement or familiar acquaintance with a subject or discipline.",
+    "sourceSeed": "agriculture"
+  },
+  {
+    "id": 556,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "integument",
+    "hint": "Botanical term for the protective outer envelope of a plant ovule that hardens into a hull or husk.",
+    "sourceSeed": "endosperm"
+  },
+  {
+    "id": 557,
+    "category": "grain",
+    "tier": "legendary",
+    "word": "agribusiness",
+    "hint": "The corporate commercial sector comprising large-scale food production, processing, and distribution networks.",
+    "sourceSeed": "agriculture"
+  },
+  {
+    "id": 558,
+    "category": "grain",
+    "tier": "easy",
+    "word": "ripe",
+    "hint": "Fully grown and ready to harvest or eat, as a crop or fruit.",
+    "sourceSeed": "grain crop"
   }
 ]

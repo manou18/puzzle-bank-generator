@@ -1,0 +1,7254 @@
+[
+  {
+    "word": "FAUNA",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "(countable) A book, cataloguing the animals of a country"
+  },
+  {
+    "word": "CREATURE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "A living being, such as an animal, monster, or alien"
+  },
+  {
+    "word": "FISHLIKE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "Having some characteristics of a fish"
+  },
+  {
+    "word": "BEAST",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "An animal, especially a large or dangerous land vertebrate"
+  },
+  {
+    "word": "BRUTE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "(archaic) An animal seen as being without human reason; a senseless beast"
+  },
+  {
+    "word": "SPECIES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "(biology) A group of organisms that can interbreed to produce fertile offspring"
+  },
+  {
+    "word": "BONE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "A bone of a fish; a fishbone"
+  },
+  {
+    "word": "VETERINARIAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal",
+    "clue": "A medical doctor who treats non-human animals"
+  },
+  {
+    "word": "MAMMAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "An animal of the class Mammalia"
+  },
+  {
+    "word": "ZOO",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(countable) A park where live animals are exhibited"
+  },
+  {
+    "word": "BUG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(entomology) An insect of the order Hemiptera (the “true bugs”)"
+  },
+  {
+    "word": "PIG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(uncountable) The edible meat of such an animal; pork"
+  },
+  {
+    "word": "WHALE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "(by extension) Any species of Cetacea"
+  },
+  {
+    "word": "HUSBANDRY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "Techniques of animal care"
+  },
+  {
+    "word": "PET",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "Any person or animal especially cherished and indulged; a darling"
+  },
+  {
+    "word": "LIVESTOCK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "Farm animals; animals domesticated for cultivation"
+  },
+  {
+    "word": "BEEF",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(uncountable) Bovine animals"
+  },
+  {
+    "word": "FEED",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(uncountable) Food given to (especially herbivorous) non-human animals"
+  },
+  {
+    "word": "HEAD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(animals) To do with heads"
+  },
+  {
+    "word": "BIRD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "A warm-blooded, egg-laying vertebrate having feathers, wings, and a beak"
+  },
+  {
+    "word": "ANIMALISTIC",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal",
+    "clue": "In the manner of and/or resembling an animal;"
+  },
+  {
+    "word": "MONSTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "A bizarre or whimsical creature"
+  },
+  {
+    "word": "STOCK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "Farm or ranch animals; livestock"
+  },
+  {
+    "word": "DOG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "A domesticated mammal of the family Canidae, kept as a pet or working animal"
+  },
+  {
+    "word": "BEASTS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "An animal, especially a large or dangerous land vertebrate"
+  },
+  {
+    "word": "CRITTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "(usually endearing, US, Australia) A creature, an animal"
+  },
+  {
+    "word": "NONHUMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "A creature or thing that is not human"
+  },
+  {
+    "word": "BEING",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "A living creature"
+  },
+  {
+    "word": "VERTEBRATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal",
+    "clue": "An animal having a backbone: one belonging to the subphylum Vertebrata"
+  },
+  {
+    "word": "QUADRUPED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "A four-footed or four-legged animal"
+  },
+  {
+    "word": "BEASTIE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "(informal, now chiefly Scotland, Northern England) Beast, animal"
+  },
+  {
+    "word": "REPTILE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "(zoology, cladistic) Any member of Reptilia, including birds"
+  },
+  {
+    "word": "CARNIVORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "(zoology) A mammal belonging to the order Carnivora"
+  },
+  {
+    "word": "EQUINE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "Any horse or horse-like animal, especially one of the genus Equus"
+  },
+  {
+    "word": "NONANIMAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "That does not involve animals"
+  },
+  {
+    "word": "DOLPHIN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "Tursiops truncatus, (Atlantic bottlenose dolphin) the most well-known species"
+  },
+  {
+    "word": "TIGER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "Panthera tigris, a large predatory mammal of the cat family, indigenous to Asia"
+  },
+  {
+    "word": "GOAT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "Any hoofed mammal of the genus Capra"
+  },
+  {
+    "word": "RABBIT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "(uncountable) The meat from this animal"
+  },
+  {
+    "word": "COYOTE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "(zoology) Canis latrans, a species of canine native to North America"
+  },
+  {
+    "word": "DEER",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(countable; in particular) A ruminant mammal of the family Cervidae"
+  },
+  {
+    "word": "CARCASS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "The body of a dead animal, especially a vertebrate or other animal having flesh"
+  },
+  {
+    "word": "RACCOON",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "Any mammal of the subfamily Procyoninae, a procyonine"
+  },
+  {
+    "word": "FOWL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(archaic) Any bird"
+  },
+  {
+    "word": "AVIAN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "Characteristic of or pertaining to birds, or to bird-like or flying creatures"
+  },
+  {
+    "word": "BOVID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "An animal of the family Bovidae (such as the antelope, cattle, goat, and sheep)"
+  },
+  {
+    "word": "TURTLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "(zoology, Australia, British, specifically) A marine reptile of that order"
+  },
+  {
+    "word": "MAMMALIAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "Like a mammal"
+  },
+  {
+    "word": "HABITAT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "(countable, biology) A range; a place where a species naturally occurs"
+  },
+  {
+    "word": "METAZOAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "(zoology) Any animal that is multicellular"
+  },
+  {
+    "word": "PHYTOZOAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "Alternative form of phytozoon. [(zoology) A plant-like animal; a zoophyte.]"
+  },
+  {
+    "word": "PHYTOZOON",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "(zoology) A plant-like animal; a zoophyte"
+  },
+  {
+    "word": "ENDOFAUNA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "(biology) animals from outside of an organism's immediate environment"
+  },
+  {
+    "word": "ZOOTAXY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "The scientific classification of animals"
+  },
+  {
+    "word": "ZOOPHAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "An organism that consumes animal matter; a carnivore"
+  },
+  {
+    "word": "ANNELOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "(dated, zoology) Any animal resembling an annelid"
+  },
+  {
+    "word": "INVERTEBRATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal",
+    "clue": "An animal without vertebrae (i.e., without a backbone)"
+  },
+  {
+    "word": "ZOOSPHERE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "The animals of the Earth, especially as an ecosystem"
+  },
+  {
+    "word": "MEMBER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "Part of an animal capable of performing a distinct office; an organ; a limb"
+  },
+  {
+    "word": "ANTHROPOID",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal",
+    "clue": "An anthropoid animal"
+  },
+  {
+    "word": "ALIPED",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "(zoology) A wing-footed animal; a chiropter or a bat"
+  },
+  {
+    "word": "CALL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "The characteristic cry of a bird or other animal"
+  },
+  {
+    "word": "HARE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(uncountable) The meat from this animal"
+  },
+  {
+    "word": "MALE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "An animal of the sex that has testes"
+  },
+  {
+    "word": "PUREBRED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "An animal which has genuine parents of the same breed"
+  },
+  {
+    "word": "WILD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(singular, with \"the\") The undomesticated state of a wild animal"
+  },
+  {
+    "word": "WOLVERINES",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal",
+    "clue": "A solitary, fierce mammal of the Mustelidae family, Gulo gulo"
+  },
+  {
+    "word": "BEEFSTEAK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "(countable, uncountable) (A) steak cut from a cattle beast (e.g., cow, steer)"
+  },
+  {
+    "word": "FISSIPED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "An animal that has the toes separated from each other"
+  },
+  {
+    "word": "OVINE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "An animal from the genus Ovis; a sheep"
+  },
+  {
+    "word": "PINNIPED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "Pertaining to or similar to such a mammal"
+  },
+  {
+    "word": "TRAIL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "To transport (livestock) by herding it along a trail"
+  },
+  {
+    "word": "ADULT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "An animal that is full-grown"
+  },
+  {
+    "word": "ANIMALISM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "Animal-like behaviour or appetite; brutality"
+  },
+  {
+    "word": "ANIMALITY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "The nature of an animal"
+  },
+  {
+    "word": "ANIMISM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "(dated) A doctrine that animal life is produced by an immaterial spirit"
+  },
+  {
+    "word": "APOLOGUE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "A short story with a moral, often involving talking animals or objects; a fable"
+  },
+  {
+    "word": "ARMOR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "(uncountable) A natural form of this kind of protection on an animal's body"
+  },
+  {
+    "word": "BACK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(UK, of a hunting dog) To stand still behind another dog which has pointed"
+  },
+  {
+    "word": "BADGER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "Any mammal belonging to the genera Meles, Arctonyx, Mellivora and Taxidea"
+  },
+  {
+    "word": "BAG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(informal) To catch or kill, especially when fishing or hunting"
+  },
+  {
+    "word": "BAIL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "A hinged bar as a restraint for animals, or on a typewriter"
+  },
+  {
+    "word": "BAIT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "Food containing poison or a harmful additive to kill animals that are pests"
+  },
+  {
+    "word": "BAY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "The excited howling of dogs when hunting or being attacked"
+  },
+  {
+    "word": "BEAR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(cooking, uncountable) The meat of this animal"
+  },
+  {
+    "word": "BED",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(intransitive, hunting) Of large game animals: to be at rest"
+  },
+  {
+    "word": "BELLY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "Stomach (an organ in animals that stores food in the process of digestion)"
+  },
+  {
+    "word": "BESTIARY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "A medieval treatise of various real or imaginary animals"
+  },
+  {
+    "word": "BIGHEAD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "(countable, colloquial) Any of several species of fish having a large head"
+  },
+  {
+    "word": "BIPED",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "An animal, being, or construction that goes about on two feet (or two legs)"
+  },
+  {
+    "word": "BITE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "(intransitive, transitive, of an insect) To sting"
+  },
+  {
+    "word": "BLOODLINE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "The pedigree of an animal"
+  },
+  {
+    "word": "BOBTAIL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "An animal that has a bobtail, such as certain canines or nags"
+  },
+  {
+    "word": "BOMA",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "A type of fertilizer rich in animal dung"
+  },
+  {
+    "word": "BOSS",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "A swelling, lump or protuberance in an animal, person or object"
+  },
+  {
+    "word": "BREAKAWAY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "(Australia) A stampede of animals"
+  },
+  {
+    "word": "BREAST",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "The ventral portion of an animal’s thorax"
+  },
+  {
+    "word": "BREED",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "(intransitive, of animals) To mate and produce offspring"
+  },
+  {
+    "word": "BREEDER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "A person who breeds plants or animals (professionally)"
+  },
+  {
+    "word": "BREEDING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "The act of copulation in animals"
+  },
+  {
+    "word": "BRINDLE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "A streaky colouration in animals"
+  },
+  {
+    "word": "BROOD",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "That which is bred or produced; breed; species"
+  },
+  {
+    "word": "BRUSH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "The furry tail of an animal, especially of a fox"
+  },
+  {
+    "word": "BUFFALO",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "A related North American animal, the American bison, Bison bison"
+  },
+  {
+    "word": "BURROW",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "A tunnel or hole, often as dug by a small creature"
+  },
+  {
+    "word": "CAGE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "animal",
+    "clue": "An enclosure made of bars, normally to hold animals"
+  },
+  {
+    "word": "CAMOUFLAGE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "animal",
+    "clue": "Clothes made from camouflage fabric, for concealment in combat or hunting"
+  },
+  {
+    "word": "PIGEON",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "animal",
+    "clue": "(uncountable) The meat from this bird"
+  },
+  {
+    "word": "MINERAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "animal",
+    "clue": "Any inorganic material (as distinguished from animal or vegetable)"
+  },
+  {
+    "word": "HERD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "Any collection of animals gathered or travelling in a company"
+  },
+  {
+    "word": "RANCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "A large plot of land used for raising cattle, sheep or other livestock"
+  },
+  {
+    "word": "RANCHING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "The business or activity of operating a ranch, of farming or raising livestock"
+  },
+  {
+    "word": "HERDING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "The activity of gathering, driving, or tending a group of animals as a herd"
+  },
+  {
+    "word": "KENNEL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "The hole of a fox or other animal"
+  },
+  {
+    "word": "ANIMAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "(loosely) Any member of the kingdom Animalia other than a human"
+  },
+  {
+    "word": "FLOCK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "A group of birds, sheep, goats, or other animals living, feeding, or travelling together"
+  },
+  {
+    "word": "ANIMALS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "\"Animals\" is a song by Canadian rock band Nickelback"
+  },
+  {
+    "word": "HERDS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "Any collection of animals gathered or travelling in a company"
+  },
+  {
+    "word": "PORCINE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "A porcine animal: a pig, hog, boar, or related wild animal"
+  },
+  {
+    "word": "OVINES",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "An animal from the genus Ovis; a sheep"
+  },
+  {
+    "word": "SWINE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "(plural swine) A pig (the animal)"
+  },
+  {
+    "word": "EQUINES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Any horse or horse-like animal, especially one of the genus Equus"
+  },
+  {
+    "word": "PASTORALISM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "livestock",
+    "clue": "Animal husbandry; the raising and herding of farm animals"
+  },
+  {
+    "word": "FARMSTOCK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Livestock on a farm"
+  },
+  {
+    "word": "STOCKFEED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Feed for livestock"
+  },
+  {
+    "word": "PASTURE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Land, specifically, an open field, on which livestock is kept for feeding"
+  },
+  {
+    "word": "RACE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "(animal husbandry) A breed or strain of domesticated animal"
+  },
+  {
+    "word": "FORAGE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "Fodder for animals, especially cattle and horses"
+  },
+  {
+    "word": "BROWSE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "(uncountable) Fodder for cattle and other animals"
+  },
+  {
+    "word": "STUD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "A male animal, especially a stud horse (stallion), kept for breeding"
+  },
+  {
+    "word": "STRAY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "(historical) An area of common land for use by domestic animals"
+  },
+  {
+    "word": "PASTURELAND",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "livestock",
+    "clue": "Land used for pasture, on which livestock can graze"
+  },
+  {
+    "word": "PASTURAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "The grass or other vegetation eaten by livestock and found in a pasture"
+  },
+  {
+    "word": "DEADSTOCK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Agricultural implements and stored produce, distinguished from livestock"
+  },
+  {
+    "word": "MILKER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "An animal, such as a dairy cow, kept for the milk it produces"
+  },
+  {
+    "word": "PASTURING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "The process of putting an animal out to pasture"
+  },
+  {
+    "word": "KRAAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "An enclosure for livestock"
+  },
+  {
+    "word": "LACTAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "(obsolete) The food produced from animal lactation; milk and dairy products"
+  },
+  {
+    "word": "STOCKMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "A man who raises or looks after livestock"
+  },
+  {
+    "word": "PROVENDER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "(dated) Food, especially for livestock"
+  },
+  {
+    "word": "SPREAD",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "A large tract of land used to raise livestock; a cattle ranch"
+  },
+  {
+    "word": "FEEDLOT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "(US) Land on which livestock are fattened for market"
+  },
+  {
+    "word": "FEEDSTUFF",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "(uncountable) Feed for animals; fodder; an ingredient thereof"
+  },
+  {
+    "word": "BESTIAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "(literally and figuratively) Beast-like"
+  },
+  {
+    "word": "PABULUM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Food or fodder, particularly that taken in by plants or animals"
+  },
+  {
+    "word": "AGISTMENT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "The taking in by anyone of other people's livestock to graze at a certain rate"
+  },
+  {
+    "word": "PECUARY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "The raising of livestock, as practiced in Brazil"
+  },
+  {
+    "word": "CAVYARD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "A herd or group of horses on a ranch"
+  },
+  {
+    "word": "PASTURER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "An animal that grazes"
+  },
+  {
+    "word": "NEATBEAST",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "(archaic, regional) A domesticated bovine animal (cow, bull, steer etc)"
+  },
+  {
+    "word": "COMMONAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "The right to pasture animals on common land"
+  },
+  {
+    "word": "CAVVYARD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Alternative form of cavyard. [A herd or group of horses on a ranch.]"
+  },
+  {
+    "word": "HERDSGIRL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "A female child who tends livestock"
+  },
+  {
+    "word": "FATSTOCK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Fattened livestock"
+  },
+  {
+    "word": "COWHAND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Cowman or herdsman, especially to a dairy cattle herd"
+  },
+  {
+    "word": "DRIVE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "An act of driving (prompting) animals forward"
+  },
+  {
+    "word": "FOSTERAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "The act of caring for another human being or animal"
+  },
+  {
+    "word": "CORRAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "An enclosure for livestock, especially a circular one"
+  },
+  {
+    "word": "SALEYARD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "A yard where livestock is sold"
+  },
+  {
+    "word": "FELLOW",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "(by extension, often humorous or ironic) An animal or object"
+  },
+  {
+    "word": "STALL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "(countable) A compartment for a single animal in a stable or cattle shed"
+  },
+  {
+    "word": "GRAZELAND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Land used for grazing animals; pasture"
+  },
+  {
+    "word": "RANCHLAND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Land used for ranching, or raising livestock"
+  },
+  {
+    "word": "STAFFAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "(painting) The people and animals represented in a landscape painting"
+  },
+  {
+    "word": "EATAGE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "The right to let one's animals eat in a certain place; pasturage"
+  },
+  {
+    "word": "FODDERING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "The feeding of an animal with fodder"
+  },
+  {
+    "word": "PEDIGREE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "The ancestry of a domesticated animal, especially a dog or horse"
+  },
+  {
+    "word": "STABLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "(transitive) To put or keep (an animal) in a stable"
+  },
+  {
+    "word": "BITTERNUT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Its fruit, a bitter nut sometimes used as feed for livestock"
+  },
+  {
+    "word": "BRISKET",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "The chest of an animal"
+  },
+  {
+    "word": "CARRY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "(hunting) To have earth or frost stick to the feet when running, as a hare"
+  },
+  {
+    "word": "CHICKEN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "(uncountable) The meat from this bird eaten as food"
+  },
+  {
+    "word": "DAM",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "Female parent, mother, generally regarding breeding of animals"
+  },
+  {
+    "word": "DRIFT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "A drove or flock, as of cattle, sheep, birds"
+  },
+  {
+    "word": "DROVE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "To herd cattle; particularly over a long distance"
+  },
+  {
+    "word": "FEEDING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "(uncountable, usually said of animals) The act or process of eating"
+  },
+  {
+    "word": "FISHMEAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Ground dried fish, used mainly for livestock feed"
+  },
+  {
+    "word": "FOLD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "A pen or enclosure for sheep or other domestic animals"
+  },
+  {
+    "word": "HACK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "A rack used to dry something, such as bricks, fish, or cheese"
+  },
+  {
+    "word": "HANDFEED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "(of an animal or machine) To feed by hand"
+  },
+  {
+    "word": "HAY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "(uncountable) Grass cut and dried for use as animal fodder"
+  },
+  {
+    "word": "HAYRACK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "A freestanding vertical drying-rack for animal fodder"
+  },
+  {
+    "word": "LAZY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "(obsolete) Sloth (animal)"
+  },
+  {
+    "word": "LOCO",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "A certain species of Astragalus or Oxytropis, capable of causing locoism"
+  },
+  {
+    "word": "LOCOISM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Locoweed poisoning, the central nervous system disorder of animals"
+  },
+  {
+    "word": "MANGER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "A trough in a stable or barn for animals to eat from"
+  },
+  {
+    "word": "MASH",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "A mixture of meal or bran and water fed to animals"
+  },
+  {
+    "word": "MURRAIN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "(obsolete) (countable) A poor-quality green-salted animal hide"
+  },
+  {
+    "word": "PASTORAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Of or pertaining to shepherds or herders of other livestock"
+  },
+  {
+    "word": "PEST",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "Any destructive insect that attacks crops or livestock; an agricultural pest"
+  },
+  {
+    "word": "POUND",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "A place for the detention of stray or wandering animals"
+  },
+  {
+    "word": "POUNDAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "(countable) a fee charged for keeping an animal in a pound, or for its release"
+  },
+  {
+    "word": "PROD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "A device (now often electrical) used to goad livestock into moving"
+  },
+  {
+    "word": "RANGELAND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "(US) Unimproved land that is suitable for the grazing of livestock"
+  },
+  {
+    "word": "RUN",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "(intransitive) Of fish, to migrate for spawning"
+  },
+  {
+    "word": "RUSTLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "(transitive) To steal (cattle or other livestock)"
+  },
+  {
+    "word": "RUSTLER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "One who rustles; a cattle (or other livestock) thief"
+  },
+  {
+    "word": "RUSTLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "The rounding up and theft of animals, cattle in particular"
+  },
+  {
+    "word": "RYE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "(loosely, sometimes proscribed) Ryegrass, any of the species of Lolium"
+  },
+  {
+    "word": "SCOUR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "livestock",
+    "clue": "Diarrhoea, in livestock; scouring"
+  },
+  {
+    "word": "SOILAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "livestock",
+    "clue": "Forage cut and fed to animals while still fresh"
+  },
+  {
+    "word": "GAME",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "livestock",
+    "clue": "(uncountable) Wild animals hunted for food"
+  },
+  {
+    "word": "WILDCAT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "(US) A bobcat (Lynx rufus) or other similar New World species of lynx"
+  },
+  {
+    "word": "HUNT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "wildlife",
+    "clue": "The act of hunting"
+  },
+  {
+    "word": "HUNTING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "The activity of pursuing and killing wild animals for food, sport, or trade"
+  },
+  {
+    "word": "BIRDS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife",
+    "clue": "Feathered, winged, bipedal, warm-blooded, egg-laying animals"
+  },
+  {
+    "word": "HABITATS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "(countable, biology) A range; a place where a species naturally occurs"
+  },
+  {
+    "word": "AQUAFAUNA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "(ecology) aquatic animals considered as a group"
+  },
+  {
+    "word": "DENIZEN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "(biology) An animal or plant from a particular range or habitat"
+  },
+  {
+    "word": "WILDLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "A wild animal"
+  },
+  {
+    "word": "NONFELID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "Anything, especially an animal, which is not a felid"
+  },
+  {
+    "word": "DWARF",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife",
+    "clue": "An animal, plant or other thing much smaller than the usual of its sort"
+  },
+  {
+    "word": "NONRODENT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "A creature that is not a rodent"
+  },
+  {
+    "word": "MINIBEAST",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "A small terrestrial creature; including arthropods, gastropods, worms etc"
+  },
+  {
+    "word": "NONMAMMAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "A creature that is not a mammal"
+  },
+  {
+    "word": "SYLVATIC",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "A wild animal"
+  },
+  {
+    "word": "STIRPS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife",
+    "clue": "(zoology, botany) A superfamily of animals or plants"
+  },
+  {
+    "word": "WILDMEAT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "Meat from a wild animal"
+  },
+  {
+    "word": "MEGAFAUNA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "The large animals of a given region or time, considered as a group"
+  },
+  {
+    "word": "MONORACE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "A species as a whole without hyponymous groupings"
+  },
+  {
+    "word": "FAUNIVORY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "The eating of other animals"
+  },
+  {
+    "word": "STALK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife",
+    "clue": "(zoology) The narrow basal portion of the abdomen of a hymenopterous insect"
+  },
+  {
+    "word": "CHECKLIST",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "(taxonomy) An inventory, especially of species"
+  },
+  {
+    "word": "APODE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife",
+    "clue": "Alternative form of apod. [An animal without feet.]"
+  },
+  {
+    "word": "PARIAH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife",
+    "clue": "(figurative) A similarly despised group of people or species of animal"
+  },
+  {
+    "word": "SUBSPECIES",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife",
+    "clue": "(taxonomy) A rank in the classification of organisms, below species"
+  },
+  {
+    "word": "MICROZOON",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "Any animal microorganism"
+  },
+  {
+    "word": "FAUNIVORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "Any animal that eats other animals"
+  },
+  {
+    "word": "VEGETARIAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "wildlife",
+    "clue": "An animal that eats only plants; a herbivore"
+  },
+  {
+    "word": "MOSSBACK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "Senses relating to animals"
+  },
+  {
+    "word": "ANIMULE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "(archaic, US, dialect) An animal"
+  },
+  {
+    "word": "MONTANE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "(ecology) An animal or a plant of a montane habitat"
+  },
+  {
+    "word": "APOD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "wildlife",
+    "clue": "An animal without feet"
+  },
+  {
+    "word": "HERPTILE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "(zoology, chiefly ecology) A reptile or amphibian"
+  },
+  {
+    "word": "ANAMNIOTE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "Any vertebrate that is not an amniote; an amphibian or a fish"
+  },
+  {
+    "word": "CHIMPKIND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "The chimpanzee species in its entirety"
+  },
+  {
+    "word": "MONOPHAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "(zoology) A monophagous animal"
+  },
+  {
+    "word": "LAIR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "wildlife",
+    "clue": "A place inhabited by a wild animal, often a cave or a hole in the ground"
+  },
+  {
+    "word": "NEST",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "wildlife",
+    "clue": "A structure built by a bird as a place to incubate eggs and rear young"
+  },
+  {
+    "word": "POLE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "wildlife",
+    "clue": "A construction by which an animal is harnessed to a carriage"
+  },
+  {
+    "word": "POLES",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife",
+    "clue": "A construction by which an animal is harnessed to a carriage"
+  },
+  {
+    "word": "SPOOR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "wildlife",
+    "clue": "The track, trail, droppings, or scent of an animal"
+  },
+  {
+    "word": "DOMESTIC",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "(of an animal) Kept by someone, for example as a farm animal or a pet"
+  },
+  {
+    "word": "FISHERIES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "A place where fish or other seafood are raised: a fish farm"
+  },
+  {
+    "word": "PRODUCE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "(Australia) Livestock and pet food supplies"
+  },
+  {
+    "word": "SEABIRDS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "Any bird that spends most of its time in coastal waters or over the oceans"
+  },
+  {
+    "word": "TAME",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "wildlife",
+    "clue": "(chiefly of animals) Accustomed to human contact"
+  },
+  {
+    "word": "WILDFOWL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "wildlife",
+    "clue": "Any wild bird such as ducks, geese or swans"
+  },
+  {
+    "word": "WIGHT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "(archaic) A living creature, especially a human being"
+  },
+  {
+    "word": "OFFSPRING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "An animal or plant's progeny or young"
+  },
+  {
+    "word": "CHIMERA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "(mythology, art) Any fantastic creature combining parts from different animals"
+  },
+  {
+    "word": "BEINGS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "A living creature"
+  },
+  {
+    "word": "DRAGON",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "A legendary serpentine or reptilian creature"
+  },
+  {
+    "word": "SAURIAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "(properly) A reptile of the suborder Sauria"
+  },
+  {
+    "word": "SPAWNLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "A creature newly spawned"
+  },
+  {
+    "word": "EOBIONT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "An artificially created creature; a Frankenstein's monster"
+  },
+  {
+    "word": "VERMIVORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "A vermivorous creature; one that eats worms"
+  },
+  {
+    "word": "XENOMORPH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "A strange form, an alien creature"
+  },
+  {
+    "word": "BIORG",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "(neologism, science fiction, rare) A non-human animal cyborg"
+  },
+  {
+    "word": "CRETACEAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "An animal from the Cretaceous period"
+  },
+  {
+    "word": "OCTOPEDE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "(zoology) Any eight-legged creature"
+  },
+  {
+    "word": "HERPETOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "Resembling or characteristic of a reptile"
+  },
+  {
+    "word": "FISH",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "(zoology) A cold-blooded aquatic vertebrate with gills and fins"
+  },
+  {
+    "word": "ALLIGATOR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "(dated) A crocodile of any species"
+  },
+  {
+    "word": "BUNODONT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "A creature with teeth of this kind"
+  },
+  {
+    "word": "FETUS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "An unborn or unhatched vertebrate showing signs of the mature animal"
+  },
+  {
+    "word": "REPTILOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "(science fiction) A reptilian humanoid creature"
+  },
+  {
+    "word": "AUTOMIMIC",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "Any creature that engages in automimicry"
+  },
+  {
+    "word": "MAMMALOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "(science fiction) A mammalian humanoid creature"
+  },
+  {
+    "word": "OCTOPOD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "Any animal with eight feet or foot-like parts"
+  },
+  {
+    "word": "OCTOPOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "An octopuslike creature"
+  },
+  {
+    "word": "LARVA",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "An animal in the aforementioned stage"
+  },
+  {
+    "word": "ZOOLITE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "A fossilized animal"
+  },
+  {
+    "word": "VERMIN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "An animal that preys on game, such as a fox or a weasel"
+  },
+  {
+    "word": "GOOD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "(of a person or animal) Well-behaved; obedient"
+  },
+  {
+    "word": "FAIRY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "An enchantress, or creature of overpowering charm"
+  },
+  {
+    "word": "GENOTYPE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "(taxonomy, obsolete) The type species of a genus; generitype"
+  },
+  {
+    "word": "GIANT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "A tall species of a particular animal or plant"
+  },
+  {
+    "word": "QUARRY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "(uncountable) An animal, often a bird or mammal, which is hunted"
+  },
+  {
+    "word": "TROLL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "(intransitive) (fishing) To fish using a running fishing line"
+  },
+  {
+    "word": "ADDER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "A sea stickleback or adder fish (Spinachia spinachia)"
+  },
+  {
+    "word": "APHID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "A sap-sucking insect pest of the superfamily Aphidoidea; an aphidian"
+  },
+  {
+    "word": "ARBOREAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "Any tree-dwelling creature"
+  },
+  {
+    "word": "ASP",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "A type of European fish (Aspius aspius)"
+  },
+  {
+    "word": "BASTARD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "Of or like a mongrel, bastardized creature/cross"
+  },
+  {
+    "word": "BEE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "(informal, proscribed) Any stinging flying insect, especially a wasp"
+  },
+  {
+    "word": "BEHEMOTH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "(biblical) A great and mighty beast which God shows to Job in Job 40:15–24"
+  },
+  {
+    "word": "BIGFOOT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "(cryptozoology, folklore) An individual creature of this type"
+  },
+  {
+    "word": "BLOB",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "A small freshwater fish (Cottus bairdii); the miller's thumb"
+  },
+  {
+    "word": "CAMEL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "A mammalian beast of burden, much used in desert areas, of the genus Camelus"
+  },
+  {
+    "word": "CAT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "Terms relating to animals"
+  },
+  {
+    "word": "CIVET",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "(uncountable) The musky perfume produced by the animal; civetone"
+  },
+  {
+    "word": "COTTONTAIL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "creature",
+    "clue": "A rabbit of any of various species in genus Sylvilagus"
+  },
+  {
+    "word": "CRAB",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "Any of various crustaceans of the infraorder Brachyura, having a broad shell and pincers"
+  },
+  {
+    "word": "CREEPLE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "(obsolete, UK, dialect) A creeping creature; a reptile"
+  },
+  {
+    "word": "CROW",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "(among butchers) The mesentery of an animal"
+  },
+  {
+    "word": "CYBORG",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "A human, animal or other being with electronic or bionic prostheses"
+  },
+  {
+    "word": "DARKLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "(fantasy) A creature that lives in the dark"
+  },
+  {
+    "word": "DELICATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "A moth of the species Mythimna vitellina"
+  },
+  {
+    "word": "DORMOUSE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "Any of several species of small, mostly European rodents of the family Gliridae"
+  },
+  {
+    "word": "EEL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "Any of various elongated, snake-like fish of the order Anguilliformes"
+  },
+  {
+    "word": "EMU",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "A large flightless bird native to Australia, Dromaius novaehollandiae"
+  },
+  {
+    "word": "FAWN",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "(obsolete) The young of an animal; a whelp"
+  },
+  {
+    "word": "FLEA",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "(transitive) To remove fleas from (an animal)"
+  },
+  {
+    "word": "FLUKE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "Either of the two lobes of a whale's or similar creature's tail"
+  },
+  {
+    "word": "FUR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "(uncountable) The hairy skins of animals used as a material for clothing"
+  },
+  {
+    "word": "GAG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "Mycteroperca microlepis, a species of grouper"
+  },
+  {
+    "word": "GARUDA",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "A Hindu deity, half-bird, half-man, that serves as the vahana of Vishnu"
+  },
+  {
+    "word": "GOLEM",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "(mythology) A humanoid creature made from clay, animated by magic"
+  },
+  {
+    "word": "GRAY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "creature",
+    "clue": "An animal or thing of grey colour, such as a horse, badger, or salmon"
+  },
+  {
+    "word": "GRAZER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "creature",
+    "clue": "An animal that grazes"
+  },
+  {
+    "word": "GROWLER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "creature",
+    "clue": "A person, creature or thing that growls"
+  },
+  {
+    "word": "WOLFFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "Any fish of the family Anarhichadidae"
+  },
+  {
+    "word": "DUMMY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast",
+    "clue": "A figure of a person or animal used by a ventriloquist; a puppet"
+  },
+  {
+    "word": "BEASTMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "(fantasy) An intelligent man-sized beast with varying characteristics"
+  },
+  {
+    "word": "BEASTLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "A little beast"
+  },
+  {
+    "word": "PREDACEAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "(archaic) Any carnivorous animal"
+  },
+  {
+    "word": "MEATEATER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "A carnivorous animal"
+  },
+  {
+    "word": "TUSKER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast",
+    "clue": "An animal, such as a bull elephant or a boar, with large tusks"
+  },
+  {
+    "word": "MUMAK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast",
+    "clue": "(fantasy fiction) A creature resembling a huge elephant"
+  },
+  {
+    "word": "OWLBEAR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "(fantasy) A monstrous creature resembling a bear with a beak"
+  },
+  {
+    "word": "MANTHING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "(fantasy) A humanoid creature"
+  },
+  {
+    "word": "THORNBACK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "The thornback skate (Dentiraja lemprieri), a fish endemic to Australia"
+  },
+  {
+    "word": "PREY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast",
+    "clue": "A living thing, usually an animal, that is eaten by another living thing"
+  },
+  {
+    "word": "BIGHORN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "Certain North American species of sheep"
+  },
+  {
+    "word": "BEARCAT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "(informal) The binturong, a tree-dwelling carnivore native to South and Southeast Asia"
+  },
+  {
+    "word": "AUROCHS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "An extinct European mammal, Bos primigenius, the ancestor of domestic cattle"
+  },
+  {
+    "word": "ROGUE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast",
+    "clue": "An aggressive animal separate from the herd, especially an elephant"
+  },
+  {
+    "word": "LOXODONT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "(zoology) A creature with teeth of this kind"
+  },
+  {
+    "word": "ANIMAT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast",
+    "clue": "An artificial animal"
+  },
+  {
+    "word": "WYRM",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast",
+    "clue": "(mythology, fantasy) A huge limbless and wingless dragon or dragonlike creature"
+  },
+  {
+    "word": "TETRAPOD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "A type of vertebrate animal"
+  },
+  {
+    "word": "LEADER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast",
+    "clue": "The dominant animal in a pack of animals, such as wolves or lions"
+  },
+  {
+    "word": "WEREBEING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "(folklore) Any shapeshifting creature, such as a werewolf or werebear"
+  },
+  {
+    "word": "WEBFOOT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "(plural \"webfoots\") A web-footed animal"
+  },
+  {
+    "word": "LIGER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast",
+    "clue": "An animal born to a male lion and a tigress"
+  },
+  {
+    "word": "LEAP",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast",
+    "clue": "A small cataract over which fish attempt to jump; a salmon ladder"
+  },
+  {
+    "word": "MULE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast",
+    "clue": "The generally sterile hybrid offspring of any two species of animals"
+  },
+  {
+    "word": "ROAR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast",
+    "clue": "Of animals (especially a lion), to make a loud deep noise"
+  },
+  {
+    "word": "SLINK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast",
+    "clue": "(ambitransitive) To give birth to an animal prematurely"
+  },
+  {
+    "word": "BEASTHOOD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "The property or state of being a beast"
+  },
+  {
+    "word": "BEASTLIKE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "Resembling or characteristic of a beast"
+  },
+  {
+    "word": "BEASTLY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "Pertaining to, or having the form, nature, or habits of, a beast"
+  },
+  {
+    "word": "BEDDING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "Any material used by or provided to animals to lie on"
+  },
+  {
+    "word": "COLOSSUS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "(by extension) Any creature or thing of gigantic size"
+  },
+  {
+    "word": "CRY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast",
+    "clue": "(intransitive) To utter inarticulate sounds, as animals do"
+  },
+  {
+    "word": "DOCK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast",
+    "clue": "The fleshy root of an animal's tail; specifically after clipping or cutting"
+  },
+  {
+    "word": "DONKEY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast",
+    "clue": "A domestic animal, Equus asinus asinus, similar to a horse"
+  },
+  {
+    "word": "EFFEROUS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "(obsolete) wild like a beast; fierce or ferocious"
+  },
+  {
+    "word": "ENFILED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "(heraldry) Having an object, such as the head of a man or animal, impaled on it"
+  },
+  {
+    "word": "FELL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast",
+    "clue": "An animal skin, hide, pelt"
+  },
+  {
+    "word": "FERINE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast",
+    "clue": "(now rare) Pertaining to wild, menacing animals; feral"
+  },
+  {
+    "word": "FLANK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast",
+    "clue": "(cooking) A cut of meat from the flank of an animal"
+  },
+  {
+    "word": "GOAD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast",
+    "clue": "A long, pointed stick used to prod animals"
+  },
+  {
+    "word": "HASLET",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast",
+    "clue": "The internal organs of an animal, especially the heart and liver of a pig"
+  },
+  {
+    "word": "HEAM",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast",
+    "clue": "The amniotic sac; afterbirth or secundus of an animal"
+  },
+  {
+    "word": "HOUND",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast",
+    "clue": "Any canine animal"
+  },
+  {
+    "word": "HOWL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast",
+    "clue": "To make a noise resembling the cry of a wild beast"
+  },
+  {
+    "word": "IBEX",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast",
+    "clue": "A type of wild mountain goat of the genus Capra, such as the species Capra ibex"
+  },
+  {
+    "word": "JUMENT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "beast",
+    "clue": "(obsolete) An animal, especially a beast of burden"
+  },
+  {
+    "word": "LIE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "beast",
+    "clue": "An animal's lair"
+  },
+  {
+    "word": "LIONESS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "beast",
+    "clue": "A female lion (animal)"
+  },
+  {
+    "word": "FISHES",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal",
+    "clue": "Plural of fish"
+  },
+  {
+    "word": "MAMMIFER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "(obsolete) mammal"
+  },
+  {
+    "word": "ENDOTHERM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "(biology) An animal that maintains a constant body temperature"
+  },
+  {
+    "word": "EUTHERIAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "An animal of the group Eutheria"
+  },
+  {
+    "word": "SUCKLER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "Any animal that suckles its young; a mammal"
+  },
+  {
+    "word": "PLACENTAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "Any animal that is a member of the Placentalia"
+  },
+  {
+    "word": "NEOMAMMAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "A mammal with a neomammalian brain"
+  },
+  {
+    "word": "MURINE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal",
+    "clue": "(zoology) Any murine mammal"
+  },
+  {
+    "word": "SUCKLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "A young mammal not yet weaned and still being fed milk by its mother"
+  },
+  {
+    "word": "FEMALE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal",
+    "clue": "An animal of the sex that produces eggs"
+  },
+  {
+    "word": "SYNAPSID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "Any animal (all mammals) of the class Synapsida"
+  },
+  {
+    "word": "HEMATHERM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "(zoology, obsolete) Any warm-blooded animal"
+  },
+  {
+    "word": "LACTIVORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "An animal with a diet consisting mainly of milk or other dairy products"
+  },
+  {
+    "word": "PELAGE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal",
+    "clue": "Fur, hair, or any other form of the coat of a mammal"
+  },
+  {
+    "word": "LITTER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal",
+    "clue": "(uncountable) Animal bedding together with its dung"
+  },
+  {
+    "word": "EMBRYO",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal",
+    "clue": "In a viviparous animal, the young animal's earliest stages in the mother's body"
+  },
+  {
+    "word": "WEANLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "Any young mammal that has been recently weaned"
+  },
+  {
+    "word": "OVULATOR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "An animal that ovulates (typically, in a specified manner)"
+  },
+  {
+    "word": "CINGULATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "Any mammal of the order Cingulata, an armadillo"
+  },
+  {
+    "word": "OTTER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal",
+    "clue": "An aquatic or marine carnivorous mammal in the subfamily Lutrinae"
+  },
+  {
+    "word": "URSOID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal",
+    "clue": "Any mammal of the family Ursidae, the bears"
+  },
+  {
+    "word": "EURYAPSID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "An animal belonging to the taxonomic subclass Euryapsida of the class Reptilia"
+  },
+  {
+    "word": "MARTEN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal",
+    "clue": "Any carnivorous mammal of the genus Martes"
+  },
+  {
+    "word": "VIVIPARY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "(in animals) Live birth (as opposed to hatching from an egg)"
+  },
+  {
+    "word": "MASTAX",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal",
+    "clue": "(zoology) The lore of a bird"
+  },
+  {
+    "word": "LEPORID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "(mammalogy) Any mammal of the family Leporidae: the hares and rabbits"
+  },
+  {
+    "word": "VIVERRINE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "Any mammal of the subfamily Viverrinae"
+  },
+  {
+    "word": "CHORION",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "(biology, entomology) The outer case of an insect egg"
+  },
+  {
+    "word": "ICHNEUMON",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "(mythology) a legendary animal, which kills crocodiles and dragons"
+  },
+  {
+    "word": "MILK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "mammal",
+    "clue": "(transitive) To express milk from (a mammal, especially a cow)"
+  },
+  {
+    "word": "MILKING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "The act by which any animal is milked"
+  },
+  {
+    "word": "POLECAT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "A weasel-like animal of the genus Mustela"
+  },
+  {
+    "word": "SEAL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "mammal",
+    "clue": "(dialectal) To tie up animals (especially cattle) in their stalls"
+  },
+  {
+    "word": "SEALING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "Hunting of seals (the animals)"
+  },
+  {
+    "word": "SKIN",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "mammal",
+    "clue": "(transitive) To remove the skin and/or fur of an animal or a human"
+  },
+  {
+    "word": "SLOTH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal",
+    "clue": "(countable) Any animal in the suborder Folivora"
+  },
+  {
+    "word": "ANVIL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal",
+    "clue": "A stone or other hard surface used by a bird for breaking the shells of snails"
+  },
+  {
+    "word": "BANXRING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "An shrew-like insectivorous mammal of the order Scandentia"
+  },
+  {
+    "word": "BEESTINGS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "The first milk drawn from an animal (especially a cow) after it has given birth"
+  },
+  {
+    "word": "BINTURONG",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "mammal",
+    "clue": "A large species of civet, Arctictis binturong, of southern Asia"
+  },
+  {
+    "word": "BLOWER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal",
+    "clue": "A small fish of the Atlantic coast, Sphoeroides maculatus; the puffer"
+  },
+  {
+    "word": "BONGO",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "mammal",
+    "clue": "A striped bovine mammal found in Africa, Tragelaphus eurycerus"
+  },
+  {
+    "word": "CHICK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "A young bird"
+  },
+  {
+    "word": "BIRDIE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "(often childish) A bird; especially, a small and cute one"
+  },
+  {
+    "word": "RASPBERRY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Any of many other (but not all) species in the genus Rubus"
+  },
+  {
+    "word": "SKIRT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "(of animals) A diaphragm, or midriff"
+  },
+  {
+    "word": "HAWK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "A diurnal predatory bird of the family Accipitridae, smaller than an eagle"
+  },
+  {
+    "word": "OSTRICH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "(ornithology) A large flightless bird of the order Struthioniformes"
+  },
+  {
+    "word": "TURKEY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "(uncountable) The flesh or meat of this bird eaten as food"
+  },
+  {
+    "word": "FALCON",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "Any bird of the genus Falco, all of which are birds of prey"
+  },
+  {
+    "word": "RAPTOR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "A bird of prey"
+  },
+  {
+    "word": "SEABIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Any bird that spends most of its time in coastal waters or over the oceans"
+  },
+  {
+    "word": "DOVE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "A greyish, bluish, pinkish colour like that of the bird"
+  },
+  {
+    "word": "SHOREBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A bird, or species of birds, that is found near the edge of bodies of water"
+  },
+  {
+    "word": "CUCKOO",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "The sound of that particular bird"
+  },
+  {
+    "word": "LARK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "A female given name from English from the lark bird"
+  },
+  {
+    "word": "PARAKEET",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Any of various species of small parrot primarily of tropical regions"
+  },
+  {
+    "word": "SPARROW",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Generically, any small, nondescript bird"
+  },
+  {
+    "word": "ROOSTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A bird or bat which roosts or is roosting"
+  },
+  {
+    "word": "NESTING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "The process by which a bird nests"
+  },
+  {
+    "word": "FEATHER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Kind; nature; species (from the proverbial phrase \"birds of a feather\")"
+  },
+  {
+    "word": "FINGER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "(zoology) A similar digit-like extremity found on the limb of a non-human animal"
+  },
+  {
+    "word": "VIRUS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "A species thereof"
+  },
+  {
+    "word": "DUCK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "An aquatic bird of the family Anatidae, having a flat bill and webbed feet"
+  },
+  {
+    "word": "WATERBIRDS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird",
+    "clue": "Any bird whose mode of life involves living on or next to bodies of water"
+  },
+  {
+    "word": "SONGBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A bird having a melodious song or call"
+  },
+  {
+    "word": "GULL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "A stupid animal"
+  },
+  {
+    "word": "FLYER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "That which flies, as a bird or insect"
+  },
+  {
+    "word": "RAVEN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "Prey; plunder; food obtained by violence"
+  },
+  {
+    "word": "HERON",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "Any long-legged, long-necked wading bird of the family Ardeidae"
+  },
+  {
+    "word": "CHICKADEE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A small passerine bird (songbird) of the genus Parus or the family Paridae"
+  },
+  {
+    "word": "WATERBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Any bird whose mode of life involves living on or next to bodies of water"
+  },
+  {
+    "word": "PHEASANT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "(countable) A bird of family Phasianidae, often hunted for food"
+  },
+  {
+    "word": "BULLFINCH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "(UK, archaic, hunting, slang) A large, thick quickset hedge"
+  },
+  {
+    "word": "MAGPIE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "One of several kinds of bird in the family Corvidae, especially Pica pica"
+  },
+  {
+    "word": "QUAIL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "(uncountable) The meat from this bird eaten as food"
+  },
+  {
+    "word": "KESTREL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Any of various small falcons of the genus Falco that hover while hunting"
+  },
+  {
+    "word": "LANDBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Any bird that lives mostly on or over land (though may migrate over water)"
+  },
+  {
+    "word": "BIRDCALL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Any vocalization of a bird"
+  },
+  {
+    "word": "SPARROWHAWK",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird",
+    "clue": "(falconry) A female such bird, a male being a musket"
+  },
+  {
+    "word": "AVIANS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "A bird"
+  },
+  {
+    "word": "COCKATOO",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A bird of the family Cacatuidae with a curved beak and a zygodactyl foot"
+  },
+  {
+    "word": "COCKBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "The male of any bird"
+  },
+  {
+    "word": "WOODBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A bird that typically inhabits woodlands or forests"
+  },
+  {
+    "word": "CATBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "An American passerine bird of the genera Dumetella and Melanoptila"
+  },
+  {
+    "word": "BIRDLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A little bird; especially, a baby bird"
+  },
+  {
+    "word": "BIRDINESS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Birdy or bird-like qualities"
+  },
+  {
+    "word": "OVENBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Any bird of the Central and South America family Furnariidae"
+  },
+  {
+    "word": "JARBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "(obsolete, UK, dialect) A bird of family Sittidae; a nuthatch"
+  },
+  {
+    "word": "BIRDLET",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A small bird"
+  },
+  {
+    "word": "CORNBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A bird, the crested oropendola (Psarocolius decumanus)"
+  },
+  {
+    "word": "CAGEBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A bird kept in a cage"
+  },
+  {
+    "word": "SNOWBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A migratory bird seen primarily in the winter time"
+  },
+  {
+    "word": "COMPANY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A small group of birds or animals"
+  },
+  {
+    "word": "GALLIFORM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Any bird in this order"
+  },
+  {
+    "word": "MIGRANT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A migratory animal, in particular a migratory bird"
+  },
+  {
+    "word": "ORNITHOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Resembling or characteristic of a bird"
+  },
+  {
+    "word": "TICKBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A bird, the oxpecker"
+  },
+  {
+    "word": "AVIPHILE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A person who loves birds, a bird-lover"
+  },
+  {
+    "word": "BIRDIKIN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "(dated, informal) A young bird"
+  },
+  {
+    "word": "ANI",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "Any bird of the genus Crotophaga in the cuckoo family"
+  },
+  {
+    "word": "AUK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "Any of several species of Arctic sea birds of the family Alcidae"
+  },
+  {
+    "word": "CARINATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Any bird having a keeled breastbone allowing the attachment of flight muscles"
+  },
+  {
+    "word": "COCK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "A male bird, especially a male domestic chicken (rooster)"
+  },
+  {
+    "word": "KITE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "A bird of prey of the family Accipitridae"
+  },
+  {
+    "word": "KIWI",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "A flightless bird of the order Apterygiformes native to New Zealand"
+  },
+  {
+    "word": "LOUSE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "A small parasitic wingless insect of the order Psocodea"
+  },
+  {
+    "word": "RHEA",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "A large flightless bird of the order Rheiformes, native to South America"
+  },
+  {
+    "word": "ROOK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "A European bird, Corvus frugilegus, of the crow family"
+  },
+  {
+    "word": "SQUAB",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "(countable, sometimes attributive) A fledgling (young) bird"
+  },
+  {
+    "word": "WEAVER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "Any of certain fish of the family Pinguipedidae"
+  },
+  {
+    "word": "OWLET",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "One of a species of small owls, such as Athene noctua"
+  },
+  {
+    "word": "PLUMIPED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A plumiped bird"
+  },
+  {
+    "word": "SECRETARY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A secretary bird, a bird of the species Sagittarius serpentarius"
+  },
+  {
+    "word": "TURKEYS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "(uncountable) The flesh or meat of this bird eaten as food"
+  },
+  {
+    "word": "WHIPPOORWILL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "bird",
+    "clue": "The distinctive call of the above bird"
+  },
+  {
+    "word": "ACCENTOR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Any bird of the Eurasian genus Prunella, such as the dunnock"
+  },
+  {
+    "word": "AEPYORNIS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "An elephant bird of the genus Aepyornis"
+  },
+  {
+    "word": "AERIE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "(American spelling) Alternative spelling of eyrie. [The nest of a bird of prey.]"
+  },
+  {
+    "word": "ALTRICIAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Such an animal"
+  },
+  {
+    "word": "ALULA",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "(ornithology) A small projection on the leading edge of a bird's wing bearing a tuft of feathers, used for control at low speed"
+  },
+  {
+    "word": "ANHINGA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Synonym of darter: any bird of the genus Anhinga"
+  },
+  {
+    "word": "APTERYX",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "(dated) Kiwi bird"
+  },
+  {
+    "word": "ARA",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "Initialism of animal rights activist"
+  },
+  {
+    "word": "AUGURY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "A divination based on the appearance and behaviour of animals"
+  },
+  {
+    "word": "AVICULAR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Of or pertaining to a bird or to birds"
+  },
+  {
+    "word": "BARBET",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "bird",
+    "clue": "A dog of a small-bodied breed with long curly hair"
+  },
+  {
+    "word": "BATH",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "(transitive, Commonwealth) To wash a person or animal in a bath"
+  },
+  {
+    "word": "BEVY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "(collective) A group of animals, particularly quail"
+  },
+  {
+    "word": "BIRDMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "A mythological creature that is part man and part bird"
+  },
+  {
+    "word": "BITTERN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "bird",
+    "clue": "Several bird species in the Botaurinae subfamily of the heron family Ardeidae"
+  },
+  {
+    "word": "CAST",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "bird",
+    "clue": "(hunting) Of dogs, hunters: to spread out and search for a scent"
+  },
+  {
+    "word": "FINFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish, but especially fish other than flatfish"
+  },
+  {
+    "word": "CODFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(countable) A cod (the fish)"
+  },
+  {
+    "word": "SHARK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(uncountable) Flesh of this animal, consumed as food"
+  },
+  {
+    "word": "SEAFOOD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Fish, shellfish, seaweed, and other edible aquatic life"
+  },
+  {
+    "word": "MACKEREL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A true mackerel, any fish of tribe Scombrini (Scomber spp., Rastrelliger spp.)"
+  },
+  {
+    "word": "SWORDFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A large marine fish with a long, pointed bill, Xiphias gladius"
+  },
+  {
+    "word": "GOLDFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A type of small fish, Carassius auratus, typically orange-colored"
+  },
+  {
+    "word": "SALMON",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "A meal or dish made from this fish"
+  },
+  {
+    "word": "SOCKEYE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Edible flesh of this fish"
+  },
+  {
+    "word": "REDFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of several fish species with reddish skin or flesh, such as the red drum"
+  },
+  {
+    "word": "CATFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "The meat of such a fish, popular in the Southern U.S. and Central Europe"
+  },
+  {
+    "word": "FISHY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Of, from, or similar to fish"
+  },
+  {
+    "word": "GROUNDFISH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish",
+    "clue": "(fishing) Fish that swim near the seafloor"
+  },
+  {
+    "word": "FISHERY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A place where fish or other seafood are raised: a fish farm"
+  },
+  {
+    "word": "FISHERMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A person whose profession is catching fish"
+  },
+  {
+    "word": "BLUE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "Synonym of British Blue (“a breed of cat”)"
+  },
+  {
+    "word": "WHITING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of various fish species resembling the true whiting, Merlangius merlangus"
+  },
+  {
+    "word": "CHAR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "Any of the several species of fishes of the genus Salvelinus"
+  },
+  {
+    "word": "COD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "A type of sea fish or the meat from said fish"
+  },
+  {
+    "word": "SNAPPER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of approximately 100 different species of fish"
+  },
+  {
+    "word": "LIVE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "Taken from a living animal"
+  },
+  {
+    "word": "ANGLERS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "An angler fish, Lophius piscatorius"
+  },
+  {
+    "word": "FISHERMEN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A person whose profession is catching fish"
+  },
+  {
+    "word": "FISHERS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Fur of specimens of species Pekania pennanti"
+  },
+  {
+    "word": "SPRATS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Any of various similar fish of other genera"
+  },
+  {
+    "word": "NET",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "A device made from such mesh, used for catching fish, butterflies, etc"
+  },
+  {
+    "word": "SEINE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(ambitransitive) To use a seine, to fish with a seine"
+  },
+  {
+    "word": "TRAWL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(ambitransitive) To take (fish or other marine animals) with a trawl"
+  },
+  {
+    "word": "GAFF",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "To use a gaff, especially to land a fish"
+  },
+  {
+    "word": "HOOK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "(transitive) To catch with a hook (hook a fish)"
+  },
+  {
+    "word": "SPEAR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "A lance with barbed prongs, used by fishermen to retrieve fish"
+  },
+  {
+    "word": "DRAG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "To fish with a dragnet"
+  },
+  {
+    "word": "GIG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "(transitive) To spear (fish, etc.) with a gig or fizgig"
+  },
+  {
+    "word": "HARPOON",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A spearlike weapon with a barbed head used in hunting whales and large fish"
+  },
+  {
+    "word": "REEL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "To produce a mechanical insect-like song, as in grass warblers"
+  },
+  {
+    "word": "LONGLINE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "To fish with a line of this kind"
+  },
+  {
+    "word": "POT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "To catch (a fish, eel, etc) via a pot"
+  },
+  {
+    "word": "DIP",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "(birdwatching, colloquial) The act of missing out on seeing a sought after bird"
+  },
+  {
+    "word": "TUNA",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "Any of several species of fish of the genus Thunnus in the family Scombridae"
+  },
+  {
+    "word": "ROCKFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Acanthoclinus, a genus of fish from New Zealand"
+  },
+  {
+    "word": "BULLHEADS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(New Zealand) A fish of species Gobiomorphus gobioides"
+  },
+  {
+    "word": "BREAMS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(British) A species in that genus, Abramis brama"
+  },
+  {
+    "word": "SALMONID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A fish of the Salmonidae family"
+  },
+  {
+    "word": "BREAM",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(British) A species in that genus, Abramis brama"
+  },
+  {
+    "word": "SPORTFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Alternative form of sport fish. [fish providing sport for an angler]"
+  },
+  {
+    "word": "MILKFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Chanos chanos, an important food fish in southeast Asia"
+  },
+  {
+    "word": "SEAFOODS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Fish, shellfish, seaweed, and other edible aquatic life"
+  },
+  {
+    "word": "WHITEBAIT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "The young of various species of fish, especially herrings, sprats or smelts"
+  },
+  {
+    "word": "CYPRINIDS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish of this family"
+  },
+  {
+    "word": "SALMONIDS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A fish of the Salmonidae family"
+  },
+  {
+    "word": "WHITINGS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Plural of whiting: fish species resembling the true whiting, Merlangius merlangus"
+  },
+  {
+    "word": "SOCKEYES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Edible flesh of this fish"
+  },
+  {
+    "word": "MACKERELS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A true mackerel, any fish of tribe Scombrini (Scomber spp., Rastrelliger spp.)"
+  },
+  {
+    "word": "CYPRINID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish of this family"
+  },
+  {
+    "word": "MINNOWS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any small fish"
+  },
+  {
+    "word": "JACKFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A jack (in any of the senses referring to types of fish)"
+  },
+  {
+    "word": "GUPPIES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(by extension) Any tiny fish"
+  },
+  {
+    "word": "ICHTHYOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish, or other vertebrate having the form of a fish"
+  },
+  {
+    "word": "FISHLIFE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "The fish (e.g. of an area) collectively"
+  },
+  {
+    "word": "GILL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "(zootomy) A breathing organ of fish and other aquatic animals"
+  },
+  {
+    "word": "POOLFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish that inhabits a pool or pond"
+  },
+  {
+    "word": "RATFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A fish of any of the species in family Chimaeridae"
+  },
+  {
+    "word": "HORSEFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of several species of fish in the family Congiopodidae"
+  },
+  {
+    "word": "SCALEFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish bearing scales"
+  },
+  {
+    "word": "FILEFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish of the family Monacanthidae, with very slender bodies"
+  },
+  {
+    "word": "KILLIFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of a number of tiny fish in the Cyprinodontiformes order of ray-finned fish"
+  },
+  {
+    "word": "CAVEFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish in the family Amblyopsidae"
+  },
+  {
+    "word": "FROGFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(archaic) Any fish of genus Lophius"
+  },
+  {
+    "word": "SEALIFE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Organisms (especially fish) that live in the sea"
+  },
+  {
+    "word": "OSSEAN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(obsolete) A fish with a bony skeleton"
+  },
+  {
+    "word": "SHEEPSHEAD",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish",
+    "clue": "(countable) A fish of the species Archosargus probatocephalus"
+  },
+  {
+    "word": "WHALEFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish of the order Cetomimiformes of deepwater ray-finned fish"
+  },
+  {
+    "word": "SNAKEFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of the several fish that resemble a snake"
+  },
+  {
+    "word": "BILLFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any large marine fish with an elongated, spear-like jaw, such as the marlin or swordfish"
+  },
+  {
+    "word": "FIREFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of various fish of the genera Pterois and Parapterois"
+  },
+  {
+    "word": "SWELLFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any plectognath fish that dilates itself, such as the pufferfish"
+  },
+  {
+    "word": "KNIFEFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of numerous fish with knife-shaped bodies, from several different families"
+  },
+  {
+    "word": "CITHARID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish in the family Citharidae"
+  },
+  {
+    "word": "TRIGLID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish in the family Triglidae"
+  },
+  {
+    "word": "LABROID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(ichthyology) Any fish of this kind"
+  },
+  {
+    "word": "GOBY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "A gudgeon, a fish of the subfamily Gobioninae, such as Gobio gobio"
+  },
+  {
+    "word": "PISCICIDE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(countable) Any substance that is poisonous to fish"
+  },
+  {
+    "word": "BOXFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Certain species in Ostraciidae, principally in genus Ostracion"
+  },
+  {
+    "word": "PISCIVORY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) The eating of fish"
+  },
+  {
+    "word": "CHIMAERID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish in the family Chimaeridae of cartilaginous fish"
+  },
+  {
+    "word": "CRESTFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of the fish in the lampriform family Lophotidae"
+  },
+  {
+    "word": "ICHTHYOLOGY",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish",
+    "clue": "A branch of zoology that studies fish"
+  },
+  {
+    "word": "LATRID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish in the family Latridae"
+  },
+  {
+    "word": "TELEOST",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A fish of the taxonomic infraclass Teleostei"
+  },
+  {
+    "word": "ALEWIFE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A migrating North American fish, Alosa pseudoharengus"
+  },
+  {
+    "word": "ANGLER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "An angler fish, Lophius piscatorius"
+  },
+  {
+    "word": "CICHLID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of many tropical fish, of the family Cichlidae, popular as aquarium fish"
+  },
+  {
+    "word": "CLINID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(ichthyology) Any fish in the family Clinidae"
+  },
+  {
+    "word": "CLUPEID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of many soft-finned fish of the family Clupeidae"
+  },
+  {
+    "word": "DISCUS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(plural: discus) A discus fish (genus Symphysodon)"
+  },
+  {
+    "word": "FRY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "Young fish; fishlings"
+  },
+  {
+    "word": "GADOID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Any fish of the family Gadidae"
+  },
+  {
+    "word": "GOBIOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish of this kind"
+  },
+  {
+    "word": "GRUNT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Any fish of the perciform family Haemulidae"
+  },
+  {
+    "word": "HERRING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A type of small, oily fish of the genus Clupea, often used as food"
+  },
+  {
+    "word": "JIG",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "(fishing) To fish with a jig"
+  },
+  {
+    "word": "LING",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "Any of various marine food fish, of the genus Molva, resembling the cod"
+  },
+  {
+    "word": "LOACH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "A bottom-feeding freshwater fish in the superfamily or suborder Cobitoidea"
+  },
+  {
+    "word": "PERCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Any of the three species of spiny-finned freshwater fish in the genus Perca"
+  },
+  {
+    "word": "PERCOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish in the superfamily Percoidea"
+  },
+  {
+    "word": "RAY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "(zoology) A rib-like reinforcement of bone or cartilage in a fish's fin"
+  },
+  {
+    "word": "ROE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "Eggs of fish"
+  },
+  {
+    "word": "SARDINE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "To fish for sardines"
+  },
+  {
+    "word": "SCAD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "Any of several fish, of the family Carangidae, from the western Atlantic"
+  },
+  {
+    "word": "SCIAENID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish belonging to the family Sciaenidae"
+  },
+  {
+    "word": "SCOMBROID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(uncountable) A form of food poisoning caused by spoiled fish"
+  },
+  {
+    "word": "SERRANID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish of the family Serranidae"
+  },
+  {
+    "word": "SHAD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "(South Africa) Any bluefish of species Pomatomus saltatrix"
+  },
+  {
+    "word": "SHINER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Any silvery fish, such as the horsefish, menhaden, or moonfish"
+  },
+  {
+    "word": "SPRAT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Any of various similar fish of other genera"
+  },
+  {
+    "word": "SURGEON",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "One who performs surgery; a doctor who performs operations on people or animals"
+  },
+  {
+    "word": "CARANGID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish belonging to the family Carangidae, the jackfish"
+  },
+  {
+    "word": "FARMING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Raising livestock or fish"
+  },
+  {
+    "word": "GUPPY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(by extension) Any tiny fish"
+  },
+  {
+    "word": "LOOKDOWN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "An oddly-shaped Atlantic marine fish, Selene vomer"
+  },
+  {
+    "word": "POECILIID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish in the family Poeciliidae"
+  },
+  {
+    "word": "RATTAIL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A fish, a California chimera (Hydrolagus colliei, syn. Chimaera colliei)"
+  },
+  {
+    "word": "ABDOMINAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology, obsolete) Belonging to the order Abdominales of fish"
+  },
+  {
+    "word": "ANABAS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "A fish of the genus Anabas, a kind of climbing gourami"
+  },
+  {
+    "word": "ANABLEPS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Synonym of four-eyed fish"
+  },
+  {
+    "word": "ANADROMOUS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "fish",
+    "clue": "(of a migratory fish) That lives in the sea and breeds in fresh water"
+  },
+  {
+    "word": "ANGELFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any marine fish of the family Pomacanthidae, common on shallow tropical reefs"
+  },
+  {
+    "word": "ARGULUS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A genus of fish lice in the family Argulidae"
+  },
+  {
+    "word": "BARBEL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "A freshwater fish of the genus Barbus or other closely related genera"
+  },
+  {
+    "word": "BERRY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "One of the ova or eggs of a fish or crustacean"
+  },
+  {
+    "word": "BIGEYE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Any fish in the taxonomic family Priacanthidae, which have large eyes"
+  },
+  {
+    "word": "BLENNY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "A number of fish of similar appearance not closely related"
+  },
+  {
+    "word": "BOARFISH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of various deep-bodied marine fish with a projecting snout, of the families Caproidae or Pentacerotidae"
+  },
+  {
+    "word": "BULLHEAD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(New Zealand) A fish of species Gobiomorphus gobioides"
+  },
+  {
+    "word": "BYCATCH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any person, animal, or thing, captured unintentionally on camera or film"
+  },
+  {
+    "word": "REPTILIAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile",
+    "clue": "A reptilian animal: a reptile"
+  },
+  {
+    "word": "ROMERIID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile",
+    "clue": "(zoology) Any extinct primitive reptile in the family Romeriidae"
+  },
+  {
+    "word": "CHELONIAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile",
+    "clue": "A reptile of the order Chelonia (Testudines)"
+  },
+  {
+    "word": "RANIVORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile",
+    "clue": "A frog-eater; a creature that eats frogs"
+  },
+  {
+    "word": "GAVIALID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile",
+    "clue": "(zoology) Any reptile of the family Gavialidae"
+  },
+  {
+    "word": "PLACODONT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile",
+    "clue": "An extinct marine reptile of the order Placodontia"
+  },
+  {
+    "word": "BOID",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "reptile",
+    "clue": "A computer simulation of an animal that flies in flocks or swarms"
+  },
+  {
+    "word": "CRACID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "reptile",
+    "clue": "(zoology) Any bird of the family Cracidae"
+  },
+  {
+    "word": "OPHIDIAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile",
+    "clue": "Any species of the suborder Serpentes; a snake or serpent"
+  },
+  {
+    "word": "CREEPER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile",
+    "clue": "Any creeping animal (such as a serpent), reptile"
+  },
+  {
+    "word": "FRILL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "reptile",
+    "clue": "(intransitive, obsolete, falconry) To cry (with reference to a bird of prey)"
+  },
+  {
+    "word": "HATCHLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile",
+    "clue": "A newly hatched bird, reptile or other animal that has emerged from an egg"
+  },
+  {
+    "word": "HORN",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "reptile",
+    "clue": "(transitive, of an animal) To assault with the horns"
+  },
+  {
+    "word": "LABIAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "reptile",
+    "clue": "(zootomy) Any of the scales bordering the mouth opening of a reptile"
+  },
+  {
+    "word": "MENTAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "reptile",
+    "clue": "(zootomy) A plate or scale covering the mentum or chin of a fish or reptile"
+  },
+  {
+    "word": "NAIL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "reptile",
+    "clue": "The claw of a bird or other animal"
+  },
+  {
+    "word": "PODOTHECA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile",
+    "clue": "(zoology) The scaly or skin covering of the foot of a bird or animal"
+  },
+  {
+    "word": "PREOCULAR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile",
+    "clue": "One of the scales just in front of the eye of a reptile or fish"
+  },
+  {
+    "word": "SLOUGH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "reptile",
+    "clue": "The skin shed by a snake or other reptile"
+  },
+  {
+    "word": "WORM",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "reptile",
+    "clue": "(transitive) To deworm (an animal)"
+  },
+  {
+    "word": "GHARIAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "reptile",
+    "clue": "A crocodilian of species Gavialis gangeticus, of the family Gavialidae"
+  },
+  {
+    "word": "HEXAPOD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "(dated) An insect"
+  },
+  {
+    "word": "ODONATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "Any carnivorous insect of the order Odonata; a dragonfly or damselfly"
+  },
+  {
+    "word": "MANTID",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "Mantis (insect)"
+  },
+  {
+    "word": "DIPTERAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "(entomology) An insect of the large order Diptera; a fly"
+  },
+  {
+    "word": "LEPIDOPTERAN",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect",
+    "clue": "Any insect of the order Lepidoptera, the butterflies and moths"
+  },
+  {
+    "word": "ROACH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "A freshwater fish of the family Cyprinidae, such as Rutilus rutilus"
+  },
+  {
+    "word": "ALATAE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "(entomology) An insect that possesses wings"
+  },
+  {
+    "word": "ORTHOPTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "Any insect of the order Orthoptera"
+  },
+  {
+    "word": "INSECTOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "(science fiction, ufology) An insect-like creature"
+  },
+  {
+    "word": "HOMOPTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "Any insect of the order Homoptera"
+  },
+  {
+    "word": "UNDERWING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "(ornithology) The underside of a bird's wing"
+  },
+  {
+    "word": "APOCRITAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "Any insect of the suborder Apocrita"
+  },
+  {
+    "word": "METALEG",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "(entomology) Either of the two hind legs on an insect"
+  },
+  {
+    "word": "PTERYGOTE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "Any insect of the order Pterygota"
+  },
+  {
+    "word": "NYMPHID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "(zoology) Any winged insect of the family Nymphidae, a split-footed lacewing"
+  },
+  {
+    "word": "WORKER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "A nonreproductive social insect, such as ant, bee, termite, or wasp"
+  },
+  {
+    "word": "WING",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "insect",
+    "clue": "A fin at the side of a ray or similar fish"
+  },
+  {
+    "word": "TERRICOLE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "Any insect that lives on or in the ground, especially one that is flightless"
+  },
+  {
+    "word": "AURELIA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "(entomology, archaic) The chrysalis of an insect, especially of a butterfly"
+  },
+  {
+    "word": "MIDTIBIA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "The fourth segment of the midleg of an insect (typically of a mosquito)"
+  },
+  {
+    "word": "BACKWING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "The back portion of a bird's wing"
+  },
+  {
+    "word": "ITHONID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "(zoology) Any insect of the moth lacewing family Ithonidae"
+  },
+  {
+    "word": "CONEHEAD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "An insect of the katydid subfamily Conocephalinae"
+  },
+  {
+    "word": "SHELL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "A hard external covering of an animal"
+  },
+  {
+    "word": "NEOPTERAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "Any winged insect of the infraclass Neoptera"
+  },
+  {
+    "word": "CHRYSOPID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "(zoology) Any species of the green lacewing family Chrysopidae"
+  },
+  {
+    "word": "THRIP",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "Optional singular for thrips, an insect of the order Thysanoptera"
+  },
+  {
+    "word": "FLEDGLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "A young bird which has just developed its flight feathers (notably wings)"
+  },
+  {
+    "word": "BORER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "An insect or insect larva that bores into wood"
+  },
+  {
+    "word": "GRASSHOPPER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect",
+    "clue": "(transitive, rare) Of an animal, to hunt and eat grasshoppers"
+  },
+  {
+    "word": "SCALE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "A flake of skin of an animal afflicted with dermatitis"
+  },
+  {
+    "word": "WASP",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "insect",
+    "clue": "Any of many types of stinging flying insect resembling a hornet"
+  },
+  {
+    "word": "ACETABULUM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "insect",
+    "clue": "(zootomy) A sucker of the sepia or cuttlefish and related animals"
+  },
+  {
+    "word": "ADELGID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "An insect of the genus Adelges"
+  },
+  {
+    "word": "BREEZE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "(of fish) To swim near the surface of the water, causing ripples in the surface"
+  },
+  {
+    "word": "BUGGY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "Resembling an insect"
+  },
+  {
+    "word": "CHIRP",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "A short, sharp or high note or noise, as of a bird or insect"
+  },
+  {
+    "word": "CHIRR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "The trilled sound made by an insect"
+  },
+  {
+    "word": "CRAW",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "insect",
+    "clue": "The crop of a bird"
+  },
+  {
+    "word": "CRAWL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "A pen or enclosure of stakes and hurdles for holding fish"
+  },
+  {
+    "word": "CROP",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "insect",
+    "clue": "(transitive) To cut (especially hair or an animal's tail or ears) short"
+  },
+  {
+    "word": "DEALATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "(entomology) A creature that has lost or shed its wings"
+  },
+  {
+    "word": "FEELER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "(anatomy) An antenna or appendage used for feeling, especially on an insect"
+  },
+  {
+    "word": "FLY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "insect",
+    "clue": "(fishing) A lightweight fishing lure resembling an insect"
+  },
+  {
+    "word": "FRASS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "(entomology) The droppings or excrement of insect larvae"
+  },
+  {
+    "word": "GRAIN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "An iron fish spear or harpoon, with a number of points half-barbed inwardly"
+  },
+  {
+    "word": "MAGGOT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "(transitive) To rid (an animal) of maggots"
+  },
+  {
+    "word": "MANDIBLE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "insect",
+    "clue": "(anatomy, zootomy) Either of the upper and lower segments of a bird's beak"
+  },
+  {
+    "word": "NIDUS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "insect",
+    "clue": "A nest for insects or small animals"
+  },
+  {
+    "word": "PREDATION",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "(zoology) The preying of one animal on others"
+  },
+  {
+    "word": "PREDACEOUS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator",
+    "clue": "Surviving by preying on other animals"
+  },
+  {
+    "word": "PREDATORY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "Living by preying on other living animals"
+  },
+  {
+    "word": "PIRATE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator",
+    "clue": "(ornithology) A bird which practises kleptoparasitism"
+  },
+  {
+    "word": "STALKER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "Any bird that walks with a stalking motion"
+  },
+  {
+    "word": "HUNTER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator",
+    "clue": "A dog used in hunting; a hunting dog"
+  },
+  {
+    "word": "KILLER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator",
+    "clue": "A club used for killing fish"
+  },
+  {
+    "word": "PROWLER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "One who roves about for prey; one who prowls"
+  },
+  {
+    "word": "SCAVENGER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "An animal that feeds on decaying matter such as carrion"
+  },
+  {
+    "word": "SEEDEATER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "A bird species which feeds mainly on seeds"
+  },
+  {
+    "word": "GRANIVORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "Any animal that eats seeds as the main part of its diet"
+  },
+  {
+    "word": "DOGEATER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "Someone or some animal that eats dogs"
+  },
+  {
+    "word": "GRUE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "predator",
+    "clue": "A fictional man-eating predator that dwells in the dark"
+  },
+  {
+    "word": "AMBIVORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "(chiefly biology) An animal that feeds on two varieties of food"
+  },
+  {
+    "word": "PELT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "predator",
+    "clue": "The fur or hair of a living animal"
+  },
+  {
+    "word": "DECOY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator",
+    "clue": "A real or fake animal used by hunters to lure game"
+  },
+  {
+    "word": "POLYPHAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "Any animal which can eat a variety of food; an omnivore"
+  },
+  {
+    "word": "EURYPHAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "(ecology) Any animal that eats a large variety of food"
+  },
+  {
+    "word": "CLUTCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator",
+    "clue": "The claw of a predatory animal or bird"
+  },
+  {
+    "word": "TALON",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator",
+    "clue": "A sharp, hooked claw of a bird of prey or other predatory animal"
+  },
+  {
+    "word": "WOLVER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator",
+    "clue": "A ravenous or savage animal; person who behaves like a wolf (1593)"
+  },
+  {
+    "word": "FURBEARER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "An animal that is hunted or farmed for its fur"
+  },
+  {
+    "word": "POLYODONT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "Any such creature"
+  },
+  {
+    "word": "WOLFING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "The hunting of wolves for their skins"
+  },
+  {
+    "word": "PIERCER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "(zoology) The ovipositor, or sting, of an insect"
+  },
+  {
+    "word": "COUGAR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator",
+    "clue": "A wild feline, of species Puma concolor, native to the Americas"
+  },
+  {
+    "word": "DEN",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "predator",
+    "clue": "(intransitive, zoology) Of an animal, to use as a den; to take up residence in"
+  },
+  {
+    "word": "GHOST",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "predator",
+    "clue": "(attributive, in names of species) White or pale"
+  },
+  {
+    "word": "GRAZERS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "An animal that grazes"
+  },
+  {
+    "word": "PARASITE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "predator",
+    "clue": "(informal, specifically) An internal parasite that is an animal or protist"
+  },
+  {
+    "word": "SCAVENGERS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "predator",
+    "clue": "An animal that feeds on decaying matter such as carrion"
+  },
+  {
+    "word": "RUCK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd",
+    "clue": "Obsolete form of roc. [An enormous mythical bird in Eastern legend.]"
+  },
+  {
+    "word": "STRING",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "(archaic) A nerve or tendon of an animal body"
+  },
+  {
+    "word": "PACK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd",
+    "clue": "A group of hounds or dogs, hunting or kept together"
+  },
+  {
+    "word": "SWARM",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "A mass of people, animals or things in motion or turmoil"
+  },
+  {
+    "word": "MOB",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd",
+    "clue": "(collective) A group of animals such as horses or cattle"
+  },
+  {
+    "word": "BOOK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd",
+    "clue": "(horse racing) The list of mares that a stallion will breed in a given season"
+  },
+  {
+    "word": "SCHOOL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "(intransitive, of fish) To form into, or travel in, a school"
+  },
+  {
+    "word": "CONGREGATION",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herd",
+    "clue": "A flock of various birds, such as plovers or eagles"
+  },
+  {
+    "word": "MUSTER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "(transitive, Australia, New Zealand) To gather or round up livestock"
+  },
+  {
+    "word": "HERDFUL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "The amount that constitutes a herd"
+  },
+  {
+    "word": "SUBHERD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "A herd making up part of a larger herd"
+  },
+  {
+    "word": "HARRAS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "A herd of stud horses"
+  },
+  {
+    "word": "HERDBOY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "A boy who herds animals"
+  },
+  {
+    "word": "HERDMATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "Any animal that is in the same herd as another"
+  },
+  {
+    "word": "HERDBOOK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "A book listing the pedigrees of one or more herds of livestock"
+  },
+  {
+    "word": "HERDSBOY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "A boy who herds animals"
+  },
+  {
+    "word": "HERDOWNER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "The owner of a herd of animals"
+  },
+  {
+    "word": "CHARGEE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "(law, Africa) One who is given charge of caring for another's animal or herd"
+  },
+  {
+    "word": "ROUT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd",
+    "clue": "A lowing or mooing sound by an animal, especially cattle; a bellow, a moo"
+  },
+  {
+    "word": "SHEPHERDING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herd",
+    "clue": "The herding of sheep"
+  },
+  {
+    "word": "MUSTERING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "A bringing together, as of livestock for counting"
+  },
+  {
+    "word": "PARADE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "(venery, uncommon) Synonym of herd: A group of elephants when on the move"
+  },
+  {
+    "word": "CAVVY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "Synonym of cavyard (“herd or group of horses on a ranch”)"
+  },
+  {
+    "word": "CABALLADA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "(US) A herd of horses"
+  },
+  {
+    "word": "TEAM",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd",
+    "clue": "A set of draught animals, such as two horses in front of a carriage"
+  },
+  {
+    "word": "CREAGHT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "(obsolete) A drove or herd"
+  },
+  {
+    "word": "MUSTERER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "A person who musters (rounds up) livestock"
+  },
+  {
+    "word": "HEADAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "The number of stock animals on a farm (for example, how many head of cattle)"
+  },
+  {
+    "word": "TRIP",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd",
+    "clue": "A flock of wigeons"
+  },
+  {
+    "word": "ENURNY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "(heraldry) Charged with animals"
+  },
+  {
+    "word": "SHEEPFOLD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "A flock of sheep"
+  },
+  {
+    "word": "BARNMATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "An animal (such as a horse) that lives in the same barn"
+  },
+  {
+    "word": "HORSEMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "A fictional beast that is part horse and part man"
+  },
+  {
+    "word": "NOWT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd",
+    "clue": "(Scotland and Northern England) A herd of cattle"
+  },
+  {
+    "word": "SHOWYARD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "An enclosed yard where livestock is exhibited"
+  },
+  {
+    "word": "BRAKE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "A device used to confine or prevent the motion of an animal"
+  },
+  {
+    "word": "HORSEFLESH",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herd",
+    "clue": "Bahama mahogany, wood from species Lysiloma sabicu and Lysiloma latisiliquum"
+  },
+  {
+    "word": "PAIR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd",
+    "clue": "A couple of working animals attached to work together, as by a yoke"
+  },
+  {
+    "word": "PUNCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "(transitive, of cattle) To herd"
+  },
+  {
+    "word": "PASTOR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "(now rare) Someone who tends to a flock of animals: synonym of shepherd"
+  },
+  {
+    "word": "SHEPHERD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "(countable) A person who tends sheep, especially a grazing flock"
+  },
+  {
+    "word": "BELLWETHER",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herd",
+    "clue": "The leading sheep of a flock, having a bell hung round its neck"
+  },
+  {
+    "word": "COLT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd",
+    "clue": "A young crane (bird)"
+  },
+  {
+    "word": "COWBIRD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "Any bird of the genus Molothrus. The cowbirds are brood parasites"
+  },
+  {
+    "word": "COWGIRL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "(rare, intransitive) To work as a cowgirl, herding cattle"
+  },
+  {
+    "word": "CULL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd",
+    "clue": "(by extension) To kill (animals, etc)"
+  },
+  {
+    "word": "DAZZLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "(uncommon, collective) A herd of zebra"
+  },
+  {
+    "word": "DRAFT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "The act of drawing in a net for fish"
+  },
+  {
+    "word": "HARAS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "(obsolete) A herd of stud horses; a harras"
+  },
+  {
+    "word": "MILLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "A circular or random motion of a herd or a crowd"
+  },
+  {
+    "word": "RABBLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "(obsolete) A pack of animals; or any confused collection of things"
+  },
+  {
+    "word": "RASCAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "(often diminutively) A cheeky person or creature; a troublemaker"
+  },
+  {
+    "word": "STEER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "(transitive) To direct a group of animals"
+  },
+  {
+    "word": "TAIL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herd",
+    "clue": "The feathers attached to the pygostyle of a bird"
+  },
+  {
+    "word": "TOPSMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herd",
+    "clue": "(archaic) The chief drover of those who drive a herd of cattle"
+  },
+  {
+    "word": "COWBOY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "(intransitive) To work as a cowboy, herding cattle"
+  },
+  {
+    "word": "GREGARIOUS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "herd",
+    "clue": "(zoology) Of animals that travel in herds or packs"
+  },
+  {
+    "word": "KUVASZ",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herd",
+    "clue": "A large, usually white breed of dog with its ancient origins in Hungary"
+  },
+  {
+    "word": "TRIBE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "The collective noun for various animals"
+  },
+  {
+    "word": "HORDE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "To travel en masse, to flock"
+  },
+  {
+    "word": "HOVER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "A flock of birds fluttering in the air in one place"
+  },
+  {
+    "word": "CHARM",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "A flock, group (especially of finches)"
+  },
+  {
+    "word": "VOLERY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "A flock of birds"
+  },
+  {
+    "word": "ROOST",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "The place where a bird sleeps (usually its nest or a branch)"
+  },
+  {
+    "word": "SKEIN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "(ichthyology) The membrane of a fish ovary"
+  },
+  {
+    "word": "VOLARY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "Alternative form of volery. [A flock of birds.]"
+  },
+  {
+    "word": "SIEGE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "The seat of a heron while looking out for prey"
+  },
+  {
+    "word": "SCUD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "flock",
+    "clue": "A small flight of larks, or other birds, less than a flock"
+  },
+  {
+    "word": "SEDGE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "A flock of herons, cranes, or bitterns"
+  },
+  {
+    "word": "WAKE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "flock",
+    "clue": "The disturbance which follows an object, person or animal moving through water"
+  },
+  {
+    "word": "ROOKERY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock",
+    "clue": "A colony of breeding birds or other animals"
+  },
+  {
+    "word": "GAMEFOWL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock",
+    "clue": "A game bird"
+  },
+  {
+    "word": "HATCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "A frame or weir in a river, for catching fish"
+  },
+  {
+    "word": "BROODLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock",
+    "clue": "A member of a brood, as of animals"
+  },
+  {
+    "word": "PASSENGER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock",
+    "clue": "(obsolete) A migratory bird, a bird of passage"
+  },
+  {
+    "word": "GROUSE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "(uncountable) The flesh or meat of this bird eaten as food"
+  },
+  {
+    "word": "WISP",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "flock",
+    "clue": "(archaic) A flock of snipe"
+  },
+  {
+    "word": "NOTE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "flock",
+    "clue": "(by extension) A call or song of a bird"
+  },
+  {
+    "word": "FALCONER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock",
+    "clue": "A person who breeds or trains hawks or other birds of prey"
+  },
+  {
+    "word": "WINGDOM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock",
+    "clue": "A domain ruled over by a winged creature"
+  },
+  {
+    "word": "CROWER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "A bird which, or person who, crows"
+  },
+  {
+    "word": "STALE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "(livestock, obsolete) Urine, especially used of horses and cattle"
+  },
+  {
+    "word": "TWITCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "(informal) Action of spotting or seeking out a bird, especially a rare one"
+  },
+  {
+    "word": "ROOSTMATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock",
+    "clue": "A bird that shares a roost with another"
+  },
+  {
+    "word": "WORMFOWL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock",
+    "clue": "Any bird that feeds primarily on worms"
+  },
+  {
+    "word": "FELLFARE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock",
+    "clue": "Obsolete form of fieldfare. [A large thrush, Turdus pilaris, a bird of Eurasia.]"
+  },
+  {
+    "word": "PASSAGER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock",
+    "clue": "(falconry) A bird in its first year"
+  },
+  {
+    "word": "GLIDE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "A bird, the glede or kite"
+  },
+  {
+    "word": "TROGONID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock",
+    "clue": "(ornithology) Any bird in the family Trogonidae, the trogons"
+  },
+  {
+    "word": "POLYGLOT",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock",
+    "clue": "(obsolete) A bird able to imitate the sounds of other birds"
+  },
+  {
+    "word": "COVERT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "Area of thick undergrowth where animals hide"
+  },
+  {
+    "word": "FIRSTBORN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "flock",
+    "clue": "Born as the first one in a family, flock or the like"
+  },
+  {
+    "word": "PICK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "flock",
+    "clue": "(Australia) Pasture; feed, for animals"
+  },
+  {
+    "word": "PRIEST",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "A blunt tool, used for quickly stunning and killing fish"
+  },
+  {
+    "word": "RAFTER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "(collective) A flock of turkeys"
+  },
+  {
+    "word": "SHOT",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "flock",
+    "clue": "(fisheries) A single draft or catch of fish made"
+  },
+  {
+    "word": "SORD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "flock",
+    "clue": "(rare, obsolete) A flock of mallards"
+  },
+  {
+    "word": "SPRING",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "(of animals) To find or get enough food during springtime"
+  },
+  {
+    "word": "WISPS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "flock",
+    "clue": "(archaic) A flock of snipe"
+  },
+  {
+    "word": "DUCKY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "(childish) A duck (aquatic bird), especially a toy rubber duck"
+  },
+  {
+    "word": "POOCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "A dog of mixed breed; a mongrel"
+  },
+  {
+    "word": "TOE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "pet",
+    "clue": "The equivalent part in an animal"
+  },
+  {
+    "word": "POCKET",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "The pouch of an animal"
+  },
+  {
+    "word": "CABBAGE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "(by extension) Any of various cultivars of the species Brassica oleracea"
+  },
+  {
+    "word": "FAMILIAR",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "(witchcraft) An attendant spirit, often in animal or demon form"
+  },
+  {
+    "word": "CUTIE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "A cute person or animal"
+  },
+  {
+    "word": "NURSLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "A young child or animal being nursed"
+  },
+  {
+    "word": "PETCARE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "The care and medical treatment of pets (domestic animals)"
+  },
+  {
+    "word": "CAGEMATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "An animal that shares the same cage as another"
+  },
+  {
+    "word": "YOKEMATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "An animal yoked with another"
+  },
+  {
+    "word": "AMINAL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "(childish, nonstandard) An animal"
+  },
+  {
+    "word": "HOUSELING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "A tame animal, or one reared by hand"
+  },
+  {
+    "word": "ANIMALIER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "An artist who depicts animals"
+  },
+  {
+    "word": "CATTE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "Archaic spelling of cat. [Terms relating to animals.]"
+  },
+  {
+    "word": "PUSS",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "pet",
+    "clue": "(dated, hunting) A hare"
+  },
+  {
+    "word": "HAMSTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "Any of various Old World rodent species belonging to the subfamily Cricetinae"
+  },
+  {
+    "word": "LAPERM",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "A domestic cat of a particular breed with curly fur"
+  },
+  {
+    "word": "ANIMALIST",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "(art) A painter or sculptor whose primary subject is animals"
+  },
+  {
+    "word": "PETERBALD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "A domestic cat of a typically hairless Russian breed with a slim muscular build"
+  },
+  {
+    "word": "CORDATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "(philosophy) Any animal with a heart"
+  },
+  {
+    "word": "HUSBAND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "The male of a pair of animals"
+  },
+  {
+    "word": "KENNETS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "Alternative form of kennet. [A small hunting dog]"
+  },
+  {
+    "word": "PODMATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "A person or animal of the same pod (section, group, etc.)"
+  },
+  {
+    "word": "PAWSTEP",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "A footstep taken by an animal, walking on paws"
+  },
+  {
+    "word": "FUSS",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "pet",
+    "clue": "(intransitive, with over) To show affection for, especially animals"
+  },
+  {
+    "word": "GENTLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "(transitive, animal husbandry) To break; to tame; to domesticate"
+  },
+  {
+    "word": "PETFOOD",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "Food prepared for domestic pet animals"
+  },
+  {
+    "word": "ASH",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "pet",
+    "clue": "(in the plural) Human (or animal) remains after cremation"
+  },
+  {
+    "word": "BITER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "(fishing) A fish that tends to take bait"
+  },
+  {
+    "word": "BULLDOG",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "The original form of this breed, the British bulldog"
+  },
+  {
+    "word": "CAR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "pet",
+    "clue": "(US) A floating perforated box for living fish"
+  },
+  {
+    "word": "CHEEP",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "Of a small bird, to make short, high-pitched sounds"
+  },
+  {
+    "word": "CHICKY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "(childish) Chick (young bird)"
+  },
+  {
+    "word": "CHOW",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "pet",
+    "clue": "A Chow Chow (Chinese breed of dog)"
+  },
+  {
+    "word": "COLLAR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "A coloured ring round the neck of a bird or mammal"
+  },
+  {
+    "word": "CUNNING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "pet",
+    "clue": "The natural wit or instincts of an animal"
+  },
+  {
+    "word": "HUTCH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "A coop or cage for keeping small animals (rabbits, guinea pigs, dogs, etc)"
+  },
+  {
+    "word": "KIBBLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "Any artificial animal feed in pellet form"
+  },
+  {
+    "word": "LEASH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "pet",
+    "clue": "A strap, cord or rope with which to restrain an animal, often a dog"
+  },
+  {
+    "word": "FISHING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "(uncountable) The act of catching fish"
+  },
+  {
+    "word": "SNIPER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting",
+    "clue": "A hunter of snipe (the bird)"
+  },
+  {
+    "word": "WHALING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "The practice of hunting whales"
+  },
+  {
+    "word": "STALKING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "Hunting for game by moving silently and stealthily or by waiting in ambush"
+  },
+  {
+    "word": "CHASE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting",
+    "clue": "A hunt; the act of hunting; the pursuit of game"
+  },
+  {
+    "word": "QUEST",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting",
+    "clue": "(entomology, of a tick) To locate and attach to a host animal"
+  },
+  {
+    "word": "FOWLING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "A session of hunting fowl"
+  },
+  {
+    "word": "BLACKTAIL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "A fish: the ruffe or pope (Gymnocephalus cernua)"
+  },
+  {
+    "word": "FEASTING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "A feast, or an occasion on which people or animals feast"
+  },
+  {
+    "word": "HUNTSMEN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "Any of the many species of large spiders of the family Sparassidae"
+  },
+  {
+    "word": "BROWSING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "A place abounding with shrubs where animals may browse"
+  },
+  {
+    "word": "HUNTSMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "Any of the many species of large spiders of the family Sparassidae"
+  },
+  {
+    "word": "SPORTSMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "(dated) A man who engages in country sports, such as hunting or fishing"
+  },
+  {
+    "word": "FERRETING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "Hunting with ferrets"
+  },
+  {
+    "word": "SLAUGHTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "(uncountable) The killing of animals, generally for food"
+  },
+  {
+    "word": "TAMING",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting",
+    "clue": "The process by which a person, animal or thing is tamed"
+  },
+  {
+    "word": "ZOOCIDE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "The systematic or targeted killing of animals"
+  },
+  {
+    "word": "CARNISM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "The practice of eating animal meat or using animal products (leather, etc)"
+  },
+  {
+    "word": "TAWING",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting",
+    "clue": "The process by which animal skins are tawed"
+  },
+  {
+    "word": "CANNIBALISM",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "hunting",
+    "clue": "The act of eating another of one's own species"
+  },
+  {
+    "word": "EXTRACTION",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "hunting",
+    "clue": "Something extracted, an extract, as from a plant or an organ of an animal etc"
+  },
+  {
+    "word": "WORMING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "The act by which an animal is wormed"
+  },
+  {
+    "word": "MEATPACKING",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "hunting",
+    "clue": "(US) The slaughter and further processing of animals for meat"
+  },
+  {
+    "word": "LODGE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting",
+    "clue": "A building for recreational use such as a hunting lodge or a summer cabin"
+  },
+  {
+    "word": "AIDI",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "hunting",
+    "clue": "A breed of dog from Morocco used for guarding herds of sheep and goats"
+  },
+  {
+    "word": "BATTUE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting",
+    "clue": "(countable, hunting) A hunt performed in this manner"
+  },
+  {
+    "word": "FOIL",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "hunting",
+    "clue": "(hunting) The track of an animal"
+  },
+  {
+    "word": "POACH",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting",
+    "clue": "(ambitransitive) To trespass on another's property to take fish or game"
+  },
+  {
+    "word": "POINTER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "(hunting) A breed of hunting dog, trained to point out game"
+  },
+  {
+    "word": "SCENT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting",
+    "clue": "A smell left by an animal that may be used for tracing"
+  },
+  {
+    "word": "SHIKAR",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting",
+    "clue": "(India) Hunting, sport; a hunting expedition"
+  },
+  {
+    "word": "VENATION",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "(obsolete) The hunting of wild animals"
+  },
+  {
+    "word": "VENERY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting",
+    "clue": "The hunting of wild animals"
+  },
+  {
+    "word": "ARM",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "hunting",
+    "clue": "A limb, or locomotive or prehensile organ, of an invertebrate animal"
+  },
+  {
+    "word": "BEARHOUND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "A dog used for bearbaiting or bear hunting"
+  },
+  {
+    "word": "BLIND",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "hunting",
+    "clue": "A place where people can hide in order to observe wildlife"
+  },
+  {
+    "word": "BLUETICK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "A coonhound of a certain breed originating in the United States"
+  },
+  {
+    "word": "BUCKHOUND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "(UK) A hound for deer hunting"
+  },
+  {
+    "word": "CAMO",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "hunting",
+    "clue": "Clothes made from camouflage fabric, for concealment in combat or hunting"
+  },
+  {
+    "word": "CHASABLE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "Capable of being chased; fit for hunting"
+  },
+  {
+    "word": "COVERSIDE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "A region of country having covers; hunting country"
+  },
+  {
+    "word": "CYNEGETIC",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "hunting",
+    "clue": "(hunting, rare) Of or relating to hunting (especially with dogs)"
+  },
+  {
+    "word": "DIET",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "prey",
+    "clue": "The food and beverage a person or animal consumes"
+  },
+  {
+    "word": "DIETS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey",
+    "clue": "The food and beverage a person or animal consumes"
+  },
+  {
+    "word": "WORRIER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey",
+    "clue": "An animal that seizes or shakes another by the throat"
+  },
+  {
+    "word": "TRACT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey",
+    "clue": "(obsolete) The footprint of a wild animal"
+  },
+  {
+    "word": "MOLETRAP",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey",
+    "clue": "A trap designed to catch moles (the animals)"
+  },
+  {
+    "word": "HIDE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "prey",
+    "clue": "(countable) The skin of an animal"
+  },
+  {
+    "word": "SOYLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey",
+    "clue": "(obsolete) prey"
+  },
+  {
+    "word": "RAPACIOUS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey",
+    "clue": "(of an animal, usually a bird) Subsisting off live prey"
+  },
+  {
+    "word": "RAPTORIAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey",
+    "clue": "Like or resembling a raptor; seizing or plundering, like a bird of prey"
+  },
+  {
+    "word": "RAVENING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey",
+    "clue": "(archaic, literary) Predation (by an animal); voracious eating or consumption"
+  },
+  {
+    "word": "RAVIN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey",
+    "clue": "(obsolete) Food obtained by violence; plunder; prey; raven"
+  },
+  {
+    "word": "ABAY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "prey",
+    "clue": "(obsolete) Barking or baying of dogs at their prey"
+  },
+  {
+    "word": "ARMADA",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey",
+    "clue": "A large flock of anything"
+  },
+  {
+    "word": "BLOCK",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey",
+    "clue": "(falconry) The perch on which a bird of prey is kept"
+  },
+  {
+    "word": "CADGE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey",
+    "clue": "To carry hawks and other birds of prey"
+  },
+  {
+    "word": "CORRODE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey",
+    "clue": "(transitive) To consume; to wear away; to prey upon; to impair"
+  },
+  {
+    "word": "DEPREDATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey",
+    "clue": "(ambitransitive) To ransack or plunder; to prey upon"
+  },
+  {
+    "word": "ELANET",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey",
+    "clue": "Synonym of black-winged kite (“the bird Elanus caeruleus”)"
+  },
+  {
+    "word": "EYRIE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey",
+    "clue": "The nest of a bird of prey"
+  },
+  {
+    "word": "EYRY",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "prey",
+    "clue": "(rare) Alternative spelling of eyrie. [The nest of a bird of prey.]"
+  },
+  {
+    "word": "FIST",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "prey",
+    "clue": "The talons of a bird of prey"
+  },
+  {
+    "word": "GLEDE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey",
+    "clue": "Any of several birds of prey, especially a kite, Milvus milvus"
+  },
+  {
+    "word": "GOSHAWK",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "prey",
+    "clue": "Any of several birds of prey, principally in the genus Accipiter"
+  },
+  {
+    "word": "KITES",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey",
+    "clue": "A bird of prey of the family Accipitridae"
+  },
+  {
+    "word": "MAIDEN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey",
+    "clue": "(of a female, human or animal) Without offspring"
+  },
+  {
+    "word": "MEWS",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "prey",
+    "clue": "(falconry) A place where birds of prey are housed"
+  },
+  {
+    "word": "MULTIPLY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "(intransitive) To breed or propagate"
+  },
+  {
+    "word": "REPRODUCTIVE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "breed",
+    "clue": "(biology) A reproductive organism (especially such as in an insect)"
+  },
+  {
+    "word": "LEAD",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed",
+    "clue": "A rope, leather strap, or similar device with which to lead an animal; a leash"
+  },
+  {
+    "word": "GENERATION",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "breed",
+    "clue": "The act of creating a living creature or organism; procreation"
+  },
+  {
+    "word": "MATE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed",
+    "clue": "(especially of a non-human animal) A breeding partner"
+  },
+  {
+    "word": "REAR",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed",
+    "clue": "(transitive, said of people towards animals) To breed and raise"
+  },
+  {
+    "word": "INBREED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "To breed or reproduce with those that are related"
+  },
+  {
+    "word": "POPULATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "(intransitive) To increase in number; to breed"
+  },
+  {
+    "word": "HAVE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed",
+    "clue": "(transitive, birdwatching) To make an observation of (a bird species)"
+  },
+  {
+    "word": "HYBRIDIZE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "(transitive) To cross-breed animals or plants to form hybrids"
+  },
+  {
+    "word": "OUTBREED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "To breed from parents not closely related"
+  },
+  {
+    "word": "REPOPULATE",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "breed",
+    "clue": "To populate again; to breed among a group in order to keep the population up"
+  },
+  {
+    "word": "SETTLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed",
+    "clue": "(ambitransitive) Of an animal: to make or become pregnant"
+  },
+  {
+    "word": "FATTEN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed",
+    "clue": "(transitive) To cause (a person or animal) to be fat or fatter"
+  },
+  {
+    "word": "BEBEAST",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "(transitive) To make a beast of"
+  },
+  {
+    "word": "TAKE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed",
+    "clue": "(transitive) To catch or get possession of (fish or game)"
+  },
+  {
+    "word": "BRAHMAN",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "A breed of beef cattle from India with a hump on the shoulder"
+  },
+  {
+    "word": "COCKTAIL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "A species of rove beetle, so called from its habit of elevating the tail"
+  },
+  {
+    "word": "CROSS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed",
+    "clue": "(biology) An animal or plant produced by crossbreeding or cross-fertilization"
+  },
+  {
+    "word": "FOXHOUND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "Any of several medium-sized breeds of dog developed for hunting"
+  },
+  {
+    "word": "GREYHOUND",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "A lean breed of dog used in hunting and racing"
+  },
+  {
+    "word": "HACKNEY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "A breed of English horse"
+  },
+  {
+    "word": "INTERBREED",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "breed",
+    "clue": "To breed or reproduce within an isolated community"
+  },
+  {
+    "word": "MERINO",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed",
+    "clue": "(countable) A sheep of a Spanish breed with long, fine hair"
+  },
+  {
+    "word": "MONGREL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "Of mixed breed, nature, or origin; of or like a mongrel"
+  },
+  {
+    "word": "PULI",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed",
+    "clue": "One of a breed of Hungarian sheepdog with a distinctive thick, corded coat"
+  },
+  {
+    "word": "RUFF",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed",
+    "clue": "Senses relating to animals"
+  },
+  {
+    "word": "SCHNAUZER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "A dog of a particular breed originating in Germany"
+  },
+  {
+    "word": "TATTOO",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed",
+    "clue": "A pony of a certain breed from India"
+  },
+  {
+    "word": "TIPPLER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "A breed of domestic pigeon bred to participate in endurance competitions"
+  },
+  {
+    "word": "UNDERBRED",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "(of animals) Not purebred; of an inferior strain"
+  },
+  {
+    "word": "WEED",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "breed",
+    "clue": "(countable) A weak horse, which is therefore unfit to breed from"
+  },
+  {
+    "word": "ANGORA",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed",
+    "clue": "A goat of a domesticated breed that produces mohair"
+  },
+  {
+    "word": "APPALOOSA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "(uncountable) A horse breed best known for its colorful spotted coat pattern"
+  },
+  {
+    "word": "BIRMAN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed",
+    "clue": "A medium-sized semi-longhair domestic cat of a breed originating in Burma"
+  },
+  {
+    "word": "CASTRATE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "breed",
+    "clue": "(transitive) To remove the testicles of a person or animal"
+  },
+  {
+    "word": "NEUTER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "breed",
+    "clue": "(of an animal) Castrated; having had the reproductive organs removed"
+  },
+  {
+    "word": "INTERSPECIES",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species",
+    "clue": "Occurring or arising between species; interspecific"
+  },
+  {
+    "word": "INTERSPECIFIC",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species",
+    "clue": "Occurring among members of different species; interspecies"
+  },
+  {
+    "word": "SPECIATION",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species",
+    "clue": "(taxonomy) The process by which new distinct species evolve"
+  },
+  {
+    "word": "WARMOUTH",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species",
+    "clue": "Lepomis gulosus, a species of freshwater sunfish native to America"
+  },
+  {
+    "word": "ISSUE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species",
+    "clue": "(obsolete) The entrails of a slaughtered animal"
+  },
+  {
+    "word": "PLOVER",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species",
+    "clue": "A minor city in Pocahontas County, Iowa, United States, named for the bird"
+  },
+  {
+    "word": "INVASIVE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species",
+    "clue": "(biology) An invasive organism, such as an animal or plant"
+  },
+  {
+    "word": "INSECTS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species",
+    "clue": "A 2009 album released by Gibraltarian flamenco/metal quintet Breed 77"
+  },
+  {
+    "word": "OFFSPRINGS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species",
+    "clue": "An animal or plant's progeny or young"
+  },
+  {
+    "word": "OTTERS",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species",
+    "clue": "An aquatic or marine carnivorous mammal in the subfamily Lutrinae"
+  },
+  {
+    "word": "POLLINATORS",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species",
+    "clue": "(biology) the agent that pollinates a plant; often an insect"
+  },
+  {
+    "word": "RACES",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species",
+    "clue": "(animal husbandry) A breed or strain of domesticated animal"
+  },
+  {
+    "word": "SEDGES",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species",
+    "clue": "A flock of herons, cranes, or bitterns"
+  },
+  {
+    "word": "WHALES",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species",
+    "clue": "(by extension) Any species of Cetacea"
+  },
+  {
+    "word": "INVERTEBRATES",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species",
+    "clue": "An animal without vertebrae (i.e., without a backbone)"
+  },
+  {
+    "word": "DIPTERANS",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species",
+    "clue": "(entomology) An insect of the large order Diptera; a fly"
+  },
+  {
+    "word": "VERTEBRATES",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species",
+    "clue": "An animal having a backbone: one belonging to the subphylum Vertebrata"
+  },
+  {
+    "word": "SYNTOPIC",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species",
+    "clue": "(biology) Having the ability to coexist without interference with other species"
+  },
+  {
+    "word": "CONGENER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species",
+    "clue": "A plant or animal of the same taxonomic genus as another"
+  },
+  {
+    "word": "SPORT",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species",
+    "clue": "(uncountable) Gaming for money as in racing, hunting, or fishing"
+  },
+  {
+    "word": "PLANIMAL",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species",
+    "clue": "Something that has characteristics of both plants and animals"
+  },
+  {
+    "word": "DEME",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "species",
+    "clue": "(ecology) A distinct local population of plants or animals"
+  },
+  {
+    "word": "ORNAMENTAL",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species",
+    "clue": "(of a plant, fish, etc.) Bred for aesthetic or decorative purposes"
+  },
+  {
+    "word": "ZOOCHORE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "species",
+    "clue": "(botany) A plant whose seeds, spores, or fruit are dispersed by animals"
+  },
+  {
+    "word": "NATIVE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species",
+    "clue": "An oyster of species Ostrea edulis"
+  },
+  {
+    "word": "FOSSIL",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "species",
+    "clue": "The mineralized remains of an animal or plant"
+  },
+  {
+    "word": "INTRASPECIFIC",
+    "category": "animals",
+    "tier": "legendary",
+    "sourceSeed": "species",
+    "clue": "Occurring among members of the same species"
+  },
+  {
+    "word": "AIS",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "species",
+    "clue": "Initialism of Australian Illawarra Shorthorn (cattle breed)"
+  },
+  {
+    "word": "PETTING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "The act of stroking or gently patting an animal"
+  },
+  {
+    "word": "ZOOSCOPY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "The scientific observation of living animals"
+  },
+  {
+    "word": "ZOOPERY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "(rare) experimentation on animals"
+  },
+  {
+    "word": "ZOOTHEIST",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "One who worships animals"
+  },
+  {
+    "word": "ZOOLATRY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "The worship of animals"
+  },
+  {
+    "word": "ZOOMANIA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "An excessive or abnormal love of animals"
+  },
+  {
+    "word": "BEDSITE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "(zoology) The spot where an animal sleeps"
+  },
+  {
+    "word": "ZOOTHEISM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "Animal worship; zoolatry"
+  },
+  {
+    "word": "ZOOLATER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "A worshipper of animals"
+  },
+  {
+    "word": "ZOOSYNTAX",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "The syntax of animal communication"
+  },
+  {
+    "word": "PRIDE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "zoo",
+    "clue": "(zoology) The small European lamprey species Petromyzon branchialis"
+  },
+  {
+    "word": "ZOOPHOBIA",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "An unusual fear of animals"
+  },
+  {
+    "word": "ZOONYM",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "zoo",
+    "clue": "(linguistics) The common name for a (species of) animal"
+  },
+  {
+    "word": "SADDLE",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "zoo",
+    "clue": "A similar implement used to secure goods to animals; a packsaddle"
+  },
+  {
+    "word": "ZOOMACHY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "(rare) A fight between or against animals"
+  },
+  {
+    "word": "ZOARCOID",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "(zoology) Any fish in the suborder Zoarcoidei"
+  },
+  {
+    "word": "DIVORCE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "(zoology) The separation of a bonded pair of animals"
+  },
+  {
+    "word": "ZEBRINE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "A zebra or similar (notably equine) animal"
+  },
+  {
+    "word": "ENZOOTY",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "An endemic disease attacking animals"
+  },
+  {
+    "word": "ZOOLITHE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "Archaic form of zoolite. [A fossilized animal.]"
+  },
+  {
+    "word": "ZOOCHROME",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "Any animal (including human) pigment"
+  },
+  {
+    "word": "AQUARIUM",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "A tank, often made of glass, for keeping live fish or other aquatic animals"
+  },
+  {
+    "word": "ANA",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "zoo",
+    "clue": "(UK) Initialism of animal nursing assistant"
+  },
+  {
+    "word": "MANE",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "zoo",
+    "clue": "Longer hair growth on back of neck of an animal, especially a horse or lion"
+  },
+  {
+    "word": "ZOOKEEPER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "zoo",
+    "clue": "A person employed at a zoo to attend to the animals"
+  },
+  {
+    "word": "REINDEER",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herding",
+    "clue": "To herd or farm reindeer"
+  },
+  {
+    "word": "PASTURES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herding",
+    "clue": "Land, specifically, an open field, on which livestock is kept for feeding"
+  },
+  {
+    "word": "RANCHES",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herding",
+    "clue": "A large plot of land used for raising cattle, sheep or other livestock"
+  },
+  {
+    "word": "RAIK",
+    "category": "animals",
+    "tier": "easy",
+    "sourceSeed": "herding",
+    "clue": "The movement of animals while grazing"
+  },
+  {
+    "word": "CASTING",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herding",
+    "clue": "The excreta of an earthworm or similar creature"
+  },
+  {
+    "word": "ENTRY",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herding",
+    "clue": "(hunting) The introduction of new hounds into a pack"
+  },
+  {
+    "word": "TRAIN",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "herding",
+    "clue": "The tail of a bird"
+  },
+  {
+    "word": "WRANGLE",
+    "category": "animals",
+    "tier": "hard",
+    "sourceSeed": "herding",
+    "clue": "(transitive) (Western US) To herd (horses or other livestock)"
+  },
+  {
+    "word": "HUNTED",
+    "category": "animals",
+    "tier": "medium",
+    "sourceSeed": "prey",
+    "clue": "Being the subject of a hunt"
+  }
+]

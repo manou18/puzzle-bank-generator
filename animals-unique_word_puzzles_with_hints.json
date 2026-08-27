@@ -4294,5 +4294,61 @@
     "word": "howl",
     "hint": "To make a long, loud wailing sound like a wolf.",
     "sourceSeed": "beast"
+  },
+  {
+    "id": 538,
+    "category": "animals",
+    "tier": "hard",
+    "word": "husbandry",
+    "hint": "The practice and science of breeding and raising farm animals.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 539,
+    "category": "animals",
+    "tier": "hard",
+    "word": "grazeland",
+    "hint": "Open fields set aside for farm animals to feed on grass.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 540,
+    "category": "animals",
+    "tier": "hard",
+    "word": "foddering",
+    "hint": "The act of providing dry coarse food to farm animals.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 541,
+    "category": "animals",
+    "tier": "hard",
+    "word": "wildmeat",
+    "hint": "Flesh obtained by hunting game creatures rather than farm animals.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 542,
+    "category": "animals",
+    "tier": "hard",
+    "word": "faunivory",
+    "hint": "The dietary practice of eating other creatures.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 543,
+    "category": "animals",
+    "tier": "hard",
+    "word": "bigfoot",
+    "hint": "A legendary giant ape-like creature said to inhabit North American forests, also called Sasquatch.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 544,
+    "category": "animals",
+    "tier": "hard",
+    "word": "darkling",
+    "hint": "A legendary or mythical creature that dwells in shadow or obscurity.",
+    "sourceSeed": "creature"
   }
 ]

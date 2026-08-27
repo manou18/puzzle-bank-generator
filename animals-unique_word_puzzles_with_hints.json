@@ -3078,5 +3078,1221 @@
     "word": "carnism",
     "hint": "The invisible ideology that conditions people to consume meat and utilize wildlife-derived goods.",
     "sourceSeed": "hunting"
+  },
+  {
+    "id": 386,
+    "category": "animals",
+    "tier": "hard",
+    "word": "purebred",
+    "hint": "A creature whose parents belong to the exact same recognized lineage or pedigree.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 387,
+    "category": "animals",
+    "tier": "hard",
+    "word": "eutherian",
+    "hint": "A creature belonging to the major group of mammals characterized by specialized internal nourishment before birth.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 388,
+    "category": "animals",
+    "tier": "hard",
+    "word": "placental",
+    "hint": "A member of the group whose offspring develop internally, nourished before birth by a specialized organ.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 389,
+    "category": "animals",
+    "tier": "hard",
+    "word": "shorebird",
+    "hint": "An avian species typically inhabiting coastal areas, mudflats, or wetland margins.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 390,
+    "category": "animals",
+    "tier": "hard",
+    "word": "nesting",
+    "hint": "The behavioral process by which an avian creature constructs or occupies a structure to lay eggs and raise brood.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 391,
+    "category": "animals",
+    "tier": "hard",
+    "word": "landbird",
+    "hint": "An avian species that spends the vast majority of its lifecycle grounded or flying over terrestrial habitats.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 392,
+    "category": "animals",
+    "tier": "hard",
+    "word": "guppies",
+    "hint": "Broadly used to denote any remarkably tiny aquatic vertebrate kept in tanks or swimming in streams.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 393,
+    "category": "animals",
+    "tier": "hard",
+    "word": "crestfish",
+    "hint": "An elongated, ribbon-like deep-sea swimmer belonging to Lophotidae, known for a prominent high fin extension above its head.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 394,
+    "category": "animals",
+    "tier": "hard",
+    "word": "sardine",
+    "hint": "To harvest or catch small, oily schooling marine fish.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 395,
+    "category": "animals",
+    "tier": "hard",
+    "word": "anableps",
+    "hint": "A tropical surface-dwelling fish recognized for eyes split to see both air and water at once.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 396,
+    "category": "animals",
+    "tier": "hard",
+    "word": "underwing",
+    "hint": "The ventral or hidden bottom surface of a bird's flight appendage.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 397,
+    "category": "animals",
+    "tier": "hard",
+    "word": "aurelia",
+    "hint": "An obsolete term for an insect's pupa or chrysalis stage.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 398,
+    "category": "animals",
+    "tier": "hard",
+    "word": "backwing",
+    "hint": "The rear portion of a bird's flight appendage.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 399,
+    "category": "animals",
+    "tier": "hard",
+    "word": "neopteran",
+    "hint": "A winged hexapod capable of flexing its flight apparatus flat against its abdomen.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 400,
+    "category": "animals",
+    "tier": "hard",
+    "word": "fledgling",
+    "hint": "A young avian that has grown flight feathers and is preparing to leave the nest.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 401,
+    "category": "animals",
+    "tier": "hard",
+    "word": "dealate",
+    "hint": "An adult insect that has cast off or lost its flight appendages after swarming.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 402,
+    "category": "animals",
+    "tier": "hard",
+    "word": "dogeater",
+    "hint": "A carnivorous animal or organism that preys upon domestic canines.",
+    "sourceSeed": "predator"
+  },
+  {
+    "id": 403,
+    "category": "animals",
+    "tier": "hard",
+    "word": "ambivore",
+    "hint": "A creature whose natural diet is strictly restricted to two specific kinds of food.",
+    "sourceSeed": "predator"
+  },
+  {
+    "id": 404,
+    "category": "animals",
+    "tier": "hard",
+    "word": "furbearer",
+    "hint": "A wild mammal that is hunted, trapped, or raised for its valuable pelt.",
+    "sourceSeed": "predator"
+  },
+  {
+    "id": 405,
+    "category": "animals",
+    "tier": "hard",
+    "word": "herdful",
+    "hint": "A collective noun describing the total amount or capacity of livestock assembled together.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 406,
+    "category": "animals",
+    "tier": "hard",
+    "word": "shepherd",
+    "hint": "A rural worker who tends, protects, and guides a flock of sheep.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 407,
+    "category": "animals",
+    "tier": "hard",
+    "word": "gamefowl",
+    "hint": "A wild or domestic bird bred or hunted for sport and competition.",
+    "sourceSeed": "flock"
+  },
+  {
+    "id": 408,
+    "category": "animals",
+    "tier": "hard",
+    "word": "wingdom",
+    "hint": "A realm governed by a creature with feathered or membrane-bound limbs for flight.",
+    "sourceSeed": "flock"
+  },
+  {
+    "id": 409,
+    "category": "animals",
+    "tier": "hard",
+    "word": "animalier",
+    "hint": "A sculptor or painter specializing in depicting fauna rather than humans or landscapes.",
+    "sourceSeed": "pet"
+  },
+  {
+    "id": 410,
+    "category": "animals",
+    "tier": "hard",
+    "word": "pawstep",
+    "hint": "A single tread made on soft pads by a walking canine or feline.",
+    "sourceSeed": "pet"
+  },
+  {
+    "id": 411,
+    "category": "animals",
+    "tier": "hard",
+    "word": "whaling",
+    "hint": "The industry or pursuit focused on hunting giant marine mammals for oil and meat.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 412,
+    "category": "animals",
+    "tier": "hard",
+    "word": "browsing",
+    "hint": "A shrubby feeding area rich in tender shoots and leaves for grazing beasts.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 413,
+    "category": "animals",
+    "tier": "hard",
+    "word": "slaughter",
+    "hint": "The butcherly processing or killing of livestock for meat consumption.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 414,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zoocide",
+    "hint": "The intentional destruction or systematic extermination of non-human creatures.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 415,
+    "category": "animals",
+    "tier": "hard",
+    "word": "pointer",
+    "hint": "A canine breed trained to freeze rigid in the direction of hidden game birds.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 416,
+    "category": "animals",
+    "tier": "hard",
+    "word": "venation",
+    "hint": "An archaic term referring to the pursuit and capture of wild beasts.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 417,
+    "category": "animals",
+    "tier": "hard",
+    "word": "bluetick",
+    "hint": "An American scent dog breed recognized by its dark, mottled coat pattern used for treeing raccoons.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 418,
+    "category": "animals",
+    "tier": "hard",
+    "word": "buckhound",
+    "hint": "A British canine breed historically kept for pursuing male antlered deer.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 419,
+    "category": "animals",
+    "tier": "hard",
+    "word": "coverside",
+    "hint": "Rural terrain featuring dense thickets where game hides, ideal for fox hunting.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 420,
+    "category": "animals",
+    "tier": "hard",
+    "word": "cynegetic",
+    "hint": "Relating to the art or practice of pursuing wild game, particularly with trained canines.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 421,
+    "category": "animals",
+    "tier": "hard",
+    "word": "rapacious",
+    "hint": "Describing a creature, especially a bird, that greedily hunts and lives off live prey.",
+    "sourceSeed": "prey"
+  },
+  {
+    "id": 422,
+    "category": "animals",
+    "tier": "hard",
+    "word": "raptorial",
+    "hint": "Adapted for seizing live quarry with sharp talons, characteristic of avian predators.",
+    "sourceSeed": "prey"
+  },
+  {
+    "id": 423,
+    "category": "animals",
+    "tier": "hard",
+    "word": "ravening",
+    "hint": "Literary term for ferocious, predatory feeding or greedy devouring by wild creatures.",
+    "sourceSeed": "prey"
+  },
+  {
+    "id": 424,
+    "category": "animals",
+    "tier": "hard",
+    "word": "corrode",
+    "hint": "To gradually wear away or consume another organism through predatory action.",
+    "sourceSeed": "prey"
+  },
+  {
+    "id": 425,
+    "category": "animals",
+    "tier": "hard",
+    "word": "depredate",
+    "hint": "To lay waste or feed upon a population through destructive predatory behavior.",
+    "sourceSeed": "prey"
+  },
+  {
+    "id": 426,
+    "category": "animals",
+    "tier": "hard",
+    "word": "goshawk",
+    "hint": "A powerful bird of prey in the genus Accipiter, known for hunting in dense woodlands.",
+    "sourceSeed": "prey"
+  },
+  {
+    "id": 427,
+    "category": "animals",
+    "tier": "hard",
+    "word": "multiply",
+    "hint": "To increase in number through reproduction or biological propagation.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 428,
+    "category": "animals",
+    "tier": "hard",
+    "word": "inbreed",
+    "hint": "Produce offspring by mating closely related individuals within an isolated lineage.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 429,
+    "category": "animals",
+    "tier": "hard",
+    "word": "populate",
+    "hint": "To expand in numbers within a habitat through successful reproduction.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 430,
+    "category": "animals",
+    "tier": "hard",
+    "word": "hybridize",
+    "hint": "To cross distinct species or strains to produce offspring with mixed traits.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 431,
+    "category": "animals",
+    "tier": "hard",
+    "word": "brahman",
+    "hint": "South Asian humped livestock known for heat tolerance and distinctive shoulder ridge.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 432,
+    "category": "animals",
+    "tier": "hard",
+    "word": "cocktail",
+    "hint": "A rove beetle recognized by its defensive habit of curving its posterior upward.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 433,
+    "category": "animals",
+    "tier": "hard",
+    "word": "greyhound",
+    "hint": "A sleek, slender canine built for high-speed coursing and track racing.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 434,
+    "category": "animals",
+    "tier": "hard",
+    "word": "schnauzer",
+    "hint": "A distinctive Germanic canine featuring a prominent beard and bushy eyebrows.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 435,
+    "category": "animals",
+    "tier": "hard",
+    "word": "tippler",
+    "hint": "A domestic pigeon variety selected specifically for prolonged, unbroken high flying.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 436,
+    "category": "animals",
+    "tier": "hard",
+    "word": "appaloosa",
+    "hint": "An equine variety famous for its distinctive mottled skin and dappled coat pattern.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 437,
+    "category": "animals",
+    "tier": "hard",
+    "word": "castrate",
+    "hint": "To surgically remove the primary male gonads of a domestic animal.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 438,
+    "category": "animals",
+    "tier": "hard",
+    "word": "warmouth",
+    "hint": "A heavy-bodied North American freshwater sunfish with a large, dark-patterned maw.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 439,
+    "category": "animals",
+    "tier": "hard",
+    "word": "invasive",
+    "hint": "Introduced non-native organism that disrupts local ecological balances.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 440,
+    "category": "animals",
+    "tier": "hard",
+    "word": "insects",
+    "hint": "The 2009 studio album by the Gibraltarian metal band Breed 77.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 441,
+    "category": "animals",
+    "tier": "hard",
+    "word": "dipterans",
+    "hint": "Two-winged true flies belonging to a massive order of broad distribution.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 442,
+    "category": "animals",
+    "tier": "hard",
+    "word": "syntopic",
+    "hint": "Describing distinct species that share the exact same spatial environment.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 443,
+    "category": "animals",
+    "tier": "hard",
+    "word": "congener",
+    "hint": "A biological organism classified within the same genus as another.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 444,
+    "category": "animals",
+    "tier": "hard",
+    "word": "planimal",
+    "hint": "An organism combining distinct characteristics of both flora and fauna.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 445,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zoochore",
+    "hint": "A plant species that relies on fauna for seed, spore, or fruit dispersion.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 446,
+    "category": "animals",
+    "tier": "hard",
+    "word": "petting",
+    "hint": "The gentle act of stroking or patting a tame creature lovingly.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 447,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zooscopy",
+    "hint": "Scientific observation and structured monitoring of living creatures.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 448,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zoopery",
+    "hint": "An obscure term for conducting scientific experiments on living creatures.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 449,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zoolatry",
+    "hint": "The religious practice of worshipping non-human creatures as deities.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 450,
+    "category": "animals",
+    "tier": "hard",
+    "word": "bedsite",
+    "hint": "The specific location where a creature regularly rests or sleeps.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 451,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zootheism",
+    "hint": "A theological system centered around the worship of non-human creatures.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 452,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zoolater",
+    "hint": "A practitioner who pays divine homage or worship to non-human creatures.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 453,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zoosyntax",
+    "hint": "The structural arrangement and rules governing non-human communication signals.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 454,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zoophobia",
+    "hint": "An intense, irrational terror or morbid fear of non-human creatures.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 455,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zoomachy",
+    "hint": "A battle or physical combat involving beasts, whether fighting one another or humans.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 456,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zoarcoid",
+    "hint": "Any ray-finned marine fish belonging to the eelpout suborder.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 457,
+    "category": "animals",
+    "tier": "hard",
+    "word": "divorce",
+    "hint": "The dissolution of a lifelong pair bond between mating creatures.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 458,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zebrine",
+    "hint": "Characteristic of or belonging to a striped African equine creature.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 459,
+    "category": "animals",
+    "tier": "hard",
+    "word": "enzooty",
+    "hint": "An endemic disease constantly present within a specific non-human population.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 460,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zoolithe",
+    "hint": "An archaic designation for the petrified or fossilized remains of a creature.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 461,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zoochrome",
+    "hint": "Any naturally occurring pigment produced within non-human or human tissue.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 462,
+    "category": "animals",
+    "tier": "hard",
+    "word": "aquarium",
+    "hint": "A transparent enclosure designed to contain aquatic life and its water environment.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 463,
+    "category": "animals",
+    "tier": "hard",
+    "word": "pastures",
+    "hint": "Grassy expanses of land dedicated to grazing livestock.",
+    "sourceSeed": "herding"
+  },
+  {
+    "id": 464,
+    "category": "animals",
+    "tier": "hard",
+    "word": "ranches",
+    "hint": "Extensive rural properties primarily established for breeding and raising livestock.",
+    "sourceSeed": "herding"
+  },
+  {
+    "id": 465,
+    "category": "animals",
+    "tier": "hard",
+    "word": "casting",
+    "hint": "The nutrient-rich waste matter ejected by earthworms after digesting organic soil matter.",
+    "sourceSeed": "herding"
+  },
+  {
+    "id": 466,
+    "category": "animals",
+    "tier": "hard",
+    "word": "wrangle",
+    "hint": "To round up and manage livestock, especially horses, on an open range.",
+    "sourceSeed": "herding"
+  },
+  {
+    "id": 467,
+    "category": "animals",
+    "tier": "easy",
+    "word": "bone",
+    "hint": "The hard skeletal element found inside a fish.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 468,
+    "category": "animals",
+    "tier": "easy",
+    "word": "zoo",
+    "hint": "A public facility or park where living creatures are kept for display.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 469,
+    "category": "animals",
+    "tier": "easy",
+    "word": "bug",
+    "hint": "A true insect belonging to the order Hemiptera.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 470,
+    "category": "animals",
+    "tier": "easy",
+    "word": "pig",
+    "hint": "Pork, considered as the edible meat harvested from swine.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 471,
+    "category": "animals",
+    "tier": "easy",
+    "word": "pet",
+    "hint": "A companion animal or beloved darling kept with affection.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 472,
+    "category": "animals",
+    "tier": "easy",
+    "word": "beef",
+    "hint": "A collective term for cattle or bovine livestock.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 473,
+    "category": "animals",
+    "tier": "easy",
+    "word": "feed",
+    "hint": "Nourishment or fodder given to livestock and farm creatures.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 474,
+    "category": "animals",
+    "tier": "easy",
+    "word": "head",
+    "hint": "Relating to the skull or cranial part of a creature's body.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 475,
+    "category": "animals",
+    "tier": "easy",
+    "word": "bird",
+    "hint": "A feathered, egg-laying creature with wings and a beak.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 476,
+    "category": "animals",
+    "tier": "easy",
+    "word": "dog",
+    "hint": "A loyal canine companion commonly kept as a household creature.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 477,
+    "category": "animals",
+    "tier": "easy",
+    "word": "goat",
+    "hint": "A horned, hoofed mammal of the genus Capra known for bleating.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 478,
+    "category": "animals",
+    "tier": "easy",
+    "word": "deer",
+    "hint": "A hoofed, antler-bearing mammal of the Cervidae family.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 479,
+    "category": "animals",
+    "tier": "easy",
+    "word": "fowl",
+    "hint": "An old-fashioned or general term for any feathered winged creature.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 480,
+    "category": "animals",
+    "tier": "easy",
+    "word": "call",
+    "hint": "The unique vocal cry or sound made by a bird or wild creature.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 481,
+    "category": "animals",
+    "tier": "easy",
+    "word": "hare",
+    "hint": "Culinary meat prepared from a large rabbit-like mammal.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 482,
+    "category": "animals",
+    "tier": "easy",
+    "word": "wild",
+    "hint": "The natural, untamed state away from human control.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 483,
+    "category": "animals",
+    "tier": "easy",
+    "word": "back",
+    "hint": "What a hunting canine does when standing still behind one that pointed.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 484,
+    "category": "animals",
+    "tier": "easy",
+    "word": "bag",
+    "hint": "To successfully capture or harvest game while hunting.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 485,
+    "category": "animals",
+    "tier": "easy",
+    "word": "bail",
+    "hint": "A movable bar used to secure or restrain farm creatures in a stall.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 486,
+    "category": "animals",
+    "tier": "easy",
+    "word": "bait",
+    "hint": "Poisoned food set out to eliminate unwanted pests.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 487,
+    "category": "animals",
+    "tier": "easy",
+    "word": "bay",
+    "hint": "The excited, deep howling of hunting hounds during a chase.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 488,
+    "category": "animals",
+    "tier": "easy",
+    "word": "bear",
+    "hint": "The meat obtained from a large, furry mammal with sharp claws.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 489,
+    "category": "animals",
+    "tier": "easy",
+    "word": "bed",
+    "hint": "To lie down to rest, as large game creatures do in the forest.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 490,
+    "category": "animals",
+    "tier": "easy",
+    "word": "bite",
+    "hint": "To sting or pierce the skin with mouthparts, as insects do.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 491,
+    "category": "animals",
+    "tier": "easy",
+    "word": "boma",
+    "hint": "Organic fertilizer made from animal manure.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 492,
+    "category": "animals",
+    "tier": "easy",
+    "word": "boss",
+    "hint": "A rounded swelling or lump protruding from an animal or object.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 493,
+    "category": "animals",
+    "tier": "easy",
+    "word": "cage",
+    "hint": "A barred enclosure used to hold captive animals or birds.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 494,
+    "category": "animals",
+    "tier": "easy",
+    "word": "herd",
+    "hint": "A group of cattle or other large mammals gathered together.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 495,
+    "category": "animals",
+    "tier": "easy",
+    "word": "race",
+    "hint": "In animal husbandry, a distinct breed or strain of domesticated livestock.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 496,
+    "category": "animals",
+    "tier": "easy",
+    "word": "stud",
+    "hint": "A male animal, such as a stallion, kept primarily for breeding.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 497,
+    "category": "animals",
+    "tier": "easy",
+    "word": "dam",
+    "hint": "The mother of an animal, especially in livestock breeding.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 498,
+    "category": "animals",
+    "tier": "easy",
+    "word": "fold",
+    "hint": "An enclosure or pen for keeping sheep or other livestock.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 499,
+    "category": "animals",
+    "tier": "easy",
+    "word": "hack",
+    "hint": "A frame or rack used for drying items such as food or bricks.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 500,
+    "category": "animals",
+    "tier": "easy",
+    "word": "hay",
+    "hint": "Grass that has been cut and dried to feed livestock.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 501,
+    "category": "animals",
+    "tier": "easy",
+    "word": "lazy",
+    "hint": "An archaic name for the slow-moving tree-dwelling mammal known as a sloth.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 502,
+    "category": "animals",
+    "tier": "easy",
+    "word": "loco",
+    "hint": "A toxic plant species that causes nervous illness in grazing livestock.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 503,
+    "category": "animals",
+    "tier": "easy",
+    "word": "mash",
+    "hint": "A wet mixture of grain meal or bran fed to farm animals.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 504,
+    "category": "animals",
+    "tier": "easy",
+    "word": "pest",
+    "hint": "A harmful insect or creature that damages agricultural crops or livestock.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 505,
+    "category": "animals",
+    "tier": "easy",
+    "word": "prod",
+    "hint": "A pointed stick or electronic wand used to drive cattle forward.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 506,
+    "category": "animals",
+    "tier": "easy",
+    "word": "run",
+    "hint": "The seasonal migration of aquatic creatures upstream to spawn.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 507,
+    "category": "animals",
+    "tier": "easy",
+    "word": "rye",
+    "hint": "A common type of pasture grass of the genus Lolium, often grown for lawn or animal grazing.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 508,
+    "category": "animals",
+    "tier": "easy",
+    "word": "game",
+    "hint": "Wild animals pursued or caught for food or sport.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 509,
+    "category": "animals",
+    "tier": "easy",
+    "word": "hunt",
+    "hint": "The act of chasing and capturing or killing wild creatures.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 510,
+    "category": "animals",
+    "tier": "easy",
+    "word": "apod",
+    "hint": "A creature or animal that lacks feet or legs.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 511,
+    "category": "animals",
+    "tier": "easy",
+    "word": "lair",
+    "hint": "The den or hidden resting place of a wild beast.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 512,
+    "category": "animals",
+    "tier": "easy",
+    "word": "nest",
+    "hint": "A structure made by a bird to hold its eggs and raise chicks.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 513,
+    "category": "animals",
+    "tier": "easy",
+    "word": "pole",
+    "hint": "A long wooden bar on a carriage to which draft beasts are hitched.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 514,
+    "category": "animals",
+    "tier": "easy",
+    "word": "tame",
+    "hint": "Domesticated or gentle, being comfortable living around humans.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 515,
+    "category": "animals",
+    "tier": "easy",
+    "word": "fish",
+    "hint": "A gill-bearing aquatic vertebrate with fins, living entirely in water.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 516,
+    "category": "animals",
+    "tier": "easy",
+    "word": "good",
+    "hint": "Describing a pet that is well-behaved and obedient.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 517,
+    "category": "animals",
+    "tier": "easy",
+    "word": "asp",
+    "hint": "A predatory European freshwater fish in the carp family.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 518,
+    "category": "animals",
+    "tier": "easy",
+    "word": "bee",
+    "hint": "An informal name for any flying insect that stings, such as a wasp.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 519,
+    "category": "animals",
+    "tier": "easy",
+    "word": "blob",
+    "hint": "A small freshwater creature also known as the miller's thumb.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 520,
+    "category": "animals",
+    "tier": "easy",
+    "word": "crab",
+    "hint": "An ocean crustacean with a broad shell, ten legs, and sharp pincers.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 521,
+    "category": "animals",
+    "tier": "easy",
+    "word": "crow",
+    "hint": "In butchery, the fold of membrane attaching an animal's intestine to the belly wall.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 522,
+    "category": "animals",
+    "tier": "easy",
+    "word": "eel",
+    "hint": "A long, snakelike fish with a slippery body that lives in salt or fresh water.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 523,
+    "category": "animals",
+    "tier": "easy",
+    "word": "emu",
+    "hint": "A giant flightless bird native to Australia, second in height only to the ostrich.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 524,
+    "category": "animals",
+    "tier": "easy",
+    "word": "fawn",
+    "hint": "An old term for the young offspring or baby of an animal.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 525,
+    "category": "animals",
+    "tier": "easy",
+    "word": "fur",
+    "hint": "The soft, hairy coat of mammals used to craft warm coats or garments.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 526,
+    "category": "animals",
+    "tier": "easy",
+    "word": "gag",
+    "hint": "A specific ocean species of grouper prized by coastal anglers.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 527,
+    "category": "animals",
+    "tier": "easy",
+    "word": "gray",
+    "hint": "An animal distinguished by its silver-ash coloration, such as a particular horse.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 528,
+    "category": "animals",
+    "tier": "easy",
+    "word": "prey",
+    "hint": "An animal hunted, caught, and eaten by a predator.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 529,
+    "category": "animals",
+    "tier": "easy",
+    "word": "wyrm",
+    "hint": "A mythical legless and wingless serpent or dragon.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 530,
+    "category": "animals",
+    "tier": "easy",
+    "word": "leap",
+    "hint": "A small waterfall or step that river fish jump over while migrating upstream.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 531,
+    "category": "animals",
+    "tier": "easy",
+    "word": "mule",
+    "hint": "The sterile offspring produced by breeding two different species.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 532,
+    "category": "animals",
+    "tier": "easy",
+    "word": "roar",
+    "hint": "To utter a loud, deep, booming sound, as a lion does.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 533,
+    "category": "animals",
+    "tier": "easy",
+    "word": "cry",
+    "hint": "To make a vocal sound or call typical of wild beasts.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 534,
+    "category": "animals",
+    "tier": "easy",
+    "word": "dock",
+    "hint": "The fleshy base of a quadruped's tail remaining after it has been trimmed.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 535,
+    "category": "animals",
+    "tier": "easy",
+    "word": "fell",
+    "hint": "The raw hide, skin, or pelt taken from an animal.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 536,
+    "category": "animals",
+    "tier": "easy",
+    "word": "goad",
+    "hint": "A long, pointed rod or pole used to push cattle forward.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 537,
+    "category": "animals",
+    "tier": "easy",
+    "word": "howl",
+    "hint": "To make a long, loud wailing sound like a wolf.",
+    "sourceSeed": "beast"
   }
 ]

@@ -4350,5 +4350,1117 @@
     "word": "darkling",
     "hint": "A legendary or mythical creature that dwells in shadow or obscurity.",
     "sourceSeed": "creature"
+  },
+  {
+    "id": 545,
+    "category": "animals",
+    "tier": "hard",
+    "word": "sockeyes",
+    "hint": "The edible pink meat from a specific red-skinned Pacific salmon species.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 546,
+    "category": "animals",
+    "tier": "hard",
+    "word": "boxfish",
+    "hint": "A cube-shaped marine creature belonging to the family Ostraciidae.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 547,
+    "category": "animals",
+    "tier": "hard",
+    "word": "insectoid",
+    "hint": "An extraterrestrial or fictional creature resembling a six-legged bug or arthropod.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 548,
+    "category": "animals",
+    "tier": "hard",
+    "word": "yokemate",
+    "hint": "A draft animal harnessed side by side with another to pull a heavy load.",
+    "sourceSeed": "pet"
+  },
+  {
+    "id": 549,
+    "category": "animals",
+    "tier": "hard",
+    "word": "fishing",
+    "hint": "The traditional activity of catching aquatic creatures using nets, lines, or traps.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 550,
+    "category": "animals",
+    "tier": "hard",
+    "word": "sportsman",
+    "hint": "A male outdoor enthusiast who participates in traditional countryside pursuits like stalking game or catching aquatic prey.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 551,
+    "category": "animals",
+    "tier": "hard",
+    "word": "worrier",
+    "hint": "A violent creature or canine known to grab prey by the throat and shake it aggressively.",
+    "sourceSeed": "prey"
+  },
+  {
+    "id": 552,
+    "category": "animals",
+    "tier": "hard",
+    "word": "hackney",
+    "hint": "An English equine type famous for high-stepping action, often used for carriage driving.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 553,
+    "category": "animals",
+    "tier": "hard",
+    "word": "mongrel",
+    "hint": "Having a mixed or uncertain ancestry, often referring to a mutt.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 554,
+    "category": "animals",
+    "tier": "hard",
+    "word": "underbred",
+    "hint": "Lacking pedigree status; originating from an inferior or mixed genetic line of livestock.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 555,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zootheist",
+    "hint": "A worshiper who reveres fauna as gods or sacred spiritual beings.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 556,
+    "category": "animals",
+    "tier": "hard",
+    "word": "zookeeper",
+    "hint": "A caretaker employed to feed and maintain captive wildlife in living exhibits.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 557,
+    "category": "animals",
+    "tier": "hard",
+    "word": "reindeer",
+    "hint": "To manage and farm antlered arctic ungulates typically kept by indigenous northern peoples.",
+    "sourceSeed": "herding"
+  },
+  {
+    "id": 558,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "veterinarian",
+    "hint": "A medical professional licensed to diagnose and treat diseases in non-human creatures.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 559,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "animalistic",
+    "hint": "Behaving in a wild, primal manner reminiscent of non-human creatures.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 560,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "vertebrate",
+    "hint": "Any creature possessing a spine or central skeletal backbone.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 561,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "wolverines",
+    "hint": "Solitary, fierce nocturnal mustelids known for their strength and gluttonous habits.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 562,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "pastoralism",
+    "hint": "The agricultural practice of raising and herding livestock across open country.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 563,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "pastureland",
+    "hint": "Grassy terrain designated for grazing domestic livestock.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 564,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "subspecies",
+    "hint": "A taxonomic division directly subordinate to a primary biological rank of organisms.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 565,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "vegetarian",
+    "hint": "Describes a creature whose natural diet consists exclusively of plant matter.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 566,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "cottontail",
+    "hint": "A wild North American lagomorph belonging to the genus Sylvilagus.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 567,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "sparrowhawk",
+    "hint": "In falconry, the female of a certain small raptor, contrasting with the male musket.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 568,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "whippoorwill",
+    "hint": "The distinctive nocturnal vocal chant produced by a specific North American nightjar.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 569,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "groundfish",
+    "hint": "A commercial term for marine swimmers that dwell and feed near the benthic ocean bed.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 570,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "sheepshead",
+    "hint": "An Atlantic marine swimmer of the species Archosargus probatocephalus, featuring human-like teeth.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 571,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "ichthyology",
+    "hint": "The scientific branch of zoology devoted to the study of aquatic gill-bearing fauna.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 572,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "lepidopteran",
+    "hint": "Any insect belonging to the order characterized by scaly wings, including moths.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 573,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "acetabulum",
+    "hint": "A circular suction organ found on the tentacles of cephalopods like cuttlefish.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 574,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "scavengers",
+    "hint": "Creatures that consume dead organic matter or abandoned remains rather than hunting live targets.",
+    "sourceSeed": "predator"
+  },
+  {
+    "id": 575,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "congregation",
+    "hint": "A collective gathering or flock of specific avian creatures like plovers or eagles.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 576,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "horseflesh",
+    "hint": "Timber or lumber obtained from certain West Indian trees like Lysiloma sabicu.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 577,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "bellwether",
+    "hint": "The guide animal of a flock, traditionally fitted with a chiming collar to indicate movement.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 578,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "gregarious",
+    "hint": "Describing fauna that naturally cluster, move, or forage together in groups or packs.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 579,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "extraction",
+    "hint": "A concentrated substance derived or isolated from an organic source, such as plant tissue or glandular organs.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 580,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "meatpacking",
+    "hint": "The industrial processing and preparation of livestock carcasses for human consumption.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 581,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "generation",
+    "hint": "The biological process of procreation or bringing new life into existence.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 582,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "repopulate",
+    "hint": "To restore numbers within an ecosystem or habitat through active breeding.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 583,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "interbreed",
+    "hint": "To mate within a restricted or closed group of organisms over successive generations.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 584,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "interspecies",
+    "hint": "Involving or taking place between two or more distinct taxonomic groups of organisms.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 585,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "interspecific",
+    "hint": "Arising or existing among members belonging to non-identical biological groupings.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 586,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "offsprings",
+    "hint": "The collective progeny or descendants born to a pair of parent organisms.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 587,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "pollinators",
+    "hint": "Creatures, such as bees or bats, that transfer fertilizing powder between flowers to enable plant fertilization.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 588,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "vertebrates",
+    "hint": "Animals possessing a spinal column, including mammals, birds, reptiles, amphibians, and fish.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 589,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "ornamental",
+    "hint": "Describing fish or other organisms selectively bred primarily for visual display rather than functional use.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 590,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "intraspecific",
+    "hint": "Occurring or existing exclusively among individual organisms belonging to the identical taxonomic group.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 591,
+    "category": "animals",
+    "tier": "easy",
+    "word": "male",
+    "hint": "An animal of the sex that produces sperm to fertilize eggs.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 592,
+    "category": "animals",
+    "tier": "easy",
+    "word": "flea",
+    "hint": "To rid a domestic animal of tiny jumping blood-sucking insects.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 593,
+    "category": "animals",
+    "tier": "easy",
+    "word": "ibex",
+    "hint": "A wild mountain goat known for its large, curved horns.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 594,
+    "category": "animals",
+    "tier": "easy",
+    "word": "lie",
+    "hint": "The resting bed, den, or lair of a wild animal.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 595,
+    "category": "animals",
+    "tier": "easy",
+    "word": "seal",
+    "hint": "To tie up livestock securely within their barn stalls.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 596,
+    "category": "animals",
+    "tier": "easy",
+    "word": "skin",
+    "hint": "To strip the hide or outer coat off a harvested animal.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 597,
+    "category": "animals",
+    "tier": "easy",
+    "word": "hawk",
+    "hint": "A swift daytime bird of prey with sharp vision, smaller than an eagle.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 598,
+    "category": "animals",
+    "tier": "easy",
+    "word": "dove",
+    "hint": "A pale greyish-pink shade resembling a peaceful bird's feathers.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 599,
+    "category": "animals",
+    "tier": "easy",
+    "word": "lark",
+    "hint": "A girl's first name borrowed from a songbird standard.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 600,
+    "category": "animals",
+    "tier": "easy",
+    "word": "duck",
+    "hint": "A web-footed swimming waterbird with a broad bill.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 601,
+    "category": "animals",
+    "tier": "easy",
+    "word": "gull",
+    "hint": "A foolish or easily duped animal.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 602,
+    "category": "animals",
+    "tier": "easy",
+    "word": "ani",
+    "hint": "A black tropical bird belonging to the cuckoo family.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 603,
+    "category": "animals",
+    "tier": "easy",
+    "word": "auk",
+    "hint": "A diving Arctic seabird of the family Alcidae.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 604,
+    "category": "animals",
+    "tier": "easy",
+    "word": "cock",
+    "hint": "An adult male chicken that crows at dawn.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 605,
+    "category": "animals",
+    "tier": "easy",
+    "word": "kite",
+    "hint": "A long-winged raptor bird of prey known for graceful soaring.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 606,
+    "category": "animals",
+    "tier": "easy",
+    "word": "kiwi",
+    "hint": "A flightless bird native to New Zealand with long beak and hair-like feathers.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 607,
+    "category": "animals",
+    "tier": "easy",
+    "word": "rhea",
+    "hint": "A large, flightless South American bird similar to an ostrich.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 608,
+    "category": "animals",
+    "tier": "easy",
+    "word": "rook",
+    "hint": "A black bird of the crow family found across Europe.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 609,
+    "category": "animals",
+    "tier": "easy",
+    "word": "ara",
+    "hint": "An abbreviation for an activist standing up for creature rights.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 610,
+    "category": "animals",
+    "tier": "easy",
+    "word": "bath",
+    "hint": "To clean or wash a dirty pet in a tub of water.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 611,
+    "category": "animals",
+    "tier": "easy",
+    "word": "bevy",
+    "hint": "A collective term for a group or flock, especially of quail.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 612,
+    "category": "animals",
+    "tier": "easy",
+    "word": "cast",
+    "hint": "For hunting hounds to spread out across a field searching for a scent.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 613,
+    "category": "animals",
+    "tier": "easy",
+    "word": "blue",
+    "hint": "A solid slate-colored domestic cat breed.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 614,
+    "category": "animals",
+    "tier": "easy",
+    "word": "char",
+    "hint": "A cold-water fish related to trout and salmon, such as the Arctic species.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 615,
+    "category": "animals",
+    "tier": "easy",
+    "word": "cod",
+    "hint": "A common marine fish often used in fish and chips.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 616,
+    "category": "animals",
+    "tier": "easy",
+    "word": "live",
+    "hint": "Obtained from an animal that has not died.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 617,
+    "category": "animals",
+    "tier": "easy",
+    "word": "net",
+    "hint": "A mesh tool used to trap fish or butterflies.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 618,
+    "category": "animals",
+    "tier": "easy",
+    "word": "gaff",
+    "hint": "To catch or haul in a fish using a sharp iron hook on a pole.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 619,
+    "category": "animals",
+    "tier": "easy",
+    "word": "hook",
+    "hint": "To catch a fish using a curved barbed metal piece.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 620,
+    "category": "animals",
+    "tier": "easy",
+    "word": "drag",
+    "hint": "To fish by pulling a heavy mesh behind a boat.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 621,
+    "category": "animals",
+    "tier": "easy",
+    "word": "gig",
+    "hint": "To spear a fish or frog using a pronged fork.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 622,
+    "category": "animals",
+    "tier": "easy",
+    "word": "reel",
+    "hint": "To make a high, insect-like trill, as certain warblers do.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 623,
+    "category": "animals",
+    "tier": "easy",
+    "word": "pot",
+    "hint": "To catch sea creatures using a baited basket or trap.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 624,
+    "category": "animals",
+    "tier": "easy",
+    "word": "tuna",
+    "hint": "A large saltwater fish popular for canning and sushi.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 625,
+    "category": "animals",
+    "tier": "easy",
+    "word": "gill",
+    "hint": "An aquatic animal's organ used to extract oxygen from water.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 626,
+    "category": "animals",
+    "tier": "easy",
+    "word": "goby",
+    "hint": "A small bottom-dwelling freshwater fish, like the gudgeon.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 627,
+    "category": "animals",
+    "tier": "easy",
+    "word": "fry",
+    "hint": "Recently hatched young fish.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 628,
+    "category": "animals",
+    "tier": "easy",
+    "word": "jig",
+    "hint": "To fish by moving a weighted lure up and down in the water.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 629,
+    "category": "animals",
+    "tier": "easy",
+    "word": "ling",
+    "hint": "A long-bodied ocean food fish related to the cod.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 630,
+    "category": "animals",
+    "tier": "easy",
+    "word": "ray",
+    "hint": "A stiff bony spine supporting a fish's fin.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 631,
+    "category": "animals",
+    "tier": "easy",
+    "word": "roe",
+    "hint": "The fully ripe mass of eggs inside a fish or shellfish.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 632,
+    "category": "animals",
+    "tier": "easy",
+    "word": "scad",
+    "hint": "An Atlantic marine fish of the jack family.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 633,
+    "category": "animals",
+    "tier": "easy",
+    "word": "shad",
+    "hint": "A coastal marine fish known in South Africa as the bluefish.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 634,
+    "category": "animals",
+    "tier": "easy",
+    "word": "boid",
+    "hint": "A simulated creature programmed to mimic flocking behavior in computer graphics.",
+    "sourceSeed": "reptile"
+  },
+  {
+    "id": 635,
+    "category": "animals",
+    "tier": "easy",
+    "word": "nail",
+    "hint": "The hard claw at the tip of a bird or animal's toe.",
+    "sourceSeed": "reptile"
+  },
+  {
+    "id": 636,
+    "category": "animals",
+    "tier": "easy",
+    "word": "worm",
+    "hint": "To clear or treat an animal of parasitic internal pests.",
+    "sourceSeed": "reptile"
+  },
+  {
+    "id": 637,
+    "category": "animals",
+    "tier": "easy",
+    "word": "wing",
+    "hint": "The side fin on a skate, ray, or similar flat sea creature.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 638,
+    "category": "animals",
+    "tier": "easy",
+    "word": "wasp",
+    "hint": "A stinging flying insect related to bees and ants, often with a narrow waist.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 639,
+    "category": "animals",
+    "tier": "easy",
+    "word": "craw",
+    "hint": "The pouch in a bird's gullet where food is stored before digestion.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 640,
+    "category": "animals",
+    "tier": "easy",
+    "word": "crop",
+    "hint": "To trim or snip short, such as an animal's ears or tail.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 641,
+    "category": "animals",
+    "tier": "easy",
+    "word": "fly",
+    "hint": "A light artificial fishing lure made to look like a small bug.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 642,
+    "category": "animals",
+    "tier": "easy",
+    "word": "grue",
+    "hint": "A legendary, dark-dwelling creature that eats humans in fantasy fiction.",
+    "sourceSeed": "predator"
+  },
+  {
+    "id": 643,
+    "category": "animals",
+    "tier": "easy",
+    "word": "pelt",
+    "hint": "The coat, fur, or hair covering a living creature.",
+    "sourceSeed": "predator"
+  },
+  {
+    "id": 644,
+    "category": "animals",
+    "tier": "easy",
+    "word": "den",
+    "hint": "To take up shelter in a lair, as a wild animal does to hibernate.",
+    "sourceSeed": "predator"
+  },
+  {
+    "id": 645,
+    "category": "animals",
+    "tier": "easy",
+    "word": "ruck",
+    "hint": "An obsolete term for a gigantic mythical bird of Eastern folklore.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 646,
+    "category": "animals",
+    "tier": "easy",
+    "word": "pack",
+    "hint": "A gathered group of hunting dogs or canines.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 647,
+    "category": "animals",
+    "tier": "easy",
+    "word": "mob",
+    "hint": "A collective group of livestock, such as cattle or horses.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 648,
+    "category": "animals",
+    "tier": "easy",
+    "word": "book",
+    "hint": "The schedule of female horses assigned to a breeding male during a season.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 649,
+    "category": "animals",
+    "tier": "easy",
+    "word": "rout",
+    "hint": "A deep bellow or lowing noise made by bovine animals.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 650,
+    "category": "animals",
+    "tier": "easy",
+    "word": "team",
+    "hint": "A paired set of heavy work animals harnessed to pull a vehicle or plow.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 651,
+    "category": "animals",
+    "tier": "easy",
+    "word": "trip",
+    "hint": "A term for a gathering or flock of wild ducks called wigeons.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 652,
+    "category": "animals",
+    "tier": "easy",
+    "word": "nowt",
+    "hint": "A regional Northern term for a herd of cows or bulls.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 653,
+    "category": "animals",
+    "tier": "easy",
+    "word": "pair",
+    "hint": "Two working animals hitched together with a yoke.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 654,
+    "category": "animals",
+    "tier": "easy",
+    "word": "colt",
+    "hint": "A juvenile or young tall wading bird known as a crane.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 655,
+    "category": "animals",
+    "tier": "easy",
+    "word": "cull",
+    "hint": "To selectively reduce or destroy members of an animal group.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 656,
+    "category": "animals",
+    "tier": "easy",
+    "word": "tail",
+    "hint": "The rear plumage attached to a bird's lower spine.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 657,
+    "category": "animals",
+    "tier": "easy",
+    "word": "scud",
+    "hint": "A small group of airborne larks or other songbirds.",
+    "sourceSeed": "flock"
+  },
+  {
+    "id": 658,
+    "category": "animals",
+    "tier": "easy",
+    "word": "wake",
+    "hint": "The aquatic trail or ripple pattern left behind an object or swimmer in motion.",
+    "sourceSeed": "flock"
+  },
+  {
+    "id": 659,
+    "category": "animals",
+    "tier": "easy",
+    "word": "wisp",
+    "hint": "An old collective term for a flight or group of snipe birds.",
+    "sourceSeed": "flock"
+  },
+  {
+    "id": 660,
+    "category": "animals",
+    "tier": "easy",
+    "word": "note",
+    "hint": "A distinct sound, chirp, or vocal sound produced by a bird.",
+    "sourceSeed": "flock"
+  },
+  {
+    "id": 661,
+    "category": "animals",
+    "tier": "easy",
+    "word": "pick",
+    "hint": "In Australia, fresh grass or pasture available for livestock to graze on.",
+    "sourceSeed": "flock"
+  },
+  {
+    "id": 662,
+    "category": "animals",
+    "tier": "easy",
+    "word": "shot",
+    "hint": "In fisheries, a single haul or draft of fish caught in a net.",
+    "sourceSeed": "flock"
+  },
+  {
+    "id": 663,
+    "category": "animals",
+    "tier": "easy",
+    "word": "sord",
+    "hint": "An old term for a group or flock of wild ducks.",
+    "sourceSeed": "flock"
+  },
+  {
+    "id": 664,
+    "category": "animals",
+    "tier": "easy",
+    "word": "puss",
+    "hint": "An old-fashioned hunting term for a hare.",
+    "sourceSeed": "pet"
+  },
+  {
+    "id": 665,
+    "category": "animals",
+    "tier": "easy",
+    "word": "fuss",
+    "hint": "To shower affection and gentle attention upon a beloved pet.",
+    "sourceSeed": "pet"
+  },
+  {
+    "id": 666,
+    "category": "animals",
+    "tier": "easy",
+    "word": "ash",
+    "hint": "The powdery remains left behind after a creature is cremated.",
+    "sourceSeed": "pet"
+  },
+  {
+    "id": 667,
+    "category": "animals",
+    "tier": "easy",
+    "word": "car",
+    "hint": "A submerged or floating wooden box with holes used to keep live fish in water.",
+    "sourceSeed": "pet"
+  },
+  {
+    "id": 668,
+    "category": "animals",
+    "tier": "easy",
+    "word": "chow",
+    "hint": "A breed of dog originating from China, famous for its thick coat and blue-black tongue.",
+    "sourceSeed": "pet"
+  },
+  {
+    "id": 669,
+    "category": "animals",
+    "tier": "easy",
+    "word": "aidi",
+    "hint": "A Moroccan dog breed traditionally kept to protect livestock herds.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 670,
+    "category": "animals",
+    "tier": "easy",
+    "word": "foil",
+    "hint": "In hunting, the scent or trail left behind by a tracked creature.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 671,
+    "category": "animals",
+    "tier": "easy",
+    "word": "arm",
+    "hint": "A flexible appendage on an invertebrate, like a starfish or octopus.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 672,
+    "category": "animals",
+    "tier": "easy",
+    "word": "camo",
+    "hint": "Patterned clothing worn by hunters to blend into natural surroundings.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 673,
+    "category": "animals",
+    "tier": "easy",
+    "word": "diet",
+    "hint": "The customary food and drink consumed by a living creature.",
+    "sourceSeed": "prey"
+  },
+  {
+    "id": 674,
+    "category": "animals",
+    "tier": "easy",
+    "word": "hide",
+    "hint": "The raw or tanned skin of a creature, especially a large one.",
+    "sourceSeed": "prey"
+  },
+  {
+    "id": 675,
+    "category": "animals",
+    "tier": "easy",
+    "word": "abay",
+    "hint": "An obsolete term for the loud barking of hounds surrounding their prey.",
+    "sourceSeed": "prey"
+  },
+  {
+    "id": 676,
+    "category": "animals",
+    "tier": "easy",
+    "word": "eyry",
+    "hint": "The high nest built on a cliff or tall tree by a bird of prey.",
+    "sourceSeed": "prey"
+  },
+  {
+    "id": 677,
+    "category": "animals",
+    "tier": "easy",
+    "word": "fist",
+    "hint": "The sharp claws or talons of a raptor.",
+    "sourceSeed": "prey"
+  },
+  {
+    "id": 678,
+    "category": "animals",
+    "tier": "easy",
+    "word": "lead",
+    "hint": "A strap or leash used to guide and control a pet during a walk.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 679,
+    "category": "animals",
+    "tier": "easy",
+    "word": "mate",
+    "hint": "A breeding partner paired with an individual creature.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 680,
+    "category": "animals",
+    "tier": "easy",
+    "word": "rear",
+    "hint": "To care for and raise young livestock or pets until they grow up.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 681,
+    "category": "animals",
+    "tier": "easy",
+    "word": "have",
+    "hint": "In birdwatching, to spot and officially record a specific species.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 682,
+    "category": "animals",
+    "tier": "easy",
+    "word": "take",
+    "hint": "To capture or harvest fish or game while hunting or angling.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 683,
+    "category": "animals",
+    "tier": "easy",
+    "word": "puli",
+    "hint": "A Hungarian sheepdog breed known for its distinctive corded, dreadlock-like fur.",
+    "sourceSeed": "breed"
   }
 ]

@@ -7726,5 +7726,125 @@
     "word": "train",
     "hint": "Long, trailing tail feathers of a bird, such as those displayed by a peacock.",
     "sourceSeed": "herding"
+  },
+  {
+    "id": 967,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "predaceous",
+    "hint": "Exhibiting a lifestyle centered on hunting and consuming other living creatures for survival.",
+    "sourceSeed": "predator"
+  },
+  {
+    "id": 968,
+    "category": "animals",
+    "tier": "easy",
+    "word": "dip",
+    "hint": "In birdwatching, the frustrating experience of missing a chance to spot a specific target species.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 969,
+    "category": "animals",
+    "tier": "easy",
+    "word": "toe",
+    "hint": "One of the terminal digits on the foot of an animal.",
+    "sourceSeed": "pet"
+  },
+  {
+    "id": 970,
+    "category": "animals",
+    "tier": "easy",
+    "word": "ruff",
+    "hint": "A collar of feathers or fur surrounding an animal's neck.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 971,
+    "category": "animals",
+    "tier": "easy",
+    "word": "weed",
+    "hint": "A sickly or frail horse that is considered unsuited for breeding.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 972,
+    "category": "animals",
+    "tier": "easy",
+    "word": "deme",
+    "hint": "A localized group of interbreeding organisms of the same species.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 973,
+    "category": "animals",
+    "tier": "easy",
+    "word": "ais",
+    "hint": "Abbreviation for a red-and-white Australian cattle breed known for dairy production.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 974,
+    "category": "animals",
+    "tier": "easy",
+    "word": "ana",
+    "hint": "British initialism for a veterinary nurse helper.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 975,
+    "category": "animals",
+    "tier": "easy",
+    "word": "mane",
+    "hint": "Long, thick hair growing along the top of a horse's or lion's neck.",
+    "sourceSeed": "zoo"
+  },
+  {
+    "id": 976,
+    "category": "animals",
+    "tier": "easy",
+    "word": "raik",
+    "hint": "The natural walk or movement of livestock across a pasture while feeding.",
+    "sourceSeed": "herding"
+  },
+  {
+    "id": 977,
+    "category": "animals",
+    "tier": "medium",
+    "word": "grunt",
+    "hint": "A marine creature of the family Haemulidae that makes rasping noises by grinding its teeth.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 978,
+    "category": "animals",
+    "tier": "medium",
+    "word": "berry",
+    "hint": "An individual egg of an aquatic creature or crustacean, especially when carried in a mass.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 979,
+    "category": "animals",
+    "tier": "medium",
+    "word": "worker",
+    "hint": "A sterile female insect in a colony responsible for foraging and nest maintenance.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 980,
+    "category": "animals",
+    "tier": "medium",
+    "word": "crower",
+    "hint": "A rooster or bird that emits a loud, triumphant early-morning call.",
+    "sourceSeed": "flock"
+  },
+  {
+    "id": 981,
+    "category": "animals",
+    "tier": "medium",
+    "word": "settle",
+    "hint": "For a female livestock animal, to successfully conceive after mating.",
+    "sourceSeed": "breed"
   }
 ]

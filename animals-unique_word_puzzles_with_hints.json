@@ -5462,5 +5462,1077 @@
     "word": "puli",
     "hint": "A Hungarian sheepdog breed known for its distinctive corded, dreadlock-like fur.",
     "sourceSeed": "breed"
+  },
+  {
+    "id": 684,
+    "category": "animals",
+    "tier": "hard",
+    "word": "beastie",
+    "hint": "A Scottish or Northern English dialect term for a small creature or animal.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 685,
+    "category": "animals",
+    "tier": "hard",
+    "word": "stockman",
+    "hint": "An individual whose profession involves tending and caring for farm livestock.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 686,
+    "category": "animals",
+    "tier": "hard",
+    "word": "sylvatic",
+    "hint": "A term for an undomesticated forest creature or wild organism.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 687,
+    "category": "animals",
+    "tier": "hard",
+    "word": "waterbird",
+    "hint": "An avian species whose life cycle is tied to aquatic habitats like lakes, rivers, or oceans.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 688,
+    "category": "animals",
+    "tier": "hard",
+    "word": "minnows",
+    "hint": "Tiny freshwater fish often schooling in shallow streams or used as live bait.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 689,
+    "category": "animals",
+    "tier": "hard",
+    "word": "poolfish",
+    "hint": "An aquatic creature that naturally inhabits small, quiet, non-flowing bodies of standing water.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 690,
+    "category": "animals",
+    "tier": "hard",
+    "word": "scalefish",
+    "hint": "An aquatic creature bearing thin, overlapping rigid dermal plates across its body.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 691,
+    "category": "animals",
+    "tier": "hard",
+    "word": "pterygote",
+    "hint": "An insect belonging to the dominant clade characterized by functional wings or winged ancestry.",
+    "sourceSeed": "insect"
+  },
+  {
+    "id": 692,
+    "category": "animals",
+    "tier": "hard",
+    "word": "prowler",
+    "hint": "Carnivorous beast that roams silently and secretively through its territory looking for prey.",
+    "sourceSeed": "predator"
+  },
+  {
+    "id": 693,
+    "category": "animals",
+    "tier": "hard",
+    "word": "grazers",
+    "hint": "Herbivorous animals that continuously feed on growing vegetation and low pasture plants.",
+    "sourceSeed": "predator"
+  },
+  {
+    "id": 694,
+    "category": "animals",
+    "tier": "hard",
+    "word": "herdboy",
+    "hint": "A young male tasked with watching over and guiding grazing farm animals.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 695,
+    "category": "animals",
+    "tier": "hard",
+    "word": "horseman",
+    "hint": "Fictional hybrid creature possessing upper torso joined to an equine lower body.",
+    "sourceSeed": "herd"
+  },
+  {
+    "id": 696,
+    "category": "animals",
+    "tier": "hard",
+    "word": "broodling",
+    "hint": "Individual young animal sharing a single birth or clutch with its siblings.",
+    "sourceSeed": "flock"
+  },
+  {
+    "id": 697,
+    "category": "animals",
+    "tier": "hard",
+    "word": "polyglot",
+    "hint": "Archaic term for a feathered creature known for vocal mimicry of other avian sounds.",
+    "sourceSeed": "flock"
+  },
+  {
+    "id": 698,
+    "category": "animals",
+    "tier": "hard",
+    "word": "cordate",
+    "hint": "In philosophical terminology, any living organism equipped with a heart.",
+    "sourceSeed": "pet"
+  },
+  {
+    "id": 699,
+    "category": "animals",
+    "tier": "hard",
+    "word": "worming",
+    "hint": "Act of administering medication to eliminate intestinal parasites from an animal's body.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 700,
+    "category": "animals",
+    "tier": "hard",
+    "word": "outbreed",
+    "hint": "Produce offspring from genetically distant parental lines to increase variation.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 701,
+    "category": "animals",
+    "tier": "hard",
+    "word": "foxhound",
+    "hint": "A medium scent-canine trained specifically to pursue vulpines in packs.",
+    "sourceSeed": "breed"
+  },
+  {
+    "id": 702,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "cannibalism",
+    "hint": "The practice where a living creature consumes another member of its own species.",
+    "sourceSeed": "hunting"
+  },
+  {
+    "id": 703,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "speciation",
+    "hint": "The evolutionary branching mechanism by which distinct biological groups emerge.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 704,
+    "category": "animals",
+    "tier": "legendary",
+    "word": "invertebrates",
+    "hint": "Organisms belonging to the vast majority of animal life that lack an internal spinal column.",
+    "sourceSeed": "species"
+  },
+  {
+    "id": 705,
+    "category": "animals",
+    "tier": "medium",
+    "word": "badger",
+    "hint": "A stout burrowing mammal with distinct black and white facial stripes.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 706,
+    "category": "animals",
+    "tier": "medium",
+    "word": "breed",
+    "hint": "To mate and produce offspring, passing on genetic traits to a new generation.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 707,
+    "category": "animals",
+    "tier": "medium",
+    "word": "brood",
+    "hint": "A family of young offspring produced by an animal at one time, or a particular lineage.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 708,
+    "category": "animals",
+    "tier": "medium",
+    "word": "brush",
+    "hint": "The bushy, furry tail characteristic of a fox.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 709,
+    "category": "animals",
+    "tier": "medium",
+    "word": "burrow",
+    "hint": "A tunnel or hole excavated into the ground by a small creature for shelter.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 710,
+    "category": "animals",
+    "tier": "medium",
+    "word": "pigeon",
+    "hint": "The culinary meat obtained from a squab or common urban bird.",
+    "sourceSeed": "animal"
+  },
+  {
+    "id": 711,
+    "category": "animals",
+    "tier": "medium",
+    "word": "ranch",
+    "hint": "A vast tract of land dedicated primarily to raising cattle or other livestock.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 712,
+    "category": "animals",
+    "tier": "medium",
+    "word": "kennel",
+    "hint": "The natural underground burrow or den of a wild animal such as a fox.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 713,
+    "category": "animals",
+    "tier": "medium",
+    "word": "animal",
+    "hint": "Any living creature of the biological kingdom other than a human being.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 714,
+    "category": "animals",
+    "tier": "medium",
+    "word": "flock",
+    "hint": "A group of birds, sheep, or goats living and moving together.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 715,
+    "category": "animals",
+    "tier": "medium",
+    "word": "herds",
+    "hint": "Multiple collections of hoofed creatures gathered or traveling together.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 716,
+    "category": "animals",
+    "tier": "medium",
+    "word": "ovines",
+    "hint": "Mammals belonging to the sheep genus, typically raised for wool or meat.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 717,
+    "category": "animals",
+    "tier": "medium",
+    "word": "swine",
+    "hint": "A general term for pigs or porcine livestock.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 718,
+    "category": "animals",
+    "tier": "medium",
+    "word": "forage",
+    "hint": "Coarse food such as hay or grass collected for horses and cattle.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 719,
+    "category": "animals",
+    "tier": "medium",
+    "word": "stray",
+    "hint": "Historically, a piece of common land set aside for domestic livestock.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 720,
+    "category": "animals",
+    "tier": "medium",
+    "word": "milker",
+    "hint": "A livestock creature, such as a dairy cow, kept specifically to yield dairy liquid.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 721,
+    "category": "animals",
+    "tier": "medium",
+    "word": "kraal",
+    "hint": "A traditional circular enclosure or pen for livestock, typical of southern Africa.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 722,
+    "category": "animals",
+    "tier": "medium",
+    "word": "spread",
+    "hint": "An expansive piece of land or estate used for raising cattle.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 723,
+    "category": "animals",
+    "tier": "medium",
+    "word": "drive",
+    "hint": "The act of pushing or forcing a herd of livestock forward toward a destination.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 724,
+    "category": "animals",
+    "tier": "medium",
+    "word": "corral",
+    "hint": "A fenced enclosure used to contain horses or livestock.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 725,
+    "category": "animals",
+    "tier": "medium",
+    "word": "stall",
+    "hint": "A single compartment inside a barn or shed for housing an individual horse or cow.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 726,
+    "category": "animals",
+    "tier": "medium",
+    "word": "eatage",
+    "hint": "The legal right to let livestock graze on grass in a specific field.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 727,
+    "category": "animals",
+    "tier": "medium",
+    "word": "stable",
+    "hint": "To keep or house a horse inside a building designed for livestock.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 728,
+    "category": "animals",
+    "tier": "medium",
+    "word": "carry",
+    "hint": "In hunting terms, when dirt or ice clings to a running hare's paws.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 729,
+    "category": "animals",
+    "tier": "medium",
+    "word": "drift",
+    "hint": "A moving collective or flock of livestock such as cattle or birds.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 730,
+    "category": "animals",
+    "tier": "medium",
+    "word": "drove",
+    "hint": "To guide livestock across vast distances.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 731,
+    "category": "animals",
+    "tier": "medium",
+    "word": "manger",
+    "hint": "An open wooden box or container where livestock feed in a barn.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 732,
+    "category": "animals",
+    "tier": "medium",
+    "word": "pound",
+    "hint": "An enclosure or shelter where stray domestic pets are temporarily kept.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 733,
+    "category": "animals",
+    "tier": "medium",
+    "word": "rustle",
+    "hint": "To illegally take or swipe livestock from a ranch.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 734,
+    "category": "animals",
+    "tier": "medium",
+    "word": "scour",
+    "hint": "Severe intestinal distress causing diarrhea in farm livestock.",
+    "sourceSeed": "livestock"
+  },
+  {
+    "id": 735,
+    "category": "animals",
+    "tier": "medium",
+    "word": "birds",
+    "hint": "Warm-blooded, winged creatures with feathers that lay eggs.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 736,
+    "category": "animals",
+    "tier": "medium",
+    "word": "dwarf",
+    "hint": "An individual specimen that is significantly smaller than typical members of its species.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 737,
+    "category": "animals",
+    "tier": "medium",
+    "word": "stirps",
+    "hint": "A taxonomic group or superfamily encompassing related organisms.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 738,
+    "category": "animals",
+    "tier": "medium",
+    "word": "stalk",
+    "hint": "The slender waistlike section connecting an insect's abdomen to its torso.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 739,
+    "category": "animals",
+    "tier": "medium",
+    "word": "apode",
+    "hint": "Any creature completely lacking limbs or feet.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 740,
+    "category": "animals",
+    "tier": "medium",
+    "word": "pariah",
+    "hint": "An outcast species or rejected living thing shunned by others.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 741,
+    "category": "animals",
+    "tier": "medium",
+    "word": "poles",
+    "hint": "Rigid shafts attached to a carriage or cart to secure a draft beast.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 742,
+    "category": "animals",
+    "tier": "medium",
+    "word": "spoor",
+    "hint": "The physical evidence, such as tracks or scent, left behind by a wild creature.",
+    "sourceSeed": "wildlife"
+  },
+  {
+    "id": 743,
+    "category": "animals",
+    "tier": "medium",
+    "word": "wight",
+    "hint": "An old-fashioned term for a living mortal or entity.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 744,
+    "category": "animals",
+    "tier": "medium",
+    "word": "beings",
+    "hint": "Living entities or organisms that exist and breathe.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 745,
+    "category": "animals",
+    "tier": "medium",
+    "word": "dragon",
+    "hint": "A mythical scaled reptile, often depicted breathing fire in folklore.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 746,
+    "category": "animals",
+    "tier": "medium",
+    "word": "fetus",
+    "hint": "An unborn offspring developing inside an egg or womb.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 747,
+    "category": "animals",
+    "tier": "medium",
+    "word": "larva",
+    "hint": "An immature, worm-like stage of an insect before metamorphosis.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 748,
+    "category": "animals",
+    "tier": "medium",
+    "word": "vermin",
+    "hint": "Nuisance wild creatures, like foxes, that hunt game or livestock.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 749,
+    "category": "animals",
+    "tier": "medium",
+    "word": "fairy",
+    "hint": "A magical, highly charming mythical entity with enchanting powers.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 750,
+    "category": "animals",
+    "tier": "medium",
+    "word": "giant",
+    "hint": "An unusually large or towering form of a living species.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 751,
+    "category": "animals",
+    "tier": "medium",
+    "word": "quarry",
+    "hint": "A hunted creature pursued by a predator or sportsman.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 752,
+    "category": "animals",
+    "tier": "medium",
+    "word": "troll",
+    "hint": "To angle by trailing a baited line behind a moving boat.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 753,
+    "category": "animals",
+    "tier": "medium",
+    "word": "adder",
+    "hint": "Another name for a sea stickleback, a slender marine creature with spines along its back.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 754,
+    "category": "animals",
+    "tier": "medium",
+    "word": "aphid",
+    "hint": "A tiny insect pest that drinks plant sap, often farmed by ants.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 755,
+    "category": "animals",
+    "tier": "medium",
+    "word": "camel",
+    "hint": "A humped mammal adapted to harsh dry climates and long journeys with heavy loads.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 756,
+    "category": "animals",
+    "tier": "medium",
+    "word": "civet",
+    "hint": "A strong musky fragrance harvested from secretions of certain nocturnal mammals.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 757,
+    "category": "animals",
+    "tier": "medium",
+    "word": "cyborg",
+    "hint": "A living creature enhanced with mechanical or bionic components.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 758,
+    "category": "animals",
+    "tier": "medium",
+    "word": "fluke",
+    "hint": "One of the two flattened, triangular fins that make up a cetacean's tail.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 759,
+    "category": "animals",
+    "tier": "medium",
+    "word": "garuda",
+    "hint": "A divine figure in Hindu mythology depicted as part avian and part human, acting as Vishnu's mount.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 760,
+    "category": "animals",
+    "tier": "medium",
+    "word": "golem",
+    "hint": "A mythical clay figure brought to life by Jewish folklore mysticism.",
+    "sourceSeed": "creature"
+  },
+  {
+    "id": 761,
+    "category": "animals",
+    "tier": "medium",
+    "word": "dummy",
+    "hint": "A mechanical figure manipulated by a voice performer to give the illusion of speech.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 762,
+    "category": "animals",
+    "tier": "medium",
+    "word": "tusker",
+    "hint": "A large beast, like a wild boar or male elephant, possessing elongated pointed teeth.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 763,
+    "category": "animals",
+    "tier": "medium",
+    "word": "mumak",
+    "hint": "In Middle-earth lore, a gigantic war beast resembling a massive trunked mammal.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 764,
+    "category": "animals",
+    "tier": "medium",
+    "word": "rogue",
+    "hint": "A dangerous, solitary elephant or wild beast that has parted from its group.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 765,
+    "category": "animals",
+    "tier": "medium",
+    "word": "leader",
+    "hint": "The alpha individual guiding a wolf pack or lion pride.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 766,
+    "category": "animals",
+    "tier": "medium",
+    "word": "liger",
+    "hint": "A hybrid feline offspring produced by a male big cat with a mane and a female striped big cat.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 767,
+    "category": "animals",
+    "tier": "medium",
+    "word": "slink",
+    "hint": "To abort or give birth to young livestock before the full term of pregnancy.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 768,
+    "category": "animals",
+    "tier": "medium",
+    "word": "donkey",
+    "hint": "A long-eared beast of burden closely related to horses, known for its distinctive braying call.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 769,
+    "category": "animals",
+    "tier": "medium",
+    "word": "ferine",
+    "hint": "Describing untamed, fierce, or wild beasts; untamed or savage in nature.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 770,
+    "category": "animals",
+    "tier": "medium",
+    "word": "haslet",
+    "hint": "A dish made from edible viscera, particularly a pig's heart, liver, and other entrails.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 771,
+    "category": "animals",
+    "tier": "medium",
+    "word": "hound",
+    "hint": "A general term for any dog or member of the canine family used in hunting.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 772,
+    "category": "animals",
+    "tier": "medium",
+    "word": "jument",
+    "hint": "An archaic term for a working beast used for pulling or carrying heavy loads.",
+    "sourceSeed": "beast"
+  },
+  {
+    "id": 773,
+    "category": "animals",
+    "tier": "medium",
+    "word": "murine",
+    "hint": "A mammal belonging to the rodent family that includes mice, rats, and their close relatives.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 774,
+    "category": "animals",
+    "tier": "medium",
+    "word": "female",
+    "hint": "Describing an animal of the sex capable of producing egg cells or bearing young.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 775,
+    "category": "animals",
+    "tier": "medium",
+    "word": "pelage",
+    "hint": "The overall coat of fur, hair, or wool that covers a mammal.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 776,
+    "category": "animals",
+    "tier": "medium",
+    "word": "litter",
+    "hint": "Bedding straw or material combined with animal waste in a barn or cage.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 777,
+    "category": "animals",
+    "tier": "medium",
+    "word": "embryo",
+    "hint": "An animal in its earliest stage of growth inside the mother before birth.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 778,
+    "category": "animals",
+    "tier": "medium",
+    "word": "otter",
+    "hint": "A playful, semi-aquatic mammal with dense fur and webbed feet.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 779,
+    "category": "animals",
+    "tier": "medium",
+    "word": "ursoid",
+    "hint": "Pertaining to or resembling animals of the bear family.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 780,
+    "category": "animals",
+    "tier": "medium",
+    "word": "marten",
+    "hint": "A slender, bushy-tailed mammal of the weasel family that lives in trees.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 781,
+    "category": "animals",
+    "tier": "medium",
+    "word": "mastax",
+    "hint": "The surface area located between the beak and the eye on a bird's head.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 782,
+    "category": "animals",
+    "tier": "medium",
+    "word": "anvil",
+    "hint": "A flat stone or hard object a bird uses to smash open snail shells.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 783,
+    "category": "animals",
+    "tier": "medium",
+    "word": "blower",
+    "hint": "A coastal Atlantic fish capable of swelling up its body when alarmed.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 784,
+    "category": "animals",
+    "tier": "medium",
+    "word": "bongo",
+    "hint": "A forest-dwelling African antelope marked by bright reddish coat stripes.",
+    "sourceSeed": "mammal"
+  },
+  {
+    "id": 785,
+    "category": "animals",
+    "tier": "medium",
+    "word": "chick",
+    "hint": "A newly hatched baby bird.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 786,
+    "category": "animals",
+    "tier": "medium",
+    "word": "birdie",
+    "hint": "An affectionate or childish term for a small feathered creature.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 787,
+    "category": "animals",
+    "tier": "medium",
+    "word": "skirt",
+    "hint": "The muscular partition separating an animal's chest from its abdomen; the diaphragm.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 788,
+    "category": "animals",
+    "tier": "medium",
+    "word": "turkey",
+    "hint": "The meat of a large North American fowl, often served roasted at holiday feasts.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 789,
+    "category": "animals",
+    "tier": "medium",
+    "word": "falcon",
+    "hint": "A fast-flying bird of prey with long pointed wings, belonging to the genus Falco.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 790,
+    "category": "animals",
+    "tier": "medium",
+    "word": "raptor",
+    "hint": "A predatory bird, such as an eagle or hawk, that hunts live animals.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 791,
+    "category": "animals",
+    "tier": "medium",
+    "word": "cuckoo",
+    "hint": "The characteristic two-note call made by a certain brood-parasitic bird.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 792,
+    "category": "animals",
+    "tier": "medium",
+    "word": "finger",
+    "hint": "A digit-like projection on the limb of certain non-human creatures.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 793,
+    "category": "animals",
+    "tier": "medium",
+    "word": "virus",
+    "hint": "A specific biological type or strain of a microscopic infectious agent.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 794,
+    "category": "animals",
+    "tier": "medium",
+    "word": "flyer",
+    "hint": "Any airborne creature, such as an insect or bird that moves through the air.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 795,
+    "category": "animals",
+    "tier": "medium",
+    "word": "raven",
+    "hint": "Food or plunder obtained by violent predatory means.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 796,
+    "category": "animals",
+    "tier": "medium",
+    "word": "heron",
+    "hint": "A long-legged, long-necked wading bird that hunts in wetlands.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 797,
+    "category": "animals",
+    "tier": "medium",
+    "word": "magpie",
+    "hint": "A black-and-white corvid bird known for its chattiness and intelligence.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 798,
+    "category": "animals",
+    "tier": "medium",
+    "word": "quail",
+    "hint": "The edible flesh of a small game bird, often served roasted or grilled.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 799,
+    "category": "animals",
+    "tier": "medium",
+    "word": "avians",
+    "hint": "Feathered, winged creatures belonging to the class Aves.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 800,
+    "category": "animals",
+    "tier": "medium",
+    "word": "louse",
+    "hint": "A tiny, wingless parasitic insect that lives on mammals or birds.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 801,
+    "category": "animals",
+    "tier": "medium",
+    "word": "squab",
+    "hint": "A young nestling bird, particularly a fledgling pigeon.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 802,
+    "category": "animals",
+    "tier": "medium",
+    "word": "weaver",
+    "hint": "A type of sandperch or bottom-dwelling marine creature of the family Pinguipedidae.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 803,
+    "category": "animals",
+    "tier": "medium",
+    "word": "owlet",
+    "hint": "A small nocturnal bird of prey with large forward-facing eyes.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 804,
+    "category": "animals",
+    "tier": "medium",
+    "word": "aerie",
+    "hint": "The high nest of a raptor, typically built on a cliff or tall tree.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 805,
+    "category": "animals",
+    "tier": "medium",
+    "word": "alula",
+    "hint": "The bastard wing on a bird's leading feather edge that aids flight stability.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 806,
+    "category": "animals",
+    "tier": "medium",
+    "word": "augury",
+    "hint": "An ancient practice of interpreting omens by observing animal behavior.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 807,
+    "category": "animals",
+    "tier": "medium",
+    "word": "barbet",
+    "hint": "A small French breed of water dog known for its thick, curly coat.",
+    "sourceSeed": "bird"
+  },
+  {
+    "id": 808,
+    "category": "animals",
+    "tier": "medium",
+    "word": "shark",
+    "hint": "Meat harvested from a large marine predator, prepared as food.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 809,
+    "category": "animals",
+    "tier": "medium",
+    "word": "salmon",
+    "hint": "A culinary dish featuring the pink flesh of a migratory river-and-ocean swimmer.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 810,
+    "category": "animals",
+    "tier": "medium",
+    "word": "trawl",
+    "hint": "To drag a large net along the seafloor to harvest marine life.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 811,
+    "category": "animals",
+    "tier": "medium",
+    "word": "spear",
+    "hint": "A sharp, barbed pole thrown or thrust by fishermen to catch underwater prey.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 812,
+    "category": "animals",
+    "tier": "medium",
+    "word": "breams",
+    "hint": "Multiple freshwater swimmers belonging to the European species Abramis brama.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 813,
+    "category": "animals",
+    "tier": "medium",
+    "word": "bream",
+    "hint": "A deep-bodied freshwater species of the carp family found in European waters.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 814,
+    "category": "animals",
+    "tier": "medium",
+    "word": "ossean",
+    "hint": "An obsolete term for a creature belonging to the bony class of aquatic animals.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 815,
+    "category": "animals",
+    "tier": "medium",
+    "word": "latrid",
+    "hint": "A marine species belonging to the trumpeter family, native to southern waters.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 816,
+    "category": "animals",
+    "tier": "medium",
+    "word": "angler",
+    "hint": "A predatory bottom-dwelling sea creature of the species Lophius piscatorius with a fleshy lure.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 817,
+    "category": "animals",
+    "tier": "medium",
+    "word": "clinid",
+    "hint": "Any member of a family of small, blenny-like marine creatures known as klipfish.",
+    "sourceSeed": "fish"
   }
 ]

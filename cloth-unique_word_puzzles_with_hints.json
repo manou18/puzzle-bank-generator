@@ -1,0 +1,498 @@
+[
+  {
+    "id": 1,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "webbing",
+    "hint": "Broad, strong woven straps used for seatbelts, harness straps, or load-bearing equipment.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 2,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "apparel",
+    "hint": "Attire worn on the human body, encompassing everything from suits to dresses.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 3,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "tissues",
+    "hint": "Fine, delicate, semi-transparent woven goods often used in historic or decorative layering.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 4,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "drapery",
+    "hint": "Heavy window coverings hung in folds to block light or add elegance to a room.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 5,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "facecloth",
+    "hint": "A funerary shroud covering placed over the deceased prior to burial.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 6,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "haircloth",
+    "hint": "A scratchy, rigid woven textile crafted using equine mane or tail strands, traditionally used for tailoring interlinings.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 7,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "oilskin",
+    "hint": "Heavy cotton treated with greasy substances to create rainproof coats and maritime outerwear.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 8,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "washcloth",
+    "hint": "A small square terry toweling square used in the shower or bath for personal hygiene.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 9,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "drugget",
+    "hint": "A rough, low-cost woolen weave historically used for cheap outerwear or protective floor coverings.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 10,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "bobbinet",
+    "hint": "A machine-made sheer textile featuring six-sided open meshes, often used in lace-making and veils.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 11,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "kerchief",
+    "hint": "A triangular or square piece of fabric tied around the head or neck.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 12,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "cambric",
+    "hint": "A lightweight, closely woven plain-bleached white cotton or flax material with a smooth finish.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 13,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "cashmere",
+    "hint": "A luxurious, exceptionally soft textile crafted from the fine undercoat fibers of Himalayan goats.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 14,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "weaving",
+    "hint": "The craft of interlacing warp and weft threads on a loom to create textiles.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 15,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "carpeting",
+    "hint": "Heavy woven material used to cover floors.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 16,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "vestiary",
+    "hint": "An archaic or literary term referring collectively to apparel or garments.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 17,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "gabardine",
+    "hint": "A durable, tightly woven twill fabric commonly used for suits and raincoats.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 18,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "chenille",
+    "hint": "A tufted yarn or textile known for its soft, fuzzy pile, often used in sweaters.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 19,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "gingham",
+    "hint": "A lightweight cotton textile characterized by its classic checked pattern of alternating white and colored yarn.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 20,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "fustian",
+    "hint": "A heavy cotton textile family that encompasses sturdy twills, corduroy, and pile fabrics.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 21,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "sacking",
+    "hint": "Coarse, inexpensive weave often crafted from jute or hemp, traditionally utilized to fashion heavy-duty storage bags.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 22,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "texture",
+    "hint": "An obsolete term for the art or process of interlacing threads on a loom.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 23,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "carding",
+    "hint": "A soft roll of combed fleece prepared by specialized machinery before being spun into yarn.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 24,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "velveteen",
+    "hint": "A smooth cotton textile with a short pile that mimics a luxurious silk-based fabric.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 25,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "bagging",
+    "hint": "Coarse material manufactured specifically for constructing sacks or heavy totes.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 26,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "batiste",
+    "hint": "A fine, lightweight, plain-weave material made from cotton or flax.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 27,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "camelhair",
+    "hint": "A luxurious, warm fabric woven from the soft undercoat of a desert dromedary.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 28,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "caparison",
+    "hint": "An ornate, rich, or decorative garment or outer covering.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 29,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "clothier",
+    "hint": "A merchant or tradesperson who manufactures or sells apparel and garments.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 30,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "crinoline",
+    "hint": "A stiffened petticoat or structure worn under a skirt to expand its silhouette.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 31,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "doeskin",
+    "hint": "High-grade textile featuring a short, supple nap, traditionally crafted from fine wool.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 32,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "jaconet",
+    "hint": "Lightweight cotton material originally used for bandages or linings, often rendered water-resistant.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 33,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "necktie",
+    "hint": "Formal garment accessory draped under a collar and knotted in front.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 34,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "pattern",
+    "hint": "In American usage, the exact amount of woven material required to construct a garment.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 35,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "fabrick",
+    "hint": "An archaic spelling for a constructed building or woven textile structure.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 36,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "taffeta",
+    "hint": "Smooth, stiff textile with a distinct rustle, frequently utilized in evening gowns.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 37,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "polyester",
+    "hint": "Ubiquitous synthetic textile made from long-chain synthetic polymer fibers.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 38,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "couture",
+    "hint": "High-fashion business focused on designing and sewing bespoke, exclusive garments.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 39,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "grogram",
+    "hint": "Coarse, stiff weave made from a blend of silken strands combined with wool or mohair.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 40,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "furniture",
+    "hint": "An obsolete term for personal attire, apparel, or complete outfit gear supplied to someone.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 41,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "folkweave",
+    "hint": "Coarse textile produced with loose threads, featuring regional or heritage patterns.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 42,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "clothyard",
+    "hint": "An obsolete English linear unit of roughly three feet, historically used for textiles.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 43,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "regatta",
+    "hint": "A durable woven cotton textile patterned with distinct parallel bands of color.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 44,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "vestment",
+    "hint": "Ceremonial robes or official garments indicative of religious or academic rank.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 45,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "cassimere",
+    "hint": "A fine, light twill-woven textile made of soft sheep fibers, used for tailored trousers.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 46,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "remnant",
+    "hint": "The small leftover end piece of a bolt of textile after the rest has been sold.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 47,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "worsted",
+    "hint": "Smooth, tightly twisted spun thread made from combed sheep fibers, producing strong textiles.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 48,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "chambray",
+    "hint": "A plain-woven cotton material made with colored warp strands and pale crosswise fill.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 49,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "delaine",
+    "hint": "A historic light blended weave of cotton and fleece popular for Victorian dresses.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 50,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "dungaree",
+    "hint": "Heavy-duty work trousers typically crafted from coarse denim.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 51,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "dyestuff",
+    "hint": "Any raw substance or liquid pigment utilized to impart color to textiles.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 52,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "georgette",
+    "hint": "A dull-surfaced, sheer, lightweight textile woven with highly twisted yarns.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 53,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "moleskin",
+    "hint": "A dense, heavy cotton material featuring a soft, velvet-like raised surface.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 54,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "waterwork",
+    "hint": "A decorative woven hangable panel painted or crafted to resemble rich tapestry.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 55,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "tricotine",
+    "hint": "A sturdy material woven with fine, high-twist strands producing a pronounced diagonal ridge.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 56,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "twilling",
+    "hint": "Creating a textile defined by a characteristic pattern of diagonal parallel ribs.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 57,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "filament",
+    "hint": "An extremely fine, single strand of natural or synthetic fiber.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 58,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "woolenet",
+    "hint": "An obsolete, delicate material made from fleece with a light, airy weave.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 59,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "ticking",
+    "hint": "A durable, tightly woven cotton cloth traditionally used to encase bedding.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 60,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "wirecloth",
+    "hint": "A mesh-like material produced by interlacing strands of flexible metal.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 61,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "tatting",
+    "hint": "An intricate lacemaking technique relying on a shuttle to form delicate rings and picots.",
+    "sourceSeed": "textile"
+  },
+  {
+    "id": 62,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "grainline",
+    "hint": "The directional orientation of lengthwise warp threads used to align pattern pieces.",
+    "sourceSeed": "textile"
+  }
+]

@@ -774,5 +774,1085 @@
     "word": "egromancy",
     "hint": "An archaic form of dark divination performed through communication with spirits of the deceased.",
     "sourceSeed": "imported"
+  },
+  {
+    "id": 98,
+    "category": "magic",
+    "tier": "hard",
+    "word": "witching",
+    "hint": "Pertaining to the quiet hour of midnight when dark forces stir.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 99,
+    "category": "magic",
+    "tier": "hard",
+    "word": "sorcery",
+    "hint": "The dark art of wielding supernatural powers through ancient incantations.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 100,
+    "category": "magic",
+    "tier": "hard",
+    "word": "magician",
+    "hint": "A performer who creates illusions or claims mastery over supernatural forces.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 101,
+    "category": "magic",
+    "tier": "hard",
+    "word": "mystical",
+    "hint": "Relating to esoteric occult truths and hidden spiritual communion.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 102,
+    "category": "magic",
+    "tier": "hard",
+    "word": "alchemy",
+    "hint": "A sudden, seemingly miraculous transmutation of one substance into another.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 103,
+    "category": "magic",
+    "tier": "hard",
+    "word": "mysticism",
+    "hint": "The belief in reaching direct communion with ultimate divine reality.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 104,
+    "category": "magic",
+    "tier": "hard",
+    "word": "glamour",
+    "hint": "An alluring, bewitching charm that dazzles and fascinates beholders.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 105,
+    "category": "magic",
+    "tier": "hard",
+    "word": "occultism",
+    "hint": "Belief in hidden esoteric forces and the practice of controlling them.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 106,
+    "category": "magic",
+    "tier": "hard",
+    "word": "witchery",
+    "hint": "Irresistible fascination or enchanting allure, metaphorically speaking.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 107,
+    "category": "magic",
+    "tier": "hard",
+    "word": "magicians",
+    "hint": "Practitioners who command spellwork, supernatural feats, or arcane illusions.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 108,
+    "category": "magic",
+    "tier": "hard",
+    "word": "wizarding",
+    "hint": "Engaging in arcane spellcraft typical of elder sorcerers.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 109,
+    "category": "magic",
+    "tier": "hard",
+    "word": "sortilege",
+    "hint": "Arcane divination practiced to predict events or guide choices through signs.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 110,
+    "category": "magic",
+    "tier": "hard",
+    "word": "medicine",
+    "hint": "An obsolete term for dark rituals, folk superstitions, and hexes.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 111,
+    "category": "magic",
+    "tier": "hard",
+    "word": "dwimmer",
+    "hint": "An archaic word for phantom illusions, dark spells, or secret lore.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 112,
+    "category": "magic",
+    "tier": "hard",
+    "word": "theurgy",
+    "hint": "Ritual practice seeking to invoke direct divine intervention in human events.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 113,
+    "category": "magic",
+    "tier": "hard",
+    "word": "witchdom",
+    "hint": "The sphere or exercise of supernatural spellcraft and shadowy incantations.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 114,
+    "category": "magic",
+    "tier": "hard",
+    "word": "jugglery",
+    "hint": "An old term for deceitful trickery, legerdemain, or spell-based deception.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 115,
+    "category": "magic",
+    "tier": "hard",
+    "word": "wandwork",
+    "hint": "The deft hand movements used by an illusionist handling a slender rod on stage.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 116,
+    "category": "magic",
+    "tier": "hard",
+    "word": "conjure",
+    "hint": "To call upon or summon an image or spirit into existence.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 117,
+    "category": "magic",
+    "tier": "hard",
+    "word": "unbewitch",
+    "hint": "To break a dark spell cast upon someone, restoring their free will.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 118,
+    "category": "magic",
+    "tier": "hard",
+    "word": "sorceress",
+    "hint": "A refined, graceful female who commands arcana and weaves spells.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 119,
+    "category": "magic",
+    "tier": "hard",
+    "word": "formality",
+    "hint": "An empty ceremonial custom performed merely for show without genuine meaning.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 120,
+    "category": "magic",
+    "tier": "hard",
+    "word": "sigillic",
+    "hint": "Describing or pertaining to symbolic emblems used in occult practices to represent spirits or intentions.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 121,
+    "category": "magic",
+    "tier": "hard",
+    "word": "chaldee",
+    "hint": "An ancient practitioner of occult wisdom and astrological arts.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 122,
+    "category": "magic",
+    "tier": "hard",
+    "word": "upconjure",
+    "hint": "To summon forth spirits or visions into existence through arcane rituals.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 123,
+    "category": "magic",
+    "tier": "hard",
+    "word": "reconjure",
+    "hint": "To summon a spirit or image back into presence through incantation.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 124,
+    "category": "magic",
+    "tier": "hard",
+    "word": "bespell",
+    "hint": "To place under a magical enchantment or charm.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 125,
+    "category": "magic",
+    "tier": "hard",
+    "word": "bewizard",
+    "hint": "To sway or entrance someone through the artful influence of a male sorcerer.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 126,
+    "category": "magic",
+    "tier": "hard",
+    "word": "cabalize",
+    "hint": "To engage in esoteric decoding or perform mystical rites using hidden, traditional Jewish lore.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 127,
+    "category": "magic",
+    "tier": "hard",
+    "word": "harlequin",
+    "hint": "To vanish or cause something to disappear as if by a comic trickster's sleight.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 128,
+    "category": "magic",
+    "tier": "hard",
+    "word": "magistery",
+    "hint": "In alchemy, a refined essence, master preparation, or the grand transmutive substance.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 129,
+    "category": "magic",
+    "tier": "hard",
+    "word": "metagnomy",
+    "hint": "The esoteric practice of divining hidden knowledge through intuitive foresight.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 130,
+    "category": "magic",
+    "tier": "hard",
+    "word": "haruspicy",
+    "hint": "An ancient Roman practice of foretelling the future by reading the internal organs of sacrificed beasts.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 131,
+    "category": "magic",
+    "tier": "hard",
+    "word": "quesited",
+    "hint": "In horary astrology, the specific person, item, or outcome being sought in a query.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 132,
+    "category": "magic",
+    "tier": "hard",
+    "word": "extispicy",
+    "hint": "A single act or instance of inspecting sacrificial entrails to determine omens.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 133,
+    "category": "magic",
+    "tier": "hard",
+    "word": "pedomancy",
+    "hint": "The practice of predicting a person's character or future by inspecting the bottom of their feet.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 134,
+    "category": "magic",
+    "tier": "hard",
+    "word": "aeroscopy",
+    "hint": "The practice of seeking omens or hidden truths by observing celestial phenomena and the firmament.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 135,
+    "category": "magic",
+    "tier": "hard",
+    "word": "aeromancy",
+    "hint": "Forecasting the future or interpreting signs using weather patterns, wind, and atmospheric events.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 136,
+    "category": "magic",
+    "tier": "hard",
+    "word": "uromancy",
+    "hint": "A form of divination performed by analyzing liquid bodily excretions.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 137,
+    "category": "magic",
+    "tier": "hard",
+    "word": "geloscopy",
+    "hint": "The obscure practice of divining an individual's character or future from their laughter.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 138,
+    "category": "magic",
+    "tier": "hard",
+    "word": "mantology",
+    "hint": "The general study or art of foretelling future events through prophetic means.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 139,
+    "category": "magic",
+    "tier": "hard",
+    "word": "nomancy",
+    "hint": "Foreseeing a person's fate or character by inspecting the letters in their given title.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 140,
+    "category": "magic",
+    "tier": "hard",
+    "word": "oinomancy",
+    "hint": "Prophetic reading performed by examining the sediment or spillage patterns of fermented grape beverages.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 141,
+    "category": "magic",
+    "tier": "medium",
+    "word": "wizard",
+    "hint": "An old British slang term meaning excellent, marvelous, or superb.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 142,
+    "category": "magic",
+    "tier": "medium",
+    "word": "spell",
+    "hint": "A mystical effect or hex produced by spoken words or incantations.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 143,
+    "category": "magic",
+    "tier": "medium",
+    "word": "deity",
+    "hint": "A supernatural divine being, such as a god or goddess.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 144,
+    "category": "magic",
+    "tier": "medium",
+    "word": "charm",
+    "hint": "Personal allure, pleasing attractiveness, or the power to delight and fascinate others.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 145,
+    "category": "magic",
+    "tier": "medium",
+    "word": "wonder",
+    "hint": "A remarkable feat demonstrating incredible skill or mastery, seemingly beyond normal capability.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 146,
+    "category": "magic",
+    "tier": "medium",
+    "word": "stick",
+    "hint": "An accomplice secretly planted among the spectators during a stage performance.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 147,
+    "category": "magic",
+    "tier": "medium",
+    "word": "fairy",
+    "hint": "A mythical enchantress or female being possessing irresistible allure.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 148,
+    "category": "magic",
+    "tier": "medium",
+    "word": "elixir",
+    "hint": "An alchemical liquid believed to transmute base metals into gold.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 149,
+    "category": "magic",
+    "tier": "medium",
+    "word": "potion",
+    "hint": "A concocted liquid drink designed to heal, poison, or exert supernatural effects.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 150,
+    "category": "magic",
+    "tier": "medium",
+    "word": "spells",
+    "hint": "Plural term for hexes or mystical influences cast through incantations.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 151,
+    "category": "magic",
+    "tier": "medium",
+    "word": "goetic",
+    "hint": "Relating to dark sorcery, necromancy, or the conjuration of evil spirits.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 152,
+    "category": "magic",
+    "tier": "medium",
+    "word": "witch",
+    "hint": "A female practitioner of modern pagan traditions like Wicca.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 153,
+    "category": "magic",
+    "tier": "medium",
+    "word": "ritual",
+    "hint": "A ceremonial sequence of actions prescribed by tradition or religious custom.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 154,
+    "category": "magic",
+    "tier": "medium",
+    "word": "magery",
+    "hint": "The art, practice, or skill of a sorcerer.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 155,
+    "category": "magic",
+    "tier": "medium",
+    "word": "occult",
+    "hint": "Matters dealing with mystical, esoteric, or supernatural phenomena beyond ordinary understanding.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 156,
+    "category": "magic",
+    "tier": "medium",
+    "word": "sigil",
+    "hint": "A drawn symbol or emblem believed to hold power or represent a spirit.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 157,
+    "category": "magic",
+    "tier": "medium",
+    "word": "gnosis",
+    "hint": "An altered state of consciousness enabling direct awareness and supernatural force.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 158,
+    "category": "magic",
+    "tier": "medium",
+    "word": "obeah",
+    "hint": "A traditional folk doctor or practitioner of sorcery in Caribbean traditions.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 159,
+    "category": "magic",
+    "tier": "medium",
+    "word": "powwow",
+    "hint": "A traditional ceremony or spiritual gathering led by a Native American shaman.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 160,
+    "category": "magic",
+    "tier": "medium",
+    "word": "curse",
+    "hint": "A solemn utterance intended to call down misfortune, harm, or evil upon another person.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 161,
+    "category": "magic",
+    "tier": "medium",
+    "word": "goety",
+    "hint": "An archaic term for dark sorcery that involves summoning evil spirits or practicing necromancy.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 162,
+    "category": "magic",
+    "tier": "medium",
+    "word": "invoke",
+    "hint": "To summon or call forth supernatural entities through incantations or prayer.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 163,
+    "category": "magic",
+    "tier": "medium",
+    "word": "magic",
+    "hint": "In tabletop or video games, the attribute or power that enables a character to cast supernatural spells.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 164,
+    "category": "magic",
+    "tier": "medium",
+    "word": "magics",
+    "hint": "In fantasy gaming, plural terms for the powers or attributes enabling characters to cast spells.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 165,
+    "category": "magic",
+    "tier": "medium",
+    "word": "arcane",
+    "hint": "Known or understood by only a few; deeply mysterious or obscure.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 166,
+    "category": "magic",
+    "tier": "medium",
+    "word": "golem",
+    "hint": "A Jewish folklore figure made of clay brought to life through mystical means.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 167,
+    "category": "magic",
+    "tier": "medium",
+    "word": "weird",
+    "hint": "To alter or affect someone through sorcery or fateful destiny.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 168,
+    "category": "magic",
+    "tier": "medium",
+    "word": "whammy",
+    "hint": "A jinx, bad luck charm, or evil spell placed upon someone.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 169,
+    "category": "magic",
+    "tier": "medium",
+    "word": "spooky",
+    "hint": "Eerie and suggestive of mysterious or supernatural forces.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 170,
+    "category": "magic",
+    "tier": "medium",
+    "word": "maloik",
+    "hint": "The evil eye gesture or curse in Italian-American folklore.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 171,
+    "category": "magic",
+    "tier": "medium",
+    "word": "duende",
+    "hint": "A heightened sense of passion, charisma, or personal charm.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 172,
+    "category": "magic",
+    "tier": "medium",
+    "word": "cultic",
+    "hint": "Relating to sacred ceremonial rites or formal religious practice.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 173,
+    "category": "magic",
+    "tier": "medium",
+    "word": "byname",
+    "hint": "A ritual title given to a deity in Germanic pagan traditions.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 174,
+    "category": "magic",
+    "tier": "medium",
+    "word": "gagaku",
+    "hint": "Classical Japanese court music performed during traditional rites.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 175,
+    "category": "magic",
+    "tier": "medium",
+    "word": "lavabo",
+    "hint": "A ceremonial vessel used for ritual handwashing in church.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 176,
+    "category": "magic",
+    "tier": "medium",
+    "word": "mikveh",
+    "hint": "A sacred bath used for ritual purification in Judaism.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 177,
+    "category": "magic",
+    "tier": "medium",
+    "word": "mancer",
+    "hint": "A practitioner of spellcasting or divination in fantasy lore.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 178,
+    "category": "magic",
+    "tier": "medium",
+    "word": "stooge",
+    "hint": "An accomplice planted in the audience to assist an illusionist.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 179,
+    "category": "magic",
+    "tier": "medium",
+    "word": "demon",
+    "hint": "A malevolent entity or wicked supernatural spirit.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 180,
+    "category": "magic",
+    "tier": "medium",
+    "word": "hexer",
+    "hint": "A person who casts malignant spells or evil curses.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 181,
+    "category": "magic",
+    "tier": "medium",
+    "word": "boyla",
+    "hint": "A traditional medicine person or sorcerer in Australian Aboriginal culture.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 182,
+    "category": "magic",
+    "tier": "medium",
+    "word": "ghost",
+    "hint": "Describing something of a mysterious, supernatural, or phantom nature.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 183,
+    "category": "magic",
+    "tier": "medium",
+    "word": "stuff",
+    "hint": "An archaic word for a potion, draft, or medicinal mixture.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 184,
+    "category": "magic",
+    "tier": "medium",
+    "word": "dwale",
+    "hint": "An old term for a sleeping potion made with belladonna.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 185,
+    "category": "magic",
+    "tier": "medium",
+    "word": "wanion",
+    "hint": "An obsolete expression for a curse, plague, or bad luck.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 186,
+    "category": "magic",
+    "tier": "medium",
+    "word": "augury",
+    "hint": "Divination based on the behavior and flights of birds or animals.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 187,
+    "category": "magic",
+    "tier": "medium",
+    "word": "blast",
+    "hint": "To strike down with an evil spell; to damn or curse.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 188,
+    "category": "magic",
+    "tier": "medium",
+    "word": "devote",
+    "hint": "An archaic term meaning to doom, execrate, or invoke evil upon someone.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 189,
+    "category": "magic",
+    "tier": "medium",
+    "word": "wight",
+    "hint": "A poetic term for a supernatural entity, ghost, or living creature.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 190,
+    "category": "magic",
+    "tier": "medium",
+    "word": "guide",
+    "hint": "An incorporeal entity believed to assist and communicate through a spiritual channel.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 191,
+    "category": "magic",
+    "tier": "medium",
+    "word": "bogey",
+    "hint": "A mischievous or terrifying supernatural entity or goblin.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 192,
+    "category": "magic",
+    "tier": "medium",
+    "word": "astral",
+    "hint": "Pertaining to a subtle plane of existence or an entity hailing from it.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 193,
+    "category": "magic",
+    "tier": "medium",
+    "word": "virtue",
+    "hint": "An archaic sense referring to the inherent supernatural power possessed by a deity.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 194,
+    "category": "magic",
+    "tier": "medium",
+    "word": "archon",
+    "hint": "A cosmic ruler or spiritual governor in Gnostic belief systems.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 195,
+    "category": "magic",
+    "tier": "medium",
+    "word": "naming",
+    "hint": "A ceremonial rite where an individual is officially bestowed their identity.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 196,
+    "category": "magic",
+    "tier": "medium",
+    "word": "token",
+    "hint": "A miraculous sign or manifestation serving as proof of supernatural power.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 197,
+    "category": "magic",
+    "tier": "medium",
+    "word": "mantic",
+    "hint": "Pertaining to prophecy or predicting the future through occult means.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 198,
+    "category": "magic",
+    "tier": "medium",
+    "word": "sufis",
+    "hint": "Practitioners of Islamic mysticism known for their inner spiritual journey.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 199,
+    "category": "magic",
+    "tier": "medium",
+    "word": "byway",
+    "hint": "A secondary or obscure realm of study, often dealing with esoteric lore.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 200,
+    "category": "magic",
+    "tier": "medium",
+    "word": "summon",
+    "hint": "To magically call forth a creature, force, or item to aid the caster.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 201,
+    "category": "magic",
+    "tier": "medium",
+    "word": "vision",
+    "hint": "A mystical experience wherein a sacred figure or insight appears.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 202,
+    "category": "magic",
+    "tier": "medium",
+    "word": "girru",
+    "hint": "The ancient Mesopotamian deity of fire invoked in spells to counter sorcery.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 203,
+    "category": "magic",
+    "tier": "medium",
+    "word": "chant",
+    "hint": "A rhythmic, recited sequence of words used as an incantation during a ritual.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 204,
+    "category": "magic",
+    "tier": "medium",
+    "word": "chants",
+    "hint": "Rhythmic recited phrases or incantations repeated during mystical rituals.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 205,
+    "category": "magic",
+    "tier": "medium",
+    "word": "sufism",
+    "hint": "The mystical branch of Islam focusing on direct personal connection with the divine.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 206,
+    "category": "magic",
+    "tier": "medium",
+    "word": "stang",
+    "hint": "A wooden staff with a split or two-pronged top used in pagan ceremonies.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 207,
+    "category": "magic",
+    "tier": "medium",
+    "word": "spiff",
+    "hint": "The captivating charm, magical allure, or stylish elegance in appearance.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 208,
+    "category": "magic",
+    "tier": "medium",
+    "word": "incant",
+    "hint": "To chant or recite words of mystical power aloud.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 209,
+    "category": "magic",
+    "tier": "medium",
+    "word": "bogie",
+    "hint": "A mischievous spectral entity or terrifying creature from folklore.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 210,
+    "category": "magic",
+    "tier": "medium",
+    "word": "goozoo",
+    "hint": "Jamaican traditional folk sorcery and spiritual practice.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 211,
+    "category": "magic",
+    "tier": "medium",
+    "word": "wanga",
+    "hint": "A Vodou charm or magical item intended to exert power or influence.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 212,
+    "category": "magic",
+    "tier": "medium",
+    "word": "jadoo",
+    "hint": "A South Asian term for mystical arts or sorcery.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 213,
+    "category": "magic",
+    "tier": "medium",
+    "word": "barang",
+    "hint": "Malicious sorcery or dark magical practices in Philippine folklore.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 214,
+    "category": "magic",
+    "tier": "medium",
+    "word": "saphie",
+    "hint": "A protective amulet worn in West Africa containing sacred text or magical symbols.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 215,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "supernatural",
+    "hint": "An entity existing beyond the physical laws of nature, such as a ghost or spirit.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 216,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "legerdemain",
+    "hint": "Skillful dexterity of the hands used to perform deceptive stage tricks.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 217,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "witchcraft",
+    "hint": "Dark sorcery or malevolent occult practices used to work evil.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 218,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "necromancy",
+    "hint": "Divination practiced by communicating with the spirits of the deceased.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 219,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "enchantment",
+    "hint": "A magical hex or charm placed upon someone to alter their state.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 220,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "enchantments",
+    "hint": "Multiple magical charms or sorceries cast to affect targets.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 221,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "incantation",
+    "hint": "A recited sequence of mystic words spoken to produce a magical effect.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 222,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "divination",
+    "hint": "The practice of predicting future events or uncovering secret knowledge by omens.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 223,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "metamorphosis",
+    "hint": "A dramatic shape-shifting transformation wrought through esoteric power.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 224,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "illusionism",
+    "hint": "The art of creating deceptive visual sleights and tricks for an audience.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 225,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "broomstick",
+    "hint": "A long-handled sweeping tool mythically used by sorceresses for aerial transport.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 226,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "enchanting",
+    "hint": "The act of placing a mystical charm or sorcery upon a target.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 227,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "hypnotised",
+    "hint": "Rendered completely entranced and fixated as if under a mystical trance.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 228,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "spellbinding",
+    "hint": "Possessing the esoteric capability to restrain an individual through magic spoken words.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 229,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "spellbound",
+    "hint": "Held completely rapt, mesmerized, or captivated as if by mystic forces.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 230,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "malediction",
+    "hint": "An utterance of a curse intended to bring misfortune or ruin.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 231,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "ceremonial",
+    "hint": "A formal series of solemn rites prescribed by esoteric tradition.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 232,
+    "category": "magic",
+    "tier": "legendary",
+    "word": "ritualization",
+    "hint": "The formal process of imbuing actions with symbolic or mystical significance.",
+    "sourceSeed": "imported"
   }
 ]

@@ -1,0 +1,2361 @@
+[
+  {
+    "word": "SORCEROUS",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Similar to, or involving, sorcery"
+  },
+  {
+    "word": "WIZARDLY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Like, or suiting a wizard"
+  },
+  {
+    "word": "WIZARD",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(slang, dated, British) Fine, superb (originally RAF slang)"
+  },
+  {
+    "word": "SUPERNATURAL",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "(countable) A supernatural being"
+  },
+  {
+    "word": "LEGERDEMAIN",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Sleight of hand; \\\"magic\\\" trickery"
+  },
+  {
+    "word": "WITCHING",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Of or pertaining to witchcraft or sorcery, or to witches or sorcerers"
+  },
+  {
+    "word": "CHARMING",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "The casting of a magical charm"
+  },
+  {
+    "word": "SORCERY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Magical power; the use of witchcraft or magic arts"
+  },
+  {
+    "word": "WIZARDRY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "The art of a wizard; sorcery"
+  },
+  {
+    "word": "SPELL",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A magical effect or influence induced by an incantation or formula"
+  },
+  {
+    "word": "WITCHCRAFT",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Black magic; the use of witchcraft for evil means"
+  },
+  {
+    "word": "MAGICIAN",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A person who plays with or practices allegedly supernatural magic"
+  },
+  {
+    "word": "MYSTICAL",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Relating to mystics or mysticism"
+  },
+  {
+    "word": "NECROMANCY",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Divination involving the dead or death"
+  },
+  {
+    "word": "DEITY",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A supernatural divine being; a god or goddess"
+  },
+  {
+    "word": "CHARM",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(often in the plural) The ability to persuade, delight or arouse admiration"
+  },
+  {
+    "word": "WONDER",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A feat that demonstrates incredible finesse or skill, as if performed by magic"
+  },
+  {
+    "word": "STICK",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(magic) An assistant planted in the audience"
+  },
+  {
+    "word": "MAYA",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(Hindu mythology) Magic; supernatural power as held by the gods"
+  },
+  {
+    "word": "ALCHEMY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(countable) The causing of any sort of mysterious sudden transmutation"
+  },
+  {
+    "word": "MYSTICISM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A doctrine of direct communication or spiritual intuition of divine truth"
+  },
+  {
+    "word": "ENCHANTMENT",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Something that enchants; a magical spell"
+  },
+  {
+    "word": "CONJURING",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(gerund of conjure) An act in which something is conjured"
+  },
+  {
+    "word": "GLAMOUR",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(uncountable) Alluring beauty or charm (often with sex appeal)"
+  },
+  {
+    "word": "MOJO",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(informal) Supernatural skill; exceptional luck, success, or power"
+  },
+  {
+    "word": "OCCULTISM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A belief in occult powers and the hope of controlling them"
+  },
+  {
+    "word": "ENCHANTMENTS",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Something that enchants; a magical spell"
+  },
+  {
+    "word": "WITCHERY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(uncountable, figuratively) Allure, charm, magic"
+  },
+  {
+    "word": "FAIRY",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "An enchantress, or creature of overpowering charm"
+  },
+  {
+    "word": "INCANTATION",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "A formula of words used as above"
+  },
+  {
+    "word": "MYSTIC",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "Someone who practices mysticism"
+  },
+  {
+    "word": "MAGICIANS",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A person who plays with or practices allegedly supernatural magic"
+  },
+  {
+    "word": "ELIXIR",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(alchemy) A liquid which converts lead to gold"
+  },
+  {
+    "word": "POTION",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A small portion or dose of a liquid which is medicinal, poisonous, or magical"
+  },
+  {
+    "word": "SPELLS",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A magical effect or influence induced by an incantation or formula"
+  },
+  {
+    "word": "GOETIC",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "Pertaining to black magic or necromancy"
+  },
+  {
+    "word": "WITCH",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A woman who follows Wicca or similar New Age pagan beliefs"
+  },
+  {
+    "word": "CONJURATION",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Conjuring, legerdemain or magic"
+  },
+  {
+    "word": "RITUAL",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A rite; a repeated set of actions, especially in religious contexts"
+  },
+  {
+    "word": "WIZARDING",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "The magical work of a wizard; sorcery, witchcraft"
+  },
+  {
+    "word": "SORTILEGE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Witchcraft, magic, especially as a means of making decisions or predictions"
+  },
+  {
+    "word": "MAGERY",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "The practice of a mage; magic, sorcery"
+  },
+  {
+    "word": "MEDICINE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(obsolete) Black magic, superstition"
+  },
+  {
+    "word": "WIZARDISM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Wizardry; black magic"
+  },
+  {
+    "word": "DWIMMER",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(obsolete) Magic, magic arts; sorcery; spell; occult art"
+  },
+  {
+    "word": "THEURGY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A supernatural intervention in human affairs"
+  },
+  {
+    "word": "WITCHDOM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "The exercise of witchcraft or of supernatural powers; witchery"
+  },
+  {
+    "word": "JUGGLERY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(now rare) Witchcraft, sorcery; magical trickery, legerdemain"
+  },
+  {
+    "word": "WANDWORK",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "The use of a wand in a stage-magic performance"
+  },
+  {
+    "word": "CONJURE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To evoke"
+  },
+  {
+    "word": "SPELLBOOK",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A book of magic spells"
+  },
+  {
+    "word": "BANISHING",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A magical ritual intended to remove negative spiritual influences"
+  },
+  {
+    "word": "DIVINATION",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "(uncountable) The act of divining; a foreseeing or foretelling of future events"
+  },
+  {
+    "word": "METAMORPHOSIS",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "A transformation, such as one performed by magic"
+  },
+  {
+    "word": "OCCULT",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(usually with \\\"the\\\") Supernatural affairs"
+  },
+  {
+    "word": "MAGICDOM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "The sphere or world of magic"
+  },
+  {
+    "word": "HEXCRAFT",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "The practice, art, or skill of casting hexes and spells; sorcery; witchcraft"
+  },
+  {
+    "word": "PYROMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by fire; the use of fire to supernaturally gain information"
+  },
+  {
+    "word": "ILLUSIONISM",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "The performance of magic tricks"
+  },
+  {
+    "word": "MANTICISM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "The practice of divination"
+  },
+  {
+    "word": "SIGIL",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "An occult or magical sign, image or symbol"
+  },
+  {
+    "word": "GNOSIS",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(occult) An altered state of awareness in which the will is magically effective"
+  },
+  {
+    "word": "OBEAH",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A magician or witch doctor of the magic craft"
+  },
+  {
+    "word": "SCIOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination using ghosts or spirits"
+  },
+  {
+    "word": "DIABLERY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Sorcery"
+  },
+  {
+    "word": "RUNE",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "A letter or mark used as a mystical or magic symbol"
+  },
+  {
+    "word": "BROOMSTICK",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "A broom imbued with magic, enabling one to fly astride the handle"
+  },
+  {
+    "word": "CHARMED",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Under a magic spell (cast by a charm); bewitched"
+  },
+  {
+    "word": "ENCHANT",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "To attract and delight, to charm"
+  },
+  {
+    "word": "HELLBROTH",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A brew used in black magic"
+  },
+  {
+    "word": "JUJU",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(uncountable) The magical or supernatural power of such a charm"
+  },
+  {
+    "word": "PHILTRE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Alternative spelling of philter. [To impregnate or mix with a love potion.]"
+  },
+  {
+    "word": "POWWOW",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A ritual conducted by a Native American shaman"
+  },
+  {
+    "word": "BECHARM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive, archaic) To charm; fascinate; hold by a charm or spell"
+  },
+  {
+    "word": "BEWITCH",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To fascinate or charm"
+  },
+  {
+    "word": "BEWITCHED",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Under a spell; subject to an act of witchcraft"
+  },
+  {
+    "word": "CANTRIP",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A spell or incantation; a trifling magic trick"
+  },
+  {
+    "word": "CHARISMA",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "The capacity to inspire devotion or enthusiasm; personal charm"
+  },
+  {
+    "word": "CURSE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A prayer or imprecation that harm may befall someone"
+  },
+  {
+    "word": "DIABLERIE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Witchcraft, sorcery"
+  },
+  {
+    "word": "DISENCHANTED",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Having had a magical spell or enchantment removed; no longer enchanted"
+  },
+  {
+    "word": "GOETY",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(obsolete) witchcraft, demonic magic, necromancy"
+  },
+  {
+    "word": "GRAMARYE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(archaic) Mystical learning; the occult, magic, sorcery"
+  },
+  {
+    "word": "HALOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by use of salt"
+  },
+  {
+    "word": "HEX",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "An evil spell or curse"
+  },
+  {
+    "word": "INVOKE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To conjure up with incantations"
+  },
+  {
+    "word": "LIB",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(UK dialectal, Scotland) A potion; magic potion; charm; concoction"
+  },
+  {
+    "word": "MAGIC",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(gaming, countable) The ability to cast a magic spell"
+  },
+  {
+    "word": "CANTRIPS",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A spell or incantation; a trifling magic trick"
+  },
+  {
+    "word": "MISSPELL",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To spell incorrectly"
+  },
+  {
+    "word": "MAGICS",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(gaming, countable) The ability to cast a magic spell"
+  },
+  {
+    "word": "WARLOCK",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A male magic-user; a male witch; a wizard"
+  },
+  {
+    "word": "ARCANE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(by extension) Obscure, mysterious"
+  },
+  {
+    "word": "MAGICAL",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Of, relating to, or by means of magic"
+  },
+  {
+    "word": "MAGE",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(chiefly fantasy) A magician, wizard, sorcerer, witch, warlock or mystic"
+  },
+  {
+    "word": "LOGOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination with words"
+  },
+  {
+    "word": "SPAEDOM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Synonym of spae-craft (“magical divination of the future”)"
+  },
+  {
+    "word": "GYROMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by walking in a circle of letters until dizzy and falling"
+  },
+  {
+    "word": "PASSWALL",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(fantasy) A magic spell allowing a person to travel through solid material"
+  },
+  {
+    "word": "CEROMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by pouring melted wax into water and interpreting the bubbles formed"
+  },
+  {
+    "word": "JINX",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To cast a spell on"
+  },
+  {
+    "word": "BEWITCHING",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "The act by which somebody is bewitched; a curse or enchantment"
+  },
+  {
+    "word": "ENCHANTING",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "An act of enchantment"
+  },
+  {
+    "word": "FEY",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(fiction, mysticism) A fairy"
+  },
+  {
+    "word": "GOLEM",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(mythology) A humanoid creature made from clay, animated by magic"
+  },
+  {
+    "word": "HYPNOTISED",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Having your attention fixated as though by a spell"
+  },
+  {
+    "word": "RESPELL",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To spell again"
+  },
+  {
+    "word": "SPELLBINDING",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Having the power to bind magically through the agency of a spell"
+  },
+  {
+    "word": "SPELLBOUND",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Fascinated by something; entranced as if by a spell; captivated"
+  },
+  {
+    "word": "UNBEWITCH",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To free from a curse or enchantment"
+  },
+  {
+    "word": "WEIRD",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To destine; doom; change by witchcraft or sorcery"
+  },
+  {
+    "word": "WHAMMY",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "An evil spell; a curse or hex"
+  },
+  {
+    "word": "SPOOKY",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(informal) Eerie, or suggestive of ghosts or the supernatural"
+  },
+  {
+    "word": "CACOMAGIC",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(rare) Magic used for unethical, wicked ends"
+  },
+  {
+    "word": "TROLLDOM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Black magic; witchcraft"
+  },
+  {
+    "word": "CRAFT",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(obsolete) Occult art, magic"
+  },
+  {
+    "word": "MALEDICTION",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "A curse"
+  },
+  {
+    "word": "BOGEYISM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Devilry; supernatural matters involving evil forces"
+  },
+  {
+    "word": "MALISON",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(obsolete) A curse, a malediction"
+  },
+  {
+    "word": "CANTRAP",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Alternative form of cantrip. [A spell or incantation; a trifling magic trick.]"
+  },
+  {
+    "word": "MALOIK",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(Italian-American English) Evil eye; a curse"
+  },
+  {
+    "word": "SORCERESS",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A female sorcerer, especially one who is elegant; compare witch"
+  },
+  {
+    "word": "SORCERING",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(archaic) sorcery"
+  },
+  {
+    "word": "SORCERIZE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To transform or alter through sorcery"
+  },
+  {
+    "word": "VOODOOISM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(uncountable) A religious cult, from Haiti, involving witchcraft and sorcery"
+  },
+  {
+    "word": "SUFI",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "A mystic Muslim; a Muslim ascetic; a practitioner of Sufism"
+  },
+  {
+    "word": "CHARMLET",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A little charm or amulet"
+  },
+  {
+    "word": "DUENDE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "Personal charm"
+  },
+  {
+    "word": "FAIRYISM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Belief in fairies as supernatural beings"
+  },
+  {
+    "word": "GLAMOURY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(obsolete, literary) magic"
+  },
+  {
+    "word": "CAST",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "To perform, bring forth (a magical spell or enchantment)"
+  },
+  {
+    "word": "INCANTATORY",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Constituting, employing, dealing with, or suitable for use in incantation"
+  },
+  {
+    "word": "MALEFICE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(archaic) An evil deed; evilness; enchantment or sorcery"
+  },
+  {
+    "word": "ECSTASY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A trance, frenzy, or rapture associated with mystic or prophetic exaltation"
+  },
+  {
+    "word": "RITUALISTIC",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "In the manner of a ritual"
+  },
+  {
+    "word": "CEREMONY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A ritual, with religious or cultural significance"
+  },
+  {
+    "word": "CEREMONIAL",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "A ceremony, or series of ceremonies, prescribed by ritual"
+  },
+  {
+    "word": "SPIRITUAL",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Of or pertaining to spirits; supernatural"
+  },
+  {
+    "word": "FORMALITY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A customary ritual without substance, real consequence, or unique meaning"
+  },
+  {
+    "word": "SERVICE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A religious rite or ritual"
+  },
+  {
+    "word": "ORDINANCE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A religious practice or ritual prescribed by a church"
+  },
+  {
+    "word": "RITUALIZED",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Developed into a ritual"
+  },
+  {
+    "word": "RITUALIZATION",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "The act of giving something a ritual meaning or significance"
+  },
+  {
+    "word": "RITUALIZE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(US, transitive) To make into a ritual"
+  },
+  {
+    "word": "CEREMONIES",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "A ritual, with religious or cultural significance"
+  },
+  {
+    "word": "RITUALIST",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "One skilled in ritual"
+  },
+  {
+    "word": "CULTIC",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "Ritual, relating to cult (religious ritual)"
+  },
+  {
+    "word": "DIVINATORY",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Pertaining to divination"
+  },
+  {
+    "word": "PUJA",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "A religious ritual performed in South Asia as an act of worship"
+  },
+  {
+    "word": "RITUALISTS",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "One skilled in ritual"
+  },
+  {
+    "word": "BRIS",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(Judaism) Ritual male circumcision"
+  },
+  {
+    "word": "BYNAME",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(Germanic paganism) A ritual title for a god or goddess used in Heathenry"
+  },
+  {
+    "word": "CIRCLE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(intransitive, paganism) To take part in a magic circle"
+  },
+  {
+    "word": "FORMULARY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Stated; prescribed; ritual"
+  },
+  {
+    "word": "GAGAKU",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "The ancient court ritual classical music of Japan, of Chinese origin"
+  },
+  {
+    "word": "LAVABO",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A washbasin, particularly (Christianity) the one in a church used in the ritual"
+  },
+  {
+    "word": "MIKVEH",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(Judaism) A ritual bath in which various Jewish purifications are performed"
+  },
+  {
+    "word": "OATH",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "A curse, a curse word"
+  },
+  {
+    "word": "ALCHEMIST",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "One who practices alchemy"
+  },
+  {
+    "word": "MAGICKIAN",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A practitioner of occult magick"
+  },
+  {
+    "word": "MAGICKER",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(fantasy) One who does magic; a sorcerer or magician"
+  },
+  {
+    "word": "MANCER",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(uncommon, fantasy) A practitioner of magic or divination"
+  },
+  {
+    "word": "JUGGLER",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(dated) A magician or wizard"
+  },
+  {
+    "word": "KARCIST",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A person who practises magic; a sorcerer or magician"
+  },
+  {
+    "word": "SWORDMAGE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(fantasy) One who is skilled in both swordfighting and magic use"
+  },
+  {
+    "word": "MYSTICIST",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "One who is involved in mysticism"
+  },
+  {
+    "word": "HIEROPHANT",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "An interpreter of sacred mysteries or arcane knowledge"
+  },
+  {
+    "word": "DIVINATOR",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "One who practices or claims to practice divination; a diviner"
+  },
+  {
+    "word": "STOOGE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(magic) A magician's assistant who pretends to be a member of the audience"
+  },
+  {
+    "word": "HAG",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "A witch, sorceress, or enchantress; a female wizard"
+  },
+  {
+    "word": "DEMON",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "An evil supernatural spirit"
+  },
+  {
+    "word": "HEXER",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "One who casts a hex, or curse"
+  },
+  {
+    "word": "SPELLER",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(US) A book used to learn how to spell properly"
+  },
+  {
+    "word": "ALBULARYO",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A Filipino faith healer or witch doctor"
+  },
+  {
+    "word": "HELLCAT",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A witch"
+  },
+  {
+    "word": "UNWITCH",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To free from a witch or witchcraft"
+  },
+  {
+    "word": "ANATHEMA",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(literary) An imprecation; a curse; a malediction"
+  },
+  {
+    "word": "BOYLA",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "An Aboriginal witch doctor or sorcerer"
+  },
+  {
+    "word": "CARLINE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(chiefly Scotland) A woman; also, a hag or witch"
+  },
+  {
+    "word": "FLY",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(obsolete) A witch's familiar"
+  },
+  {
+    "word": "HAGBORN",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(archaic) Born of a hag or witch"
+  },
+  {
+    "word": "NEWT",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To turn (someone) into a newt, especially by magic"
+  },
+  {
+    "word": "PHITONESS",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(obsolete) A pythoness; a witch"
+  },
+  {
+    "word": "GHOST",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(attributive) Of cryptid, supernatural or extraterrestrial nature"
+  },
+  {
+    "word": "STUFF",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(obsolete) A medicine or mixture; a potion"
+  },
+  {
+    "word": "DWALE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(archaic) A sleeping-potion, especially one made from belladonna"
+  },
+  {
+    "word": "MALEDICT",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "To curse"
+  },
+  {
+    "word": "BESHREW",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive, archaic) To invoke or wish evil upon; to curse"
+  },
+  {
+    "word": "CUSS",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(chiefly US, colloquial) A curse"
+  },
+  {
+    "word": "IMPRECATION",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "A curse"
+  },
+  {
+    "word": "WOE",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "A curse; a malediction"
+  },
+  {
+    "word": "DEPRECATION",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "(countable) An imprecation or curse"
+  },
+  {
+    "word": "WANION",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(obsolete) Curse"
+  },
+  {
+    "word": "AUGURY",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A divination based on the appearance and behaviour of animals"
+  },
+  {
+    "word": "PISHOGE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Alternative form of piseog. [(Ireland) An evil spell; a curse.]"
+  },
+  {
+    "word": "BAN",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To curse; to execrate"
+  },
+  {
+    "word": "EXECRATE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(intransitive, archaic) To invoke a curse; to curse or swear"
+  },
+  {
+    "word": "POX",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(figurative) A curse"
+  },
+  {
+    "word": "BLESSING",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Some kind of divine or supernatural aid, or reward"
+  },
+  {
+    "word": "BLAST",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To curse; to damn"
+  },
+  {
+    "word": "COMMINATE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To denounce or curse"
+  },
+  {
+    "word": "CONDEMNED",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Having received a curse to be doomed to suffer eternally"
+  },
+  {
+    "word": "DEVOTE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "To execrate; to curse"
+  },
+  {
+    "word": "DRAT",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To damn or curse"
+  },
+  {
+    "word": "MANSE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To excommunicate; curse"
+  },
+  {
+    "word": "SHREW",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(obsolete, transitive) To beshrew; to curse"
+  },
+  {
+    "word": "UNCURSE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To remove a curse from"
+  },
+  {
+    "word": "EXECRATED",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(intransitive, archaic) To invoke a curse; to curse or swear"
+  },
+  {
+    "word": "WIGHT",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(poetic) A ghost, deity or other supernatural entity"
+  },
+  {
+    "word": "SPRITE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(mythology) Any of various supernatural beings, loosely defined:"
+  },
+  {
+    "word": "MAGICALLY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "In a magical manner; by magic, or as if by magic"
+  },
+  {
+    "word": "DIVINE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To foretell (something), especially by the use of divination"
+  },
+  {
+    "word": "GATHERED",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(Quakerism) focused, centered, achieving a state of shared mysticism"
+  },
+  {
+    "word": "VISITATION",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "An encounter with aliens or supernatural beings such as ghosts"
+  },
+  {
+    "word": "GUIDE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(occult) A spirit believed to speak through a medium"
+  },
+  {
+    "word": "BOGEY",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A ghost, goblin, or other hostile supernatural creature"
+  },
+  {
+    "word": "ASTRAL",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(parapsychology) A supernatural being from the astral plane"
+  },
+  {
+    "word": "VIRTUE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(obsolete) The inherent power of a god, or other supernatural being"
+  },
+  {
+    "word": "ARCHON",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(Christianity, Gnosticism) A supernatural ruler of the cosmos"
+  },
+  {
+    "word": "PSYCHICAL",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Outside the realm of the physical; supernatural, psychic"
+  },
+  {
+    "word": "UNEARTHLY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Preternatural or supernatural"
+  },
+  {
+    "word": "NAMING",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A ritual or ceremony in which a person's name is given or announced"
+  },
+  {
+    "word": "RITUALLY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "In a ritual manner"
+  },
+  {
+    "word": "WORD",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(transitive, rare) To conjure with a word"
+  },
+  {
+    "word": "BENEDICTION",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Help, good fortune or reward from God or another supernatural source"
+  },
+  {
+    "word": "TOKEN",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "An extraordinary event serving as evidence of supernatural power"
+  },
+  {
+    "word": "OCCULTIC",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Of or pertaining to the occult"
+  },
+  {
+    "word": "OCCULTIVE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Related to or involving the occult or secret knowledge"
+  },
+  {
+    "word": "SUFISTIC",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Of or relating to Sufi mysticism"
+  },
+  {
+    "word": "SORCERIAL",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Of or pertaining to sorcery"
+  },
+  {
+    "word": "PSYCHOGRAPHIC",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "(parapsychology) Relating to seances or occult communication"
+  },
+  {
+    "word": "MAGICALL",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Obsolete form of magical. [Of, relating to, or by means of magic.]"
+  },
+  {
+    "word": "THAUMIC",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(chiefly fantasy) Relating to magic; magical"
+  },
+  {
+    "word": "MANTIC",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "Relating to divination; prophetic"
+  },
+  {
+    "word": "SIGILLIC",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Relating to occult or magical sigils"
+  },
+  {
+    "word": "QUIETIST",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A mystic who follows quietism"
+  },
+  {
+    "word": "SUFIS",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A mystic Muslim; a Muslim ascetic; a practitioner of Sufism"
+  },
+  {
+    "word": "OCCULTATE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To make occult or hidden"
+  },
+  {
+    "word": "OCCULTATION",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "The state of being occult (“hidden, undetected”)"
+  },
+  {
+    "word": "CHALDEE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A wise individual involved in the occult"
+  },
+  {
+    "word": "MOLY",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(Greek mythology) A magic herb or plant used by Odysseus to overcome Circe"
+  },
+  {
+    "word": "MYSTICS",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Someone who practices mysticism"
+  },
+  {
+    "word": "ALCHEMISTS",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "One who practices alchemy"
+  },
+  {
+    "word": "UNMYSTIC",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Not mystic"
+  },
+  {
+    "word": "BYWAY",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(by extension) a little-known or arcane field of study or detail"
+  },
+  {
+    "word": "MAGISTERIUM",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "(alchemy) The philosopher's stone"
+  },
+  {
+    "word": "CHEMICAL",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(obsolete) Of or relating to alchemy"
+  },
+  {
+    "word": "SOL",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(obsolete, alchemy, chemistry) Gold"
+  },
+  {
+    "word": "WITCHLIKE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Resembling or characteristic of a witch"
+  },
+  {
+    "word": "UNCANNY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Strange, and mysteriously unsettling (as if supernatural); weird"
+  },
+  {
+    "word": "SUPERNORMAL",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "Paranormal, supernatural"
+  },
+  {
+    "word": "PERI",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(Iranian mythology) A sprite or supernatural being"
+  },
+  {
+    "word": "REVENANT",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A supernatural being that returns from the dead; a zombie or ghost"
+  },
+  {
+    "word": "SPRIGHT",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(obsolete) A supernatural being; a spirit; a shade; an apparition; a ghost"
+  },
+  {
+    "word": "UPCONJURE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive, archaic) To conjure up"
+  },
+  {
+    "word": "RECONJURE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "To conjure back; to bring something back as if by magic"
+  },
+  {
+    "word": "INVOCATE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "To conjure up or summon"
+  },
+  {
+    "word": "SUMMON",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(fantasy, transitive) To call a resource by magic"
+  },
+  {
+    "word": "BESPELL",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To cast a spell upon; to enchant, bewitch"
+  },
+  {
+    "word": "BEWIZARD",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To influence by, or as though by, a wizard or wizardry"
+  },
+  {
+    "word": "CABALIZE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(rare, intransitive) To use cabalistic language or perform cabalistic magic"
+  },
+  {
+    "word": "VISION",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(countable) A religious or mystical experience of a supernatural appearance"
+  },
+  {
+    "word": "OUTSPELL",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To spell better than"
+  },
+  {
+    "word": "HARLEQUIN",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To remove or conjure away, as if by a harlequin's trick"
+  },
+  {
+    "word": "WICCANING",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(Wicca) A Wiccan ritual analogous to baptism for infants"
+  },
+  {
+    "word": "MAGISTERY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(chiefly historical) (countable, alchemy, also figuratively)"
+  },
+  {
+    "word": "GIRRU",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "The babylonian god of fire; often invoked in incantations against sorcery"
+  },
+  {
+    "word": "CHANT",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A repetitive song, typically an incantation or part of a ritual"
+  },
+  {
+    "word": "CHANTS",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A repetitive song, typically an incantation or part of a ritual"
+  },
+  {
+    "word": "METAGNOMY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(rare, literary) Divination, clairvoyance"
+  },
+  {
+    "word": "HARUSPICY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by use of animal entrails, usually the victims of sacrifice"
+  },
+  {
+    "word": "QUESITED",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(astrology, divination) The object or goal that is sought in divination"
+  },
+  {
+    "word": "EXTISPICY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(countable) A specific instance of such divination"
+  },
+  {
+    "word": "PEDOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by examining the soles of the feet"
+  },
+  {
+    "word": "AEROSCOPY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(rare) divination by observation of the sky"
+  },
+  {
+    "word": "CHAOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by aerial visions, a form of aeromancy"
+  },
+  {
+    "word": "AEROMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by use of atmospheric conditions"
+  },
+  {
+    "word": "UROMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination based on the urine"
+  },
+  {
+    "word": "GELOSCOPY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(rare) Divination by means of laughter"
+  },
+  {
+    "word": "AUSPICE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(obsolete) Divination from the actions of birds"
+  },
+  {
+    "word": "ALOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Alternative form of halomancy. [Divination by use of salt.]"
+  },
+  {
+    "word": "CUBOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by throwing dice"
+  },
+  {
+    "word": "MANTOLOGY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(rare) Divination"
+  },
+  {
+    "word": "NOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Obsolete form of onomancy. [divination by the letters of a name; nomancy]"
+  },
+  {
+    "word": "OENOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by studying wine"
+  },
+  {
+    "word": "OINOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A form of divination conducted by examining patterns in wine"
+  },
+  {
+    "word": "ONOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by the letters of a name; nomancy"
+  },
+  {
+    "word": "OOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination through the use of eggs"
+  },
+  {
+    "word": "PEGOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by fountains"
+  },
+  {
+    "word": "SYCOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination using fig leaves"
+  },
+  {
+    "word": "THEOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(historical) A kind of divination drawn from the responses of oracles"
+  },
+  {
+    "word": "TYROMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by studying the coagulation of cheese"
+  },
+  {
+    "word": "XYLOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by means of examining or burning pieces of wood"
+  },
+  {
+    "word": "QUIETISM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A form of mysticism involving quiet contemplation"
+  },
+  {
+    "word": "SUFISM",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A family of spiritual schools in Islam emphasizing mysticism and asceticism"
+  },
+  {
+    "word": "STANG",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(Wicca, paganism) A forked ritual staff"
+  },
+  {
+    "word": "FAMULUS",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A close attendant or assistant, especially of a magician or occult scholar"
+  },
+  {
+    "word": "ENTHRILL",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(nonstandard, transitive) To charm; to enthrall"
+  },
+  {
+    "word": "SEND",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(archaic, of a curse or punishment) To inflict; to visit"
+  },
+  {
+    "word": "GLAMOURIE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Alternative spelling of glamoury. [(obsolete, literary) magic]"
+  },
+  {
+    "word": "BEGUILE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To charm, delight or captivate"
+  },
+  {
+    "word": "SPIFF",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(uncountable) Attractiveness or charm in dress, appearance, or manner"
+  },
+  {
+    "word": "QUAINTNESS",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "The state or fact of being quaint; having old-fashioned charm"
+  },
+  {
+    "word": "CUTE",
+    "category": "magic",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "Affected or contrived to charm; mincingly clever; precious; cutesy"
+  },
+  {
+    "word": "AMULETIC",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Of or pertaining to an amulet; operating as a charm"
+  },
+  {
+    "word": "BRELOQUE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A seal or charm for a watchchain"
+  },
+  {
+    "word": "DECHARM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To free from a charm, or charm (charisma); to disenchant"
+  },
+  {
+    "word": "DELECTATE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive, now rare) To delight, to charm, to bring pleasure to"
+  },
+  {
+    "word": "PERIAPT",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A charm worn on a necklace; an amulet"
+  },
+  {
+    "word": "APOTROPAIC",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "(religion, mysticism) Intended to ward off evil"
+  },
+  {
+    "word": "BOGLET",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A kind of supernatural being"
+  },
+  {
+    "word": "MANAISM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "The belief in the supernatural energy called mana"
+  },
+  {
+    "word": "CANTATION",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Synonym of incantation"
+  },
+  {
+    "word": "CUSSWORD",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Alternative form of cuss word. [(informal) Curse word or phrase.]"
+  },
+  {
+    "word": "CATCH",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(transitive) To charm or entrance"
+  },
+  {
+    "word": "ENCHARM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive, archaic, poetic) To charm"
+  },
+  {
+    "word": "ENSPELL",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "To bewitch with a magic spell; to charm"
+  },
+  {
+    "word": "BEGLAMOUR",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "To bedazzle; to deceive as if by magic"
+  },
+  {
+    "word": "INCANT",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "To recite an incantation"
+  },
+  {
+    "word": "ENCURSE",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive, archaic) to place or bring a curse upon; curse"
+  },
+  {
+    "word": "INCHANT",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Obsolete form of enchant. [To attract and delight, to charm.]"
+  },
+  {
+    "word": "INCANTING",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "To recite an incantation"
+  },
+  {
+    "word": "FORSPEAK",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(transitive, obsolete) To bewitch, to charm"
+  },
+  {
+    "word": "BOGIE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A ghost, goblin, or other hostile supernatural creature"
+  },
+  {
+    "word": "SPELLING",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "(uncountable) The manner of spelling of words; correct spelling"
+  },
+  {
+    "word": "ANTICHARM",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "The opposite of charm, or of charm as usually understood"
+  },
+  {
+    "word": "APOCALYPSE",
+    "category": "magic",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "A revealing, especially a prophecy of, or the unfolding of, supernatural events"
+  },
+  {
+    "word": "GOOZOO",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(Jamaica) obeah, folk magic"
+  },
+  {
+    "word": "WANGA",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(voodoo) A magic spell or charm"
+  },
+  {
+    "word": "JADOO",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(North India, Pakistan) Magic, sorcery"
+  },
+  {
+    "word": "JUJUMAN",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A practitioner of juju magic"
+  },
+  {
+    "word": "BARANG",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "(Philippines) black magic; sorcery"
+  },
+  {
+    "word": "SAPHIE",
+    "category": "magic",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A West African talisman or charm"
+  },
+  {
+    "word": "MUNDUNUGU",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "An African witch doctor"
+  },
+  {
+    "word": "AUGURIES",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A divination based on the appearance and behaviour of animals"
+  },
+  {
+    "word": "EGROMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Alternative form of necromancy. [Divination involving the dead or death.]"
+  },
+  {
+    "word": "ZOOMANCY",
+    "category": "magic",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "Divination by means of animals"
+  }
+]

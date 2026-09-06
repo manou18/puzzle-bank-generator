@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "category": "sea",
+    "tier": "medium",
+    "word": "ocean",
+    "hint": "A vast body of saltwater that separates major continents on Earth.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 2,
+    "category": "sea",
+    "tier": "medium",
+    "word": "seabed",
+    "hint": "The floor or bottom beneath deep coastal or open waters.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 3,
+    "category": "sea",
+    "tier": "medium",
+    "word": "shore",
+    "hint": "The land along the edge of a large body of standing water.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 4,
+    "category": "sea",
+    "tier": "medium",
+    "word": "beach",
+    "hint": "A sandy or pebbly stretch of land right along the edge of the ocean.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 5,
+    "category": "sea",
+    "tier": "medium",
+    "word": "coast",
+    "hint": "The boundary region where land meets a large body of saltwater.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 6,
+    "category": "sea",
+    "tier": "medium",
+    "word": "seaway",
+    "hint": "An inland canal or route designed for large ocean-going vessels.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 7,
+    "category": "sea",
+    "tier": "medium",
+    "word": "marina",
+    "hint": "The government agency overseeing the maritime industry in the Philippines.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 8,
+    "category": "sea",
+    "tier": "medium",
+    "word": "ferry",
+    "hint": "A location or terminal where passengers and vehicles are transported across water.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 9,
+    "category": "sea",
+    "tier": "medium",
+    "word": "seaman",
+    "hint": "A member of a ship's crew who assists in operating a vessel.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 10,
+    "category": "sea",
+    "tier": "medium",
+    "word": "seamen",
+    "hint": "Sailors who work aboard ships or naval vessels.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 11,
+    "category": "sea",
+    "tier": "medium",
+    "word": "brine",
+    "hint": "Highly concentrated saltwater, often referring poetically to ocean water.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 12,
+    "category": "sea",
+    "tier": "medium",
+    "word": "abyss",
+    "hint": "A deep, seemingly bottomless chasm or subterranean oceanic expanse.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 13,
+    "category": "sea",
+    "tier": "medium",
+    "word": "harbor",
+    "hint": "A place providing protection, safety, or shelter from danger or storms.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 14,
+    "category": "sea",
+    "tier": "medium",
+    "word": "bream",
+    "hint": "A type of deep-bodied saltwater fish belonging to the family Sparidae.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 15,
+    "category": "sea",
+    "tier": "medium",
+    "word": "earth",
+    "hint": "The mortal realm of physical human existence, distinct from the afterlife.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 16,
+    "category": "sea",
+    "tier": "medium",
+    "word": "otter",
+    "hint": "A web-footed, carnivorous mammal known for swimming in coastal or fresh waters.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 17,
+    "category": "sea",
+    "tier": "medium",
+    "word": "otters",
+    "hint": "Web-footed, fish-eating mammals in the Lutrinae family that frequent coastal waters.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 18,
+    "category": "sea",
+    "tier": "medium",
+    "word": "turtle",
+    "hint": "A hard-shelled reptile adapted for swimming in ocean environments.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 19,
+    "category": "sea",
+    "tier": "medium",
+    "word": "wrack",
+    "hint": "To ruin or destroy completely, particularly in the context of a ship at sea.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 20,
+    "category": "sea",
+    "tier": "medium",
+    "word": "beluga",
+    "hint": "An Arctic whale species famous for its distinct white color and bulbous forehead.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 21,
+    "category": "sea",
+    "tier": "medium",
+    "word": "inlet",
+    "hint": "A narrow strip of water leading inland from a larger coastal body.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 22,
+    "category": "sea",
+    "tier": "medium",
+    "word": "coasts",
+    "hint": "The shorelines or borders where land borders expansive bodies of saltwater.",
+    "sourceSeed": "ocean"
+  }
+]

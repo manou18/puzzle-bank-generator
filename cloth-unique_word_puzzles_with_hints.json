@@ -4726,5 +4726,677 @@
     "word": "pirn",
     "hint": "A small bobbin or quill holding thread inside a loom shuttle.",
     "sourceSeed": "weaving"
+  },
+  {
+    "id": 592,
+    "category": "cloth",
+    "tier": "medium",
+    "word": "chase",
+    "hint": "To cut or carve a helical groove into a cylinder or screw.",
+    "sourceSeed": "spinning"
+  },
+  {
+    "id": 593,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "tablecloth",
+    "hint": "Decorative or protective textile draped over a dining surface before setting plates.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 594,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "broadcloth",
+    "hint": "Dense, smooth wool or cotton textile woven with a plain grid structure.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 595,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "tablecloths",
+    "hint": "Multiple protective spreads used to drape over surfaces where meals are served.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 596,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "herringbone",
+    "hint": "A distinctive V-shaped twill pattern characterized by slanted, opposing rows of textile threads.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 597,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "mackintosh",
+    "hint": "Classic Scottish outer garment constructed from rubber-treated waterproof textile.",
+    "sourceSeed": "cloth"
+  },
+  {
+    "id": 598,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "embroidery",
+    "hint": "Artistic practice of decorating textile surfaces using colored threads and a needle.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 599,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "pillowcase",
+    "hint": "Washable slip covering a soft cushion meant for resting one's head in bed.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 600,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "fibreglass",
+    "hint": "Synthetic spun filament material processed into insulating wool-like sheets.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 601,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "scribbling",
+    "hint": "Preliminary mechanical carding process applied to raw wool before fine spinning.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 602,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "interweave",
+    "hint": "To combine distinct strands or threads by repeatedly interlacing them across one another.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 603,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "bedclothes",
+    "hint": "Attire worn specifically while sleeping in a mattress setting.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 604,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "underclothes",
+    "hint": "Plural term for hidden base garments worn beneath daily apparel right against skin.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 605,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "underclothing",
+    "hint": "Base layer apparel worn directly against the skin beneath outer garments.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 606,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "sweatshirt",
+    "hint": "Torso garment made of thick absorbent cotton designed to absorb perspiration.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 607,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "nightshirt",
+    "hint": "Loose, long sleeping garment resembling an elongated top worn to bed.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 608,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "buttonhole",
+    "hint": "Slit cut into a garment edge that receives a disk fastener to secure a closure.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 609,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "camouflage",
+    "hint": "Tactical combat apparel styled with disruptive patterns for stealth in wilderness environments.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 610,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "dressmaker",
+    "hint": "Tailor specializing in crafting custom fitted formal gowns and female garments.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 611,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "wraparound",
+    "hint": "Style of skirt or robe designed to overlap around the waist and tie secure.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 612,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "embroideries",
+    "hint": "Intricate needlework embellishments stitched onto textile surfaces using decorative thread.",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "id": 613,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "embroidered",
+    "hint": "Featuring intricate needlework patterns applied directly onto the surface.",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "id": 614,
+    "category": "cloth",
+    "tier": "legendary",
+    "word": "haberdasher",
+    "hint": "Retailer who sells small sewing notions such as trimmings, ribbons, and fasteners.",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "id": 615,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "slackener",
+    "hint": "A loom mechanism designed to temporarily loosen tension on warp strands during weaving.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 616,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "textorial",
+    "hint": "Pertaining to the craft or process of weaving fabric on a loom.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 617,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "catstitch",
+    "hint": "To secure a hem by sewing crisscrossing diagonal loops back and forth along the fabric edge.",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "id": 618,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "needledom",
+    "hint": "A collective term for the realm, community, or sphere of hand sewing and embroidery crafts.",
+    "sourceSeed": "sewing"
+  },
+  {
+    "id": 619,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "lambskins",
+    "hint": "Heavy woven woolen textiles finished with a dense fleece-like nap resembling young sheep pelts.",
+    "sourceSeed": "wool"
+  },
+  {
+    "id": 620,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "bombast",
+    "hint": "An obsolete term for raw cotton or soft padding materials used to stuff garments.",
+    "sourceSeed": "wool"
+  },
+  {
+    "id": 621,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "cabesse",
+    "hint": "An obsolete term for the highest grade of silk imported from India.",
+    "sourceSeed": "silk"
+  },
+  {
+    "id": 622,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "cutwork",
+    "hint": "Decorative embroidery crafted by snipping out sections of background fabric to create open patterns.",
+    "sourceSeed": "embroidery"
+  },
+  {
+    "id": 623,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "spinster",
+    "hint": "Historically, an individual whose primary trade was twisting raw fibers into thread or yarn.",
+    "sourceSeed": "spinning"
+  },
+  {
+    "id": 624,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "turbinate",
+    "hint": "Describing something shaped like an inverted cone or revolving like a child's top.",
+    "sourceSeed": "spinning"
+  },
+  {
+    "id": 625,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "unthread",
+    "hint": "To draw out or pull a thin strand from a narrow eyelet or fabric weave.",
+    "sourceSeed": "sewing needle"
+  },
+  {
+    "id": 626,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "popcorn",
+    "hint": "A textured, raised motif in knitting created by working several loops into one stitch and gathering them.",
+    "sourceSeed": "stitch"
+  },
+  {
+    "id": 627,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "snowwear",
+    "hint": "Heavily insulated garments designed for protection in icy winter conditions.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 628,
+    "category": "cloth",
+    "tier": "hard",
+    "word": "dishevel",
+    "hint": "To throw garments or hair into a state of disorder or untidiness.",
+    "sourceSeed": "clothing"
+  },
+  {
+    "id": 629,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "vest",
+    "hint": "General clothing or attire worn on the body.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 630,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "cire",
+    "hint": "A glossy or shiny glazed finish on a textile.",
+    "sourceSeed": "fabric"
+  },
+  {
+    "id": 631,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "tram",
+    "hint": "To weave loosely twisted silk thread used as filling in textiles.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 632,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "bone",
+    "hint": "A rigid lace-making bobbin carved from animal skeletal material.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 633,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "ply",
+    "hint": "A single strand spun together with others to make a thicker yarn or thread.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 634,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "scob",
+    "hint": "A weaving defect where the crosswise thread accidentally skips over warp strands.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 635,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "slay",
+    "hint": "A weaver's reed used to pack crosswise threads tightly together.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 636,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "tag",
+    "hint": "A dirty, matted clump of wool hanging from the fleece of a sheep.",
+    "sourceSeed": "weaving"
+  },
+  {
+    "id": 637,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "gear",
+    "hint": "Attire or clothing worn for a specific purpose or activity.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 638,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "weed",
+    "hint": "An old-fashioned term for an item of clothing, especially mourning attire.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 639,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "rail",
+    "hint": "An archaic word for a gown, dress, or outer cloak.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 640,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "fold",
+    "hint": "A layer created by doubling cloth over onto itself.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 641,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "toga",
+    "hint": "A draped outer robe worn by citizens in ancient Rome.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 642,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "bra",
+    "hint": "An undergarment designed to support a woman's chest.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 643,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "slip",
+    "hint": "A measured unit or standardized quantity of spun yarn.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 644,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "sock",
+    "hint": "A soft covering worn over the foot and inside footwear.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 645,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "arm",
+    "hint": "The portion of a shirt or jacket that covers the upper limb.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 646,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "dart",
+    "hint": "A stitched seam tapered into fabric to give shape to tailored clothing.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 647,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "fly",
+    "hint": "A weaver's shuttle that is mechanically knocked across the loom.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 648,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "fur",
+    "hint": "The thick hairy pelt of an animal, harvested to make plush winter coats.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 649,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "hose",
+    "hint": "To outfit someone with snug leg garments or stockings.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 650,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "pall",
+    "hint": "A dark, heavy cloth placed over a casket during a funeral.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 651,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "sew",
+    "hint": "To enclose something inside fabric using stitches.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 652,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "slop",
+    "hint": "An archaic term for a loose-fitting jacket, overall, or outer garment.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 653,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "top",
+    "hint": "A general term for any item of clothing worn on the upper body.",
+    "sourceSeed": "garment"
+  },
+  {
+    "id": 654,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "kit",
+    "hint": "A British informal term for a person's clothes or uniform.",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "id": 655,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "tuck",
+    "hint": "To fold or gather up a piece of fabric into a neat fold.",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "id": 656,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "bee",
+    "hint": "A social gathering where people meet to perform collective work, like quilting.",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "id": 657,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "ease",
+    "hint": "Extra room built into a garment to allow comfortable motion.",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "id": 658,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "snip",
+    "hint": "An old slang term for a person who makes or alters clothes.",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "id": 659,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "hook",
+    "hint": "A small curved tool used to pull yarn through loops in crochet.",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "id": 660,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "purl",
+    "hint": "To make an inverted stitch in knitting that forms a bumpy texture.",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "id": 661,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "cast",
+    "hint": "To bend, twist, or warp out of shape, as fabric or wood might.",
+    "sourceSeed": "sewing thread"
+  },
+  {
+    "id": 662,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "snag",
+    "hint": "A catch or pulled strand in woven material that forms an unwanted loop.",
+    "sourceSeed": "yarn"
+  },
+  {
+    "id": 663,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "hasp",
+    "hint": "A small rod or spindle used for winding up spun thread or silk.",
+    "sourceSeed": "yarn"
+  },
+  {
+    "id": 664,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "film",
+    "hint": "An extremely delicate strand or fine fiber, like part of a cobweb.",
+    "sourceSeed": "yarn"
+  },
+  {
+    "id": 665,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "roll",
+    "hint": "A bolt or long cylinder of fabric wound around a central tube.",
+    "sourceSeed": "yarn"
+  },
+  {
+    "id": 666,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "ball",
+    "hint": "Yarn or string wound into a round, spherical shape for crafting.",
+    "sourceSeed": "yarn"
+  },
+  {
+    "id": 667,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "burl",
+    "hint": "A small lump or knot found in yarn or woven material.",
+    "sourceSeed": "yarn"
+  },
+  {
+    "id": 668,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "clew",
+    "hint": "An old word for a rounded mass or sphere of thread or yarn.",
+    "sourceSeed": "yarn"
+  },
+  {
+    "id": 669,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "cop",
+    "hint": "A tapered bundle of thread wound onto a spindle during spinning.",
+    "sourceSeed": "yarn"
+  },
+  {
+    "id": 670,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "crab",
+    "hint": "An apparatus used in traditional rope-making to pull and stretch strands.",
+    "sourceSeed": "yarn"
+  },
+  {
+    "id": 671,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "cut",
+    "hint": "A specific length or standard skein of spun yarn.",
+    "sourceSeed": "yarn"
+  },
+  {
+    "id": 672,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "loop",
+    "hint": "A curved segment of strand doubled back to create a ring or eyelet.",
+    "sourceSeed": "yarn"
+  },
+  {
+    "id": 673,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "mule",
+    "hint": "An industrial machine invented to spin cotton fibers into yarn.",
+    "sourceSeed": "yarn"
+  },
+  {
+    "id": 674,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "nap",
+    "hint": "The raised, fuzzy pile or texture on the surface of cloth.",
+    "sourceSeed": "yarn"
+  },
+  {
+    "id": 675,
+    "category": "cloth",
+    "tier": "easy",
+    "word": "nub",
+    "hint": "The innermost core or central part of a silkworm's cocoon chrysalis.",
+    "sourceSeed": "yarn"
   }
 ]

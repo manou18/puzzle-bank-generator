@@ -1,0 +1,6715 @@
+[
+  {
+    "word": "OCEAN",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "(countable) One of the large bodies of water separating the continents"
+  },
+  {
+    "word": "OCEANGOING",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "sea",
+    "clue": "(nautical, of a vessel) designed for use on ocean voyages"
+  },
+  {
+    "word": "SEAGOING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "Made for, fit for sailing on, or used on the high seas"
+  },
+  {
+    "word": "SHIPBOARD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "The side of a ship"
+  },
+  {
+    "word": "OFFSHORE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "An area of or portion of sea away from the shore"
+  },
+  {
+    "word": "SUBOCEAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "Formed or situated or occurring beneath the ocean or the ocean bed"
+  },
+  {
+    "word": "SEABED",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "The floor or bottom of the sea or ocean"
+  },
+  {
+    "word": "SHORE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "Land adjoining a non-flowing body of water, such as an ocean, lake or pond"
+  },
+  {
+    "word": "BEACH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "The shore of a body of water, especially when sandy or pebbly"
+  },
+  {
+    "word": "TIDE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "A high-volume flow, literal or figurative; a current or flood"
+  },
+  {
+    "word": "MARINE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "(capitalised in the plural): A marine corps"
+  },
+  {
+    "word": "COAST",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "The edge of the land where it meets an ocean, sea, gulf, bay, or large lake"
+  },
+  {
+    "word": "SEASHORE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "The coastal land bordering a sea or an ocean"
+  },
+  {
+    "word": "POND",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(informal) Chiefly in across the pond: the Atlantic Ocean"
+  },
+  {
+    "word": "WATERWAY",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "A conduit or watercourse, such as on the deck of a ship, to drain water"
+  },
+  {
+    "word": "SUBMARINE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "(nautical) A boat that can go underwater"
+  },
+  {
+    "word": "SEAWATER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "The saltwater of a sea or ocean"
+  },
+  {
+    "word": "HARBOUR",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "(Commonwealth spelling) Standard spelling of harbor"
+  },
+  {
+    "word": "SEAWAY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "(nautical) An inland waterway used by seagoing shipping"
+  },
+  {
+    "word": "MARINA",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "(Philippines, nautical) Acronym of Maritime Industry Authority"
+  },
+  {
+    "word": "OVERBOARD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "(nautical) Outside of a boat; in the water"
+  },
+  {
+    "word": "MARITIME",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "Of or relating to a sailor or seaman; nautical"
+  },
+  {
+    "word": "SHIP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(nautical) A water-borne vessel generally larger than a boat"
+  },
+  {
+    "word": "SAIL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(nautical, uncountable) The concept of a sail or sails, as if a substance"
+  },
+  {
+    "word": "BOAT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "A conveyance, utensil, or dish somewhat resembling a boat in shape"
+  },
+  {
+    "word": "FERRY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "A place where passengers are transported across water in such a ship"
+  },
+  {
+    "word": "SEAMAN",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "Synonym of sailor, particularly on a maritime vessel"
+  },
+  {
+    "word": "SHIPPING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "Passage or transport on a ship"
+  },
+  {
+    "word": "LINER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "(nautical) A ship of the line"
+  },
+  {
+    "word": "SALT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(uncommon, countable) A salt marsh, a saline marsh at the shore of a sea"
+  },
+  {
+    "word": "FISHERMAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "A fisher, a person engaged in fishing:"
+  },
+  {
+    "word": "SEAFOOD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "Fish, shellfish, seaweed, and other edible aquatic life"
+  },
+  {
+    "word": "FISH",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(zoology) A paraphyletic grouping of the following taxonomic groups:"
+  },
+  {
+    "word": "CAN",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(nautical) A cylindrical buoy or marker used to denote a port-side lateral mark"
+  },
+  {
+    "word": "SEAMEN",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "Synonym of sailor, particularly on a maritime vessel"
+  },
+  {
+    "word": "BLUE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "The ocean; deep waters"
+  },
+  {
+    "word": "BRINE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "The sea or ocean; the water of the sea"
+  },
+  {
+    "word": "DEEP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(with \"the\") The sea, the ocean"
+  },
+  {
+    "word": "ABYSS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "Hell; the bottomless pit; primeval chaos; a confined subterranean ocean"
+  },
+  {
+    "word": "BLUEWATER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "(nautical) Oceangoing, capable of travelling in rough seas"
+  },
+  {
+    "word": "SEABEACH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "(dated) A beach lying along the sea"
+  },
+  {
+    "word": "SEABOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "A boat designed for use at sea"
+  },
+  {
+    "word": "SEAPIECE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "A picture representing a scene at sea; a marine picture"
+  },
+  {
+    "word": "HARBOR",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "(countable) Any place of shelter"
+  },
+  {
+    "word": "ESTUARY",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "An ocean inlet also fed by fresh river water"
+  },
+  {
+    "word": "WHITECAP",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "A wave having a white crest; a breaker"
+  },
+  {
+    "word": "PEARLFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "Any of various slender marine fish of the family Carapidae, resembling eels"
+  },
+  {
+    "word": "SEACOASTS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "The coastal land bordering a sea or ocean"
+  },
+  {
+    "word": "MERCHANTMEN",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "sea",
+    "clue": "Synonym of merchant ship"
+  },
+  {
+    "word": "LONGBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "(nautical) The largest and thus the most capable of boats carried on a ship"
+  },
+  {
+    "word": "FLYBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "A kind of passenger boat formerly used on canals"
+  },
+  {
+    "word": "GUNKHOLE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "(nautical) A small cove, especially a small fishing community"
+  },
+  {
+    "word": "OPEN",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(electronics) A defect in an electrical circuit preventing current from flowing"
+  },
+  {
+    "word": "PORT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(nautical) To dock at a port"
+  },
+  {
+    "word": "BREAM",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "A marine sparoid fish of the genus Pagellus, and allied genera"
+  },
+  {
+    "word": "CAPTAIN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "The person lawfully in command of a ship or other vessel"
+  },
+  {
+    "word": "CRAWFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "(intransitive) To fish for crawfish"
+  },
+  {
+    "word": "EARTH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "The world of our current life (as opposed to heaven or an afterlife)"
+  },
+  {
+    "word": "FISHERIES",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "(countable) A place related to fishing, particularly:"
+  },
+  {
+    "word": "KNOT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(aviation, nautical) A unit of speed, equal to one nautical mile per hour"
+  },
+  {
+    "word": "OCEANOGRAPHY",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "sea",
+    "clue": "The exploration and scientific study of the oceans and ocean floor"
+  },
+  {
+    "word": "OTTER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "An aquatic or marine carnivorous mammal in the subfamily Lutrinae"
+  },
+  {
+    "word": "OTTERS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "An aquatic or marine carnivorous mammal in the subfamily Lutrinae"
+  },
+  {
+    "word": "OUT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(of the tide) At or near its lowest level"
+  },
+  {
+    "word": "SAILING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "Travelling by ship"
+  },
+  {
+    "word": "SALVAGE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "The ship, crew or cargo so rescued"
+  },
+  {
+    "word": "TURTLE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "(zoology, Australia, British, specifically) A marine reptile of that order"
+  },
+  {
+    "word": "WRACK",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "(transitive, usually passive voice) To wreck, especially a ship"
+  },
+  {
+    "word": "ALEE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "On the lee side of a ship, to the leeward side (vs aweather)"
+  },
+  {
+    "word": "BELUGA",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "A cetacean, Delphinapterus leucas, found in the Arctic Ocean"
+  },
+  {
+    "word": "CAPE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(nautical) To head or point; to keep a course"
+  },
+  {
+    "word": "CHOP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(nautical) To vary or shift suddenly"
+  },
+  {
+    "word": "COVE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(nautical) The wooden roof of the stern gallery of an old sailing warship"
+  },
+  {
+    "word": "HEAVY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "(nautical, military) Heavily-armed"
+  },
+  {
+    "word": "INLET",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sea",
+    "clue": "A body of water let into a coast, such as a bay, cove, fjord or estuary"
+  },
+  {
+    "word": "INSHORE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "Near the shore"
+  },
+  {
+    "word": "JUNK",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sea",
+    "clue": "(nautical) A Chinese sailing vessel"
+  },
+  {
+    "word": "SEA",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean",
+    "clue": "A single wave; billow"
+  },
+  {
+    "word": "SEAWATERS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean",
+    "clue": "The saltwater of a sea or ocean"
+  },
+  {
+    "word": "SHORELESS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean",
+    "clue": "Without a shore, or with no shore in sight; boundless"
+  },
+  {
+    "word": "OCEANWARD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean",
+    "clue": "Facing or leading toward the ocean"
+  },
+  {
+    "word": "UNDERWATER",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "ocean",
+    "clue": "(nautical) Beneath the water line of a vessel"
+  },
+  {
+    "word": "OCEANFRONT",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "ocean",
+    "clue": "A property that is adjacent to the ocean"
+  },
+  {
+    "word": "SAND",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean",
+    "clue": "(countable, often in the plural) A beach or other mass of sand"
+  },
+  {
+    "word": "COASTS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean",
+    "clue": "The edge of the land where it meets an ocean, sea, gulf, bay, or large lake"
+  },
+  {
+    "word": "SHORES",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean",
+    "clue": "Land adjoining a non-flowing body of water, such as an ocean, lake or pond"
+  },
+  {
+    "word": "SEABEDS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean",
+    "clue": "The floor or bottom of the sea or ocean"
+  },
+  {
+    "word": "OCEANVIEW",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean",
+    "clue": "A view of the ocean"
+  },
+  {
+    "word": "MIDOCEAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean",
+    "clue": "The area in the middle of an ocean, far from shore"
+  },
+  {
+    "word": "AQUAWORLD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean",
+    "clue": "A planet covered by a continuous ocean with no dry land"
+  },
+  {
+    "word": "SCAD",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean",
+    "clue": "Any of several fish, of the family Carangidae, from the western Atlantic"
+  },
+  {
+    "word": "SLEW",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean",
+    "clue": "(transitive, nautical) To rotate or turn something about its axis"
+  },
+  {
+    "word": "TON",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean",
+    "clue": "Fashion, the current style, the vogue"
+  },
+  {
+    "word": "CANAL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean",
+    "clue": "To travel along a canal by boat"
+  },
+  {
+    "word": "DEEPS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean",
+    "clue": "(with \"the\") The sea, the ocean"
+  },
+  {
+    "word": "SURF",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean",
+    "clue": "To ride a wave on a surfboard; to pursue or take part in the sport of surfing"
+  },
+  {
+    "word": "TRANSOCEANIC",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "ocean",
+    "clue": "Crossing an ocean"
+  },
+  {
+    "word": "WAVE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean",
+    "clue": "(intransitive) To move back and forth repeatedly and somewhat loosely"
+  },
+  {
+    "word": "ACORES",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean",
+    "clue": "Islands in the atlantic ocean belonging to portugal"
+  },
+  {
+    "word": "ANADROMOUS",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "ocean",
+    "clue": "(of a migratory fish) That lives in the sea and breeds in fresh water"
+  },
+  {
+    "word": "ASHORE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean",
+    "clue": "(nautical) On, or towards the shore"
+  },
+  {
+    "word": "BACKGROUND",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "ocean",
+    "clue": "Information relevant to the current situation about past events; history"
+  },
+  {
+    "word": "BEACHCOMBER",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "ocean",
+    "clue": "A person who collects marine salvage at the coast"
+  },
+  {
+    "word": "BED",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean",
+    "clue": "A shaped piece of timber to hold a cask clear of a ship’s floor; a pallet"
+  },
+  {
+    "word": "BELOW",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean",
+    "clue": "(nautical) On or to a lower deck, especially as relative to the main deck"
+  },
+  {
+    "word": "BERTH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean",
+    "clue": "(by extension) A place for a vessel to lie at anchor or to moor"
+  },
+  {
+    "word": "BREAKER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean",
+    "clue": "A small cask of liquid kept permanently in a ship’s boat in case of shipwreck"
+  },
+  {
+    "word": "BRIG",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean",
+    "clue": "(nautical) A two-masted vessel, square-rigged on both foremast and mainmast"
+  },
+  {
+    "word": "BRIM",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean",
+    "clue": "(obsolete) The sea; ocean; water; flood"
+  },
+  {
+    "word": "CABIN",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean",
+    "clue": "A private room on a ship"
+  },
+  {
+    "word": "ANGLE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(intransitive) To try to catch fish with a hook and line"
+  },
+  {
+    "word": "ANGLER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "An angler fish, Lophius piscatorius"
+  },
+  {
+    "word": "FISHERY",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "(countable) A place related to fishing, particularly:"
+  },
+  {
+    "word": "ANGLING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "A form of fishing, with a rod, line and angle (hook) for recreation or sport"
+  },
+  {
+    "word": "FISHERFOLK",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "fishing",
+    "clue": "People who fish for a living"
+  },
+  {
+    "word": "FANG",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "(nautical) The coil or bend of a rope; (by extension) a noose; a trap"
+  },
+  {
+    "word": "LOBSTER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "To fish for lobsters"
+  },
+  {
+    "word": "TRAWLER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "A fishing boat that uses a trawl net or dragnet to catch fish"
+  },
+  {
+    "word": "FLEET",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(nautical, intransitive, of people) To move or change in position"
+  },
+  {
+    "word": "CATCH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(obsolete) A type of strong boat, usually having two masts; a ketch"
+  },
+  {
+    "word": "ANGLERS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "An angler fish, Lophius piscatorius"
+  },
+  {
+    "word": "CATCHES",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "(obsolete) A type of strong boat, usually having two masts; a ketch"
+  },
+  {
+    "word": "FISHERMEN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "A fisher, a person engaged in fishing:"
+  },
+  {
+    "word": "FISHERS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "(countable) An English surname originating as an occupation for a fisherman"
+  },
+  {
+    "word": "PECHE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "Pêche is French for \"fishing\" or \"peach\""
+  },
+  {
+    "word": "SHRIMPING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "The practice or business of fishing for shrimp"
+  },
+  {
+    "word": "SEINING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "Fishing with a seine"
+  },
+  {
+    "word": "PISCATION",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "(obsolete) fishing; fishery"
+  },
+  {
+    "word": "GIGGING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "The act of catching or fishing with a gig or fizgig"
+  },
+  {
+    "word": "BOATING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "The activity of going out onto a body of water in a boat"
+  },
+  {
+    "word": "TROUTING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "The activity of fishing for trout"
+  },
+  {
+    "word": "FISHINGS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "(uncountable) The act of catching fish"
+  },
+  {
+    "word": "SPORTFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "Alternative form of sport fish. [fish providing sport for an angler]"
+  },
+  {
+    "word": "CATFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "The meat of such a fish, popular in the Southern U.S. and Central Europe"
+  },
+  {
+    "word": "SALMON",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "A meal or dish made from this fish"
+  },
+  {
+    "word": "SCALING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "The removing of the scales of fish"
+  },
+  {
+    "word": "BOATS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "A conveyance, utensil, or dish somewhat resembling a boat in shape"
+  },
+  {
+    "word": "COD",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "A type of sea fish or the meat from said fish"
+  },
+  {
+    "word": "PISCATORY",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "Of or pertaining to fishermen or fishing"
+  },
+  {
+    "word": "ROD",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "(fishing) A long slender usually tapering pole used for angling; fishing rod"
+  },
+  {
+    "word": "TUNA",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "Any of several species of fish of the genus Thunnus in the family Scombridae"
+  },
+  {
+    "word": "FLEETS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(nautical) A location, as on a navigable river, where barges are secured"
+  },
+  {
+    "word": "TACKLE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(nautical, slang, uncountable) Clothing"
+  },
+  {
+    "word": "BRAIL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(nautical) A small rope used to truss up sails"
+  },
+  {
+    "word": "BUNT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "(intransitive, nautical) To swell out"
+  },
+  {
+    "word": "BYCATCH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "(transitive) To catch unintentionally while fishing for something else"
+  },
+  {
+    "word": "CAST",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "To throw forward (a fishing line, net etc.) into the sea"
+  },
+  {
+    "word": "CREEL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(fishing) An osier basket that anglers use to hold fish"
+  },
+  {
+    "word": "DOCTOR",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "A fish, the friar skate"
+  },
+  {
+    "word": "DRAG",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "To fish with a dragnet"
+  },
+  {
+    "word": "DRIFT",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "The distance through which a current flows in a given time"
+  },
+  {
+    "word": "FISHNET",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "(countable) A net used to catch fish"
+  },
+  {
+    "word": "FLY",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "(fishing) A lightweight fishing lure resembling an insect"
+  },
+  {
+    "word": "GAFF",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "(nautical) The upper spar used to control a gaff-rigged sail"
+  },
+  {
+    "word": "GENTLE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(fishing) A maggot used as bait by anglers"
+  },
+  {
+    "word": "GIG",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "(transitive) To spear (fish, etc.) with a gig or fizgig"
+  },
+  {
+    "word": "GILLNET",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "To fish using a gillnet"
+  },
+  {
+    "word": "GURRY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "Fishing offal"
+  },
+  {
+    "word": "HAUL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "(ambitransitive, nautical) To steer (a vessel) closer to the wind"
+  },
+  {
+    "word": "HOOK",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "A barbed metal hook used for fishing; a fishhook"
+  },
+  {
+    "word": "JIG",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "(fishing) To fish with a jig"
+  },
+  {
+    "word": "LEADER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(fishing) A net for leading fish into a pound, weir, etc"
+  },
+  {
+    "word": "LEISTER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "(transitive) To catch or spear (fish) with a leister"
+  },
+  {
+    "word": "LURE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "(fishing) An artificial bait attached to a fishing line to attract fish"
+  },
+  {
+    "word": "MINNOW",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "Any small fish"
+  },
+  {
+    "word": "NET",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "A device made from such mesh, used for catching fish, butterflies, etc"
+  },
+  {
+    "word": "OYSTER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(intransitive) To fish for oysters"
+  },
+  {
+    "word": "PISCARY",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "(law) The right or privilege of fishing in somebody else's waters"
+  },
+  {
+    "word": "POACH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(ambitransitive) To trespass on another's property to take fish or game"
+  },
+  {
+    "word": "POLE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "(fishing) A type of basic fishing rod"
+  },
+  {
+    "word": "POT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "To catch (a fish, eel, etc) via a pot"
+  },
+  {
+    "word": "ROOM",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "(nautical) A space between the timbers of a ship's frame"
+  },
+  {
+    "word": "RUN",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "(intransitive) Of fish, to migrate for spawning"
+  },
+  {
+    "word": "SEINE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(ambitransitive) To use a seine, to fish with a seine"
+  },
+  {
+    "word": "SEINER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "A fisherman who uses a seine to catch fish"
+  },
+  {
+    "word": "SINKER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(fishing) A weight used in fishing to cause the line or net to sink"
+  },
+  {
+    "word": "SKIPPER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "(nautical) The master of a ship"
+  },
+  {
+    "word": "SONAR",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(nautical, countable) A device that provides such echolocation"
+  },
+  {
+    "word": "SPEAR",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "A lance with barbed prongs, used by fishermen to retrieve fish"
+  },
+  {
+    "word": "SPOON",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(fishing) A type of metal lure resembling the concave head of a tablespoon"
+  },
+  {
+    "word": "SPORT",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(uncountable) Gaming for money as in racing, hunting, or fishing"
+  },
+  {
+    "word": "SPORTSMAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "(dated) A man who engages in country sports, such as hunting or fishing"
+  },
+  {
+    "word": "STICK",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(nautical) A mast or part of a mast of a ship; also, a yard"
+  },
+  {
+    "word": "STOCK",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "The handle of a whip, fishing rod, etc"
+  },
+  {
+    "word": "STREAM",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "Current, the force of moving water"
+  },
+  {
+    "word": "STRIKE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(transitive, fishing) To hook (a fish) by a quick turn of the wrist"
+  },
+  {
+    "word": "SWIM",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "The sound, or air bladder, of a fish"
+  },
+  {
+    "word": "TIPPET",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(fishing) In fly fishing, the part of the leader that attaches to the fly"
+  },
+  {
+    "word": "TRAMMEL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fishing",
+    "clue": "A fishing net that has large mesh at the edges and smaller mesh in the middle"
+  },
+  {
+    "word": "TRAWL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "(ambitransitive) To take (fish or other marine animals) with a trawl"
+  },
+  {
+    "word": "TROLL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fishing",
+    "clue": "Senses relating to fishing"
+  },
+  {
+    "word": "BUTT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fishing",
+    "clue": "(dialect or nautical, possibly dated) The direction from which the wind blows"
+  },
+  {
+    "word": "SAUCEBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "Synonym of gravy boat"
+  },
+  {
+    "word": "DINGHY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A sailing dinghy"
+  },
+  {
+    "word": "SKIFF",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "A small flat-bottomed open boat with a pointed bow and square stern"
+  },
+  {
+    "word": "SLOOP",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A single-masted sailboat with only one headsail"
+  },
+  {
+    "word": "GALLEY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical) One of the small boats carried by a man-of-war"
+  },
+  {
+    "word": "SCOW",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "A large flat-bottomed boat, having broad, square ends"
+  },
+  {
+    "word": "SAILBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A boat propelled by a sail"
+  },
+  {
+    "word": "SPEEDBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A fast boat, usually small (for 1-8 people)"
+  },
+  {
+    "word": "ROWBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(US) A small open boat propelled by oars (by rowing)"
+  },
+  {
+    "word": "BOATMAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A sailor on a small vessel (boat), particularly its captain"
+  },
+  {
+    "word": "SHIPBUILDING",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "boat",
+    "clue": "(uncountable, nautical) The construction of ships"
+  },
+  {
+    "word": "PADDLE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "The use of a paddle to propel a boat; a session of paddling"
+  },
+  {
+    "word": "BERTHING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(obsolete, nautical) The planking outside of a vessel, above the sheer strake"
+  },
+  {
+    "word": "GUNBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(nautical) Any of the various types of small armed vessels"
+  },
+  {
+    "word": "ROWING",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "The action of propelling a boat with oars"
+  },
+  {
+    "word": "BERTHAGE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A place for mooring vessels in a dock or harbor"
+  },
+  {
+    "word": "WARSHIP",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "Any ship built or armed for naval combat"
+  },
+  {
+    "word": "MOORING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "The act of securing a vessel with a cable or anchor etc"
+  },
+  {
+    "word": "TANKER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A tankship, a vessel used to transport large quantities of fluid"
+  },
+  {
+    "word": "BATTLESHIP",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "boat",
+    "clue": "(military, nautical, archaic) A ship of the line"
+  },
+  {
+    "word": "SHIPWRECK",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(countable, uncountable) An event where a ship sinks or runs aground"
+  },
+  {
+    "word": "CRUISING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "Sailing about without an exact destination, especially for pleasure"
+  },
+  {
+    "word": "SUB",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "Abbreviation of submarine. [(nautical) A boat that can go underwater.]"
+  },
+  {
+    "word": "FREIGHTER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A ship used mainly to carry freight"
+  },
+  {
+    "word": "CAR",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "(sailing) A sliding fitting that runs along a track"
+  },
+  {
+    "word": "BOARD",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical) The side of a ship"
+  },
+  {
+    "word": "ARK",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "A spacious type of boat with a flat bottom"
+  },
+  {
+    "word": "LAUNCH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "The act or fact of launching (a ship/vessel, a project, a new book, etc.)"
+  },
+  {
+    "word": "CUTTER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A ship's boat, used for transport ship-to-ship or ship-to-shore"
+  },
+  {
+    "word": "STEAMER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A vessel propelled by steam; a steamboat or steamship"
+  },
+  {
+    "word": "TUB",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "(nautical, informal) A slow-moving craft"
+  },
+  {
+    "word": "CREW",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "(nautical, plural: crew) A member of a ship's company who is not an officer"
+  },
+  {
+    "word": "STAR",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "(Malaysia, law enforcement, nautical) Acronym of Special Task and Rescue"
+  },
+  {
+    "word": "HULL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "The body or frame of a vessel, such as a ship or plane"
+  },
+  {
+    "word": "TENDER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A naval ship that functions as a mobile base for other ships"
+  },
+  {
+    "word": "BARK",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "(poetic) A sailing vessel or boat of any kind"
+  },
+  {
+    "word": "BATEAUX",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A small, flat-bottomed type of boat"
+  },
+  {
+    "word": "SAMPAN",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(chiefly historical) A Chinese flat-bottomed wooden boat propelled by two oars"
+  },
+  {
+    "word": "PUNT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A pontoon; a narrow shallow boat propelled by a pole"
+  },
+  {
+    "word": "CATAMARAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A twin-hulled ship or boat"
+  },
+  {
+    "word": "DOCK",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "A burdock plant, or the leaves of that plant"
+  },
+  {
+    "word": "SAILBOATS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A boat propelled by a sail"
+  },
+  {
+    "word": "TOWBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A tugboat"
+  },
+  {
+    "word": "BOATER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical) Someone who travels by boat"
+  },
+  {
+    "word": "WHALEBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A boat resembling this and carried on a warship or other ship"
+  },
+  {
+    "word": "ROWBOATS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(US) A small open boat propelled by oars (by rowing)"
+  },
+  {
+    "word": "CRUISER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A miniature aircraft carrier carrying VTOL aircraft"
+  },
+  {
+    "word": "CAPSIZING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "An overturning of a boat etc"
+  },
+  {
+    "word": "SAILS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical, slang) The sailmaker on board ship"
+  },
+  {
+    "word": "SKIFFS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "A small flat-bottomed open boat with a pointed bow and square stern"
+  },
+  {
+    "word": "DINGHIES",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A sailing dinghy"
+  },
+  {
+    "word": "INBOARDS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(nautical) An engine located within the hull of a ship"
+  },
+  {
+    "word": "FISHING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(uncountable) The act of catching fish"
+  },
+  {
+    "word": "DOCKSIDE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "The area near a dock, or next to a docked ship"
+  },
+  {
+    "word": "MAILBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A boat used to transport mail"
+  },
+  {
+    "word": "PARAVANE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A towed underwater object with hydrofoils, of diverse uses"
+  },
+  {
+    "word": "PIROGUE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A small flat-bottom boat of shallow draft"
+  },
+  {
+    "word": "BOATCRAFT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "The art or skill of handling a boat on the water"
+  },
+  {
+    "word": "FISHBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A fishing boat"
+  },
+  {
+    "word": "SAILCRAFT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A boat with one or more sails"
+  },
+  {
+    "word": "POLEBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(US) A barge; a kind of boat propelled by the use of a pole"
+  },
+  {
+    "word": "BOATIE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "A boater (someone who travels by boat)"
+  },
+  {
+    "word": "STEAMBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A boat or vessel propelled by steam power"
+  },
+  {
+    "word": "HORSEBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A boat for transporting horses and cattle"
+  },
+  {
+    "word": "BOATBUILDING",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "boat",
+    "clue": "The construction of a boat or boats"
+  },
+  {
+    "word": "WATERBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A boat carrying water in bulk to supply ships"
+  },
+  {
+    "word": "BATEAU",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "A small, flat-bottomed type of boat"
+  },
+  {
+    "word": "WORKBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A boat used for purposes other than recreation, passenger transport, or combat"
+  },
+  {
+    "word": "BOATHORSE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A horse that tows a boat or barge"
+  },
+  {
+    "word": "AIRBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A flat-bottomed boat driven by an in-air propeller and used in shallow water"
+  },
+  {
+    "word": "FOOTBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A dinghy or similar small boat attached to a barge"
+  },
+  {
+    "word": "SCULL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "A small rowing boat, for one person"
+  },
+  {
+    "word": "MUDBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A boat for carrying away the mud dredged from a river, etc"
+  },
+  {
+    "word": "BOATLET",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A little boat"
+  },
+  {
+    "word": "BOATEL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A ship, normally moored alongside a quay, used as a hotel"
+  },
+  {
+    "word": "BARQUE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(poetic) A sailing vessel or boat of any kind"
+  },
+  {
+    "word": "BOATMATE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "Someone with whom one shares a boat, or with whom one works on a boat"
+  },
+  {
+    "word": "SWORDBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A swordfishing boat"
+  },
+  {
+    "word": "TRAWLBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A trawler (fishing boat)"
+  },
+  {
+    "word": "MACKINAW",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(countable) Synonym of mackinaw boat"
+  },
+  {
+    "word": "PACKET",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(intransitive) To ply with a packet or dispatch boat"
+  },
+  {
+    "word": "SHALLOP",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(archaic) A kind of light boat; a dinghy"
+  },
+  {
+    "word": "TUG",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A tugboat"
+  },
+  {
+    "word": "ABOARD",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "On board; into or within a ship or boat; hence, into or within a railway car"
+  },
+  {
+    "word": "BALANCE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(nautical) To contract, as a sail, into a narrower compass"
+  },
+  {
+    "word": "CAREEN",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical, intransitive) To tilt on one side"
+  },
+  {
+    "word": "CAT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "(nautical, transitive) To flog with a cat-o'-nine-tails"
+  },
+  {
+    "word": "DUGOUT",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A canoe made from a hollowed-out log"
+  },
+  {
+    "word": "LONGTAIL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A longtail boat"
+  },
+  {
+    "word": "TORPEDO",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(transitive) To strike (a ship) with one or more torpedoes"
+  },
+  {
+    "word": "YAWL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "A small ship's boat, usually rowed by four or six oars"
+  },
+  {
+    "word": "AFT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "(nautical) The rear part (after end) of a ship or other vessel"
+  },
+  {
+    "word": "ANCHOR",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(television) An anchorman or anchorwoman"
+  },
+  {
+    "word": "BOATABLE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "Capable of being transported by boat"
+  },
+  {
+    "word": "CANVAS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical) Sails in general"
+  },
+  {
+    "word": "CARRY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(transitive, nautical) To capture a ship by coming alongside and boarding"
+  },
+  {
+    "word": "CHINE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A sharp angle in the cross section of a hull"
+  },
+  {
+    "word": "COMMODORE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(US, military, nautical) A rear admiral (lower half)"
+  },
+  {
+    "word": "DOLPHIN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(heraldry) A depiction of a fish, with a broad indented fin, usually embowed"
+  },
+  {
+    "word": "FIN",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "A similar appendage of a cetacean or other marine animal"
+  },
+  {
+    "word": "FOUL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "(transitive, nautical) To entangle"
+  },
+  {
+    "word": "FOULED",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "Especially of a ship's lines etc"
+  },
+  {
+    "word": "GRAPNEL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(nautical) A grappling iron"
+  },
+  {
+    "word": "LANDING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A place on a shoreline where a boat lands"
+  },
+  {
+    "word": "NAVICULAR",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "Shaped like a boat"
+  },
+  {
+    "word": "ONSHORE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "Positioned on or near the shore"
+  },
+  {
+    "word": "OUTRIGGER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(rowing) An outrigger canoe or boat"
+  },
+  {
+    "word": "PLANE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "boat",
+    "clue": "(nautical, of a boat) To move in a way that lifts the bow out of the water"
+  },
+  {
+    "word": "PORTAGE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(nautical, transitive) To carry a boat overland"
+  },
+  {
+    "word": "REGATTA",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(countable) A series of boat races, or sometimes a single race"
+  },
+  {
+    "word": "ROW",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "boat",
+    "clue": "(transitive) To transport in a boat propelled with oars"
+  },
+  {
+    "word": "SHARPIE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "(US, regional) A knowledgeable fisherman"
+  },
+  {
+    "word": "STEAMSHIP",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "boat",
+    "clue": "A ship or vessel propelled by steam power"
+  },
+  {
+    "word": "SEACOAST",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "The coastal land bordering a sea or ocean"
+  },
+  {
+    "word": "STRAND",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "coast",
+    "clue": "The shore or beach of the sea or ocean"
+  },
+  {
+    "word": "LITTORAL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "The zone of a coast between high tide and low tide levels"
+  },
+  {
+    "word": "SHOULDER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "(surfing) The part of a wave that has not yet broken"
+  },
+  {
+    "word": "BACK",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "coast",
+    "clue": "(nautical) The keel and keelson of a ship"
+  },
+  {
+    "word": "BEACHFRONT",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "coast",
+    "clue": "Of property (real estate): located on a beach"
+  },
+  {
+    "word": "FORESHORE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "The part of a shore between high water and low water"
+  },
+  {
+    "word": "BAYSIDE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "The side or shore of a bay"
+  },
+  {
+    "word": "BEACHSIDE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "The land bordering a beach"
+  },
+  {
+    "word": "HINTERLAND",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "coast",
+    "clue": "The land immediately next to, and inland from, a coast"
+  },
+  {
+    "word": "COASTALLY",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "Towards or along a coast"
+  },
+  {
+    "word": "SEAFRONT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "The seashore, the coast"
+  },
+  {
+    "word": "SHORELAND",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "The land at the shore of a lake, sea, etc"
+  },
+  {
+    "word": "TIDELAND",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "The area at the shore that is exposed to the effects of the tide"
+  },
+  {
+    "word": "BEACHLINE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "The line between a beach and the water; the shoreline"
+  },
+  {
+    "word": "REACH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "coast",
+    "clue": "(nautical) The distance traversed between tacks"
+  },
+  {
+    "word": "TONGUE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "coast",
+    "clue": "A small sole (type of fish)"
+  },
+  {
+    "word": "LAKESHORE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "(sometimes attributive) The shore of a lake"
+  },
+  {
+    "word": "FOREBEACH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "The area of beach nearest the water's edge; the foreshore or intertidal zone"
+  },
+  {
+    "word": "SOUND",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "coast",
+    "clue": "The air bladder of a fish"
+  },
+  {
+    "word": "BACKSHORE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "(geology) An upper shore zone above high-tide"
+  },
+  {
+    "word": "BOTTOM",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "coast",
+    "clue": "(nautical) A cargo vessel, a ship"
+  },
+  {
+    "word": "SWEEP",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "coast",
+    "clue": "The person who steers a dragon boat"
+  },
+  {
+    "word": "BACKBEACH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "The area of beach furthest from the water's edge; the backshore"
+  },
+  {
+    "word": "COASTER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "Something that coasts or is used to coast"
+  },
+  {
+    "word": "CORBINA",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "A marine fish, Menticirrhus undulatus"
+  },
+  {
+    "word": "CRAWL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "coast",
+    "clue": "A pen or enclosure of stakes and hurdles for holding fish"
+  },
+  {
+    "word": "CUNNER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "coast",
+    "clue": "A marine European fish (Symphodus melops)"
+  },
+  {
+    "word": "GRAB",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "coast",
+    "clue": "A two- or three-masted vessel used on the Malabar coast"
+  },
+  {
+    "word": "INTERIOR",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "Remote from the limits, frontier, or shore; inland"
+  },
+  {
+    "word": "LITORAL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "Alternative spelling of littoral. [A shore.]"
+  },
+  {
+    "word": "NERITIC",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "Of or relating to a marine environment of shallow waters"
+  },
+  {
+    "word": "ORARIAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "(archaic) An inhabitant of a coast"
+  },
+  {
+    "word": "PILCHARD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "Any of various small oily fish related to herrings, family Clupeidae"
+  },
+  {
+    "word": "QUEENFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "(Australia) Any fish in the genus Scomberoides"
+  },
+  {
+    "word": "ROLLER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "coast",
+    "clue": "A large, wide, curling wave that falls back on itself as it breaks on a coast"
+  },
+  {
+    "word": "SARDINE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "To fish for sardines"
+  },
+  {
+    "word": "SHEEPSHEAD",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "coast",
+    "clue": "(countable) A fish of the species Archosargus probatocephalus"
+  },
+  {
+    "word": "SNAPPER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "Any of approximately 100 different species of fish"
+  },
+  {
+    "word": "SURFFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "Small to medium-sized shallow-water fishes of the pacific coast of north america"
+  },
+  {
+    "word": "WHITING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "coast",
+    "clue": "Any fish of many species that resemble Merlangius merlangus:"
+  },
+  {
+    "word": "YELLOWTAIL",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "coast",
+    "clue": "Any of various fish with yellow tails, including:"
+  },
+  {
+    "word": "ACCOST",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "coast",
+    "clue": "(by extension, transitive, obsolete) To sail along the coast or side of"
+  },
+  {
+    "word": "FINFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish, but especially fish other than flatfish"
+  },
+  {
+    "word": "CODFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(countable) A cod (the fish)"
+  },
+  {
+    "word": "SHARK",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(informal) A very good poker or pool player. Compare fish (a bad poker player)"
+  },
+  {
+    "word": "MACKEREL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A true mackerel, any fish of tribe Scombrini (Scomber spp., Rastrelliger spp.)"
+  },
+  {
+    "word": "SWORDFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A large marine fish with a long, pointed bill, Xiphias gladius"
+  },
+  {
+    "word": "EEL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "A swamp eel (any fish in the family Synbranchidae)"
+  },
+  {
+    "word": "GOLDFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A type of small fish, Carassius auratus, typically orange-colored"
+  },
+  {
+    "word": "SOCKEYE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Edible flesh of this fish"
+  },
+  {
+    "word": "REDFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of several species fish with red skin or flesh:"
+  },
+  {
+    "word": "STURGEON",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(US, military, nautical) Synonym of 637: A submarine of the Sturgeon-class"
+  },
+  {
+    "word": "FISHY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Of, from, or similar to fish"
+  },
+  {
+    "word": "GROUNDFISH",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "fish",
+    "clue": "(fishing) Fish that swim near the seafloor"
+  },
+  {
+    "word": "FISHMEAL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Ground dried fish, used mainly for livestock feed"
+  },
+  {
+    "word": "SCREW",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(nautical) A ship's propeller"
+  },
+  {
+    "word": "LIVE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "(intransitive) To outlast danger; (of a ship or boat) to float"
+  },
+  {
+    "word": "SOLE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "(nautical) The floor inside the cabin of a yacht or boat"
+  },
+  {
+    "word": "SPRATS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Any of various similar fish of other genera"
+  },
+  {
+    "word": "HARPOON",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A spearlike weapon with a barbed head used in hunting whales and large fish"
+  },
+  {
+    "word": "LONGLINE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "To fish with a line of this kind"
+  },
+  {
+    "word": "BAIT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "(transitive) To affix bait to a trap or a fishing hook or fishing line"
+  },
+  {
+    "word": "ROCKFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Acanthoclinus, a genus of fish from New Zealand"
+  },
+  {
+    "word": "BULLHEADS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(New Zealand) A fish of species Gobiomorphus gobioides"
+  },
+  {
+    "word": "BREAMS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "A marine sparoid fish of the genus Pagellus, and allied genera"
+  },
+  {
+    "word": "CRAB",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "A form of windlass, or geared capstan, for hauling ships into dock, etc"
+  },
+  {
+    "word": "SALMONID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A fish of the Salmonidae family"
+  },
+  {
+    "word": "MILKFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Chanos chanos, an important food fish in southeast Asia"
+  },
+  {
+    "word": "SEAFOODS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Fish, shellfish, seaweed, and other edible aquatic life"
+  },
+  {
+    "word": "WHITEBAIT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "The young of various species of fish, especially herrings, sprats or smelts"
+  },
+  {
+    "word": "CYPRINIDS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish of this family"
+  },
+  {
+    "word": "SALMONIDS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A fish of the Salmonidae family"
+  },
+  {
+    "word": "WHITINGS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish of many species that resemble Merlangius merlangus:"
+  },
+  {
+    "word": "WOLFFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish of the family Anarhichadidae"
+  },
+  {
+    "word": "SOCKEYES",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Edible flesh of this fish"
+  },
+  {
+    "word": "MACKERELS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A true mackerel, any fish of tribe Scombrini (Scomber spp., Rastrelliger spp.)"
+  },
+  {
+    "word": "CYPRINID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish of this family"
+  },
+  {
+    "word": "MINNOWS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any small fish"
+  },
+  {
+    "word": "JACKFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A jack (in any of the senses referring to types of fish)"
+  },
+  {
+    "word": "GUPPIES",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(by extension) Any tiny fish"
+  },
+  {
+    "word": "ICHTHYOID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish, or other vertebrate having the form of a fish"
+  },
+  {
+    "word": "FISHLIFE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "The fish (e.g. of an area) collectively"
+  },
+  {
+    "word": "GILL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "(zootomy) A breathing organ of fish and other aquatic animals"
+  },
+  {
+    "word": "POOLFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish that inhabits a pool or pond"
+  },
+  {
+    "word": "RATFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A fish of any of the species in family Chimaeridae"
+  },
+  {
+    "word": "HORSEFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of several species of fish in the family Congiopodidae"
+  },
+  {
+    "word": "SCALEFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish bearing scales"
+  },
+  {
+    "word": "FILEFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish of the family Monacanthidae, with very slender bodies"
+  },
+  {
+    "word": "KILLIFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of a number of tiny fish in the Cyprinodontiformes order of ray-finned fish"
+  },
+  {
+    "word": "CAVEFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish in the family Amblyopsidae"
+  },
+  {
+    "word": "FROGFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(archaic) Any fish of genus Lophius"
+  },
+  {
+    "word": "SEALIFE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Organisms (especially fish) that live in the sea"
+  },
+  {
+    "word": "OSSEAN",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(obsolete) A fish with a bony skeleton"
+  },
+  {
+    "word": "BIGHEAD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(countable, colloquial) Any of several species of fish having a large head"
+  },
+  {
+    "word": "CHUB",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "(by extension) Any of various vaguely related marine or freshwater fishes"
+  },
+  {
+    "word": "WHALEFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish of the order Cetomimiformes of deepwater ray-finned fish"
+  },
+  {
+    "word": "SNAKEFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of the several fish that resemble a snake"
+  },
+  {
+    "word": "BILLFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Other fish with elongated jaws:"
+  },
+  {
+    "word": "FIREFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of various fish of the genera Pterois and Parapterois"
+  },
+  {
+    "word": "SWELLFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any plectognath fish that dilates itself, such as the pufferfish"
+  },
+  {
+    "word": "KNIFEFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of numerous fish with knife-shaped bodies, from several different families"
+  },
+  {
+    "word": "CITHARID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish in the family Citharidae"
+  },
+  {
+    "word": "TRIGLID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish in the family Triglidae"
+  },
+  {
+    "word": "LABROID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(ichthyology) Any fish of this kind"
+  },
+  {
+    "word": "GOBY",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "A gudgeon, a fish of the subfamily Gobioninae, such as Gobio gobio"
+  },
+  {
+    "word": "PISCICIDE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(countable) Any substance that is poisonous to fish"
+  },
+  {
+    "word": "PISCIVORY",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) The eating of fish"
+  },
+  {
+    "word": "CHIMAERID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish in the family Chimaeridae of cartilaginous fish"
+  },
+  {
+    "word": "CRESTFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of the fish in the lampriform family Lophotidae"
+  },
+  {
+    "word": "ICHTHYOLOGY",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "fish",
+    "clue": "A branch of zoology that studies fish"
+  },
+  {
+    "word": "LATRID",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish in the family Latridae"
+  },
+  {
+    "word": "TELEOST",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A fish of the taxonomic infraclass Teleostei"
+  },
+  {
+    "word": "ALEWIFE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A migrating North American fish, Alosa pseudoharengus"
+  },
+  {
+    "word": "CICHLID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of many tropical fish, of the family Cichlidae, popular as aquarium fish"
+  },
+  {
+    "word": "CLINID",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(ichthyology) Any fish in the family Clinidae"
+  },
+  {
+    "word": "CLUPEID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of many soft-finned fish of the family Clupeidae"
+  },
+  {
+    "word": "DISCUS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(plural: discus) A discus fish (genus Symphysodon)"
+  },
+  {
+    "word": "FRY",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "Young fish; fishlings"
+  },
+  {
+    "word": "GADOID",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Any fish of the family Gadidae"
+  },
+  {
+    "word": "GOBIOID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish of this kind"
+  },
+  {
+    "word": "GRUNT",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Any fish of the perciform family Haemulidae"
+  },
+  {
+    "word": "HERRING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A type of small, oily fish of the genus Clupea, often used as food"
+  },
+  {
+    "word": "LING",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "Any of various marine food fish, of the genus Molva, resembling the cod"
+  },
+  {
+    "word": "LOACH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "A bottom-feeding freshwater fish in the superfamily or suborder Cobitoidea"
+  },
+  {
+    "word": "PERCH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Any of the three species of spiny-finned freshwater fish in the genus Perca"
+  },
+  {
+    "word": "PERCOID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any fish in the superfamily Percoidea"
+  },
+  {
+    "word": "PLAICE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Several similar marine flatfish of the righteye flounder family Pleuronectidae:"
+  },
+  {
+    "word": "RAY",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "(zoology) A rib-like reinforcement of bone or cartilage in a fish's fin"
+  },
+  {
+    "word": "ROE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fish",
+    "clue": "Eggs of fish"
+  },
+  {
+    "word": "SCIAENID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish belonging to the family Sciaenidae"
+  },
+  {
+    "word": "SCOMBROID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(uncountable) A form of food poisoning caused by spoiled fish"
+  },
+  {
+    "word": "SERRANID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish of the family Serranidae"
+  },
+  {
+    "word": "SHINER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Any silvery fish, such as the horsefish, menhaden, or moonfish"
+  },
+  {
+    "word": "SPRAT",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Any of various similar fish of other genera"
+  },
+  {
+    "word": "BUFFALO",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "The buffalo fish (Ictiobus spp.)"
+  },
+  {
+    "word": "CARANGID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish belonging to the family Carangidae, the jackfish"
+  },
+  {
+    "word": "DRAIL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(fishing) A hook with a lead shank"
+  },
+  {
+    "word": "FARMING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Raising livestock or fish"
+  },
+  {
+    "word": "GUPPY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(by extension) Any tiny fish"
+  },
+  {
+    "word": "KIPPER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(fishing, especially of salmon) Out of season"
+  },
+  {
+    "word": "LOOKDOWN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "An oddly-shaped Atlantic marine fish, Selene vomer"
+  },
+  {
+    "word": "MARKET",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "A group of potential or current customers for one's product"
+  },
+  {
+    "word": "PILOT",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "A person who steers a ship, a helmsman"
+  },
+  {
+    "word": "POECILIID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology) Any fish in the family Poeciliidae"
+  },
+  {
+    "word": "RATTAIL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A fish, a California chimera (Hydrolagus colliei, syn. Chimaera colliei)"
+  },
+  {
+    "word": "SCREWS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "(nautical) A ship's propeller"
+  },
+  {
+    "word": "ABDOMINAL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(zoology, obsolete) Belonging to the order Abdominales of fish"
+  },
+  {
+    "word": "ANABAS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "A fish of the genus Anabas, a kind of climbing gourami"
+  },
+  {
+    "word": "ANABLEPS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Synonym of four-eyed fish"
+  },
+  {
+    "word": "ANGELFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any marine fish of the family Pomacanthidae, common on shallow tropical reefs"
+  },
+  {
+    "word": "ARGULUS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "A genus of fish lice in the family Argulidae"
+  },
+  {
+    "word": "BARBEL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "A freshwater fish of the genus Barbus or other closely related genera"
+  },
+  {
+    "word": "BERRY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "One of the ova or eggs of a fish or crustacean"
+  },
+  {
+    "word": "BIGEYE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "Any fish in the taxonomic family Priacanthidae, which have large eyes"
+  },
+  {
+    "word": "BLENNY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fish",
+    "clue": "A number of fish of similar appearance not closely related"
+  },
+  {
+    "word": "BOARFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "Any of a number of fish that have a projecting snout, in either of two families:"
+  },
+  {
+    "word": "BULLHEAD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fish",
+    "clue": "(New Zealand) A fish of species Gobiomorphus gobioides"
+  },
+  {
+    "word": "FRIGATE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(nautical) Any of several types of warship:"
+  },
+  {
+    "word": "TONNAGE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "The number of tons of water that a floating ship displaces"
+  },
+  {
+    "word": "SHIPMENT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "A load of goods that is transported by any method (not just by ship)"
+  },
+  {
+    "word": "MAIL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ship",
+    "clue": "(dated) A stagecoach, train or ship that delivers such post"
+  },
+  {
+    "word": "SHIPMENTS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "A load of goods that is transported by any method (not just by ship)"
+  },
+  {
+    "word": "GALLEON",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "A large, three-masted, square rigged sailing ship with at least two decks"
+  },
+  {
+    "word": "SUPERCARGO",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "ship",
+    "clue": "(nautical) Synonym of supracargo"
+  },
+  {
+    "word": "CARGO",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "Freight carried by a ship, aircraft, or motor vehicle"
+  },
+  {
+    "word": "VOYAGE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "A long journey, especially by ship"
+  },
+  {
+    "word": "WARSHIPS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "Any ship built or armed for naval combat"
+  },
+  {
+    "word": "TRANSHIP",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(transitive) To transfer goods from one ship or other conveyance to another"
+  },
+  {
+    "word": "GALLIOT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(nautical) A light galley"
+  },
+  {
+    "word": "MERCHANTMAN",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "ship",
+    "clue": "Synonym of merchant ship"
+  },
+  {
+    "word": "CREWMAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "A member of a crew, especially the crew of a ship"
+  },
+  {
+    "word": "GANGPLANK",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(nautical) A board used as a temporary footbridge between a ship and a dockside"
+  },
+  {
+    "word": "STORESHIP",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(nautical, military) A vessel used to carry naval stores"
+  },
+  {
+    "word": "SHIPLOAD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(nautical) The amount (of cargo) that a ship can carry"
+  },
+  {
+    "word": "SHIPOWNER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(nautical) Someone who owns a ship"
+  },
+  {
+    "word": "SAILSHIP",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "Sailing ship"
+  },
+  {
+    "word": "SHIPLING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(diminutive) A small or miniature ship; a boat"
+  },
+  {
+    "word": "SEACRAFT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "A ship or other vehicle capable of travelling on the ocean"
+  },
+  {
+    "word": "DRILLSHIP",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(nautical) Any vessel fitted with drilling equipment"
+  },
+  {
+    "word": "SHEET",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "(nautical) A line (rope) used to adjust the trim of a sail"
+  },
+  {
+    "word": "WOODSHIP",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "A wooden ship"
+  },
+  {
+    "word": "SUPERSHIP",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(informal) An especially large ship"
+  },
+  {
+    "word": "SLAVER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "(nautical) A ship used to transport slaves"
+  },
+  {
+    "word": "TROOPSHIP",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "A ship used to transport military troops"
+  },
+  {
+    "word": "SHIPLET",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "A little ship"
+  },
+  {
+    "word": "SHIPMATE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(nautical) A fellow sailor serving on the same ship as another"
+  },
+  {
+    "word": "WHALESHIP",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "A ship used for hunting whales"
+  },
+  {
+    "word": "BUNKER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "(nautical) (transitive) To load (a vessel) with coal or fuel oil for the engine"
+  },
+  {
+    "word": "COMPANY",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(nautical) The entire crew of a ship"
+  },
+  {
+    "word": "OWNERS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "(nautical, slang) The captain of a ship"
+  },
+  {
+    "word": "PIRATE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "An armed ship or vessel that sails for the purpose of plundering other vessels"
+  },
+  {
+    "word": "KEEL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ship",
+    "clue": "(nautical) A large beam along the underside of a ship’s hull from bow to stern"
+  },
+  {
+    "word": "OILER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "(nautical) An oil tanker"
+  },
+  {
+    "word": "STATE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "A current governing polity, country, city-state, or community"
+  },
+  {
+    "word": "ANCHORAGE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "The act of anchoring, or the condition of lying at anchor"
+  },
+  {
+    "word": "ARGOSY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "A merchant ship"
+  },
+  {
+    "word": "ARMOR",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "(uncountable) A metal plate, protecting a ship, military vehicle, or aircraft"
+  },
+  {
+    "word": "BILGE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "(nautical) The lowest inner part of a ship's hull, where water accumulates"
+  },
+  {
+    "word": "BUNKERING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(nautical) The taking on board of bunker fuel"
+  },
+  {
+    "word": "CABLE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "(nautical) A strong rope or chain used to moor or anchor a ship"
+  },
+  {
+    "word": "CABOOSE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(obsolete, nautical) A small galley or cookhouse on the deck of a small vessel"
+  },
+  {
+    "word": "CHECK",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "(nautical) To slack or ease off, as a brace which is too stiffly extended"
+  },
+  {
+    "word": "COMMISSION",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "ship",
+    "clue": "(transitive) To put (a ship or boat, etc.) into active service"
+  },
+  {
+    "word": "COURSE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "(nautical) The direction of movement of a vessel at any given moment"
+  },
+  {
+    "word": "CRIMP",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "To gash the flesh, e.g. of a raw fish, to make it crisper when cooked"
+  },
+  {
+    "word": "DECK",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ship",
+    "clue": "(British, fishing) The bottom of a water body"
+  },
+  {
+    "word": "DOCKAGE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(nautical) A charge levied for docking"
+  },
+  {
+    "word": "FLAG",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ship",
+    "clue": "(nautical, often used attributively) A signal flag"
+  },
+  {
+    "word": "FLAT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ship",
+    "clue": "A flat-bottomed boat, without keel, and of small draught"
+  },
+  {
+    "word": "FORWARD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(nautical) The front part of a vessel"
+  },
+  {
+    "word": "GAM",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ship",
+    "clue": "(nautical, ambitransitive) To pay a social visit on another ship at sea"
+  },
+  {
+    "word": "HARBORAGE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "(US, nautical) A place for refuge for a vessel"
+  },
+  {
+    "word": "HEAD",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ship",
+    "clue": "(nautical) A leading component"
+  },
+  {
+    "word": "HEEL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ship",
+    "clue": "(chiefly nautical) To incline to one side; to tilt"
+  },
+  {
+    "word": "HULK",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ship",
+    "clue": "(transitive, nautical) To reduce (a ship) to a non-functional hulk"
+  },
+  {
+    "word": "ICEBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ship",
+    "clue": "An icebreaker; a ship that breaks through ice"
+  },
+  {
+    "word": "JIGGER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "(nautical) A jiggermast"
+  },
+  {
+    "word": "LADE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ship",
+    "clue": "(nautical) To admit water by leakage"
+  },
+  {
+    "word": "NAVIGATE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "(intransitive) To travel over water in a ship; to sail"
+  },
+  {
+    "word": "CHUTE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sailing",
+    "clue": "(nautical, slang, by extension) A spinnaker"
+  },
+  {
+    "word": "FLYING",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sailing",
+    "clue": "(nautical, of a vessel) Capable of foiling"
+  },
+  {
+    "word": "TRIP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) A single tack while beating (sailing to windward)"
+  },
+  {
+    "word": "BROWSE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sailing",
+    "clue": "(Cornwall, fishing, uncountable) Bruised fish used as bait"
+  },
+  {
+    "word": "PASSAGE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) A strait or other narrow waterway"
+  },
+  {
+    "word": "KITE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sailing",
+    "clue": "(sailing, slang) A spinnaker (“supplementary sail to a mainsail”)"
+  },
+  {
+    "word": "NAVIGATING",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "sailing",
+    "clue": "(intransitive) To travel over water in a ship; to sail"
+  },
+  {
+    "word": "ATRIP",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sailing",
+    "clue": "(nautical, of an anchor) Just clear of the ground"
+  },
+  {
+    "word": "BYRUNNING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "Going by; passing; current"
+  },
+  {
+    "word": "ABOUT",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) To the opposite tack: see go about"
+  },
+  {
+    "word": "RUNNING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "Present, current"
+  },
+  {
+    "word": "STEAMERS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) A vessel propelled by steam; a steamboat or steamship"
+  },
+  {
+    "word": "RIGGED",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sailing",
+    "clue": "(nautical, typically not comparable) Having the rigging up"
+  },
+  {
+    "word": "AUXILIARY",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) Of a ship, having both sails and an engine"
+  },
+  {
+    "word": "COASTING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "The act of sailing along a coast, or from port to port"
+  },
+  {
+    "word": "DANDY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sailing",
+    "clue": "(British, nautical) A yawl, or a small after-sail on a yawl"
+  },
+  {
+    "word": "GAFFSAIL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) A topsail above the uppermost or only spanker"
+  },
+  {
+    "word": "GALE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) To sail, or sail fast"
+  },
+  {
+    "word": "GYBE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) The act of gybing"
+  },
+  {
+    "word": "HEADSAIL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) Any sail (of a sailing vessel) set forward of the foremost mast"
+  },
+  {
+    "word": "LUFF",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) The act of sailing a ship close to the wind"
+  },
+  {
+    "word": "LUG",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) A lugsail"
+  },
+  {
+    "word": "MAINSAIL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) The largest (or only) sail on a sailing vessel"
+  },
+  {
+    "word": "MARTINGALE",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) A spar, or piece of rigging that strengthens the bowsprit"
+  },
+  {
+    "word": "MAST",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sailing",
+    "clue": "To supply and fit a mast to (a ship)"
+  },
+  {
+    "word": "PINCH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) To sail so close-hauled that the sails begin to flutter"
+  },
+  {
+    "word": "POINT",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) The difference between two points of the compass"
+  },
+  {
+    "word": "REEFER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) Someone who reefs sails, especially a midshipman"
+  },
+  {
+    "word": "RIG",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) The rigging of a sailing ship or other such craft"
+  },
+  {
+    "word": "SCOOTER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "(nautical, underwater diving, military) Synonym of diver propulsion vehicle"
+  },
+  {
+    "word": "SHIVER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) A sheave or small wheel in a pulley"
+  },
+  {
+    "word": "SQUARE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) To place at a right angle to the mast or keel"
+  },
+  {
+    "word": "TACK",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) A course or heading that enables a sailing vessel to head upwind"
+  },
+  {
+    "word": "TOPMAST",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "The mast below the topgallant mast in a square-rigged ship"
+  },
+  {
+    "word": "TRIM",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) The arrangement of the sails with reference to the wind"
+  },
+  {
+    "word": "BECALMED",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "(nautical, of a sailing ship) Unable to move due to lack of wind"
+  },
+  {
+    "word": "COCKPIT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) A well, usually near the stern, where the helm is located"
+  },
+  {
+    "word": "DISMAST",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "(transitive, nautical) To break off the mast (of a ship), especially by gunfire"
+  },
+  {
+    "word": "EASE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "sailing",
+    "clue": "(nautical, transitive) To loosen or slacken the tension on a line"
+  },
+  {
+    "word": "FIGUREHEAD",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "sailing",
+    "clue": "(nautical) A carved figure on the prow of a sailing ship"
+  },
+  {
+    "word": "FOIST",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sailing",
+    "clue": "(obsolete) A type of light and fast-sailing ship"
+  },
+  {
+    "word": "GREYHOUND",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sailing",
+    "clue": "(dated) A swift steamer, especially an ocean steamer"
+  },
+  {
+    "word": "HEAVE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "sailing",
+    "clue": "(transitive, nautical) To pull up with a rope or cable"
+  },
+  {
+    "word": "HARBOURING",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "harbor",
+    "clue": "(Commonwealth spelling) Standard spelling of harbor"
+  },
+  {
+    "word": "HARBOURS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "(Commonwealth spelling) Standard spelling of harbor"
+  },
+  {
+    "word": "WHARF",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor",
+    "clue": "(nautical) An artificial landing place for ships on a riverbank or shore"
+  },
+  {
+    "word": "MOORAGE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "A place where a ship or an aircraft may be moored"
+  },
+  {
+    "word": "HOUSE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor",
+    "clue": "(transitive) To admit to residence; to harbor"
+  },
+  {
+    "word": "WHARVES",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "(nautical) An artificial landing place for ships on a riverbank or shore"
+  },
+  {
+    "word": "WHARFS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor",
+    "clue": "(nautical) An artificial landing place for ships on a riverbank or shore"
+  },
+  {
+    "word": "PIERHEAD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "The end of a pier farthest from shore"
+  },
+  {
+    "word": "SHORESIDE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "Located on or near a shore"
+  },
+  {
+    "word": "COASTWISE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "Along the coast"
+  },
+  {
+    "word": "MOORED",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor",
+    "clue": "(intransitive, nautical) To cast anchor or become fastened"
+  },
+  {
+    "word": "DOCKING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "(nautical) The securing of a vessel to the quayside with cables"
+  },
+  {
+    "word": "PORTSIDE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "The port (left) side of a boat"
+  },
+  {
+    "word": "BAYFRONT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "The strip of land running along the shore of a bay"
+  },
+  {
+    "word": "FERRIES",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "A place where passengers are transported across water in such a ship"
+  },
+  {
+    "word": "DOCKED",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor",
+    "clue": "That in a dock"
+  },
+  {
+    "word": "HARBORFUL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "Enough to fill a harbor"
+  },
+  {
+    "word": "WHARFAGE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "A dock, quay, or pier"
+  },
+  {
+    "word": "BERTHSIDE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "The side of a berth (mooring-point for a ship etc.)"
+  },
+  {
+    "word": "HOUSING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "(nautical) A houseline"
+  },
+  {
+    "word": "SHIPSIDE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "The part of a harbour or dock by a ship"
+  },
+  {
+    "word": "YARD",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor",
+    "clue": "(nautical) Any spar carried aloft"
+  },
+  {
+    "word": "BOATSIDE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "The side of a boat"
+  },
+  {
+    "word": "ROADER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor",
+    "clue": "(nautical) A vessel sheltering in a roadstead"
+  },
+  {
+    "word": "SLIP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor",
+    "clue": "(nautical) A berth; a space for a ship to moor"
+  },
+  {
+    "word": "ROADS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor",
+    "clue": "(nautical, occasionally in the singular) A roadstead"
+  },
+  {
+    "word": "HAMRON",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor",
+    "clue": "(archaic) The hold of a ship"
+  },
+  {
+    "word": "PEARL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor",
+    "clue": "A fish allied to the turbot; the brill"
+  },
+  {
+    "word": "RESENTFUL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "Inclined to resent, who tends to harbor resentment, when wronged"
+  },
+  {
+    "word": "BEAR",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor",
+    "clue": "(nautical) A block covered with coarse matting, used to scour the deck"
+  },
+  {
+    "word": "BLOCKADE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "(nautical) The ships or other forces used to effect a naval blockade"
+  },
+  {
+    "word": "CHOPS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor",
+    "clue": "(nautical) The area where two tides meet and cause an irregular (choppy) sea"
+  },
+  {
+    "word": "MINE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor",
+    "clue": "(transitive) To damage (a vehicle or ship) with a mine (an explosive device)"
+  },
+  {
+    "word": "OUTSIDE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "(surfing) The outer part of the sea, away from the peak of a wave"
+  },
+  {
+    "word": "PUFFER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor",
+    "clue": "A Clyde puffer, a kind of small ship"
+  },
+  {
+    "word": "SANDBAR",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor",
+    "clue": "A ridge of sand caused by the action of waves along a shore"
+  },
+  {
+    "word": "WALL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(nautical) A kind of knot often used at the end of a rope; a wall knot or wale"
+  },
+  {
+    "word": "CREST",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "The ridge or top of a wave"
+  },
+  {
+    "word": "RIDGE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(oceanography) A long narrow elevation on an ocean bottom"
+  },
+  {
+    "word": "EBB",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "The receding movement of the tide"
+  },
+  {
+    "word": "EDDY",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "A circular current; a whirlpool"
+  },
+  {
+    "word": "FALL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(nautical) The chasing of a hunted whale"
+  },
+  {
+    "word": "FLOOD",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "The flowing in of the tide, opposed to the ebb"
+  },
+  {
+    "word": "FLOW",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "The rising movement of the tide"
+  },
+  {
+    "word": "MAIN",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(nautical) Belonging to or connected with the principal mast in a vessel"
+  },
+  {
+    "word": "OARFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean wave",
+    "clue": "A large, greatly elongated, type of fish of the family Regalecidae"
+  },
+  {
+    "word": "SCHOOL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(intransitive, of fish) To form into, or travel in, a school"
+  },
+  {
+    "word": "SOS",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "The conventional Morse code call made by a ship in distress"
+  },
+  {
+    "word": "TRAMP",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "Any ship which does not have a fixed schedule or published ports of call"
+  },
+  {
+    "word": "DYNAMICS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean wave",
+    "clue": "The changing amplitude or level of a sound wave or selection of audio"
+  },
+  {
+    "word": "MOR",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "A mid-ocean ridge: a submarine volcanic mountain range"
+  },
+  {
+    "word": "COMB",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "The curling crest of a wave; a comber"
+  },
+  {
+    "word": "COMBER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "A long, curving wave breaking on the shore"
+  },
+  {
+    "word": "CURRENT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean wave",
+    "clue": "(by extension, South Asia) electricity, power in general"
+  },
+  {
+    "word": "FLUTTER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean wave",
+    "clue": "(intransitive) To flap or wave quickly but irregularly"
+  },
+  {
+    "word": "LASH",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(nautical) Acronym of lighter-aboard-ship"
+  },
+  {
+    "word": "RIP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "A type of strong, rough tide or current"
+  },
+  {
+    "word": "RIPPLE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(intransitive) To propagate like a moving wave"
+  },
+  {
+    "word": "ROLL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(intransitive, in folk songs) To travel by sailing"
+  },
+  {
+    "word": "ROTE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(rare) The roar of the surf; the sound of waves breaking on the shore"
+  },
+  {
+    "word": "SHOCK",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(physics) A shock wave"
+  },
+  {
+    "word": "SURGE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(electricity) A sudden electrical spike or increase of voltage and current"
+  },
+  {
+    "word": "SWASH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(technical) The water that washes up on shore after an incoming wave has broken"
+  },
+  {
+    "word": "UNDULATE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean wave",
+    "clue": "(transitive) To cause to resemble a wave"
+  },
+  {
+    "word": "WAFT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "To give notice to by waving something; to wave the hand to; to beckon"
+  },
+  {
+    "word": "WAKE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(nautical) The path left behind a ship on the surface of the water"
+  },
+  {
+    "word": "WARP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(intransitive, nautical, of a ship) To move or be moved by this method"
+  },
+  {
+    "word": "WASH",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "The bow wave, wake, or vortex of an object moving in a fluid, in particular:"
+  },
+  {
+    "word": "FLOTE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(obsolete) A wave"
+  },
+  {
+    "word": "HAYSTACK",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean wave",
+    "clue": "(canoeing) A standing wave in a rapid"
+  },
+  {
+    "word": "POOP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(nautical) The rear part (after end) of a ship or other vessel"
+  },
+  {
+    "word": "ATTACAPAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean wave",
+    "clue": "A language spoken by the atakapa people of the gulf coast of louisiana and texas"
+  },
+  {
+    "word": "BALE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(British, nautical) To remove water from a boat with buckets etc"
+  },
+  {
+    "word": "BITT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(nautical) A bollard"
+  },
+  {
+    "word": "BLADE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(sailing) The rudder, daggerboard, or centerboard of a vessel"
+  },
+  {
+    "word": "BLOW",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(intransitive) To produce an air current"
+  },
+  {
+    "word": "BULLSEYE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean wave",
+    "clue": "(nautical, obsolete) Thick glass set into the side of a ship to let in light"
+  },
+  {
+    "word": "BUNDER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "A type of surf boat used in India"
+  },
+  {
+    "word": "CAULK",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(nautical, slang) A short sleep; a nap"
+  },
+  {
+    "word": "CIRCULATION",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "ocean wave",
+    "clue": "Currency; circulating coins; notes, bills, etc., current for coin"
+  },
+  {
+    "word": "CONCH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "A marine gastropod of the family Strombidae which lives in its own spiral shell"
+  },
+  {
+    "word": "CREEK",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(British) The inner part of a port that is used as a dock for small boats"
+  },
+  {
+    "word": "CROWN",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(nautical) The part of an anchor where the arms and the shank meet"
+  },
+  {
+    "word": "DENTEX",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(ichthyology) Any member of the genus Dentex of perciform fish"
+  },
+  {
+    "word": "DISCHARGE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean wave",
+    "clue": "To unload a ship or another means of transport"
+  },
+  {
+    "word": "DOUBLE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(rowing) A boat for two scullers"
+  },
+  {
+    "word": "DRAW",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(intransitive, nautical) Of a sail: to fill with wind and become taut"
+  },
+  {
+    "word": "DROP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(sports) (surfing) A near vertical decent down the face of a breaking wave"
+  },
+  {
+    "word": "EELGRASS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean wave",
+    "clue": "Zostera spp. in marine environments"
+  },
+  {
+    "word": "EMPEDOCLES",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "ocean wave",
+    "clue": "A volcano off the southern coast of Sicily"
+  },
+  {
+    "word": "FEEDER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(shipbuilding, navigation) A feeder ship"
+  },
+  {
+    "word": "FLOWS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "The rising movement of the tide"
+  },
+  {
+    "word": "FLYBY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(nautical) A sailby performed by a hydrofoil vessel while hydrofoiling"
+  },
+  {
+    "word": "FOOT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean wave",
+    "clue": "(nautical) The bottom edge of a sail"
+  },
+  {
+    "word": "FRESH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(commercial fishing) To pack (fish) loosely on ice"
+  },
+  {
+    "word": "GAUGE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean wave",
+    "clue": "(nautical) The depth to which a vessel sinks in the water"
+  },
+  {
+    "word": "GROUNDED",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean wave",
+    "clue": "(nautical, of a vessel) Aground"
+  },
+  {
+    "word": "ROUND",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "tide",
+    "clue": "(nautical) A round-top"
+  },
+  {
+    "word": "DONKEY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "tide",
+    "clue": "(nautical) A small auxiliary engine"
+  },
+  {
+    "word": "MAINSTREAM",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "tide",
+    "clue": "The principal current in a flow, such as a river or flow of air"
+  },
+  {
+    "word": "SHOREWARD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "tide",
+    "clue": "Facing the shore"
+  },
+  {
+    "word": "TIDEWAY",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "tide",
+    "clue": "A channel in which the tide sets, especially in the tidal part of a river"
+  },
+  {
+    "word": "NEAP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "tide",
+    "clue": "A neap tide"
+  },
+  {
+    "word": "STEM",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "tide",
+    "clue": "(nautical, loosely) The front part of a vessel"
+  },
+  {
+    "word": "RIPTIDE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "tide",
+    "clue": "A particularly strong tidal current"
+  },
+  {
+    "word": "RIPTIDES",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "tide",
+    "clue": "A particularly strong tidal current"
+  },
+  {
+    "word": "STEMMING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "tide",
+    "clue": "(nautical) Movement against a current, especially a tidal current"
+  },
+  {
+    "word": "SURGES",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "tide",
+    "clue": "(electricity) A sudden electrical spike or increase of voltage and current"
+  },
+  {
+    "word": "TIDEFALL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "tide",
+    "clue": "The transition of tides to or from high tide and low tide"
+  },
+  {
+    "word": "FORETIDE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "tide",
+    "clue": "(rare, literal, figurative) An early tide (tidal surge)"
+  },
+  {
+    "word": "AMPOTIS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "tide",
+    "clue": "The ebb of the tide"
+  },
+  {
+    "word": "RISETIME",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "tide",
+    "clue": "The time taken for a wave to rise from the baseline to the peak"
+  },
+  {
+    "word": "NEAPS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "tide",
+    "clue": "A neap tide"
+  },
+  {
+    "word": "TIDEWATER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "tide",
+    "clue": "Water affected by the flow of the tide, especially tidal streams"
+  },
+  {
+    "word": "DRIFTAGE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "tide",
+    "clue": "Deviation from a ship's course due to leeway"
+  },
+  {
+    "word": "FAIR",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "tide",
+    "clue": "(nautical, of a wind) Favorable to a ship's course"
+  },
+  {
+    "word": "INTERTIDAL",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "tide",
+    "clue": "Pertaining to the part of a shore between the high water and the low water"
+  },
+  {
+    "word": "MELT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "tide",
+    "clue": "Variant spelling of milt, the semen of a male fish, used as food"
+  },
+  {
+    "word": "RIPS",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "tide",
+    "clue": "A type of strong, rough tide or current"
+  },
+  {
+    "word": "ROUST",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "tide",
+    "clue": "A strong tide or current, especially in a narrow channel"
+  },
+  {
+    "word": "SLOUGH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "tide",
+    "clue": "(Western US) A secondary channel of a river delta, usually flushed by the tide"
+  },
+  {
+    "word": "SPRING",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "tide",
+    "clue": "(ambitransitive, nautical, usually perfective) To crack"
+  },
+  {
+    "word": "SUBLITTORAL",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "tide",
+    "clue": "The area below the shore; the sublittoral region"
+  },
+  {
+    "word": "SUBTIDAL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "tide",
+    "clue": "Below the level of the tide"
+  },
+  {
+    "word": "COASTAL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "marine",
+    "clue": "(geography) Relating to the coast; on or near the coast; longshore"
+  },
+  {
+    "word": "SEABORNE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "marine",
+    "clue": "Transported on the sea or ocean, especially by floating on the sea"
+  },
+  {
+    "word": "MARINER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "marine",
+    "clue": "Synonym of sailor, particularly one on a maritime vessel"
+  },
+  {
+    "word": "ADMIRALTY",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "marine",
+    "clue": "(law) The court which has jurisdiction of maritime questions and offenses"
+  },
+  {
+    "word": "CREWMEN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "marine",
+    "clue": "A member of a crew, especially the crew of a ship"
+  },
+  {
+    "word": "NONMARINE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "marine",
+    "clue": "Not marine"
+  },
+  {
+    "word": "HADAL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "marine",
+    "clue": "Of or relating to the deepest parts of the ocean"
+  },
+  {
+    "word": "AEQUOREAL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "marine",
+    "clue": "(archaic, rare, poetic) marine; oceanic"
+  },
+  {
+    "word": "TERRIGENOUS",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "marine",
+    "clue": "(geology, of a marine sediment) Derived from the erosion of land-based rocks"
+  },
+  {
+    "word": "SCALLOP",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "marine",
+    "clue": "Any of various marine bivalve molluscs of the superfamily Pectinoidea"
+  },
+  {
+    "word": "AQUARIUM",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "marine",
+    "clue": "A tank, often made of glass, for keeping live fish or other aquatic animals"
+  },
+  {
+    "word": "BERYCOID",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "marine",
+    "clue": "(zoology) Resembling or relating to the Berycidae, a family of marine fishes"
+  },
+  {
+    "word": "BIB",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "marine",
+    "clue": "A north Atlantic fish (Trisopterus luscus), allied to the cod"
+  },
+  {
+    "word": "BLOWER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "marine",
+    "clue": "(nautical) The whale; so called from its habit of spouting up a column of water"
+  },
+  {
+    "word": "BURGALL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "marine",
+    "clue": "A cunner, a fish of species (Tautogolabrus adspersus)"
+  },
+  {
+    "word": "SHIPBORNE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "nautical",
+    "clue": "Carried by ship"
+  },
+  {
+    "word": "WETSIDE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "nautical",
+    "clue": "Relating to the marine side of a coastline"
+  },
+  {
+    "word": "OCEANLIKE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "nautical",
+    "clue": "Relating to an ocean in vastness or composition"
+  },
+  {
+    "word": "GARNET",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) A tackle for hoisting cargo in or out of a vessel"
+  },
+  {
+    "word": "IRONS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) A lack of forward motion"
+  },
+  {
+    "word": "PAUNCH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) A paunch mat"
+  },
+  {
+    "word": "ABAFT",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) On the aft side; in the stern"
+  },
+  {
+    "word": "BELAY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "nautical",
+    "clue": "(intransitive, nautical) The general command to stop or cease"
+  },
+  {
+    "word": "LIST",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "nautical",
+    "clue": "(transitive, nautical) To cause (something) to tilt to one side"
+  },
+  {
+    "word": "SLUE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "nautical",
+    "clue": "(transitive, nautical) To rotate something on an axis"
+  },
+  {
+    "word": "VEER",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "nautical",
+    "clue": "(intransitive, nautical) To change direction into the wind; to wear ship"
+  },
+  {
+    "word": "YAW",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "nautical",
+    "clue": "(intransitive, nautical) To swerve off course to port or starboard"
+  },
+  {
+    "word": "AFORE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) In the fore part of a ship"
+  },
+  {
+    "word": "AGROUND",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "nautical",
+    "clue": "(nautical, of a normally floating craft) Resting on the bottom"
+  },
+  {
+    "word": "ALOFT",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) In the top, at the masthead, or on the higher yards or rigging"
+  },
+  {
+    "word": "APORT",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "nautical",
+    "clue": "(nautical, archaic) on the left side of the boat"
+  },
+  {
+    "word": "BAG",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "nautical",
+    "clue": "(informal) To catch or kill, especially when fishing or hunting"
+  },
+  {
+    "word": "BEAM",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) The direction across a vessel, perpendicular to fore-and-aft"
+  },
+  {
+    "word": "BEND",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "nautical",
+    "clue": "(intransitive, nautical) To swing the body when rowing"
+  },
+  {
+    "word": "BENDS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) The thickest and strongest planks in a wooden ship's side, wales"
+  },
+  {
+    "word": "BITTER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) A turn of a cable about the bitts"
+  },
+  {
+    "word": "BOUSE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) To haul or hoist (something) with a tackle"
+  },
+  {
+    "word": "BOW",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) The front of a boat or ship"
+  },
+  {
+    "word": "BREASTWORK",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) A railing on the quarter-deck and forecastle"
+  },
+  {
+    "word": "BROW",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) The gangway from ship to shore when a ship is lying alongside a quay"
+  },
+  {
+    "word": "BULGE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) The bilge of a vessel"
+  },
+  {
+    "word": "BUSK",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) To tack, cruise about"
+  },
+  {
+    "word": "CALL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "nautical",
+    "clue": "(nautical) A visit by a ship or boat to a port"
+  },
+  {
+    "word": "CAMEL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "nautical",
+    "clue": "A river in Cornwall, England, which flows into the Atlantic Ocean near Padstow"
+  },
+  {
+    "word": "CASTLE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "nautical",
+    "clue": "(dated) A small tower, as on a ship, or an elephant's back"
+  },
+  {
+    "word": "PISCATOR",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(archaic, formal) A fisherman; an angler"
+  },
+  {
+    "word": "SHRIMPER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A boat used in fishing for shrimp"
+  },
+  {
+    "word": "LONGLINER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(nautical) A fisherman or fishing boat that uses longlines"
+  },
+  {
+    "word": "CRABBER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(nautical) A boat used for catching crabs"
+  },
+  {
+    "word": "FLYFISHER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A person who goes fly fishing"
+  },
+  {
+    "word": "FISHERBOY",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A boy employed in catching fish; a young fisherman"
+  },
+  {
+    "word": "FISHWOMAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(dated) A woman who sells fish"
+  },
+  {
+    "word": "FISHWIFE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(archaic) A woman who sells or works with fish; a female fishmonger"
+  },
+  {
+    "word": "FISHO",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fisherman",
+    "clue": "(Australia, slang) A fisherman"
+  },
+  {
+    "word": "FISHHEAD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "The head of a fish"
+  },
+  {
+    "word": "FISHMONGER",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "fisherman",
+    "clue": "(British) A person who sells fish"
+  },
+  {
+    "word": "RODSMAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A fisherman"
+  },
+  {
+    "word": "NETSMAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "The person who operates a fishing net"
+  },
+  {
+    "word": "DRIFTER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(nautical) A type of lightweight sail used in light winds like a spinnaker"
+  },
+  {
+    "word": "SARDINER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A fishing boat used for catching sardines"
+  },
+  {
+    "word": "DORYMAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A fisherman who works on a dory"
+  },
+  {
+    "word": "DRAGMAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A fisherman who uses a dragnet"
+  },
+  {
+    "word": "RODSTER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "One who uses a fishing rod; an angler"
+  },
+  {
+    "word": "TROUTER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(fishing) An angler who fishes for trout"
+  },
+  {
+    "word": "EELER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fisherman",
+    "clue": "A fisherman who catches eels"
+  },
+  {
+    "word": "BAITFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(fishing) Fish that can be caught using bait"
+  },
+  {
+    "word": "CREELER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "An angler who uses a creel in catching fish"
+  },
+  {
+    "word": "FISHLING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A small or young fish; fry"
+  },
+  {
+    "word": "FISHPOLE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A fishing pole"
+  },
+  {
+    "word": "MINNOWER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(fishing) A fisherman who minnows"
+  },
+  {
+    "word": "LINESIDER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A fish, the striped bass"
+  },
+  {
+    "word": "HADDOCKER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A commercial fisherman who catches haddock"
+  },
+  {
+    "word": "FISHBAIT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "Bait for fishing"
+  },
+  {
+    "word": "FISHHOOD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "The state or condition of being a fish"
+  },
+  {
+    "word": "HIGHLINER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A successful fisherman who catches significant numbers of fish"
+  },
+  {
+    "word": "FISHSPEAR",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A spear for catching fish"
+  },
+  {
+    "word": "HENFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A female fish, especially a salmon or trout"
+  },
+  {
+    "word": "COCKFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A male fish, especially a salmon or trout"
+  },
+  {
+    "word": "FISHES",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fisherman",
+    "clue": "Plural of fish"
+  },
+  {
+    "word": "FISHLET",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A little fish"
+  },
+  {
+    "word": "FISHLORE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "The knowledge, stories, and traditions associated with angling or fishing"
+  },
+  {
+    "word": "GAFFMAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "An angler's assistant who uses a gaff (tool for landing large fish)"
+  },
+  {
+    "word": "AQUARIIST",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(dated) One who keeps fish in an aquarium"
+  },
+  {
+    "word": "TAILER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fisherman",
+    "clue": "(nautical) A worker on a yacht, responsible for furling and setting the sails"
+  },
+  {
+    "word": "TRIMMER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(nautical) A member of the crew who trims the sails"
+  },
+  {
+    "word": "RIPPER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fisherman",
+    "clue": "(obsolete) One who brings fish from the seacoast to markets in inland towns"
+  },
+  {
+    "word": "COBLEMAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A fisherman who uses a coble"
+  },
+  {
+    "word": "GRABBLER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(Southeastern US) A person who catches fish by feeling with the hand"
+  },
+  {
+    "word": "HUER",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fisherman",
+    "clue": "A balker or conder; one who watches shoals of fish so that they can be caught"
+  },
+  {
+    "word": "BITER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fisherman",
+    "clue": "(fishing) A fish that tends to take bait"
+  },
+  {
+    "word": "COCKLEMAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A fisherman who catches cockles"
+  },
+  {
+    "word": "SOUNDER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(nautical) A device for making soundings at sea"
+  },
+  {
+    "word": "FISHLINE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A fishing line"
+  },
+  {
+    "word": "HALVER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fisherman",
+    "clue": "A fisherman who places a net to catch fish in the retreating tide"
+  },
+  {
+    "word": "PISCIVORE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A fish eater"
+  },
+  {
+    "word": "DEVILFISH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(dated) Any of several not closely related marine animals:"
+  },
+  {
+    "word": "CHUMMER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "One who fishes by casting chum into the water to attract the fish"
+  },
+  {
+    "word": "CHUM",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fisherman",
+    "clue": "(fishing, ambitransitive) To cast chum into the water to attract fish"
+  },
+  {
+    "word": "SCALER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fisherman",
+    "clue": "A tool or device for scaling fish"
+  },
+  {
+    "word": "BURLEY",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fisherman",
+    "clue": "(Australia) Blood and offal used by fishermen to attract fish"
+  },
+  {
+    "word": "CHOWDER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A stew, particularly fish or seafood, not necessarily thickened"
+  },
+  {
+    "word": "CREELS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fisherman",
+    "clue": "(fishing) An osier basket that anglers use to hold fish"
+  },
+  {
+    "word": "LANCE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fisherman",
+    "clue": "(fishing) A spear or harpoon used by whalers and fishermen"
+  },
+  {
+    "word": "LUGWORM",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "Any of several species of large marine annelid worm of the genus Arenicola"
+  },
+  {
+    "word": "PETTICOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "(historical) A fisherman's loose canvas or oilcloth skirt"
+  },
+  {
+    "word": "RODS",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fisherman",
+    "clue": "(fishing) A long slender usually tapering pole used for angling; fishing rod"
+  },
+  {
+    "word": "SEINERS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "fisherman",
+    "clue": "A fisherman who uses a seine to catch fish"
+  },
+  {
+    "word": "SHOT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fisherman",
+    "clue": "(fisheries) A single draft or catch of fish made"
+  },
+  {
+    "word": "TEASER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fisherman",
+    "clue": "(fishing) A lure used in addition to a bucktail used for fluke fishing"
+  },
+  {
+    "word": "TUNAS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fisherman",
+    "clue": "Any of several species of fish of the genus Thunnus in the family Scombridae"
+  },
+  {
+    "word": "WIG",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "fisherman",
+    "clue": "(aviation, nautical) Initialism of wing-in-ground"
+  },
+  {
+    "word": "BLACKSMITH",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "fisherman",
+    "clue": "A blackish fish of the Pacific coast (Chromis punctipinnis)"
+  },
+  {
+    "word": "WEAVER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "fisherman",
+    "clue": "Any of certain fish of the family Pinguipedidae"
+  },
+  {
+    "word": "RIVAGE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "shore",
+    "clue": "(now rare, poetic) A coast, a shore"
+  },
+  {
+    "word": "RIVE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "shore",
+    "clue": "A bank or shore"
+  },
+  {
+    "word": "BEACHED",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "shore",
+    "clue": "Stranded and helpless, especially on a beach"
+  },
+  {
+    "word": "ALONGSHORE",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "shore",
+    "clue": "At or along a shore or coast"
+  },
+  {
+    "word": "SANDBARS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "shore",
+    "clue": "A ridge of sand caused by the action of waves along a shore"
+  },
+  {
+    "word": "STAITH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "shore",
+    "clue": "(obsolete) A shore or a riverbank"
+  },
+  {
+    "word": "PROP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "shore",
+    "clue": "(transitive, sometimes figurative) To support or shore up something"
+  },
+  {
+    "word": "ARRIVE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "shore",
+    "clue": "(intransitive, obsolete) To bring to shore"
+  },
+  {
+    "word": "BEACHLIKE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "shore",
+    "clue": "Resembling or characteristic of a beach"
+  },
+  {
+    "word": "DISEMBARK",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "shore",
+    "clue": "(intransitive) To go ashore out of a ship or boat; to leave a train or aircraft"
+  },
+  {
+    "word": "DRIFTWEED",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "shore",
+    "clue": "Seaweed brought ashore by the wind or tide"
+  },
+  {
+    "word": "CABANA",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "beach",
+    "clue": "(Canada, US, Australia) A shelter on a beach or at a swimming pool"
+  },
+  {
+    "word": "SANDBEACH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "beach",
+    "clue": "A beach consisting of mainly sand"
+  },
+  {
+    "word": "WASHOVER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "beach",
+    "clue": "The sediment deposited inland of a beach by overwash"
+  },
+  {
+    "word": "RUNN",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "beach",
+    "clue": "(India) A tract of sandy or boggy land often overflowed by the tide"
+  },
+  {
+    "word": "SINUS",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "beach",
+    "clue": "(geography) A bay of the sea; a recess in the shore"
+  },
+  {
+    "word": "ROCK",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "beach",
+    "clue": "Any of several fish:"
+  },
+  {
+    "word": "OVER",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "beach",
+    "clue": "(rare, dialectal or obsolete) A shore, riverbank"
+  },
+  {
+    "word": "HOME",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "beach",
+    "clue": "(nautical) into the right, proper or stowed position"
+  },
+  {
+    "word": "LANDINGS",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "beach",
+    "clue": "A place on a shoreline where a boat lands"
+  },
+  {
+    "word": "PALM",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "beach",
+    "clue": "(nautical) The flat inner face of an anchor fluke"
+  },
+  {
+    "word": "SEASHELL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "beach",
+    "clue": "The empty shell of a marine mollusk"
+  },
+  {
+    "word": "SHINGLE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "beach",
+    "clue": "Small, smooth pebbles, as found on a beach"
+  },
+  {
+    "word": "STRANDED",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "beach",
+    "clue": "(nautical, of a vessel) Run aground on a shore or reef"
+  },
+  {
+    "word": "BOD",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "beach",
+    "clue": "Initialism of Brightlingsea One Design (sailing boat class)"
+  },
+  {
+    "word": "CRIB",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "beach",
+    "clue": "(nautical) A small sleeping berth in a packet or other small vessel"
+  },
+  {
+    "word": "FORE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "beach",
+    "clue": "(nautical) The front part of a vessel"
+  },
+  {
+    "word": "HIT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "beach",
+    "clue": "In the game of Battleship, a correct guess at where one's opponent ship is"
+  },
+  {
+    "word": "HOT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "beach",
+    "clue": "Of great current interest; provoking current debate or controversy"
+  },
+  {
+    "word": "KID",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "beach",
+    "clue": "(nautical) A small wooden mess tub in which sailors received their food"
+  },
+  {
+    "word": "LOB",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "beach",
+    "clue": "A fish, the European pollock"
+  },
+  {
+    "word": "LONGSHOREMAN",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "harbor dock",
+    "clue": "One who makes a living along the shore by oyster-fishing, etc"
+  },
+  {
+    "word": "STEVEDORE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor dock",
+    "clue": "(transitive) To load or unload a ship's cargo"
+  },
+  {
+    "word": "STEW",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "(Sussex) A pool in which fish are kept in preparation for eating"
+  },
+  {
+    "word": "CUTOFF",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor dock",
+    "clue": "A device that stops the flow of a current"
+  },
+  {
+    "word": "CUTWATER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor dock",
+    "clue": "(nautical) The forward curve of the stem of a ship"
+  },
+  {
+    "word": "GAUNTLET",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor dock",
+    "clue": "(nautical) A rope on which hammocks or clothes are hung for drying"
+  },
+  {
+    "word": "HAWSE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor dock",
+    "clue": "(nautical) The part of the bow containing the hawseholes"
+  },
+  {
+    "word": "PLATFORM",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor dock",
+    "clue": "(geology) A flat expanse of rock, often the result of wave erosion"
+  },
+  {
+    "word": "POLES",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor dock",
+    "clue": "(fishing) A type of basic fishing rod"
+  },
+  {
+    "word": "PRESENT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor dock",
+    "clue": "Relating to now, for the time being; current"
+  },
+  {
+    "word": "RACK",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "(slang, especially nautical) A bunk"
+  },
+  {
+    "word": "ROADSTER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor dock",
+    "clue": "A sea-going vessel riding at anchor in a road or bay"
+  },
+  {
+    "word": "SPIDER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor dock",
+    "clue": "(fly fishing, England) A soft-hackle fly"
+  },
+  {
+    "word": "START",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor dock",
+    "clue": "(transitive, nautical) To pour out; to empty; to tap and begin drawing from"
+  },
+  {
+    "word": "TOLL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "(transitive) To lure with bait; tole (especially, fish and animals)"
+  },
+  {
+    "word": "VAN",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "A city, the capital of Van Province, Turkey, on the shore of the lake"
+  },
+  {
+    "word": "CAISSON",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor dock",
+    "clue": "The gate across the entrance to a dry dock"
+  },
+  {
+    "word": "CLEAT",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor dock",
+    "clue": "(nautical) To tie off, affix, stopper a line or rope, especially to a cleat"
+  },
+  {
+    "word": "DOCKHAND",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor dock",
+    "clue": "Someone who works at a dock"
+  },
+  {
+    "word": "GANGWAY",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor dock",
+    "clue": "(nautical) A passage along either side of a ship's upper deck"
+  },
+  {
+    "word": "GRAIN",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor dock",
+    "clue": "(botany) A rounded prominence on the back of a sepal, as in the common dock"
+  },
+  {
+    "word": "LAY",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "(intransitive) (nautical) To take a position; to come or go"
+  },
+  {
+    "word": "LOAD",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "(electrical engineering) The electrical current or power delivered by a device"
+  },
+  {
+    "word": "MOOR",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "(intransitive, nautical) To cast anchor or become fastened"
+  },
+  {
+    "word": "TOUCH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor dock",
+    "clue": "(intransitive) Of a ship or its passengers: to land, to make a short stop (at)"
+  },
+  {
+    "word": "ABLE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "(nautical) Capable of performing all the requisite duties; as an able seaman"
+  },
+  {
+    "word": "ASPIC",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor dock",
+    "clue": "A meat or fish jelly"
+  },
+  {
+    "word": "BALLAST",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor dock",
+    "clue": "(transitive) To stabilize or load a ship with ballast"
+  },
+  {
+    "word": "BARREL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor dock",
+    "clue": "(surfing) A wave that breaks with a hollow compartment"
+  },
+  {
+    "word": "BOATLOAD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor dock",
+    "clue": "Cargo or passengers that fill a boat"
+  },
+  {
+    "word": "BOLT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "(nautical) The standard linear measurement of canvas for use at sea: 39 yards"
+  },
+  {
+    "word": "BOWER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor dock",
+    "clue": "(nautical) A type of ship's anchor, carried at the bow"
+  },
+  {
+    "word": "BRACKET",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "harbor dock",
+    "clue": "(nautical) A short crooked timber, resembling a knee, used as a support"
+  },
+  {
+    "word": "BUFFER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor dock",
+    "clue": "(UK, nautical, slang) The chief boatswain's mate"
+  },
+  {
+    "word": "CAP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "A nickname for the captain of a team, ship, etc"
+  },
+  {
+    "word": "CHOCK",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor dock",
+    "clue": "(nautical) To insert a line in a chock"
+  },
+  {
+    "word": "CLUB",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "(nautical) To drift in a current with an anchor out"
+  },
+  {
+    "word": "COCK",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "A male fish, especially a salmon or trout"
+  },
+  {
+    "word": "COOP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "A wickerwork basket (kipe) or other enclosure for catching fish"
+  },
+  {
+    "word": "COT",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "A small, crudely-formed boat"
+  },
+  {
+    "word": "DIE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "(still current) followed by with as an indication of manner:"
+  },
+  {
+    "word": "DOG",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "(transitive, nautical) To fasten a hatch securely"
+  },
+  {
+    "word": "DOGS",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "harbor dock",
+    "clue": "(nautical) Fasteners securing a watertight hatch"
+  },
+  {
+    "word": "DRIVE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "harbor dock",
+    "clue": "(intransitive) To be moved or propelled forcefully (especially of a ship)"
+  },
+  {
+    "word": "ANCHORMAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) The person on a ship in charge of the anchor"
+  },
+  {
+    "word": "KEDGE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) A small anchor used for warping a vessel"
+  },
+  {
+    "word": "PEG",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "anchor",
+    "clue": "A place formally allotted for fishing"
+  },
+  {
+    "word": "GROUNDING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "The collision of a ship with ground beneath the surface of the water"
+  },
+  {
+    "word": "ANCHORAGES",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "anchor",
+    "clue": "The act of anchoring, or the condition of lying at anchor"
+  },
+  {
+    "word": "STAY",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) A station or fixed anchorage for vessels"
+  },
+  {
+    "word": "BEADHOOK",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) A kind of boat-hook"
+  },
+  {
+    "word": "LOGGERHEAD",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) A post on a whaling boat used to secure the harpoon rope"
+  },
+  {
+    "word": "KILLOCK",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "A small anchor"
+  },
+  {
+    "word": "CATFALL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) A rope used in hoisting the anchor to the cathead"
+  },
+  {
+    "word": "DROGUE",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) A type of bag pulled behind a boat to stop it from broaching to"
+  },
+  {
+    "word": "DOCKLINE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) A mooring cable / rope"
+  },
+  {
+    "word": "BAITHOOK",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(fishing) A hook that can be baited"
+  },
+  {
+    "word": "STEMHEAD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) The top and foremost end of a stem on a marine vessel"
+  },
+  {
+    "word": "TRINK",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "anchor",
+    "clue": "(obsolete) A kind of fishing net that is attached to a post or anchor; set net"
+  },
+  {
+    "word": "LEADLINE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(fishing) A weighted line for holding down the lower edge of a gillnet"
+  },
+  {
+    "word": "BEAKHEAD",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) A protruding part of the foremost section of a sailing ship"
+  },
+  {
+    "word": "NACELLE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(by extension) A hollow boat-shaped structure"
+  },
+  {
+    "word": "EARING",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) A line for hauling the reef cringle to the yard"
+  },
+  {
+    "word": "NORSEL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "anchor",
+    "clue": "A short piece of line used to attach fishing hooks, lines and nets"
+  },
+  {
+    "word": "OREBOAT",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) A vessel used to transport iron ore on the Great Lakes"
+  },
+  {
+    "word": "OYSTERMAN",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) A boat used to dredge for oysters"
+  },
+  {
+    "word": "DROGHER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "Any small, slow craft, especially for transporting goods to or from shore"
+  },
+  {
+    "word": "BALINGER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(nautical, historical) A small medieval sea-going ship with oars and sails"
+  },
+  {
+    "word": "DRAGNET",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(fishing) A net dragged across the bottom of a body of water"
+  },
+  {
+    "word": "SHACK",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "anchor",
+    "clue": "(fishing) Bait that can be picked up at sea"
+  },
+  {
+    "word": "NACODAH",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "The captain of a boat or other vessel"
+  },
+  {
+    "word": "GAMMONING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "Rope lashings on the bowsprit of a boat"
+  },
+  {
+    "word": "SEALINE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "A line used for fishing in deep water"
+  },
+  {
+    "word": "HOVELLER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "A small boat used on the coast"
+  },
+  {
+    "word": "STAKENET",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "A form of fishing net hung on stakes"
+  },
+  {
+    "word": "PEARLER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "A boat used in pearl fishing"
+  },
+  {
+    "word": "THROWLINE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) A line that may be thrown to assist a person at peril in the water"
+  },
+  {
+    "word": "SHIPSPEAK",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "Nautical jargon"
+  },
+  {
+    "word": "DRAGGER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) A trawler"
+  },
+  {
+    "word": "FLUE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "anchor",
+    "clue": "An enclosed passageway in which to direct a current of air or other gases along"
+  },
+  {
+    "word": "GUY",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "anchor",
+    "clue": "(chiefly nautical) A support rope or cable used to aid in hoisting or lowering"
+  },
+  {
+    "word": "NEWS",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "anchor",
+    "clue": "Information about current events disseminated by the media"
+  },
+  {
+    "word": "RIDE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "anchor",
+    "clue": "(intransitive) Of a ship: to sail, to float on the water"
+  },
+  {
+    "word": "SHANK",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "anchor",
+    "clue": "A straight, narrow part of an object, such as a key or an anchor; shaft; stem"
+  },
+  {
+    "word": "UNMOOR",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "anchor",
+    "clue": "(transitive) To unfix or unsecure (a moored boat)"
+  },
+  {
+    "word": "ACOCKBILL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) Topped up; having one yardarm higher than the other"
+  },
+  {
+    "word": "ANCORAL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "Alternative form of anchoral. [Resembling or having the character of an anchor.]"
+  },
+  {
+    "word": "DISANCHOR",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(obsolete, ambitransitive) To raise the anchor of, as a ship; to weigh anchor"
+  },
+  {
+    "word": "EMBARK",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "anchor",
+    "clue": "(transitive) To cause to go on board a vessel or boat; to put on shipboard"
+  },
+  {
+    "word": "GIMLET",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "anchor",
+    "clue": "(nautical, transitive) To turn round (an anchor) as if turning a gimlet"
+  },
+  {
+    "word": "HAWSEHOLE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) The hole through which a ship's anchor rope is passed"
+  },
+  {
+    "word": "HAWSEPIPE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) metal pipe fitted into a hawsehole, to protect the wood"
+  },
+  {
+    "word": "KEDGER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "anchor",
+    "clue": "(archaic, nautical) A small anchor; a kedge"
+  },
+  {
+    "word": "MANGER",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "anchor",
+    "clue": "A section of a bow of a ship partitioned from the hawsehole to keep water out"
+  },
+  {
+    "word": "PEAK",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) The upper aftermost corner of a fore-and-aft sail"
+  },
+  {
+    "word": "PEE",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "anchor",
+    "clue": "(nautical) The bill of an anchor"
+  },
+  {
+    "word": "SETTING",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean current",
+    "clue": "The direction of a current of wind"
+  },
+  {
+    "word": "EDDYLINE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean current",
+    "clue": "The outline of an eddy, where it joins the main current"
+  },
+  {
+    "word": "LOOP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean current",
+    "clue": "A complete circuit for an electric current"
+  },
+  {
+    "word": "CURL",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "ocean current",
+    "clue": "(surfing) The concave part of a breaking wave"
+  },
+  {
+    "word": "SEAWEED",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "ocean current",
+    "clue": "Any of numerous marine algae, such as a kelp"
+  },
+  {
+    "word": "SHORED",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ocean current",
+    "clue": "Having a shore, often one of a specified type"
+  },
+  {
+    "word": "FLESH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "maritime",
+    "clue": "Animal tissue regarded as food; meat (but sometimes excluding fish)"
+  },
+  {
+    "word": "INLAND",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "maritime",
+    "clue": "Within the land; relatively remote from the ocean or from open water; interior"
+  },
+  {
+    "word": "MARITIMER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "maritime",
+    "clue": "A native or inhabitant of the Maritime provinces"
+  },
+  {
+    "word": "MATWEED",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "maritime",
+    "clue": "Any of several maritime grasses"
+  },
+  {
+    "word": "REPRISE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "maritime",
+    "clue": "A ship recaptured from an enemy or from a pirate"
+  },
+  {
+    "word": "COASTAL",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "sea",
+    "clue": "(informal) Coastal Carolina University"
+  },
+  {
+    "word": "SAILED",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "ship",
+    "clue": "Having the sails set"
+  },
+  {
+    "word": "BUOY",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "A floating marker anchored in water to indicate channels, hazards, or moorings."
+  },
+  {
+    "word": "SWAB",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "(nautical) A mop used to clean a ship's deck; also, old slang for a sailor."
+  },
+  {
+    "word": "BAY",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "A body of water partially enclosed by land but open to a larger sea."
+  },
+  {
+    "word": "OAR",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "A long pole with a flat blade, used to row or steer a boat."
+  },
+  {
+    "word": "KELP",
+    "category": "sea",
+    "tier": "easy",
+    "sourceSeed": "imported",
+    "clue": "A large brown seaweed that grows in dense underwater forests."
+  },
+  {
+    "word": "ATOLL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A ring-shaped coral reef or island enclosing a lagoon."
+  },
+  {
+    "word": "FJORD",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A long, narrow sea inlet between steep cliffs, carved by glaciers."
+  },
+  {
+    "word": "LAGOON",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A shallow body of water separated from the sea by a reef, sandbar, or barrier island."
+  },
+  {
+    "word": "TRENCH",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A long, narrow, steep-sided depression in the ocean floor."
+  },
+  {
+    "word": "SWELL",
+    "category": "sea",
+    "tier": "medium",
+    "sourceSeed": "imported",
+    "clue": "A long, rolling wave that moves without breaking, often from a distant storm."
+  },
+  {
+    "word": "SCHOONER",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A sailing ship rigged with two or more masts, the foremast usually shorter than the rest."
+  },
+  {
+    "word": "PORTHOLE",
+    "category": "sea",
+    "tier": "hard",
+    "sourceSeed": "imported",
+    "clue": "A small, round window in the side of a ship."
+  },
+  {
+    "word": "HYDROSPHERE",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "The combined mass of water found on, under, and above a planet's surface, including its oceans."
+  },
+  {
+    "word": "BREAKWATER",
+    "category": "sea",
+    "tier": "legendary",
+    "sourceSeed": "imported",
+    "clue": "A barrier built out into the sea to protect a harbor or coastline from wave action."
+  }
+]

@@ -174,5 +174,629 @@
     "word": "coasts",
     "hint": "The shorelines or borders where land borders expansive bodies of saltwater.",
     "sourceSeed": "ocean"
+  },
+  {
+    "id": 23,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "oceangoing",
+    "hint": "Fit for long voyages across vast deep seas far beyond coastal routes.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 24,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "oceanography",
+    "hint": "The scientific discipline focused on the physical, chemical, and biological aspects of global seas.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 25,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "underwater",
+    "hint": "Positioned beneath the surface line of a floating vessel.",
+    "sourceSeed": "ocean"
+  },
+  {
+    "id": 26,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "background",
+    "hint": "Contextual information detailing prior history or past events pertinent to a situation.",
+    "sourceSeed": "ocean"
+  },
+  {
+    "id": 27,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "beachcomber",
+    "hint": "A person who searches coastal shores for driftwood, washed-up wreckage, or lost items.",
+    "sourceSeed": "ocean"
+  },
+  {
+    "id": 28,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "shipbuilding",
+    "hint": "The craft, industry, and engineering of constructing large marine vessels.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 29,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "battleship",
+    "hint": "Historically, a heavily armed wooden vessel of the line designed to engage in naval warfare.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 30,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "boatbuilding",
+    "hint": "The trade or process of constructing smaller watercraft.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 31,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "beachfront",
+    "hint": "Real estate situated directly along a sandy shoreline.",
+    "sourceSeed": "coast"
+  },
+  {
+    "id": 32,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "hinterland",
+    "hint": "The region lying directly behind a coastal area or maritime port zone.",
+    "sourceSeed": "coast"
+  },
+  {
+    "id": 33,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "groundfish",
+    "hint": "Demersal marine creatures, such as cod or flounder, that reside near the sea floor.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 34,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "ichthyology",
+    "hint": "The specialized branch of zoological science devoted to the study of gill-bearing aquatic vertebrates.",
+    "sourceSeed": "fish"
+  },
+  {
+    "id": 35,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "commission",
+    "hint": "To officially place a newly constructed or refitted naval vessel into active duty.",
+    "sourceSeed": "ship"
+  },
+  {
+    "id": 36,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "navigating",
+    "hint": "Steering or traveling across marine expanses aboard a vessel.",
+    "sourceSeed": "sailing"
+  },
+  {
+    "id": 37,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "martingale",
+    "hint": "A lower stay or vertical spar under a sailing vessel's bowsprit used to reinforce the gear against upward strain.",
+    "sourceSeed": "sailing"
+  },
+  {
+    "id": 38,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "figurehead",
+    "hint": "An ornamental wooden carving attached to the prow of a sailing vessel.",
+    "sourceSeed": "sailing"
+  },
+  {
+    "id": 39,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "harbouring",
+    "hint": "Providing shelter to ships or keeping vessels safely at rest in a protected bay, using Commonwealth spelling.",
+    "sourceSeed": "harbor"
+  },
+  {
+    "id": 40,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "circulation",
+    "hint": "The passage and exchange of bank notes, coins, and official money throughout an economy.",
+    "sourceSeed": "ocean wave"
+  },
+  {
+    "id": 41,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "empedocles",
+    "hint": "A massive submerged volcanic structure situated off the southern coast of Sicily.",
+    "sourceSeed": "ocean wave"
+  },
+  {
+    "id": 42,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "mainstream",
+    "hint": "The primary or central current within a flowing body of liquid or air.",
+    "sourceSeed": "tide"
+  },
+  {
+    "id": 43,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "intertidal",
+    "hint": "Describing the coastal zone exposed to the air during low water and covered during high water.",
+    "sourceSeed": "tide"
+  },
+  {
+    "id": 44,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "sublittoral",
+    "hint": "Relating to the shallow marine zone positioned immediately below the lowest reach of falling tides.",
+    "sourceSeed": "tide"
+  },
+  {
+    "id": 45,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "terrigenous",
+    "hint": "Describing deep ocean sediments formed from the breakdown and erosion of continental rocks.",
+    "sourceSeed": "marine"
+  },
+  {
+    "id": 46,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "breastwork",
+    "hint": "A low protective barrier or railing situated around the upper decks of a sailing vessel.",
+    "sourceSeed": "nautical"
+  },
+  {
+    "id": 47,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "blacksmith",
+    "hint": "A dark-colored damselfish native to the rocky reefs off the Pacific coast of North America.",
+    "sourceSeed": "fisherman"
+  },
+  {
+    "id": 48,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "longshoreman",
+    "hint": "A coastal worker who earns a living along the waterfront, such as by harvesting oysters.",
+    "sourceSeed": "harbor dock"
+  },
+  {
+    "id": 49,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "loggerhead",
+    "hint": "A thick wooden post on a whaling boat used to take turns of the rope attached to a harpoon.",
+    "sourceSeed": "anchor"
+  },
+  {
+    "id": 50,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "hydrosphere",
+    "hint": "The total mass of liquid, frozen, and vaporous water existing on, under, and above a planet.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 51,
+    "category": "sea",
+    "tier": "legendary",
+    "word": "breakwater",
+    "hint": "An offshore structure constructed to absorb wave energy and shield a port or shoreline.",
+    "sourceSeed": "imported"
+  },
+  {
+    "id": 52,
+    "category": "sea",
+    "tier": "hard",
+    "word": "shipboard",
+    "hint": "The lateral outer side or planking of a vessel.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 53,
+    "category": "sea",
+    "tier": "hard",
+    "word": "subocean",
+    "hint": "Located or occurring beneath the vast marine expanse or its floor.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 54,
+    "category": "sea",
+    "tier": "hard",
+    "word": "seashore",
+    "hint": "The margin of land directly adjoining open saltwater.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 55,
+    "category": "sea",
+    "tier": "hard",
+    "word": "waterway",
+    "hint": "A channel along a vessel's deck designed to drain liquid.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 56,
+    "category": "sea",
+    "tier": "hard",
+    "word": "seawater",
+    "hint": "The naturally saline fluid filling Earth's vast oceans.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 57,
+    "category": "sea",
+    "tier": "hard",
+    "word": "harbour",
+    "hint": "A sheltered coastal area where vessels anchor safely, using Commonwealth spelling.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 58,
+    "category": "sea",
+    "tier": "hard",
+    "word": "maritime",
+    "hint": "Relating to seafaring individuals, navigation, or nautical affairs.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 59,
+    "category": "sea",
+    "tier": "hard",
+    "word": "seafood",
+    "hint": "Edible marine life such as crustaceans, mollusks, and saltwater catches harvested for meals.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 60,
+    "category": "sea",
+    "tier": "hard",
+    "word": "bluewater",
+    "hint": "Describing vessels designed for open-ocean navigation amidst treacherous swells.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 61,
+    "category": "sea",
+    "tier": "hard",
+    "word": "seabeach",
+    "hint": "A sandy or pebbly stretch of coast situated right along the oceanfront.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 62,
+    "category": "sea",
+    "tier": "hard",
+    "word": "estuary",
+    "hint": "A tidal mouth where a river stream meets the surging marine tide.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 63,
+    "category": "sea",
+    "tier": "hard",
+    "word": "whitecap",
+    "hint": "A surging crest of foam on top of an ocean swell caused by strong winds.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 64,
+    "category": "sea",
+    "tier": "hard",
+    "word": "pearlfish",
+    "hint": "A slender, eel-like marine vertebrate belonging to the family Carapidae.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 65,
+    "category": "sea",
+    "tier": "hard",
+    "word": "seacoasts",
+    "hint": "Stretches of land that directly border the edge of an ocean.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 66,
+    "category": "sea",
+    "tier": "hard",
+    "word": "longboat",
+    "hint": "The largest vessel traditionally stowed aboard a larger sailing craft.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 67,
+    "category": "sea",
+    "tier": "hard",
+    "word": "flyboat",
+    "hint": "A historical passenger craft once utilized for swift transit along narrow inland channels.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 68,
+    "category": "sea",
+    "tier": "hard",
+    "word": "gunkhole",
+    "hint": "A secluded, shallow inlet or small coastal settlement used by local sailors.",
+    "sourceSeed": "sea"
+  },
+  {
+    "id": 69,
+    "category": "sea",
+    "tier": "hard",
+    "word": "mooring",
+    "hint": "Securing a vessel to a fixed marine point using cables, chains, or heavy anchors.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 70,
+    "category": "sea",
+    "tier": "hard",
+    "word": "shipwreck",
+    "hint": "A catastrophic maritime event resulting in the destruction or sinking of a vessel.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 71,
+    "category": "sea",
+    "tier": "hard",
+    "word": "cruising",
+    "hint": "Sailing about aimlessly or leisurely across open waters for personal pleasure.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 72,
+    "category": "sea",
+    "tier": "hard",
+    "word": "steamer",
+    "hint": "An ocean-going vessel propelled through water by a vapor-driven engine.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 73,
+    "category": "sea",
+    "tier": "hard",
+    "word": "bateaux",
+    "hint": "Light, shallow-draft, flat-bottomed watercraft historically used on inland rivers.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 74,
+    "category": "sea",
+    "tier": "hard",
+    "word": "catamaran",
+    "hint": "A twin-hulled vessel known for its stability and dual parallel floating structures.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 75,
+    "category": "sea",
+    "tier": "hard",
+    "word": "sailboats",
+    "hint": "Plural term for vessels propelled across open water by wind catching large canvas sheets.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 76,
+    "category": "sea",
+    "tier": "hard",
+    "word": "towboat",
+    "hint": "A powerful harbor craft designed to push or maneuver barges and heavy vessels.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 77,
+    "category": "sea",
+    "tier": "hard",
+    "word": "whaleboat",
+    "hint": "A double-ended open craft historically launched from a larger ship to pursue sea giants.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 78,
+    "category": "sea",
+    "tier": "hard",
+    "word": "rowboats",
+    "hint": "Small open craft propelled manually through water using a pair of oars.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 79,
+    "category": "sea",
+    "tier": "hard",
+    "word": "cruiser",
+    "hint": "A specialized naval warship capable of carrying and launching vertical-takeoff aircraft.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 80,
+    "category": "sea",
+    "tier": "hard",
+    "word": "inboards",
+    "hint": "Propulsion engines mounted completely inside the hull structure of a watercraft.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 81,
+    "category": "sea",
+    "tier": "hard",
+    "word": "dockside",
+    "hint": "The land area immediately adjacent to a pier where vessels tie up.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 82,
+    "category": "sea",
+    "tier": "hard",
+    "word": "mailboat",
+    "hint": "A specialized vessel tasked with transporting postal correspondence to offshore islands.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 83,
+    "category": "sea",
+    "tier": "hard",
+    "word": "paravane",
+    "hint": "A winged underwater device towed behind a ship to sweep for submerged mines.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 84,
+    "category": "sea",
+    "tier": "hard",
+    "word": "pirogue",
+    "hint": "A traditional flat-bottomed, canoe-like craft built for shallow bayous and swamps.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 85,
+    "category": "sea",
+    "tier": "hard",
+    "word": "boatcraft",
+    "hint": "The specialized skill and art of effectively maneuvering a vessel on the water.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 86,
+    "category": "sea",
+    "tier": "hard",
+    "word": "poleboat",
+    "hint": "A shallow river barge propelled forward by crew pushing long shafts against the bottom.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 87,
+    "category": "sea",
+    "tier": "hard",
+    "word": "steamboat",
+    "hint": "A vessel driven by paddle wheels or propellers powered by pressurized water vapor.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 88,
+    "category": "sea",
+    "tier": "hard",
+    "word": "horseboat",
+    "hint": "A specialized vessel designed to transport livestock, such as equines and cattle across waterways.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 89,
+    "category": "sea",
+    "tier": "hard",
+    "word": "waterboat",
+    "hint": "A marine vessel that carries freshwater supplies to larger ships anchored offshore.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 90,
+    "category": "sea",
+    "tier": "hard",
+    "word": "airboat",
+    "hint": "A shallow-draft vessel propelled through marshlands by an elevated aircraft-style engine and fan.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 91,
+    "category": "sea",
+    "tier": "hard",
+    "word": "footboat",
+    "hint": "A small auxiliary skiff tethered to a larger cargo barge for light tenders or crew transport.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 92,
+    "category": "sea",
+    "tier": "hard",
+    "word": "mudboat",
+    "hint": "A specialized vessel used to haul away silt and riverbed sediment removed during dredging operations.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 93,
+    "category": "sea",
+    "tier": "hard",
+    "word": "trawlboat",
+    "hint": "A commercial fishing vessel that drags a heavy weighted net along the seabed.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 94,
+    "category": "sea",
+    "tier": "hard",
+    "word": "shallop",
+    "hint": "An old-fashioned, light open vessel rowed or sailed in shallow coastal waters.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 95,
+    "category": "sea",
+    "tier": "hard",
+    "word": "balance",
+    "hint": "To reduce the exposed area of a sail in heavy weather by tying down part of it.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 96,
+    "category": "sea",
+    "tier": "hard",
+    "word": "torpedo",
+    "hint": "To strike an ocean vessel below the waterline using a self-propelled underwater explosive.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 97,
+    "category": "sea",
+    "tier": "hard",
+    "word": "dolphin",
+    "hint": "An armorial representation of a sea creature depicted as a fish with a curved body and indented fin.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 98,
+    "category": "sea",
+    "tier": "hard",
+    "word": "grapnel",
+    "hint": "A multi-clawed iron device used for securing a vessel or dragging the sea floor.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 99,
+    "category": "sea",
+    "tier": "hard",
+    "word": "navicular",
+    "hint": "Having a scaphoid or vessel-like form; resembling a small craft.",
+    "sourceSeed": "boat"
+  },
+  {
+    "id": 100,
+    "category": "sea",
+    "tier": "hard",
+    "word": "portage",
+    "hint": "To carry a craft across land between two navigable bodies of water.",
+    "sourceSeed": "boat"
   }
 ]
